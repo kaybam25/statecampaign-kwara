@@ -1,0 +1,37 @@
+﻿# StateCampaign Kwara — Code Owners
+
+# Global reviewers (all changes)
+* @kaybam25
+
+# Webapp (Next.js frontend)
+/webapp/ @kaybam25
+
+# Architecture & state management
+/webapp/src/lib/store.ts @kaybam25
+/webapp/src/lib/kwara-election-data.ts @kaybam25
+
+# Pages & components
+/webapp/src/app/ @kaybam25
+/webapp/src/components/ @kaybam25
+
+# State-packs (election data)
+/state-packs/ @kaybam25
+
+# Backend (Phase 3)
+/backend/ @kaybam25
+/backend/src/middleware/state-context.ts @kaybam25
+
+# Android app (Capacitor)
+/android-app/ @kaybam25
+
+# Documentation
+/docs/ @kaybam25
+/specs/ @kaybam25
+
+# CI/CD workflows
+/.github/workflows/ @kaybam25
+
+# Configuration files
+/package.json @kaybam25
+/tsconfig.json @kaybam25
+/next.config.ts @kaybam25
