@@ -1,0 +1,950 @@
+[
+  {
+    "id": "23-09-01-001",
+    "code": "23-09-01-001",
+    "name": "OLD POLICE STATION AJASE-IPO",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-002",
+    "code": "23-09-01-002",
+    "name": "ILE BALE AJASE-IPO",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-003",
+    "code": "23-09-01-003",
+    "name": "MUSLIM PRIMARY SCH AJASE-IPO",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-004",
+    "code": "23-09-01-004",
+    "name": "OLD IGBAJA GARAGE AJASE-IPO",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-005",
+    "code": "23-09-01-005",
+    "name": "BAPTIST PRIMARY SCH AJASE-IPO",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-006",
+    "code": "23-09-01-006",
+    "name": "NEPA OFFICE AJASE-IPO",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-007",
+    "code": "23-09-01-007",
+    "name": "ELEYOKA/FALOKUN",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-008",
+    "code": "23-09-01-008",
+    "name": "TOWN  CENTRE MEMUDU",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-009",
+    "code": "23-09-01-009",
+    "name": "OKO AWO COMP. OKEYA",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-010",
+    "code": "23-09-01-010",
+    "name": "COMM PRY SCH OKEYA",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-011",
+    "code": "23-09-01-011",
+    "name": "MATERNITY CENTRE ILALA",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-012",
+    "code": "23-09-01-012",
+    "name": "NEAR OBA'S PALACE ILALA",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-013",
+    "code": "23-09-01-013",
+    "name": "CENTRAL MARKET ILALA",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-014",
+    "code": "23-09-01-014",
+    "name": "ECWA SCH BUHARI",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-015",
+    "code": "23-09-01-015",
+    "name": "OPEN SPACE AT EGGI",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-016",
+    "code": "23-09-01-016",
+    "name": "BALE'S COMPD APATA/KAJOLA",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-017",
+    "code": "23-09-01-017",
+    "name": "NEAR BARIKE WATER TANK, OPEN SPACE",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-018",
+    "code": "23-09-01-018",
+    "name": "BODOJO, NEAR IDOFIN BUS STOP",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-019",
+    "code": "23-09-01-019",
+    "name": "PRIM. HEALTH CARE CENTRE, AJASE IPO",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-020",
+    "code": "23-09-01-020",
+    "name": "KARA MKT OPEN SPACE, AJASE IPO",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-021",
+    "code": "23-09-01-021",
+    "name": "COMPREHENSIVE HIGH SCH, AJASE IPO",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-022",
+    "code": "23-09-01-022",
+    "name": "AMBERI OBATE MKT OPEN SPACE",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-01-023",
+    "code": "23-09-01-023",
+    "name": "IGBORO MKT, BUHARI",
+    "wardId": "irepodun__ward-01"
+  },
+  {
+    "id": "23-09-02-001",
+    "code": "23-09-02-001",
+    "name": "L.G.E.A. SCH AGBONDA",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-002",
+    "code": "23-09-02-002",
+    "name": "ILE OBALOKE AGBONDA",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-003",
+    "code": "23-09-02-003",
+    "name": "NEAR OBA'S PALACE AGBONDA/ADIGUN",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-004",
+    "code": "23-09-02-004",
+    "name": "AJENIPA'S QTRS SANMORA",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-005",
+    "code": "23-09-02-005",
+    "name": "L.G.E.A SCH SANMORA",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-006",
+    "code": "23-09-02-006",
+    "name": "ST PAUL'S SCH AGBAMU I",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-007",
+    "code": "23-09-02-007",
+    "name": "ST PAUL'S SCH AGBAMU II",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-008",
+    "code": "23-09-02-008",
+    "name": "HEALTH CENTRE AGBAMU",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-009",
+    "code": "23-09-02-009",
+    "name": "ILE BALE IGBONLA",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-010",
+    "code": "23-09-02-010",
+    "name": "AGANJU IGBONLA",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-011",
+    "code": "23-09-02-011",
+    "name": "L.G.E.A SCH OMIDO",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-012",
+    "code": "23-09-02-012",
+    "name": "CENTRAL MARKET OMIDO",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-013",
+    "code": "23-09-02-013",
+    "name": "NEAR OBA'S PALACE AJENGBE",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-014",
+    "code": "23-09-02-014",
+    "name": "OLOTA'S COMPD ISALE-IJU ILUDUN",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-02-015",
+    "code": "23-09-02-015",
+    "name": "CENTRAL MARKET EGUDU",
+    "wardId": "irepodun__ward-02"
+  },
+  {
+    "id": "23-09-03-001",
+    "code": "23-09-03-001",
+    "name": "HOME ECONS CENTRE ARANDUN",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-002",
+    "code": "23-09-03-002",
+    "name": "ILE AWURE ARANDUN",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-003",
+    "code": "23-09-03-003",
+    "name": "OJU-OJA ARANDUN",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-004",
+    "code": "23-09-03-004",
+    "name": "ILE OKI ARANDUN",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-005",
+    "code": "23-09-03-005",
+    "name": "KAA AGAN ARANDUN",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-006",
+    "code": "23-09-03-006",
+    "name": "ILE OLUPO JUNCTION ARANDUN",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-007",
+    "code": "23-09-03-007",
+    "name": "ILE OBA ILUFEMILOYE ARANDUN",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-008",
+    "code": "23-09-03-008",
+    "name": "ISALE OLA ARANDUN",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-009",
+    "code": "23-09-03-009",
+    "name": "ILE OBA BUOYE ARANDUN",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-010",
+    "code": "23-09-03-010",
+    "name": "OKE ARAN VILLAGE",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-011",
+    "code": "23-09-03-011",
+    "name": "OWODE VILLAGE",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-012",
+    "code": "23-09-03-012",
+    "name": "OMINRINRIN VILLAGE",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-013",
+    "code": "23-09-03-013",
+    "name": "AJEBANDELE VILLAGE",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-03-014",
+    "code": "23-09-03-014",
+    "name": "L.G.E.A SCH ARANDUN",
+    "wardId": "irepodun__ward-03"
+  },
+  {
+    "id": "23-09-04-001",
+    "code": "23-09-04-001",
+    "name": "ILE OBA ESIE",
+    "wardId": "irepodun__ward-04"
+  },
+  {
+    "id": "23-09-04-002",
+    "code": "23-09-04-002",
+    "name": "ILE OSOLO ESIE",
+    "wardId": "irepodun__ward-04"
+  },
+  {
+    "id": "23-09-04-003",
+    "code": "23-09-04-003",
+    "name": "ST MICHAEL SCH ESIE",
+    "wardId": "irepodun__ward-04"
+  },
+  {
+    "id": "23-09-04-004",
+    "code": "23-09-04-004",
+    "name": "ILE OJOMU OKEASANLU ESIE",
+    "wardId": "irepodun__ward-04"
+  },
+  {
+    "id": "23-09-04-005",
+    "code": "23-09-04-005",
+    "name": "ILE ARO ESIE",
+    "wardId": "irepodun__ward-04"
+  },
+  {
+    "id": "23-09-04-006",
+    "code": "23-09-04-006",
+    "name": "L.G.E.A SCH IJAN",
+    "wardId": "irepodun__ward-04"
+  },
+  {
+    "id": "23-09-04-007",
+    "code": "23-09-04-007",
+    "name": "OLD PRY SCH IJAN",
+    "wardId": "irepodun__ward-04"
+  },
+  {
+    "id": "23-09-04-008",
+    "code": "23-09-04-008",
+    "name": "L.G.E.A SCH AGBELE",
+    "wardId": "irepodun__ward-04"
+  },
+  {
+    "id": "23-09-04-009",
+    "code": "23-09-04-009",
+    "name": "OKE-ILEGUN, NEAR BOREHOLE, OPEN SPACE",
+    "wardId": "irepodun__ward-04"
+  },
+  {
+    "id": "23-09-05-001",
+    "code": "23-09-05-001",
+    "name": "L.G.E.A SCH IPETU",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-002",
+    "code": "23-09-05-002",
+    "name": "BASIC HEALTH CENTRE IPETU",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-003",
+    "code": "23-09-05-003",
+    "name": "L.G.E.A SCH RORE",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-004",
+    "code": "23-09-05-004",
+    "name": "ILE ARO RORE I",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-005",
+    "code": "23-09-05-005",
+    "name": "ILE EDU RORE II",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-006",
+    "code": "23-09-05-006",
+    "name": "ILE OBA  RORE III",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-007",
+    "code": "23-09-05-007",
+    "name": "RORE JUNCTION ARANORIN",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-008",
+    "code": "23-09-05-008",
+    "name": "UNITED L.G.E.A SCH ARANORIN",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-009",
+    "code": "23-09-05-009",
+    "name": "IGBESI COMP ARAN-ORIN",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-010",
+    "code": "23-09-05-010",
+    "name": "OKE-OJE COMPOUND ARAN-ORIN",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-011",
+    "code": "23-09-05-011",
+    "name": "ILE ASANLU ARAN-ORIN",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-012",
+    "code": "23-09-05-012",
+    "name": "NEW MARKET ARAN-ORIN",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-013",
+    "code": "23-09-05-013",
+    "name": "TOWN HALL ARAN-ORIN",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-014",
+    "code": "23-09-05-014",
+    "name": "L.G.E.A SCH OLOMI-OJA",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-05-015",
+    "code": "23-09-05-015",
+    "name": "OPEN SPACE ALOMILOGBA COMPOUND RORE",
+    "wardId": "irepodun__ward-05"
+  },
+  {
+    "id": "23-09-06-001",
+    "code": "23-09-06-001",
+    "name": "ILE OLUPO  OKE OMU-ARAN I",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-002",
+    "code": "23-09-06-002",
+    "name": "ILE OLUPO  ODO OMU-ARAN II",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-003",
+    "code": "23-09-06-003",
+    "name": "MODE COMPOUND OMU-ARAN",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-004",
+    "code": "23-09-06-004",
+    "name": "ADEKUN COMPOUND OMU-ARAN",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-005",
+    "code": "23-09-06-005",
+    "name": "OKESAN COMPOUND OMU-ARAN",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-006",
+    "code": "23-09-06-006",
+    "name": "OKE APA COMPOUND OMU-ARAN",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-007",
+    "code": "23-09-06-007",
+    "name": "ILE ADE/ODO-OPIN OMU-ARAN",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-008",
+    "code": "23-09-06-008",
+    "name": "OKE AJAH OMU-ARAN",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-009",
+    "code": "23-09-06-009",
+    "name": "ILE OTAN OMU-ARAN",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-010",
+    "code": "23-09-06-010",
+    "name": "ST PAUL'S SCH OMU-ARAN",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-011",
+    "code": "23-09-06-011",
+    "name": "ILE AROGUN/AMULE OMU-ARAN",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-06-012",
+    "code": "23-09-06-012",
+    "name": "ST. PAUL SCH. II",
+    "wardId": "irepodun__ward-06"
+  },
+  {
+    "id": "23-09-07-001",
+    "code": "23-09-07-001",
+    "name": "ILE ELEMO AFIN OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-002",
+    "code": "23-09-07-002",
+    "name": "ILE EDEMO OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-003",
+    "code": "23-09-07-003",
+    "name": "RABA COMP. OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-004",
+    "code": "23-09-07-004",
+    "name": "ILE AYOMU IGANGU OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-005",
+    "code": "23-09-07-005",
+    "name": "ORA COMP. OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-006",
+    "code": "23-09-07-006",
+    "name": "OKE ESA COMP OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-007",
+    "code": "23-09-07-007",
+    "name": "IKOJA COMP OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-008",
+    "code": "23-09-07-008",
+    "name": "ECWA SCH OROLODO OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-009",
+    "code": "23-09-07-009",
+    "name": "ITA BUOYE GBELEJE OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-010",
+    "code": "23-09-07-010",
+    "name": "ILARO COMP OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-011",
+    "code": "23-09-07-011",
+    "name": "ECWA SCH AGANMO OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-012",
+    "code": "23-09-07-012",
+    "name": "OPPOSITE F.G.G.C OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-013",
+    "code": "23-09-07-013",
+    "name": "FURTUNATE SCH. OKO ROAD, OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-014",
+    "code": "23-09-07-014",
+    "name": "NUT HOUSE, OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-015",
+    "code": "23-09-07-015",
+    "name": "OGBO GRAMMAR SCH. OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-016",
+    "code": "23-09-07-016",
+    "name": "L.G. SECRETATRIAT, OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-07-017",
+    "code": "23-09-07-017",
+    "name": "MANDATE, NEAR ADEWUMI SCH. OMU-ARAN",
+    "wardId": "irepodun__ward-07"
+  },
+  {
+    "id": "23-09-08-001",
+    "code": "23-09-08-001",
+    "name": "ILE OLASANKALE OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-002",
+    "code": "23-09-08-002",
+    "name": "ILE ORO OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-003",
+    "code": "23-09-08-003",
+    "name": "ILE ASANLU OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-004",
+    "code": "23-09-08-004",
+    "name": "ILE OBA OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-005",
+    "code": "23-09-08-005",
+    "name": "ITA OKORE OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-006",
+    "code": "23-09-08-006",
+    "name": "ITA OLOYE IJOKO OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-007",
+    "code": "23-09-08-007",
+    "name": "ODO ORO GBAGIDA OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-008",
+    "code": "23-09-08-008",
+    "name": "S.D.A IMOLEKERE OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-009",
+    "code": "23-09-08-009",
+    "name": "NEW MARKET AREA  OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-010",
+    "code": "23-09-08-010",
+    "name": "AREA COMMANDER OFFICE OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-011",
+    "code": "23-09-08-011",
+    "name": "L.G.E.A SCH OKEGBALA OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-012",
+    "code": "23-09-08-012",
+    "name": "EKAN GARAGE OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-013",
+    "code": "23-09-08-013",
+    "name": "ILE NLA ILE OBA OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-014",
+    "code": "23-09-08-014",
+    "name": "S.D.A. IMULEKERE II",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-015",
+    "code": "23-09-08-015",
+    "name": "S.D.A. IMULEKERE III",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-016",
+    "code": "23-09-08-016",
+    "name": "APERAN COMPREHENSIVE COLLEGE OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-08-017",
+    "code": "23-09-08-017",
+    "name": "ANSARUL ISLAM SCH. OMU-ARAN",
+    "wardId": "irepodun__ward-08"
+  },
+  {
+    "id": "23-09-09-001",
+    "code": "23-09-09-001",
+    "name": "AFIN OLORO OKERIMI ORO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-09-002",
+    "code": "23-09-09-002",
+    "name": "ST PETER'S SCH OKERIMI ORO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-09-003",
+    "code": "23-09-09-003",
+    "name": "ILE AYEDUN OKERIMI ORO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-09-004",
+    "code": "23-09-09-004",
+    "name": "ILE BALE IDDO ORO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-09-005",
+    "code": "23-09-09-005",
+    "name": "NEAR TOWN HALL IJOMU ORO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-09-006",
+    "code": "23-09-09-006",
+    "name": "ILE BALE'S COMP IJOMU ORO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-09-007",
+    "code": "23-09-09-007",
+    "name": "MUSLIM SCH IJOMU ORO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-09-008",
+    "code": "23-09-09-008",
+    "name": "AYETORO IJOMU ORO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-09-009",
+    "code": "23-09-09-009",
+    "name": "ILE BAA IJOMU ORO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-09-010",
+    "code": "23-09-09-010",
+    "name": "L.G.E.A SCH SIE/OLORUNSOGO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-09-011",
+    "code": "23-09-09-011",
+    "name": "OBA OLORO OPEN SPACE, ORO",
+    "wardId": "irepodun__ward-09"
+  },
+  {
+    "id": "23-09-10-001",
+    "code": "23-09-10-001",
+    "name": "ILE BALE ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-002",
+    "code": "23-09-10-002",
+    "name": "ILE BALE ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-003",
+    "code": "23-09-10-003",
+    "name": "ST ANDREW SCH ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-004",
+    "code": "23-09-10-004",
+    "name": "ILE ONIJALA ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-005",
+    "code": "23-09-10-005",
+    "name": "MUSLIM SCH ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-006",
+    "code": "23-09-10-006",
+    "name": "NEAR GENERAL HOSPITAL ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-007",
+    "code": "23-09-10-007",
+    "name": "MUSLIM SCH, OKEOLA ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-008",
+    "code": "23-09-10-008",
+    "name": "ILE BALE OKE OLA ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-009",
+    "code": "23-09-10-009",
+    "name": "MUSLIM SCH AGBEOLA ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-010",
+    "code": "23-09-10-010",
+    "name": "ILE BALE ILUDUN ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-011",
+    "code": "23-09-10-011",
+    "name": "ILE ALAPE ILUDUN ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-012",
+    "code": "23-09-10-012",
+    "name": "ST JAMES SCH ILUDUN ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-013",
+    "code": "23-09-10-013",
+    "name": "ANSARUL L.G.E.A SCH, ILUDUN ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-014",
+    "code": "23-09-10-014",
+    "name": "OKE-IROKO, OPEN SPACE, ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-015",
+    "code": "23-09-10-015",
+    "name": "AWOYE CLINIC AND MATERNITY CENTRE",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-016",
+    "code": "23-09-10-016",
+    "name": "LAKELE SQUARE, ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-017",
+    "code": "23-09-10-017",
+    "name": "BINUKUNO MULTIPURPOSE HOUSE, ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-018",
+    "code": "23-09-10-018",
+    "name": "JAMA'AT NASRIL ISLAM SCH. OKEOLA, ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-10-019",
+    "code": "23-09-10-019",
+    "name": "NUT MULTI-PURPOSE HOUSE OKEOLA, ORO",
+    "wardId": "irepodun__ward-10"
+  },
+  {
+    "id": "23-09-11-001",
+    "code": "23-09-11-001",
+    "name": "ILE OBA OKO",
+    "wardId": "irepodun__ward-11"
+  },
+  {
+    "id": "23-09-11-002",
+    "code": "23-09-11-002",
+    "name": "MARKET CENTRE OKO",
+    "wardId": "irepodun__ward-11"
+  },
+  {
+    "id": "23-09-11-003",
+    "code": "23-09-11-003",
+    "name": "ILE PETU OKO",
+    "wardId": "irepodun__ward-11"
+  },
+  {
+    "id": "23-09-11-004",
+    "code": "23-09-11-004",
+    "name": "L.G.E.A SCH OKO",
+    "wardId": "irepodun__ward-11"
+  },
+  {
+    "id": "23-09-11-005",
+    "code": "23-09-11-005",
+    "name": "ADULT L.G.E.A SCH INISHAN OKO",
+    "wardId": "irepodun__ward-11"
+  },
+  {
+    "id": "23-09-11-006",
+    "code": "23-09-11-006",
+    "name": "ITA ODOKO OKO",
+    "wardId": "irepodun__ward-11"
+  }
+]

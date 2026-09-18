@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "23-06-01-001",
+    "code": "23-06-01-001",
+    "name": "OKAKA LGEA SCH OKAKA",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-002",
+    "code": "23-06-01-002",
+    "name": "AJIPONMI VILLAGE",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-003",
+    "code": "23-06-01-003",
+    "name": "GBADAMU LGEA SCH",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-004",
+    "code": "23-06-01-004",
+    "name": "BUDO ODUNBAKU SCH",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-005",
+    "code": "23-06-01-005",
+    "name": "AREGUN LGEA SCH",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-006",
+    "code": "23-06-01-006",
+    "name": "AGBEYANGI LGEA SCH",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-007",
+    "code": "23-06-01-007",
+    "name": "AGBEYANGI LGEA SCH",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-008",
+    "code": "23-06-01-008",
+    "name": "ODE BALE ONIKOKO VILLAGE",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-009",
+    "code": "23-06-01-009",
+    "name": "ODE MAGAJI OSHIN VILLAGE",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-010",
+    "code": "23-06-01-010",
+    "name": "BADI VILLAGE",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-011",
+    "code": "23-06-01-011",
+    "name": "PANADA LGEA SCH",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-012",
+    "code": "23-06-01-012",
+    "name": "ADELU VILLAGE",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-013",
+    "code": "23-06-01-013",
+    "name": "BUDO OYO  OPEN SPACE",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-014",
+    "code": "23-06-01-014",
+    "name": "ABANGBE/JOLASUN LGEA",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-015",
+    "code": "23-06-01-015",
+    "name": "ODE-BALE MAPE VILLAGE",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-016",
+    "code": "23-06-01-016",
+    "name": "ODE BALE ADOBASIN",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-01-017",
+    "code": "23-06-01-017",
+    "name": "AGBEYANGI LGEA SCH",
+    "wardId": "ilorin-east__ward-01"
+  },
+  {
+    "id": "23-06-02-001",
+    "code": "23-06-02-001",
+    "name": "BALOGUN GAMBARI TAX OFFICE I",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-002",
+    "code": "23-06-02-002",
+    "name": "BALOGUN GAMBARI TAX OFFICE II",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-003",
+    "code": "23-06-02-003",
+    "name": "OPPOSITE ITA AJIA",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-004",
+    "code": "23-06-02-004",
+    "name": "OPEN SPACE MASANKORE",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-005",
+    "code": "23-06-02-005",
+    "name": "ODE KOLAWOLE I",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-006",
+    "code": "23-06-02-006",
+    "name": "ODE KOLAWOLE II",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-007",
+    "code": "23-06-02-007",
+    "name": "ITA MAGAJI",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-008",
+    "code": "23-06-02-008",
+    "name": "ODE AJIBADE",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-009",
+    "code": "23-06-02-009",
+    "name": "ODE JAPA (KORO TAPA)",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-010",
+    "code": "23-06-02-010",
+    "name": "ODE ILE NLA AKANLABI",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-011",
+    "code": "23-06-02-011",
+    "name": "AWODI MARKET I",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-012",
+    "code": "23-06-02-012",
+    "name": "AWODI MARKET II",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-013",
+    "code": "23-06-02-013",
+    "name": "ODE ILE ELERAN ITA ADU",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-014",
+    "code": "23-06-02-014",
+    "name": "AWODI MARKET III",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-015",
+    "code": "23-06-02-015",
+    "name": "ODE ILE NLA AKANLABI",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-016",
+    "code": "23-06-02-016",
+    "name": "ORI OKO AWODI",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-017",
+    "code": "23-06-02-017",
+    "name": "OPEN  SPACE BABA OLOKOLE",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-018",
+    "code": "23-06-02-018",
+    "name": "OPEN  SPACE OPPOSITE BOLANTA JUNCTION",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-019",
+    "code": "23-06-02-019",
+    "name": "OPEN SPACE AJESCENT  ITA AJIA MOSQUE",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-020",
+    "code": "23-06-02-020",
+    "name": "OPEN SPACE NEAR KORO AGIDI MOSQUE",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-021",
+    "code": "23-06-02-021",
+    "name": "OPEN SPACE IN FRONT OF IMMAM BARUBA",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-022",
+    "code": "23-06-02-022",
+    "name": "BALOGUN GAMBARI PRIMARY HEALTH CARE",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-02-023",
+    "code": "23-06-02-023",
+    "name": "ODE ILE ELERAN II",
+    "wardId": "ilorin-east__ward-02"
+  },
+  {
+    "id": "23-06-03-001",
+    "code": "23-06-03-001",
+    "name": "ODE WAZIRI GOBIR I",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-002",
+    "code": "23-06-03-002",
+    "name": "ODE WAZIRI",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-003",
+    "code": "23-06-03-003",
+    "name": "INFRONT OF ALABI BARE I",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-004",
+    "code": "23-06-03-004",
+    "name": "INFRONT OF ALABI BARE II",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-005",
+    "code": "23-06-03-005",
+    "name": "KARUMA L.G.E.A SCH I",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-006",
+    "code": "23-06-03-006",
+    "name": "KARUMA L.G.E.A SCH II",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-007",
+    "code": "23-06-03-007",
+    "name": "ADEDO LANE",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-008",
+    "code": "23-06-03-008",
+    "name": "OJAGBORO MINI MARKET I",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-009",
+    "code": "23-06-03-009",
+    "name": "OJAGBORO MINI MARKET II",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-010",
+    "code": "23-06-03-010",
+    "name": "OJAGBORO L.G.E.A SCH I",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-011",
+    "code": "23-06-03-011",
+    "name": "KARUMA L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-012",
+    "code": "23-06-03-012",
+    "name": "OJAGBORO L.G.E.A SCH II",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-013",
+    "code": "23-06-03-013",
+    "name": "OPEN SPACE PATAKI",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-014",
+    "code": "23-06-03-014",
+    "name": "ODE WAZIRI GOBIR II",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-015",
+    "code": "23-06-03-015",
+    "name": "INFRONT OF ALABI BARE III",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-016",
+    "code": "23-06-03-016",
+    "name": "ODE SHABA PATAKI",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-017",
+    "code": "23-06-03-017",
+    "name": "ODE WAZIRI GOBIR  II",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-018",
+    "code": "23-06-03-018",
+    "name": "OPEN  SPACE KORO AFOJU",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-019",
+    "code": "23-06-03-019",
+    "name": "OPEN SPACE ABATA KARUMA BESIDE L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-020",
+    "code": "23-06-03-020",
+    "name": "OPEN  SPACE LADUBA JUNCTION",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-021",
+    "code": "23-06-03-021",
+    "name": "OPEN  SPACE ODE SERIKI KARUMA",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-022",
+    "code": "23-06-03-022",
+    "name": "OPEN  SPACE ILE LABE",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-023",
+    "code": "23-06-03-023",
+    "name": "OPEN  SPACE MAIMASA COMPOUND",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-024",
+    "code": "23-06-03-024",
+    "name": "OPEN SPACE INFRONT OF ILE OLOKO",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-025",
+    "code": "23-06-03-025",
+    "name": "OJAGBORO SECONDARY SCHOOL",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-026",
+    "code": "23-06-03-026",
+    "name": "OPEN SPACE IDI OSE KARUMA",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-027",
+    "code": "23-06-03-027",
+    "name": "OPEN SPACE CAMPUS ISALE KOKO",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-028",
+    "code": "23-06-03-028",
+    "name": "ITA KANO GOBIR",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-03-029",
+    "code": "23-06-03-029",
+    "name": "OPEN SPACE GWARI",
+    "wardId": "ilorin-east__ward-03"
+  },
+  {
+    "id": "23-06-04-001",
+    "code": "23-06-04-001",
+    "name": "GOVT. DAY SEC SCH AMULE I",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-002",
+    "code": "23-06-04-002",
+    "name": "GOVT. DAY SEC SCH AMULE II",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-003",
+    "code": "23-06-04-003",
+    "name": "ODE ALAWONLA OKELELE I",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-004",
+    "code": "23-06-04-004",
+    "name": "ODE ALAWONLA OKELELE II",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-005",
+    "code": "23-06-04-005",
+    "name": "INFRONT OF JAGUN MOSQUE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-006",
+    "code": "23-06-04-006",
+    "name": "OKELELE L.G.E.A SCH I",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-007",
+    "code": "23-06-04-007",
+    "name": "OKELELE L.G.E.A SCH II",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-008",
+    "code": "23-06-04-008",
+    "name": "OKELELE L.G.E.A SCH III",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-009",
+    "code": "23-06-04-009",
+    "name": "KANKATU MINI MARKET I",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-010",
+    "code": "23-06-04-010",
+    "name": "KANKATU MINI MARKET II",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-011",
+    "code": "23-06-04-011",
+    "name": "ODE SEFURA OKELELE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-012",
+    "code": "23-06-04-012",
+    "name": "SAMSUDEEN L.G.E.A SCH I",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-013",
+    "code": "23-06-04-013",
+    "name": "SAMSUDEEN L.G.E.A SCH II",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-014",
+    "code": "23-06-04-014",
+    "name": "SAMSUDEEN L.G.E.A SCH III",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-015",
+    "code": "23-06-04-015",
+    "name": "ODE BANIGBE (DADA K)",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-016",
+    "code": "23-06-04-016",
+    "name": "AKEREBIATA OPEN SPACE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-017",
+    "code": "23-06-04-017",
+    "name": "ODE ONDUGBE OKELELE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-018",
+    "code": "23-06-04-018",
+    "name": "ODE ELESIN OKELELE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-019",
+    "code": "23-06-04-019",
+    "name": "ODE ASINLEKE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-020",
+    "code": "23-06-04-020",
+    "name": "ODE ONITOBI IDI ARO",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-021",
+    "code": "23-06-04-021",
+    "name": "INFRONT OF JAGUN MOSQUE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-022",
+    "code": "23-06-04-022",
+    "name": "ODE ONITOBI IDIARO AREA",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-023",
+    "code": "23-06-04-023",
+    "name": "GOVT DAY SEC SCH AMULE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-024",
+    "code": "23-06-04-024",
+    "name": "OKELELE L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-025",
+    "code": "23-06-04-025",
+    "name": "GOV'T DAY JUNIOR SEC SCHOOL",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-026",
+    "code": "23-06-04-026",
+    "name": "OKELELE PRIMARY HEALTH CARE CENTRE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-027",
+    "code": "23-06-04-027",
+    "name": "OPEN SPACE INFRONT OF ILE ELESIN META OKELELE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-028",
+    "code": "23-06-04-028",
+    "name": "OPEN SPACE AMUYANKAN JAGUN",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-029",
+    "code": "23-06-04-029",
+    "name": "OPEN SPACE BEHIND JAGUN MOSQUE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-030",
+    "code": "23-06-04-030",
+    "name": "OPEN SPACE DADA AIYEGBAMI MOSQUE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-031",
+    "code": "23-06-04-031",
+    "name": "OPEN SPACE BALE DADA AIYEGBAMI JUNCTION",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-032",
+    "code": "23-06-04-032",
+    "name": "DADA HEALTH CARE CENTRE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-033",
+    "code": "23-06-04-033",
+    "name": "OPEN SPACE IDI EGUN OPEN SPACE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-034",
+    "code": "23-06-04-034",
+    "name": "ODE YITTA KANKATU",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-035",
+    "code": "23-06-04-035",
+    "name": "OPEN SPACE OGUN EDUN KANKATU",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-036",
+    "code": "23-06-04-036",
+    "name": "OPEN SPACE ODE ILE ILESHA",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-037",
+    "code": "23-06-04-037",
+    "name": "ALI MAIYAKI L.G.E.A SCHOOL AKEREBIATA",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-038",
+    "code": "23-06-04-038",
+    "name": "OPEN SPACE BESIDE SOHIBUL BAYAN MOSQUE BABA SOJA",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-039",
+    "code": "23-06-04-039",
+    "name": "AKEREBIATA JUNIOR SEC SCH L.G.E.A",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-040",
+    "code": "23-06-04-040",
+    "name": "AKEREBIATA   L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-041",
+    "code": "23-06-04-041",
+    "name": "IDIGBA WERE, JUNCTION 1 HARMONY AKEREBIATA",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-042",
+    "code": "23-06-04-042",
+    "name": "OPEN SPACE ODE ADALAN KANKATU",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-043",
+    "code": "23-06-04-043",
+    "name": "OPEN SPACE INFRONT OF BABA TAPA TINU STREET",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-044",
+    "code": "23-06-04-044",
+    "name": "INFRONT OF ABATIOR AKEREBIATA SOBI ROAD",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-045",
+    "code": "23-06-04-045",
+    "name": "ITESIWAJU COMMUNITY IDIGBA WERE JUNCTION 2 HARMONY AKEREBIATA",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-046",
+    "code": "23-06-04-046",
+    "name": "OPEN SPACE NEW SHAO GARAGE AKEREBIATA",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-047",
+    "code": "23-06-04-047",
+    "name": "KARUMA SECONDARY SCHOOL AKEREBIATA",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-048",
+    "code": "23-06-04-048",
+    "name": "OPEN SPACE ILE KOKORO OLESHIN AREA",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-049",
+    "code": "23-06-04-049",
+    "name": "OPEN SPACE ODE BABA OKANKAN",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-050",
+    "code": "23-06-04-050",
+    "name": "ODE ASINLEKE 1",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-051",
+    "code": "23-06-04-051",
+    "name": "OPEN SPACE ODE AMODE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-052",
+    "code": "23-06-04-052",
+    "name": "OPEN SPACE OKE ONITIKU BY TRANSFORMER",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-053",
+    "code": "23-06-04-053",
+    "name": "OPEN SPACE INFRONT OF ONDOKO MRT JAGUN",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-054",
+    "code": "23-06-04-054",
+    "name": "OPEN SPACE INFRONT OF ILE SEFURA ABATA ISALE JAGUN",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-055",
+    "code": "23-06-04-055",
+    "name": "OPEN SPACE BARAJE ONITOBE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-056",
+    "code": "23-06-04-056",
+    "name": "OPEN SPACE INFRONT OF OLAOPARUN MOSQUE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-057",
+    "code": "23-06-04-057",
+    "name": "OPEN SPACE BEHIND GOV'T DAY SEC SCH AMULE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-04-058",
+    "code": "23-06-04-058",
+    "name": "JUNCTION NIMANNIMULA DADA OPEN SPACE",
+    "wardId": "ilorin-east__ward-04"
+  },
+  {
+    "id": "23-06-05-001",
+    "code": "23-06-05-001",
+    "name": "FAMOLE L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-05"
+  },
+  {
+    "id": "23-06-05-002",
+    "code": "23-06-05-002",
+    "name": "WORU L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-05"
+  },
+  {
+    "id": "23-06-05-003",
+    "code": "23-06-05-003",
+    "name": "APADO L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-05"
+  },
+  {
+    "id": "23-06-05-004",
+    "code": "23-06-05-004",
+    "name": "AIGORO",
+    "wardId": "ilorin-east__ward-05"
+  },
+  {
+    "id": "23-06-05-005",
+    "code": "23-06-05-005",
+    "name": "ALOKO/AFARA L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-05"
+  },
+  {
+    "id": "23-06-05-006",
+    "code": "23-06-05-006",
+    "name": "APADO VILLAGE I",
+    "wardId": "ilorin-east__ward-05"
+  },
+  {
+    "id": "23-06-05-007",
+    "code": "23-06-05-007",
+    "name": "APADO L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-05"
+  },
+  {
+    "id": "23-06-05-008",
+    "code": "23-06-05-008",
+    "name": "APADO VILLAGE II",
+    "wardId": "ilorin-east__ward-05"
+  },
+  {
+    "id": "23-06-06-001",
+    "code": "23-06-06-001",
+    "name": "OLORO L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-06"
+  },
+  {
+    "id": "23-06-06-002",
+    "code": "23-06-06-002",
+    "name": "IPONRIN L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-06"
+  },
+  {
+    "id": "23-06-06-003",
+    "code": "23-06-06-003",
+    "name": "ODE BALE ISAMU VILLAGE",
+    "wardId": "ilorin-east__ward-06"
+  },
+  {
+    "id": "23-06-06-004",
+    "code": "23-06-06-004",
+    "name": "ODE BALE ALADE VILLAGE",
+    "wardId": "ilorin-east__ward-06"
+  },
+  {
+    "id": "23-06-06-005",
+    "code": "23-06-06-005",
+    "name": "ODE BALE BUDO FULANI",
+    "wardId": "ilorin-east__ward-06"
+  },
+  {
+    "id": "23-06-06-006",
+    "code": "23-06-06-006",
+    "name": "ODE BALE ISAJE OJA IPONRIN",
+    "wardId": "ilorin-east__ward-06"
+  },
+  {
+    "id": "23-06-06-007",
+    "code": "23-06-06-007",
+    "name": "ODE BALE  IPONRIN",
+    "wardId": "ilorin-east__ward-06"
+  },
+  {
+    "id": "23-06-06-008",
+    "code": "23-06-06-008",
+    "name": "IPONRIN L.G.E.A SCH",
+    "wardId": "ilorin-east__ward-06"
+  },
+  {
+    "id": "23-06-07-001",
+    "code": "23-06-07-001",
+    "name": "ODE SAUTA ADIFA I",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-002",
+    "code": "23-06-07-002",
+    "name": "ODE SAUTA ADIFA II",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-003",
+    "code": "23-06-07-003",
+    "name": "IDI APE MARKET I",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-004",
+    "code": "23-06-07-004",
+    "name": "IDI APE MARKET II",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-005",
+    "code": "23-06-07-005",
+    "name": "ODE BABA ORO",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-006",
+    "code": "23-06-07-006",
+    "name": "ODE BABA ORO GBAGEDE",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-007",
+    "code": "23-06-07-007",
+    "name": "IDI AGBEDE MARKET",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-008",
+    "code": "23-06-07-008",
+    "name": "ODE ABUDU",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-009",
+    "code": "23-06-07-009",
+    "name": "ODE ILE GANGAN AKODUDU",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-010",
+    "code": "23-06-07-010",
+    "name": "ODE ILE GANGAN",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-011",
+    "code": "23-06-07-011",
+    "name": "OKE OKUTA I",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-012",
+    "code": "23-06-07-012",
+    "name": "OKE OKUTA II",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-013",
+    "code": "23-06-07-013",
+    "name": "ODE DAUDU AMULE",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-014",
+    "code": "23-06-07-014",
+    "name": "ODE OBA ONILU",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-015",
+    "code": "23-06-07-015",
+    "name": "OPEN SPACE ORISANKOKO I",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-016",
+    "code": "23-06-07-016",
+    "name": "OPEN SPACE ORISANKOKO II",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-017",
+    "code": "23-06-07-017",
+    "name": "ODE AGBADAMU I",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-018",
+    "code": "23-06-07-018",
+    "name": "ILE ELETU I",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-019",
+    "code": "23-06-07-019",
+    "name": "ODE ILE ELETU",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-020",
+    "code": "23-06-07-020",
+    "name": "ODE ONILU OKEKURA",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-021",
+    "code": "23-06-07-021",
+    "name": "OKEKURA OPEN SPACE",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-022",
+    "code": "23-06-07-022",
+    "name": "ODE AGBADAMU II",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-023",
+    "code": "23-06-07-023",
+    "name": "IDI APE MARKET III",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-024",
+    "code": "23-06-07-024",
+    "name": "ILE ELETU II",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-025",
+    "code": "23-06-07-025",
+    "name": "IDI APE MARKET IV",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-026",
+    "code": "23-06-07-026",
+    "name": "OPEN SPACE INFRONT OF BABA ISALE COMP IDI-APE",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-027",
+    "code": "23-06-07-027",
+    "name": "OPEN SPACE MAGAJI ARE SECRETARIAT",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-028",
+    "code": "23-06-07-028",
+    "name": "OPEN SPACE INFRONT OF OLONI DAN BAWA",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-029",
+    "code": "23-06-07-029",
+    "name": "OPEN SPACE OPPOSITE DAUDU YEKELUS COMP BOLANTA",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-030",
+    "code": "23-06-07-030",
+    "name": "OPEN SPACE ILE-AGO BARUBA",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-031",
+    "code": "23-06-07-031",
+    "name": "OPEN SPACE ILE-BELLO IDI-ARO",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-032",
+    "code": "23-06-07-032",
+    "name": "OPEN SPACE ODE DAUDU ISALE-OJA",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-033",
+    "code": "23-06-07-033",
+    "name": "OPEN SPACE OLANREWAJU ISALE OJA",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-034",
+    "code": "23-06-07-034",
+    "name": "DAUDU AMULE OLOKO-OBI OPEN SPACE",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-035",
+    "code": "23-06-07-035",
+    "name": "OPEN SPACE AGBARERE MOSQUE",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-036",
+    "code": "23-06-07-036",
+    "name": "OPEN SPACE ILE TUNTUN OKEKURA",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-037",
+    "code": "23-06-07-037",
+    "name": "OPEN SPACE OKEKURA",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-07-038",
+    "code": "23-06-07-038",
+    "name": "MAGAJI ARE JUNIOR SEC SCH IDI-APE",
+    "wardId": "ilorin-east__ward-07"
+  },
+  {
+    "id": "23-06-08-001",
+    "code": "23-06-08-001",
+    "name": "ALALUBOSA N.MARABA GARAGE I",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-002",
+    "code": "23-06-08-002",
+    "name": "ALALUBOSA N.MARABA GARAGE II",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-003",
+    "code": "23-06-08-003",
+    "name": "ST JOHN'S L.G.E.A I",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-004",
+    "code": "23-06-08-004",
+    "name": "ST JOHN'S L.G.E.A II",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-005",
+    "code": "23-06-08-005",
+    "name": "ST JOHN'S L.G.E.A III",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-006",
+    "code": "23-06-08-006",
+    "name": "ST. JOHN'S L.G.E.A. IV",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-007",
+    "code": "23-06-08-007",
+    "name": "GOVT SEC SCH ILORIN I",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-008",
+    "code": "23-06-08-008",
+    "name": "GOVT SEC SCH ILORIN II",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-009",
+    "code": "23-06-08-009",
+    "name": "GOVT SEC SCH ILORIN III",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-010",
+    "code": "23-06-08-010",
+    "name": "OPP COMM OF POLICE",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-011",
+    "code": "23-06-08-011",
+    "name": "INFRONT OF KWARA HOTEL I",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-012",
+    "code": "23-06-08-012",
+    "name": "INFRONT OF KWARA HOTEL II",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-013",
+    "code": "23-06-08-013",
+    "name": "INFRONT OF KWARA HOTEL III",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-014",
+    "code": "23-06-08-014",
+    "name": "INFRONT OF POLICE 'A' DIVISION I",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-015",
+    "code": "23-06-08-015",
+    "name": "INFRONT OF POLICE 'A' DIVISION II",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-016",
+    "code": "23-06-08-016",
+    "name": "OPPOSITE GOVT HOUSE ILORIN I",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-017",
+    "code": "23-06-08-017",
+    "name": "OPPOSITE GOVT HOUSE ILORIN II",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-018",
+    "code": "23-06-08-018",
+    "name": "OPPOSITE GOVT HOUSE ILORIN III",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-019",
+    "code": "23-06-08-019",
+    "name": "OPPOSITE GOVT HOUSE ILORIN IV",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-020",
+    "code": "23-06-08-020",
+    "name": "ST BARNABAS L.G.E.A SCH I",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-021",
+    "code": "23-06-08-021",
+    "name": "ST BARNABAS L.G.E.A SCH II",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-022",
+    "code": "23-06-08-022",
+    "name": "ST BARNABAS L.G.E.A SCH III",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-023",
+    "code": "23-06-08-023",
+    "name": "ST BARNABAS L.G.E.A SCH IV",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-024",
+    "code": "23-06-08-024",
+    "name": "ST BARNABAS L.G.E.A SCH V",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-025",
+    "code": "23-06-08-025",
+    "name": "OPEN SPACE BESIDE SABO-OKE MEDICAL CENTRE ALALUBOSA",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-026",
+    "code": "23-06-08-026",
+    "name": "ALALUBOSA L.G.E.A SCHOOL",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-027",
+    "code": "23-06-08-027",
+    "name": "OPEN SPACE MUBO PHASE  I",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-028",
+    "code": "23-06-08-028",
+    "name": "ORISUNMIBARE COMMUNITY JUNCTION MUBO PHASE 2",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-029",
+    "code": "23-06-08-029",
+    "name": "G.S.S SECOND GATE FATE ROAD",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-030",
+    "code": "23-06-08-030",
+    "name": "OPEN SPACE OPPOSITE FEDERAL SECRETARIAT FATE ROAD",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-031",
+    "code": "23-06-08-031",
+    "name": "BODUNDE STREET JUNCTION OFF ADELODUN ROAD FLOWER GARDEN GRA",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-032",
+    "code": "23-06-08-032",
+    "name": "OPEN SPACE INFRONT OF VETERINARY TEACHING HOSPITAL  I  SABO-OKE",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-033",
+    "code": "23-06-08-033",
+    "name": "OPEN SPACE INFRONT OF VETERINBARY TEACHING HOSPITAL  II",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-034",
+    "code": "23-06-08-034",
+    "name": "LAJORIN JUNCTION BESIDE TOWN PLANNING OFFICE",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-035",
+    "code": "23-06-08-035",
+    "name": "OPEN SPACE INFRONT OF WATER CORPORATION AGBA DAM",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-036",
+    "code": "23-06-08-036",
+    "name": "INFRONT OF RADIO KWARA MIDLAND F.M",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-037",
+    "code": "23-06-08-037",
+    "name": "KWARA STATE ENVIRONMENTAL PROTECTION AGENCY",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-038",
+    "code": "23-06-08-038",
+    "name": "SIMEON OKIDE STREET BEHIND ADISA HOUSE GRA",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-039",
+    "code": "23-06-08-039",
+    "name": "MINISTRY OF WORK ROUND ABOUT I",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-040",
+    "code": "23-06-08-040",
+    "name": "MINISTRY OF WORK ROUND ABOUT II",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-041",
+    "code": "23-06-08-041",
+    "name": "OPEN SPACE ILE ISANA BESIDE SULU GAMBARI JUMMAT MOSQUE",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-08-042",
+    "code": "23-06-08-042",
+    "name": "OFF MURITALA WAY ST. BARNABAS STREET",
+    "wardId": "ilorin-east__ward-08"
+  },
+  {
+    "id": "23-06-09-001",
+    "code": "23-06-09-001",
+    "name": "ELESINMETA L.G.E.A. SCH I",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-002",
+    "code": "23-06-09-002",
+    "name": "ELESINMETA L.G.E.A. SCH II",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-003",
+    "code": "23-06-09-003",
+    "name": "MARAFA L.G.E.A. SCH I",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-004",
+    "code": "23-06-09-004",
+    "name": "MARAFA L.G.E.A. SCH II",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-005",
+    "code": "23-06-09-005",
+    "name": "PEPELE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-006",
+    "code": "23-06-09-006",
+    "name": "BUDO OBA L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-007",
+    "code": "23-06-09-007",
+    "name": "KURE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-008",
+    "code": "23-06-09-008",
+    "name": "DALEMA L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-009",
+    "code": "23-06-09-009",
+    "name": "JABI L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-010",
+    "code": "23-06-09-010",
+    "name": "AJELENDE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-011",
+    "code": "23-06-09-011",
+    "name": "AIYETORO ILE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-012",
+    "code": "23-06-09-012",
+    "name": "LAJOLO L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-013",
+    "code": "23-06-09-013",
+    "name": "ELESINMETA VILLAGE",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-014",
+    "code": "23-06-09-014",
+    "name": "MARAFA VILLAGE",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-015",
+    "code": "23-06-09-015",
+    "name": "ADANDA VILLAGE",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-016",
+    "code": "23-06-09-016",
+    "name": "KELEBE VILLAGE",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-017",
+    "code": "23-06-09-017",
+    "name": "PEPELE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-018",
+    "code": "23-06-09-018",
+    "name": "OYO IDERA OPEN SPACE",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-09-019",
+    "code": "23-06-09-019",
+    "name": "OLORORO VILLAGE (OPEN SPACE)",
+    "wardId": "ilorin-east__ward-09"
+  },
+  {
+    "id": "23-06-10-001",
+    "code": "23-06-10-001",
+    "name": "ARAMONU L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-002",
+    "code": "23-06-10-002",
+    "name": "ZENTU  L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-003",
+    "code": "23-06-10-003",
+    "name": "MAYA L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-004",
+    "code": "23-06-10-004",
+    "name": "BUDO  ALFA",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-005",
+    "code": "23-06-10-005",
+    "name": "ODE BALE ATIKAN",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-006",
+    "code": "23-06-10-006",
+    "name": "BUDO ARE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-007",
+    "code": "23-06-10-007",
+    "name": "AKE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-008",
+    "code": "23-06-10-008",
+    "name": "OHA ISSA",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-009",
+    "code": "23-06-10-009",
+    "name": "OHA L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-010",
+    "code": "23-06-10-010",
+    "name": "LAJIKI L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-011",
+    "code": "23-06-10-011",
+    "name": "ILE ADAN",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-012",
+    "code": "23-06-10-012",
+    "name": "ALASE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-013",
+    "code": "23-06-10-013",
+    "name": "OHA GBAGI",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-014",
+    "code": "23-06-10-014",
+    "name": "LAJIKI L.G.E.A. SCH I",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-015",
+    "code": "23-06-10-015",
+    "name": "LAJIKI L.G.E.A. SCH II",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-016",
+    "code": "23-06-10-016",
+    "name": "BUDO ARE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-017",
+    "code": "23-06-10-017",
+    "name": "OKE-ODO",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-018",
+    "code": "23-06-10-018",
+    "name": "AKE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-019",
+    "code": "23-06-10-019",
+    "name": "OPEN SPACE ATERE VILLAGE",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-020",
+    "code": "23-06-10-020",
+    "name": "OPEN SPACE AGA ILE APA",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-10-021",
+    "code": "23-06-10-021",
+    "name": "ALASE HEALTH CENTRE",
+    "wardId": "ilorin-east__ward-10"
+  },
+  {
+    "id": "23-06-11-001",
+    "code": "23-06-11-001",
+    "name": "OKE OYI AREA COUNCIL",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-002",
+    "code": "23-06-11-002",
+    "name": "ODE BODE OKE OYI",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-003",
+    "code": "23-06-11-003",
+    "name": "ODE BALE OKE OYI",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-004",
+    "code": "23-06-11-004",
+    "name": "OKE OYI L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-005",
+    "code": "23-06-11-005",
+    "name": "ODE BALE IDI APA VILLAGE",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-006",
+    "code": "23-06-11-006",
+    "name": "ODE BALE IPAKO OBO",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-007",
+    "code": "23-06-11-007",
+    "name": "ODE BALE AFEYIN VILLAGE",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-008",
+    "code": "23-06-11-008",
+    "name": "ODE BALE OTEFON  VILLAGE",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-009",
+    "code": "23-06-11-009",
+    "name": "OKE OSE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-010",
+    "code": "23-06-11-010",
+    "name": "ODE MAGAJI VILLAGE ALALUBOSA",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-011",
+    "code": "23-06-11-011",
+    "name": "ODE MAGAJI VILLAGE GAMBE",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-012",
+    "code": "23-06-11-012",
+    "name": "ODE BALE AGBOGE VILLAGE",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-013",
+    "code": "23-06-11-013",
+    "name": "ODE BALE ABATA VILLAGE",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-014",
+    "code": "23-06-11-014",
+    "name": "ODE BALE AYIKALE  VILLAGE",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-015",
+    "code": "23-06-11-015",
+    "name": "ODE BALE DANGII",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-016",
+    "code": "23-06-11-016",
+    "name": "ODE BALE ARIYIBI VILLAGE",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-017",
+    "code": "23-06-11-017",
+    "name": "ODE BALE APATA YAKUBA",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-018",
+    "code": "23-06-11-018",
+    "name": "L.G.E.A. SCH  BUDO OBA",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-019",
+    "code": "23-06-11-019",
+    "name": "LAJOLO VILLAGE",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-020",
+    "code": "23-06-11-020",
+    "name": "FAJE TUNTUN VILLAGE",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-021",
+    "code": "23-06-11-021",
+    "name": "ALALUBOSA VILLAGE I",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-022",
+    "code": "23-06-11-022",
+    "name": "ALALUBOSA VILLAGE II",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-023",
+    "code": "23-06-11-023",
+    "name": "ODE BALE AIYETORO",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-024",
+    "code": "23-06-11-024",
+    "name": "L.G.E.A. SCH  OKE-OYI",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-025",
+    "code": "23-06-11-025",
+    "name": "JUNIOR SECONDARY SCOOL APATA YAKUBA",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-11-026",
+    "code": "23-06-11-026",
+    "name": "OPEN SPACE BARIGUDU SULU IDI ORI",
+    "wardId": "ilorin-east__ward-11"
+  },
+  {
+    "id": "23-06-12-001",
+    "code": "23-06-12-001",
+    "name": "OKESUNA L.G.E.A. SCH I",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-002",
+    "code": "23-06-12-002",
+    "name": "OKESUNA L.G.E.A. SCH II",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-003",
+    "code": "23-06-12-003",
+    "name": "OPEN SPACE AT BACK OF OKESUNA SCH I",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-004",
+    "code": "23-06-12-004",
+    "name": "OPEN SPACE AT BACK OF OKESUNA SCH II",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-005",
+    "code": "23-06-12-005",
+    "name": "PAKE L.G.E.A. SCH I",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-006",
+    "code": "23-06-12-006",
+    "name": "PAKE L.G.E.A. SCH II",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-007",
+    "code": "23-06-12-007",
+    "name": "OJAGBORO COMM BANK",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-008",
+    "code": "23-06-12-008",
+    "name": "ODE SERIKI GAMBARI I",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-009",
+    "code": "23-06-12-009",
+    "name": "ODE SERIKI GAMBARI II",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-010",
+    "code": "23-06-12-010",
+    "name": "MAD. ALFA OMO IYA ISALE KANIKE I",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-011",
+    "code": "23-06-12-011",
+    "name": "MAD. ALFA OMO IYA ISALE KANIKE II",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-012",
+    "code": "23-06-12-012",
+    "name": "ODE SERIKI ZANGO",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-013",
+    "code": "23-06-12-013",
+    "name": "ODE MAYAKI ILORIN",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-014",
+    "code": "23-06-12-014",
+    "name": "ODE UBANDAWAKI",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-015",
+    "code": "23-06-12-015",
+    "name": "ADUALERE OPEN SPACE",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-016",
+    "code": "23-06-12-016",
+    "name": "PAKE L.G.E.A. SCH",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-017",
+    "code": "23-06-12-017",
+    "name": "ODE ILE ALATA",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-018",
+    "code": "23-06-12-018",
+    "name": "ODE ILE MAYAKI",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-019",
+    "code": "23-06-12-019",
+    "name": "OPEN SPACE ELOKO YANGAN ISALE GAMBARI",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-020",
+    "code": "23-06-12-020",
+    "name": "OPEN SPACE MASALASI ILE ONILEKE ALONG BOLANTA",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-021",
+    "code": "23-06-12-021",
+    "name": "OPEN SPACE ILE KARATU",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-022",
+    "code": "23-06-12-022",
+    "name": "OPEN SPACE ODE WOKILI OKESUNA",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-023",
+    "code": "23-06-12-023",
+    "name": "IPATA LGEA SCH I",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-024",
+    "code": "23-06-12-024",
+    "name": "IPATA LGEA  SCHOOL II",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-025",
+    "code": "23-06-12-025",
+    "name": "OPEN SPACE ODE ILE EMU",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-026",
+    "code": "23-06-12-026",
+    "name": "ODE MAGAJI YABBA COMPOUND",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-027",
+    "code": "23-06-12-027",
+    "name": "OPEN SPACE SANNI MAI TEA BALOGUN FULANI ROAD",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-028",
+    "code": "23-06-12-028",
+    "name": "OPEN  SPACE OMOLABI MORUFI",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-029",
+    "code": "23-06-12-029",
+    "name": "OPEN SPACE ILE BABA BADADUMA PHASE II",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-030",
+    "code": "23-06-12-030",
+    "name": "OPEN SPACE BESIDE TEMIDAYO CENTRAL MOSQUE ADUALERE",
+    "wardId": "ilorin-east__ward-12"
+  },
+  {
+    "id": "23-06-12-031",
+    "code": "23-06-12-031",
+    "name": "OPEN SPACE DUMO AMUNILAKA ADURAGBA STREET",
+    "wardId": "ilorin-east__ward-12"
+  }
+]

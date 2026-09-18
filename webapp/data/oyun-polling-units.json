@@ -1,0 +1,644 @@
+[
+  {
+    "id": "23-15-01-001",
+    "code": "23-15-01-001",
+    "name": "BAPTIST LGEA SCH, ERIN-ILE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-002",
+    "code": "23-15-01-002",
+    "name": "ERIN-ILE GARAGE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-003",
+    "code": "23-15-01-003",
+    "name": "OPPOSITE POLICE STATION, ERIN-ILE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-004",
+    "code": "23-15-01-004",
+    "name": "MAGISTRATE COURT, ERIN-ILE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-005",
+    "code": "23-15-01-005",
+    "name": "MUSLIM SCH, ERIN-ILE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-006",
+    "code": "23-15-01-006",
+    "name": "AGO  IWOYE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-007",
+    "code": "23-15-01-007",
+    "name": "CHRIST COMPREHENSIVE HIGH SCHOOL ERIN-ILE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-008",
+    "code": "23-15-01-008",
+    "name": "OPEN SPACE SABULA",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-009",
+    "code": "23-15-01-009",
+    "name": "DAUDU/ATERE OPEN SPACE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-010",
+    "code": "23-15-01-010",
+    "name": "POPOOLA COLLEGE OKE PATA ERIN-ILE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-011",
+    "code": "23-15-01-011",
+    "name": "ANSARUL-ISLAM PRIMARY SCHOOL ERIN-ILE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-01-012",
+    "code": "23-15-01-012",
+    "name": "ESHA OPEN SPACE",
+    "wardId": "oyun__ward-01"
+  },
+  {
+    "id": "23-15-02-001",
+    "code": "23-15-02-001",
+    "name": "LGEA SCH, ILEMONA",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-02-002",
+    "code": "23-15-02-002",
+    "name": "LGEA SCH, ADINIMODO",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-02-003",
+    "code": "23-15-02-003",
+    "name": "ISAOYE",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-02-004",
+    "code": "23-15-02-004",
+    "name": "LGEA SCH REKE",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-02-005",
+    "code": "23-15-02-005",
+    "name": "AJOKO",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-02-006",
+    "code": "23-15-02-006",
+    "name": "COURT AREA, ILEMONA",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-02-007",
+    "code": "23-15-02-007",
+    "name": "VOCATIONAL CENTRE OPEN SPACE ILEMONA",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-02-008",
+    "code": "23-15-02-008",
+    "name": "COTTAGE HOSPITAL ILEMONA",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-02-009",
+    "code": "23-15-02-009",
+    "name": "OPEN SPACE OLUODE AREA ILEMONA",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-02-010",
+    "code": "23-15-02-010",
+    "name": "BAALE OPEN SPACE BUDO GBADA",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-02-011",
+    "code": "23-15-02-011",
+    "name": "OPEN SPACE ALAAYA",
+    "wardId": "oyun__ward-02"
+  },
+  {
+    "id": "23-15-03-001",
+    "code": "23-15-03-001",
+    "name": "TOWN HAL, IGBONA",
+    "wardId": "oyun__ward-03"
+  },
+  {
+    "id": "23-15-03-002",
+    "code": "23-15-03-002",
+    "name": "LGEA SCH, IGBONA",
+    "wardId": "oyun__ward-03"
+  },
+  {
+    "id": "23-15-03-003",
+    "code": "23-15-03-003",
+    "name": "ELEKU",
+    "wardId": "oyun__ward-03"
+  },
+  {
+    "id": "23-15-03-004",
+    "code": "23-15-03-004",
+    "name": "KERE-AJE LGEA SCH",
+    "wardId": "oyun__ward-03"
+  },
+  {
+    "id": "23-15-03-005",
+    "code": "23-15-03-005",
+    "name": "BOLORUNDURO LGEA SCH",
+    "wardId": "oyun__ward-03"
+  },
+  {
+    "id": "23-15-03-006",
+    "code": "23-15-03-006",
+    "name": "AGBARA LGEA SCH",
+    "wardId": "oyun__ward-03"
+  },
+  {
+    "id": "23-15-03-007",
+    "code": "23-15-03-007",
+    "name": "OPEN SPACE ISALE IGBONA, ELEKU",
+    "wardId": "oyun__ward-03"
+  },
+  {
+    "id": "23-15-03-008",
+    "code": "23-15-03-008",
+    "name": "IDI-APA SURULERE",
+    "wardId": "oyun__ward-03"
+  },
+  {
+    "id": "23-15-04-001",
+    "code": "23-15-04-001",
+    "name": "ST PETER'S LGEA SCH , IRRA",
+    "wardId": "oyun__ward-04"
+  },
+  {
+    "id": "23-15-04-002",
+    "code": "23-15-04-002",
+    "name": "INFRONT OF OJOMU'S COMPOUND, IRRA",
+    "wardId": "oyun__ward-04"
+  },
+  {
+    "id": "23-15-04-003",
+    "code": "23-15-04-003",
+    "name": "IRRA GRAMMAR SCH, IRRA",
+    "wardId": "oyun__ward-04"
+  },
+  {
+    "id": "23-15-04-004",
+    "code": "23-15-04-004",
+    "name": "INFRONT OF ARO'S COMPOUND, IRRA",
+    "wardId": "oyun__ward-04"
+  },
+  {
+    "id": "23-15-04-005",
+    "code": "23-15-04-005",
+    "name": "MUSLIM LGEA SCH, IRRA",
+    "wardId": "oyun__ward-04"
+  },
+  {
+    "id": "23-15-04-006",
+    "code": "23-15-04-006",
+    "name": "LGEA SCHOOL IRRA FERE",
+    "wardId": "oyun__ward-04"
+  },
+  {
+    "id": "23-15-04-007",
+    "code": "23-15-04-007",
+    "name": "LGEA SCHOOL GAA OLOMOBA",
+    "wardId": "oyun__ward-04"
+  },
+  {
+    "id": "23-15-04-008",
+    "code": "23-15-04-008",
+    "name": "OPEN SPACE IRRA MARKET",
+    "wardId": "oyun__ward-04"
+  },
+  {
+    "id": "23-15-05-001",
+    "code": "23-15-05-001",
+    "name": "LGEA SCH , INAJA MALIKI",
+    "wardId": "oyun__ward-05"
+  },
+  {
+    "id": "23-15-05-002",
+    "code": "23-15-05-002",
+    "name": "LGEA SCH , INAJA ALARO",
+    "wardId": "oyun__ward-05"
+  },
+  {
+    "id": "23-15-05-003",
+    "code": "23-15-05-003",
+    "name": "ILOBU - KAJOLA",
+    "wardId": "oyun__ward-05"
+  },
+  {
+    "id": "23-15-05-004",
+    "code": "23-15-05-004",
+    "name": "LGEA SCH, AHOGBADA",
+    "wardId": "oyun__ward-05"
+  },
+  {
+    "id": "23-15-05-005",
+    "code": "23-15-05-005",
+    "name": "LGEA SCH, SANNI ODE",
+    "wardId": "oyun__ward-05"
+  },
+  {
+    "id": "23-15-05-006",
+    "code": "23-15-05-006",
+    "name": "LGEA SCH, AFIJAGBA",
+    "wardId": "oyun__ward-05"
+  },
+  {
+    "id": "23-15-06-001",
+    "code": "23-15-06-001",
+    "name": "IKOTUN COURT FRONTAGE",
+    "wardId": "oyun__ward-06"
+  },
+  {
+    "id": "23-15-06-002",
+    "code": "23-15-06-002",
+    "name": "ANSARUL-ISLAM LGEA SCH, IKOTUN",
+    "wardId": "oyun__ward-06"
+  },
+  {
+    "id": "23-15-06-003",
+    "code": "23-15-06-003",
+    "name": "LGEA SCH FALOKUN/FADE",
+    "wardId": "oyun__ward-06"
+  },
+  {
+    "id": "23-15-06-004",
+    "code": "23-15-06-004",
+    "name": "GUDUGBA/OKE-OYE",
+    "wardId": "oyun__ward-06"
+  },
+  {
+    "id": "23-15-06-005",
+    "code": "23-15-06-005",
+    "name": "LGEA SCH IGBOTELE",
+    "wardId": "oyun__ward-06"
+  },
+  {
+    "id": "23-15-06-006",
+    "code": "23-15-06-006",
+    "name": "AGBAMU",
+    "wardId": "oyun__ward-06"
+  },
+  {
+    "id": "23-15-06-007",
+    "code": "23-15-06-007",
+    "name": "ANSARUL-ISLAM LGEA SCH, IKOTUN",
+    "wardId": "oyun__ward-06"
+  },
+  {
+    "id": "23-15-06-008",
+    "code": "23-15-06-008",
+    "name": "IKOTUN CENTRAL MARKET SPACE",
+    "wardId": "oyun__ward-06"
+  },
+  {
+    "id": "23-15-06-009",
+    "code": "23-15-06-009",
+    "name": "ST MATHEW LGEA SCHOOL IKOTUN",
+    "wardId": "oyun__ward-06"
+  },
+  {
+    "id": "23-15-07-001",
+    "code": "23-15-07-001",
+    "name": "MUSLIM LGEA SCH, OJOKU",
+    "wardId": "oyun__ward-07"
+  },
+  {
+    "id": "23-15-07-002",
+    "code": "23-15-07-002",
+    "name": "INFRONT OF ONIDUN'S COMP, OJOKU",
+    "wardId": "oyun__ward-07"
+  },
+  {
+    "id": "23-15-07-003",
+    "code": "23-15-07-003",
+    "name": "INFRONT OF GBOYE'S COMP, OJOKU",
+    "wardId": "oyun__ward-07"
+  },
+  {
+    "id": "23-15-07-004",
+    "code": "23-15-07-004",
+    "name": "OPPOSITE COUNCIL HALL, OJOKU",
+    "wardId": "oyun__ward-07"
+  },
+  {
+    "id": "23-15-07-005",
+    "code": "23-15-07-005",
+    "name": "WESLEY LGEA SCH, OJOKU",
+    "wardId": "oyun__ward-07"
+  },
+  {
+    "id": "23-15-07-006",
+    "code": "23-15-07-006",
+    "name": "LGEA SCH, AWONIYI",
+    "wardId": "oyun__ward-07"
+  },
+  {
+    "id": "23-15-07-007",
+    "code": "23-15-07-007",
+    "name": "MUSLIM SCH, ISALE IDERA",
+    "wardId": "oyun__ward-07"
+  },
+  {
+    "id": "23-15-07-008",
+    "code": "23-15-07-008",
+    "name": "OPEN SPACE GAA KADUNA",
+    "wardId": "oyun__ward-07"
+  },
+  {
+    "id": "23-15-07-009",
+    "code": "23-15-07-009",
+    "name": "OPEN SPACE ALERE OJOKU",
+    "wardId": "oyun__ward-07"
+  },
+  {
+    "id": "23-15-08-001",
+    "code": "23-15-08-001",
+    "name": "BAPTIST LGEA SCH, IJAGBO I",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-002",
+    "code": "23-15-08-002",
+    "name": "BAPTIST LGEA SCH, IJAGBO II",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-003",
+    "code": "23-15-08-003",
+    "name": "POST OFFICE, IJAGBO",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-004",
+    "code": "23-15-08-004",
+    "name": "A.U.D LGEA SCH, IJAGBO",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-005",
+    "code": "23-15-08-005",
+    "name": "LGEA SCH ADELEKE",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-007",
+    "code": "23-15-08-007",
+    "name": "OPEN SPACE BUKOYE",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-008",
+    "code": "23-15-08-008",
+    "name": "BEHIND TADE-FILLING STATION IJAGBO",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-009",
+    "code": "23-15-08-009",
+    "name": "OPEN SPACE AJOBIEWE IJAGBO",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-010",
+    "code": "23-15-08-010",
+    "name": "OPEN SPACE ALAYIN",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-011",
+    "code": "23-15-08-011",
+    "name": "IN FRONT OF COTTAGE HOSPITAL IJAGBO",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-012",
+    "code": "23-15-08-012",
+    "name": "OPEN SPACE ODO-ATAN",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-013",
+    "code": "23-15-08-013",
+    "name": "ANSARU-DEEN COLLEGE ODO-IFA IJAGBO",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-08-014",
+    "code": "23-15-08-014",
+    "name": "OPEN SPACE BEHIND TNT RADIO STATION IJAGBO",
+    "wardId": "oyun__ward-08"
+  },
+  {
+    "id": "23-15-09-001",
+    "code": "23-15-09-001",
+    "name": "INFRONT OF ONILU'S COMP, IGOSUN",
+    "wardId": "oyun__ward-09"
+  },
+  {
+    "id": "23-15-09-002",
+    "code": "23-15-09-002",
+    "name": "OLD MARKET IGOSUN",
+    "wardId": "oyun__ward-09"
+  },
+  {
+    "id": "23-15-09-003",
+    "code": "23-15-09-003",
+    "name": "BESIDE NEPA OFFICE, IGOSUN",
+    "wardId": "oyun__ward-09"
+  },
+  {
+    "id": "23-15-09-004",
+    "code": "23-15-09-004",
+    "name": "MUSLIM LGEA SCH, IGOSUN",
+    "wardId": "oyun__ward-09"
+  },
+  {
+    "id": "23-15-09-005",
+    "code": "23-15-09-005",
+    "name": "AGO IDERA",
+    "wardId": "oyun__ward-09"
+  },
+  {
+    "id": "23-15-09-006",
+    "code": "23-15-09-006",
+    "name": "INFRONT OF OLU-ODE'S COMP, IGOSUN",
+    "wardId": "oyun__ward-09"
+  },
+  {
+    "id": "23-15-10-001",
+    "code": "23-15-10-001",
+    "name": "MUSLIM LGEA SCH, IPEE",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-002",
+    "code": "23-15-10-002",
+    "name": "BAPTIST LGEA SCH, IPEE",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-003",
+    "code": "23-15-10-003",
+    "name": "CENTRAL MARKET, IPEE",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-004",
+    "code": "23-15-10-004",
+    "name": "BUDO AIYEKALE",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-005",
+    "code": "23-15-10-005",
+    "name": "LGEA SCH, AJOKO",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-006",
+    "code": "23-15-10-006",
+    "name": "BUDO-ALFA",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-007",
+    "code": "23-15-10-007",
+    "name": "IBGS JUNCTION, ORIWO",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-008",
+    "code": "23-15-10-008",
+    "name": "OPEN SPACE OKE-AYO",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-009",
+    "code": "23-15-10-009",
+    "name": "OPEN SPACE IMALUMA",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-010",
+    "code": "23-15-10-010",
+    "name": "ANSARUDEEN COLLEGE IPEE",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-011",
+    "code": "23-15-10-011",
+    "name": "IREWOLEDE MARKET IPEE",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-10-012",
+    "code": "23-15-10-012",
+    "name": "OPEN SPACE ORIWO-IPEE",
+    "wardId": "oyun__ward-10"
+  },
+  {
+    "id": "23-15-11-001",
+    "code": "23-15-11-001",
+    "name": "OPEN SPACE OLOWE",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-002",
+    "code": "23-15-11-002",
+    "name": "ST MATHIAS LGEA SCH, ERIN-ILE I",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-003",
+    "code": "23-15-11-003",
+    "name": "ST MATHIAS LGEA SCH, ERIN-ILE II",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-004",
+    "code": "23-15-11-004",
+    "name": "EBENEZER LGEA SCH, ERIN-ILE",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-005",
+    "code": "23-15-11-005",
+    "name": "INFRONT OF OLOBA'S COMP, ERIN-ILE",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-006",
+    "code": "23-15-11-006",
+    "name": "INFRONT OF OKIKI'S COMP, ERIN-ILE",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-007",
+    "code": "23-15-11-007",
+    "name": "SURAJUDEEN LGEA SCH, ERIN-ILE",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-008",
+    "code": "23-15-11-008",
+    "name": "NOMADIC PRIMARY SCHOOL IYALOJA AREA ERIN-ILE",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-009",
+    "code": "23-15-11-009",
+    "name": "GENERAL HOSPITAL OPEN SPACE ERIN-ILE",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-010",
+    "code": "23-15-11-010",
+    "name": "ERIN-ILE TOWN HALL",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-011",
+    "code": "23-15-11-011",
+    "name": "E.S.A LIBRARY ERIN-ILE OPEN SPACE",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-012",
+    "code": "23-15-11-012",
+    "name": "OHEE/OGINSADO JUNCTION",
+    "wardId": "oyun__ward-11"
+  },
+  {
+    "id": "23-15-11-013",
+    "code": "23-15-11-013",
+    "name": "OJOMU KAWU/ASIKAN JUNCTION",
+    "wardId": "oyun__ward-11"
+  }
+]

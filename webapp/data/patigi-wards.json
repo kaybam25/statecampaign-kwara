@@ -1,0 +1,72 @@
+[
+  {
+    "id": "patigi__ward-01",
+    "name": "PATIGI 1",
+    "lgaId": "kwara__patigi",
+    "code": "23-16-01",
+    "puCount": 11
+  },
+  {
+    "id": "patigi__ward-02",
+    "name": "PATIGI 11",
+    "lgaId": "kwara__patigi",
+    "code": "23-16-02",
+    "puCount": 6
+  },
+  {
+    "id": "patigi__ward-03",
+    "name": "PATIGI 111",
+    "lgaId": "kwara__patigi",
+    "code": "23-16-03",
+    "puCount": 8
+  },
+  {
+    "id": "patigi__ward-04",
+    "name": "PATIGI 1V",
+    "lgaId": "kwara__patigi",
+    "code": "23-16-04",
+    "puCount": 10
+  },
+  {
+    "id": "patigi__ward-05",
+    "name": "KPADA 1",
+    "lgaId": "kwara__patigi",
+    "code": "23-16-05",
+    "puCount": 15
+  },
+  {
+    "id": "patigi__ward-06",
+    "name": "KPADA 11",
+    "lgaId": "kwara__patigi",
+    "code": "23-16-06",
+    "puCount": 12
+  },
+  {
+    "id": "patigi__ward-07",
+    "name": "KPADA 111",
+    "lgaId": "kwara__patigi",
+    "code": "23-16-07",
+    "puCount": 7
+  },
+  {
+    "id": "patigi__ward-08",
+    "name": "LADE 1",
+    "lgaId": "kwara__patigi",
+    "code": "23-16-08",
+    "puCount": 10
+  },
+  {
+    "id": "patigi__ward-09",
+    "name": "LADE 11",
+    "lgaId": "kwara__patigi",
+    "code": "23-16-09",
+    "puCount": 13
+  },
+  {
+    "id": "patigi__ward-10",
+    "name": "LADE 111",
+    "lgaId": "kwara__patigi",
+    "code": "23-16-10",
+    "puCount": 13
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "asa__ward-01",
+    "name": "YOWERE/SOSOKI",
+    "lgaId": "kwara__asa",
+    "code": "23-01-01",
+    "puCount": 6
+  },
+  {
+    "id": "asa__ward-02",
+    "name": "ADIGBONGBO/AWE/ORIMARO",
+    "lgaId": "kwara__asa",
+    "code": "23-01-02",
+    "puCount": 6
+  },
+  {
+    "id": "asa__ward-03",
+    "name": "ELEBUE/AGBONA/FATA",
+    "lgaId": "kwara__asa",
+    "code": "23-01-03",
+    "puCount": 9
+  },
+  {
+    "id": "asa__ward-04",
+    "name": "ONIRE/ODEGIWA/ALAPA",
+    "lgaId": "kwara__asa",
+    "code": "23-01-04",
+    "puCount": 11
+  },
+  {
+    "id": "asa__ward-05",
+    "name": "YOWERE 11/OKEWERU",
+    "lgaId": "kwara__asa",
+    "code": "23-01-05",
+    "puCount": 6
+  },
+  {
+    "id": "asa__ward-06",
+    "name": "GAMBARI/AIYEKALE",
+    "lgaId": "kwara__asa",
+    "code": "23-01-06",
+    "puCount": 3
+  },
+  {
+    "id": "asa__ward-07",
+    "name": "EFUE/BERIKODO",
+    "lgaId": "kwara__asa",
+    "code": "23-01-07",
+    "puCount": 5
+  },
+  {
+    "id": "asa__ward-08",
+    "name": "OWODE/GBOGUN",
+    "lgaId": "kwara__asa",
+    "code": "23-01-08",
+    "puCount": 7
+  },
+  {
+    "id": "asa__ward-09",
+    "name": "BALLAH/OTTE",
+    "lgaId": "kwara__asa",
+    "code": "23-01-09",
+    "puCount": 18
+  },
+  {
+    "id": "asa__ward-10",
+    "name": "OGBONDOROKO/REKE",
+    "lgaId": "kwara__asa",
+    "code": "23-01-10",
+    "puCount": 8
+  },
+  {
+    "id": "asa__ward-11",
+    "name": "AGO-OJA/OSHIN/SAPATI/LADUBA",
+    "lgaId": "kwara__asa",
+    "code": "23-01-11",
+    "puCount": 12
+  },
+  {
+    "id": "asa__ward-12",
+    "name": "AFON",
+    "lgaId": "kwara__asa",
+    "code": "23-01-12",
+    "puCount": 9
+  },
+  {
+    "id": "asa__ward-13",
+    "name": "ILA-OJA",
+    "lgaId": "kwara__asa",
+    "code": "23-01-13",
+    "puCount": 12
+  },
+  {
+    "id": "asa__ward-14",
+    "name": "OGELE",
+    "lgaId": "kwara__asa",
+    "code": "23-01-14",
+    "puCount": 11
+  },
+  {
+    "id": "asa__ward-15",
+    "name": "BUDO-EGBA",
+    "lgaId": "kwara__asa",
+    "code": "23-01-15",
+    "puCount": 9
+  },
+  {
+    "id": "asa__ward-16",
+    "name": "OKESHO",
+    "lgaId": "kwara__asa",
+    "code": "23-01-16",
+    "puCount": 4
+  },
+  {
+    "id": "asa__ward-17",
+    "name": "ODO-ODE/ABOTO",
+    "lgaId": "kwara__asa",
+    "code": "23-01-17",
+    "puCount": 9
+  }
+]

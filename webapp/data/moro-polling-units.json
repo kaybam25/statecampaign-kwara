@@ -1,0 +1,854 @@
+[
+  {
+    "id": "23-12-01-001",
+    "code": "23-12-01-001",
+    "name": "UMCA IDI AGBON JEBBA",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-002",
+    "code": "23-12-01-002",
+    "name": "ST THERESA SCH JEBBA",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-003",
+    "code": "23-12-01-003",
+    "name": "WAITING ROOM, RAILWAY STATION",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-004",
+    "code": "23-12-01-004",
+    "name": "BERGER MARKET",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-005",
+    "code": "23-12-01-005",
+    "name": "ANSARUL ISLAM SCH",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-006",
+    "code": "23-12-01-006",
+    "name": "LABOUR CAMP JEBBA",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-007",
+    "code": "23-12-01-007",
+    "name": "LGEA  SCH ONIPAKO",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-008",
+    "code": "23-12-01-008",
+    "name": "LGEA  SCH  IYANA, BACITA",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-009",
+    "code": "23-12-01-009",
+    "name": "LGEA  SCH  MORAFA",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-010",
+    "code": "23-12-01-010",
+    "name": "LGEA  SCH  FANGAN",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-011",
+    "code": "23-12-01-011",
+    "name": "LGEA  SCH  ADEKANBI",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-012",
+    "code": "23-12-01-012",
+    "name": "OPEN SPACE AHO",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-013",
+    "code": "23-12-01-013",
+    "name": "OPEN SPACE OKE YARO",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-014",
+    "code": "23-12-01-014",
+    "name": "OPEN SPACE IPATA",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-015",
+    "code": "23-12-01-015",
+    "name": "OPEN SPACE COLONY MODEL SCHOOL",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-016",
+    "code": "23-12-01-016",
+    "name": "OPEN SPACE ILE PUPA",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-017",
+    "code": "23-12-01-017",
+    "name": "OPEN SPACE SURULERE",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-018",
+    "code": "23-12-01-018",
+    "name": "OPEN SPACE EGBERIOMO",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-019",
+    "code": "23-12-01-019",
+    "name": "OPEN SPACE OWOLABI",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-01-020",
+    "code": "23-12-01-020",
+    "name": "OPEN SPACE OLOHUNLANA",
+    "wardId": "moro__ward-01"
+  },
+  {
+    "id": "23-12-02-001",
+    "code": "23-12-02-001",
+    "name": "VIEWING CENTRE BODE-SAADU",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-002",
+    "code": "23-12-02-002",
+    "name": "COMM PRY SCH BODE-SAADU",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-003",
+    "code": "23-12-02-003",
+    "name": "LAKANLA VILLAGE",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-004",
+    "code": "23-12-02-004",
+    "name": "LGEA  SCH LASAKI FALA",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-005",
+    "code": "23-12-02-005",
+    "name": "GATTA VILLAGE",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-006",
+    "code": "23-12-02-006",
+    "name": "OPEN SPACE AL-AMEEN",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-007",
+    "code": "23-12-02-007",
+    "name": "OPEN SPACE MARKET CENTRE",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-008",
+    "code": "23-12-02-008",
+    "name": "LGEA SCHOOL JIHAD",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-009",
+    "code": "23-12-02-009",
+    "name": "DIVINE FAVOUR OPEN SPACE",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-010",
+    "code": "23-12-02-010",
+    "name": "OPEN SPACE OLORUNSHOGO",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-011",
+    "code": "23-12-02-011",
+    "name": "LGEA SCH. OGUNBO",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-012",
+    "code": "23-12-02-012",
+    "name": "OPEN SPACE FALLAH OJA",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-02-013",
+    "code": "23-12-02-013",
+    "name": "OPEN SPACE BUKA/TAPA OLOGORO",
+    "wardId": "moro__ward-02"
+  },
+  {
+    "id": "23-12-03-001",
+    "code": "23-12-03-001",
+    "name": "LGEA  SCH OKEMI",
+    "wardId": "moro__ward-03"
+  },
+  {
+    "id": "23-12-03-002",
+    "code": "23-12-03-002",
+    "name": "LGEA  SCH ADIO LANWA",
+    "wardId": "moro__ward-03"
+  },
+  {
+    "id": "23-12-03-003",
+    "code": "23-12-03-003",
+    "name": "LGEA  SCH OLOWODE",
+    "wardId": "moro__ward-03"
+  },
+  {
+    "id": "23-12-03-004",
+    "code": "23-12-03-004",
+    "name": "LGEA  SCH MAYA",
+    "wardId": "moro__ward-03"
+  },
+  {
+    "id": "23-12-04-001",
+    "code": "23-12-04-001",
+    "name": "LGEA  SCH LANWA",
+    "wardId": "moro__ward-04"
+  },
+  {
+    "id": "23-12-04-002",
+    "code": "23-12-04-002",
+    "name": "LGEA  SCH ELEBU",
+    "wardId": "moro__ward-04"
+  },
+  {
+    "id": "23-12-04-003",
+    "code": "23-12-04-003",
+    "name": "GBODI VILLAGE",
+    "wardId": "moro__ward-04"
+  },
+  {
+    "id": "23-12-04-004",
+    "code": "23-12-04-004",
+    "name": "LGEA  SCH BUDO-ODE",
+    "wardId": "moro__ward-04"
+  },
+  {
+    "id": "23-12-04-005",
+    "code": "23-12-04-005",
+    "name": "ELEMOSHO VILLAGE",
+    "wardId": "moro__ward-04"
+  },
+  {
+    "id": "23-12-04-006",
+    "code": "23-12-04-006",
+    "name": "GOVT. SEC SCH LANWA",
+    "wardId": "moro__ward-04"
+  },
+  {
+    "id": "23-12-04-007",
+    "code": "23-12-04-007",
+    "name": "LGEA SCHOOL BUDO AYAN",
+    "wardId": "moro__ward-04"
+  },
+  {
+    "id": "23-12-04-008",
+    "code": "23-12-04-008",
+    "name": "LGEA SCHOOL ELEJA ZULU",
+    "wardId": "moro__ward-04"
+  },
+  {
+    "id": "23-12-05-001",
+    "code": "23-12-05-001",
+    "name": "LGEA  SCH EJIDONGARI",
+    "wardId": "moro__ward-05"
+  },
+  {
+    "id": "23-12-05-002",
+    "code": "23-12-05-002",
+    "name": "LGEA  SCH AGOGO",
+    "wardId": "moro__ward-05"
+  },
+  {
+    "id": "23-12-05-003",
+    "code": "23-12-05-003",
+    "name": "LGEA  SCH  MAGAJI OGUNBO",
+    "wardId": "moro__ward-05"
+  },
+  {
+    "id": "23-12-05-004",
+    "code": "23-12-05-004",
+    "name": "LGEA  SCH OLOKITI NLA",
+    "wardId": "moro__ward-05"
+  },
+  {
+    "id": "23-12-05-005",
+    "code": "23-12-05-005",
+    "name": "OPEN SPACE KANGODABE",
+    "wardId": "moro__ward-05"
+  },
+  {
+    "id": "23-12-06-001",
+    "code": "23-12-06-001",
+    "name": "LGEA  SCH OKUTALA",
+    "wardId": "moro__ward-06"
+  },
+  {
+    "id": "23-12-06-002",
+    "code": "23-12-06-002",
+    "name": "LGEA  SCH BI-ELESIN",
+    "wardId": "moro__ward-06"
+  },
+  {
+    "id": "23-12-06-003",
+    "code": "23-12-06-003",
+    "name": "LGEA  SCH AMOO",
+    "wardId": "moro__ward-06"
+  },
+  {
+    "id": "23-12-06-004",
+    "code": "23-12-06-004",
+    "name": "LGEA  SCH LADOJO",
+    "wardId": "moro__ward-06"
+  },
+  {
+    "id": "23-12-06-005",
+    "code": "23-12-06-005",
+    "name": "LGEA  SCH OLOKO",
+    "wardId": "moro__ward-06"
+  },
+  {
+    "id": "23-12-06-006",
+    "code": "23-12-06-006",
+    "name": "OPEN SPACE JOWA-IDISIN",
+    "wardId": "moro__ward-06"
+  },
+  {
+    "id": "23-12-06-007",
+    "code": "23-12-06-007",
+    "name": "OPEN SPACE GBANGBALAKO/BUDO OBA",
+    "wardId": "moro__ward-06"
+  },
+  {
+    "id": "23-12-06-008",
+    "code": "23-12-06-008",
+    "name": "LGEA JOKOLU",
+    "wardId": "moro__ward-06"
+  },
+  {
+    "id": "23-12-06-009",
+    "code": "23-12-06-009",
+    "name": "OPEN SPACE OGUNBO",
+    "wardId": "moro__ward-06"
+  },
+  {
+    "id": "23-12-07-001",
+    "code": "23-12-07-001",
+    "name": "LGEA  SCH OGUNTULU",
+    "wardId": "moro__ward-07"
+  },
+  {
+    "id": "23-12-07-002",
+    "code": "23-12-07-002",
+    "name": "LGEA  SCH IGBO-EMU",
+    "wardId": "moro__ward-07"
+  },
+  {
+    "id": "23-12-07-003",
+    "code": "23-12-07-003",
+    "name": "LGEA  SCH SHEJI",
+    "wardId": "moro__ward-07"
+  },
+  {
+    "id": "23-12-07-004",
+    "code": "23-12-07-004",
+    "name": "LGEA  SCH JODOMA",
+    "wardId": "moro__ward-07"
+  },
+  {
+    "id": "23-12-07-005",
+    "code": "23-12-07-005",
+    "name": "L.G.E.A. SCH AGBAKU-EJI",
+    "wardId": "moro__ward-07"
+  },
+  {
+    "id": "23-12-07-006",
+    "code": "23-12-07-006",
+    "name": "L.G.E.A. SCH BABADUDU",
+    "wardId": "moro__ward-07"
+  },
+  {
+    "id": "23-12-07-007",
+    "code": "23-12-07-007",
+    "name": "OPEN SPACE IGBIRA",
+    "wardId": "moro__ward-07"
+  },
+  {
+    "id": "23-12-08-001",
+    "code": "23-12-08-001",
+    "name": "L.G.E.A. SCH OLORU",
+    "wardId": "moro__ward-08"
+  },
+  {
+    "id": "23-12-08-002",
+    "code": "23-12-08-002",
+    "name": "L.G.E.A. SCH OGUN-EDUN",
+    "wardId": "moro__ward-08"
+  },
+  {
+    "id": "23-12-08-003",
+    "code": "23-12-08-003",
+    "name": "L.G.E.A. SCH MAMA",
+    "wardId": "moro__ward-08"
+  },
+  {
+    "id": "23-12-08-004",
+    "code": "23-12-08-004",
+    "name": "OPEN SPACE KANBI",
+    "wardId": "moro__ward-08"
+  },
+  {
+    "id": "23-12-08-005",
+    "code": "23-12-08-005",
+    "name": "SECONDARY SCH OLORU",
+    "wardId": "moro__ward-08"
+  },
+  {
+    "id": "23-12-08-006",
+    "code": "23-12-08-006",
+    "name": "LGEA SCHOOL ADAMA",
+    "wardId": "moro__ward-08"
+  },
+  {
+    "id": "23-12-08-007",
+    "code": "23-12-08-007",
+    "name": "LGEA SCHOOL OLORU",
+    "wardId": "moro__ward-08"
+  },
+  {
+    "id": "23-12-09-001",
+    "code": "23-12-09-001",
+    "name": "MATERNITY DISPENSARY BUDO-OKE",
+    "wardId": "moro__ward-09"
+  },
+  {
+    "id": "23-12-09-002",
+    "code": "23-12-09-002",
+    "name": "L.G.E.A. SCH OBADA",
+    "wardId": "moro__ward-09"
+  },
+  {
+    "id": "23-12-09-003",
+    "code": "23-12-09-003",
+    "name": "L.G.E.A. SCH PAKUNMO",
+    "wardId": "moro__ward-09"
+  },
+  {
+    "id": "23-12-09-004",
+    "code": "23-12-09-004",
+    "name": "APOYA VILLAGE",
+    "wardId": "moro__ward-09"
+  },
+  {
+    "id": "23-12-09-005",
+    "code": "23-12-09-005",
+    "name": "MOLEKE VILLAGE",
+    "wardId": "moro__ward-09"
+  },
+  {
+    "id": "23-12-09-006",
+    "code": "23-12-09-006",
+    "name": "OPEN SPACE ABAMBA",
+    "wardId": "moro__ward-09"
+  },
+  {
+    "id": "23-12-10-001",
+    "code": "23-12-10-001",
+    "name": "ZURU VILLAGE",
+    "wardId": "moro__ward-10"
+  },
+  {
+    "id": "23-12-10-002",
+    "code": "23-12-10-002",
+    "name": "L.G.E.A. SCH ELEMERE",
+    "wardId": "moro__ward-10"
+  },
+  {
+    "id": "23-12-10-003",
+    "code": "23-12-10-003",
+    "name": "L.G.E.A. SCH ADIO",
+    "wardId": "moro__ward-10"
+  },
+  {
+    "id": "23-12-10-004",
+    "code": "23-12-10-004",
+    "name": "L.G.E.A. SCH APATA OLONI",
+    "wardId": "moro__ward-10"
+  },
+  {
+    "id": "23-12-10-005",
+    "code": "23-12-10-005",
+    "name": "L.G.E.A. SCH ABEYA",
+    "wardId": "moro__ward-10"
+  },
+  {
+    "id": "23-12-10-006",
+    "code": "23-12-10-006",
+    "name": "L.G.E.A. SCH ANIMAJE",
+    "wardId": "moro__ward-10"
+  },
+  {
+    "id": "23-12-10-007",
+    "code": "23-12-10-007",
+    "name": "OPEN SPACE OGUN-IKAN",
+    "wardId": "moro__ward-10"
+  },
+  {
+    "id": "23-12-10-008",
+    "code": "23-12-10-008",
+    "name": "OPEN SPACE IKUSANU",
+    "wardId": "moro__ward-10"
+  },
+  {
+    "id": "23-12-10-009",
+    "code": "23-12-10-009",
+    "name": "OPEN SPACE ORE",
+    "wardId": "moro__ward-10"
+  },
+  {
+    "id": "23-12-11-001",
+    "code": "23-12-11-001",
+    "name": "L.G.E.A SCH TEPATAN",
+    "wardId": "moro__ward-11"
+  },
+  {
+    "id": "23-12-11-002",
+    "code": "23-12-11-002",
+    "name": "L.G.E.A SCH ARA",
+    "wardId": "moro__ward-11"
+  },
+  {
+    "id": "23-12-11-003",
+    "code": "23-12-11-003",
+    "name": "L.G.E.A SCH BUDO ARE",
+    "wardId": "moro__ward-11"
+  },
+  {
+    "id": "23-12-11-004",
+    "code": "23-12-11-004",
+    "name": "L.G.E.A SCH KIRIBI",
+    "wardId": "moro__ward-11"
+  },
+  {
+    "id": "23-12-11-005",
+    "code": "23-12-11-005",
+    "name": "L.G.E.A SCH ELEKO-YANGAN",
+    "wardId": "moro__ward-11"
+  },
+  {
+    "id": "23-12-11-006",
+    "code": "23-12-11-006",
+    "name": "SENIOR SECONDARY SCHOOL ABATI /TEPATAN",
+    "wardId": "moro__ward-11"
+  },
+  {
+    "id": "23-12-11-007",
+    "code": "23-12-11-007",
+    "name": "OPEN SPACE AMADI",
+    "wardId": "moro__ward-11"
+  },
+  {
+    "id": "23-12-11-008",
+    "code": "23-12-11-008",
+    "name": "OPEN SPACE OYUN",
+    "wardId": "moro__ward-11"
+  },
+  {
+    "id": "23-12-11-009",
+    "code": "23-12-11-009",
+    "name": "HEALTH CENTER ELEKOYANGAN",
+    "wardId": "moro__ward-11"
+  },
+  {
+    "id": "23-12-12-001",
+    "code": "23-12-12-001",
+    "name": "S.D.A SCH SHAO",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-002",
+    "code": "23-12-12-002",
+    "name": "L.G.E.A SCH SHAO",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-003",
+    "code": "23-12-12-003",
+    "name": "OKE SINNIGA SHAO",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-004",
+    "code": "23-12-12-004",
+    "name": "TOWN HALL SHAO",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-005",
+    "code": "23-12-12-005",
+    "name": "I.A.D.P SHAO",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-006",
+    "code": "23-12-12-006",
+    "name": "ODE ALAWON SHAO",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-007",
+    "code": "23-12-12-007",
+    "name": "MATERNITY CENTRE SHAO",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-008",
+    "code": "23-12-12-008",
+    "name": "OPEN SPACE DOGO AVENUE",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-009",
+    "code": "23-12-12-009",
+    "name": "OPEN SPACE OGIDIRI",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-010",
+    "code": "23-12-12-010",
+    "name": "OPEN SPACE ALAPATA",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-011",
+    "code": "23-12-12-011",
+    "name": "OPEN SPACE AYABA",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-012",
+    "code": "23-12-12-012",
+    "name": "OPEN SPACE OBARISA",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-013",
+    "code": "23-12-12-013",
+    "name": "OPEN SPACE SININGA",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-014",
+    "code": "23-12-12-014",
+    "name": "OPEN SPACE ISALE ARE",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-015",
+    "code": "23-12-12-015",
+    "name": "OPEN SPACE YELU AREA",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-12-016",
+    "code": "23-12-12-016",
+    "name": "OPEN SPACE NEF AREA",
+    "wardId": "moro__ward-12"
+  },
+  {
+    "id": "23-12-13-001",
+    "code": "23-12-13-001",
+    "name": "L.G.E.A SCH JEUNKUNNU",
+    "wardId": "moro__ward-13"
+  },
+  {
+    "id": "23-12-13-002",
+    "code": "23-12-13-002",
+    "name": "KARIBUJE VILLAGE",
+    "wardId": "moro__ward-13"
+  },
+  {
+    "id": "23-12-13-003",
+    "code": "23-12-13-003",
+    "name": "BUDO-ABO VILLAGE",
+    "wardId": "moro__ward-13"
+  },
+  {
+    "id": "23-12-13-004",
+    "code": "23-12-13-004",
+    "name": "L.G.E.A SCH OLOWU",
+    "wardId": "moro__ward-13"
+  },
+  {
+    "id": "23-12-14-001",
+    "code": "23-12-14-001",
+    "name": "L.G.E.A SCH MALETE",
+    "wardId": "moro__ward-14"
+  },
+  {
+    "id": "23-12-14-002",
+    "code": "23-12-14-002",
+    "name": "L.G.E.A SCH BUSAMU-ADU",
+    "wardId": "moro__ward-14"
+  },
+  {
+    "id": "23-12-14-003",
+    "code": "23-12-14-003",
+    "name": "L.G.E.A SCH GBUGUDU",
+    "wardId": "moro__ward-14"
+  },
+  {
+    "id": "23-12-14-004",
+    "code": "23-12-14-004",
+    "name": "L.G.E.A SCH OKETE-JAGODO",
+    "wardId": "moro__ward-14"
+  },
+  {
+    "id": "23-12-14-005",
+    "code": "23-12-14-005",
+    "name": "OPEN SPACE MALETE",
+    "wardId": "moro__ward-14"
+  },
+  {
+    "id": "23-12-15-001",
+    "code": "23-12-15-001",
+    "name": "L.G.E.A SCH BUDO ARE",
+    "wardId": "moro__ward-15"
+  },
+  {
+    "id": "23-12-15-002",
+    "code": "23-12-15-002",
+    "name": "L.G.E.A SCH AGBAKU",
+    "wardId": "moro__ward-15"
+  },
+  {
+    "id": "23-12-15-003",
+    "code": "23-12-15-003",
+    "name": "L.G.E.A SCH PAKU",
+    "wardId": "moro__ward-15"
+  },
+  {
+    "id": "23-12-15-004",
+    "code": "23-12-15-004",
+    "name": "L.G.E.A SCH AGAR",
+    "wardId": "moro__ward-15"
+  },
+  {
+    "id": "23-12-16-001",
+    "code": "23-12-16-001",
+    "name": "L.G.E.A SCH IPAIYE",
+    "wardId": "moro__ward-16"
+  },
+  {
+    "id": "23-12-16-002",
+    "code": "23-12-16-002",
+    "name": "L.G.E.A SCH BABALOKE",
+    "wardId": "moro__ward-16"
+  },
+  {
+    "id": "23-12-16-003",
+    "code": "23-12-16-003",
+    "name": "L.G.E.A SCH OLOWORU",
+    "wardId": "moro__ward-16"
+  },
+  {
+    "id": "23-12-16-004",
+    "code": "23-12-16-004",
+    "name": "L.G.E.A SCH ALAGBO",
+    "wardId": "moro__ward-16"
+  },
+  {
+    "id": "23-12-16-005",
+    "code": "23-12-16-005",
+    "name": "L.G.E.A SCH ABEREJO",
+    "wardId": "moro__ward-16"
+  },
+  {
+    "id": "23-12-16-006",
+    "code": "23-12-16-006",
+    "name": "L.G.E.A SCH AGBAKU",
+    "wardId": "moro__ward-16"
+  },
+  {
+    "id": "23-12-16-007",
+    "code": "23-12-16-007",
+    "name": "LGEA SCHOOL GBOROKO",
+    "wardId": "moro__ward-16"
+  },
+  {
+    "id": "23-12-16-008",
+    "code": "23-12-16-008",
+    "name": "LGEA SCHOOL GIWA OLOWO",
+    "wardId": "moro__ward-16"
+  },
+  {
+    "id": "23-12-16-009",
+    "code": "23-12-16-009",
+    "name": "HEALTH CENTRE DAGI",
+    "wardId": "moro__ward-16"
+  },
+  {
+    "id": "23-12-16-010",
+    "code": "23-12-16-010",
+    "name": "LGEA SCHOOL ONILEARO",
+    "wardId": "moro__ward-16"
+  },
+  {
+    "id": "23-12-17-001",
+    "code": "23-12-17-001",
+    "name": "L.G.E.A SCH AROBADI",
+    "wardId": "moro__ward-17"
+  },
+  {
+    "id": "23-12-17-002",
+    "code": "23-12-17-002",
+    "name": "L.G.E.A SCH GUDU",
+    "wardId": "moro__ward-17"
+  },
+  {
+    "id": "23-12-17-003",
+    "code": "23-12-17-003",
+    "name": "L.G.E.A SCH ADARA",
+    "wardId": "moro__ward-17"
+  },
+  {
+    "id": "23-12-17-004",
+    "code": "23-12-17-004",
+    "name": "L.G.E.A. SCHOOL PRIMARY ODONIGI",
+    "wardId": "moro__ward-17"
+  },
+  {
+    "id": "23-12-17-005",
+    "code": "23-12-17-005",
+    "name": "L.G.E.A SCH AWUYAN",
+    "wardId": "moro__ward-17"
+  },
+  {
+    "id": "23-12-17-006",
+    "code": "23-12-17-006",
+    "name": "OPEN SPACE ALATEKO",
+    "wardId": "moro__ward-17"
+  }
+]

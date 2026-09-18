@@ -1,0 +1,75 @@
+[
+  {
+    "id": "nc",
+    "name": "North Central",
+    "states": [
+      "Benue",
+      "Kogi",
+      "Kwara",
+      "Nasarawa",
+      "Niger",
+      "Plateau",
+      "Federal Capital Territory"
+    ]
+  },
+  {
+    "id": "ne",
+    "name": "North East",
+    "states": [
+      "Adamawa",
+      "Bauchi",
+      "Borno",
+      "Gombe",
+      "Taraba",
+      "Yobe"
+    ]
+  },
+  {
+    "id": "nw",
+    "name": "North West",
+    "states": [
+      "Jigawa",
+      "Kaduna",
+      "Kano",
+      "Katsina",
+      "Kebbi",
+      "Sokoto",
+      "Zamfara"
+    ]
+  },
+  {
+    "id": "se",
+    "name": "South East",
+    "states": [
+      "Abia",
+      "Anambra",
+      "Ebonyi",
+      "Enugu",
+      "Imo"
+    ]
+  },
+  {
+    "id": "ss",
+    "name": "South South",
+    "states": [
+      "Akwa Ibom",
+      "Bayelsa",
+      "Cross River",
+      "Delta",
+      "Edo",
+      "Rivers"
+    ]
+  },
+  {
+    "id": "sw",
+    "name": "South West",
+    "states": [
+      "Ekiti",
+      "Lagos",
+      "Ogun",
+      "Ondo",
+      "Osun",
+      "Oyo"
+    ]
+  }
+]

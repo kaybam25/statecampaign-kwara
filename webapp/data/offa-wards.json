@@ -1,0 +1,86 @@
+[
+  {
+    "id": "offa__ward-01",
+    "name": "BALOGUN",
+    "lgaId": "kwara__offa",
+    "code": "23-13-01",
+    "puCount": 18
+  },
+  {
+    "id": "offa__ward-02",
+    "name": "SHAWO SOUTH WEST",
+    "lgaId": "kwara__offa",
+    "code": "23-13-02",
+    "puCount": 22
+  },
+  {
+    "id": "offa__ward-03",
+    "name": "SHAWO CENTRAL",
+    "lgaId": "kwara__offa",
+    "code": "23-13-03",
+    "puCount": 14
+  },
+  {
+    "id": "offa__ward-04",
+    "name": "SHAWO SOUTH EAST",
+    "lgaId": "kwara__offa",
+    "code": "23-13-04",
+    "puCount": 14
+  },
+  {
+    "id": "offa__ward-05",
+    "name": "ESSA - A",
+    "lgaId": "kwara__offa",
+    "code": "23-13-05",
+    "puCount": 10
+  },
+  {
+    "id": "offa__ward-06",
+    "name": "ESSA - B",
+    "lgaId": "kwara__offa",
+    "code": "23-13-06",
+    "puCount": 11
+  },
+  {
+    "id": "offa__ward-07",
+    "name": "ESSA - C",
+    "lgaId": "kwara__offa",
+    "code": "23-13-07",
+    "puCount": 17
+  },
+  {
+    "id": "offa__ward-08",
+    "name": "OJOMU NORTH/NORTH WEST",
+    "lgaId": "kwara__offa",
+    "code": "23-13-08",
+    "puCount": 20
+  },
+  {
+    "id": "offa__ward-09",
+    "name": "OJOMU  CENTRAL 1",
+    "lgaId": "kwara__offa",
+    "code": "23-13-09",
+    "puCount": 12
+  },
+  {
+    "id": "offa__ward-10",
+    "name": "OJOMU  CENTRAL 11",
+    "lgaId": "kwara__offa",
+    "code": "23-13-10",
+    "puCount": 11
+  },
+  {
+    "id": "offa__ward-11",
+    "name": "OJOMU  SOUTH EAST",
+    "lgaId": "kwara__offa",
+    "code": "23-13-11",
+    "puCount": 17
+  },
+  {
+    "id": "offa__ward-12",
+    "name": "IGBOIDUN",
+    "lgaId": "kwara__offa",
+    "code": "23-13-12",
+    "puCount": 6
+  }
+]

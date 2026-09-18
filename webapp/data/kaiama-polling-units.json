@@ -1,0 +1,746 @@
+[
+  {
+    "id": "23-11-01-001",
+    "code": "23-11-01-001",
+    "name": "KLGEA SCH ADENA",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-002",
+    "code": "23-11-01-002",
+    "name": "KLGEA SCH  DADA",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-003",
+    "code": "23-11-01-003",
+    "name": "KLGEA SCH KOSA",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-004",
+    "code": "23-11-01-004",
+    "name": "GBAJIBO OPEN SPACE",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-005",
+    "code": "23-11-01-005",
+    "name": "ADOGWU KLGEA",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-006",
+    "code": "23-11-01-006",
+    "name": "ALIKANKAN OPEN SPACE",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-007",
+    "code": "23-11-01-007",
+    "name": "KARA MARKET",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-008",
+    "code": "23-11-01-008",
+    "name": "DAWANGA OPEN SPACE",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-009",
+    "code": "23-11-01-009",
+    "name": "MASAMA KLGEA",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-010",
+    "code": "23-11-01-010",
+    "name": "MAJE MARKET CENTRE",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-011",
+    "code": "23-11-01-011",
+    "name": "GIRL CHANGI OPEN SPACE",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-012",
+    "code": "23-11-01-012",
+    "name": "TUNGAN RICHI",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-01-013",
+    "code": "23-11-01-013",
+    "name": "LOKO MOSHE KLGEA",
+    "wardId": "kaiama__ward-01"
+  },
+  {
+    "id": "23-11-02-001",
+    "code": "23-11-02-001",
+    "name": "BANI KLGEA SCH",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-002",
+    "code": "23-11-02-002",
+    "name": "ZANGO MARKET, BANI",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-003",
+    "code": "23-11-02-003",
+    "name": "OLOKOTINTIN KLGEA SCH",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-004",
+    "code": "23-11-02-004",
+    "name": "FONLO OPEN SPACE",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-005",
+    "code": "23-11-02-005",
+    "name": "BANI-OLORI KLGEA SCH",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-006",
+    "code": "23-11-02-006",
+    "name": "KAAGBONA KLGEA (NOM. SCH)",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-007",
+    "code": "23-11-02-007",
+    "name": "FAMINI KLGEA SCH",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-008",
+    "code": "23-11-02-008",
+    "name": "OGUNIYI OPEN SPACE",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-009",
+    "code": "23-11-02-009",
+    "name": "SHEIKH BABA KLGEA",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-010",
+    "code": "23-11-02-010",
+    "name": "AGERI KLGEA",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-011",
+    "code": "23-11-02-011",
+    "name": "BANI GOVT SEC SCH",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-012",
+    "code": "23-11-02-012",
+    "name": "BADDE OPEN SPACE",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-013",
+    "code": "23-11-02-013",
+    "name": "ZANGO NEW MARKET",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-014",
+    "code": "23-11-02-014",
+    "name": "TOHLABICHI OPEN SPACE",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-015",
+    "code": "23-11-02-015",
+    "name": "BABA ILORI OPEN SPACE",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-016",
+    "code": "23-11-02-016",
+    "name": "TUNGA JULLI KLGEA",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-017",
+    "code": "23-11-02-017",
+    "name": "KANGO OWEDE KLGEA",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-018",
+    "code": "23-11-02-018",
+    "name": "ALAGI OPEN SPACE",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-019",
+    "code": "23-11-02-019",
+    "name": "RIGI OYI OPEN SPACE",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-02-020",
+    "code": "23-11-02-020",
+    "name": "LABELABE KLGEA",
+    "wardId": "kaiama__ward-02"
+  },
+  {
+    "id": "23-11-03-001",
+    "code": "23-11-03-001",
+    "name": "KANIKOKO PRY SCH I",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-002",
+    "code": "23-11-03-002",
+    "name": "KANIKOKO PRY SCH II",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-003",
+    "code": "23-11-03-003",
+    "name": "VENRA KLGEA SCH",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-004",
+    "code": "23-11-03-004",
+    "name": "WORO KLGEA SCH",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-005",
+    "code": "23-11-03-005",
+    "name": "TUNGA MAJA PRY SCH",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-006",
+    "code": "23-11-03-006",
+    "name": "NUKUZI KLGEA SCH",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-007",
+    "code": "23-11-03-007",
+    "name": "GOROBANI OPEN SPACE",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-008",
+    "code": "23-11-03-008",
+    "name": "NOMADIC SCH FUDUNGA",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-009",
+    "code": "23-11-03-009",
+    "name": "DEGZI KLGEA",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-010",
+    "code": "23-11-03-010",
+    "name": "KORO FONNI OPEN SPACE",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-011",
+    "code": "23-11-03-011",
+    "name": "TUNGA ALH OKE",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-012",
+    "code": "23-11-03-012",
+    "name": "VENRA CENTRAL MARKET",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-013",
+    "code": "23-11-03-013",
+    "name": "GBENKUWA OPEN SPACE",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-014",
+    "code": "23-11-03-014",
+    "name": "DONGON RUWA OPEN SPACE",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-015",
+    "code": "23-11-03-015",
+    "name": "WORO MARKET CENTER",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-03-016",
+    "code": "23-11-03-016",
+    "name": "WORUMA KOTO KLGEA",
+    "wardId": "kaiama__ward-03"
+  },
+  {
+    "id": "23-11-04-001",
+    "code": "23-11-04-001",
+    "name": "GWATTEKUTA KLGEA SCH",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-002",
+    "code": "23-11-04-002",
+    "name": "TUNGA-ABOKI KLGEA SCH",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-003",
+    "code": "23-11-04-003",
+    "name": "SOPERE KLGEA SCH",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-004",
+    "code": "23-11-04-004",
+    "name": "KOROKUN OPEN SPACE",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-005",
+    "code": "23-11-04-005",
+    "name": "TUNGA ATIKU DARUSALAM (NS)",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-006",
+    "code": "23-11-04-006",
+    "name": "OWODE NOM. SCH",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-007",
+    "code": "23-11-04-007",
+    "name": "ZEKANKAEKLGEA",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-008",
+    "code": "23-11-04-008",
+    "name": "ZEKANKE OPEN SPACE",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-009",
+    "code": "23-11-04-009",
+    "name": "TUNGA ABOKI MARKET",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-010",
+    "code": "23-11-04-010",
+    "name": "SABO OPEN SPACE",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-011",
+    "code": "23-11-04-011",
+    "name": "LONDON KLGEA",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-04-012",
+    "code": "23-11-04-012",
+    "name": "GURE PANJI OPEN SPACE",
+    "wardId": "kaiama__ward-04"
+  },
+  {
+    "id": "23-11-05-001",
+    "code": "23-11-05-001",
+    "name": "GWARIA KLGEA SCH",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-002",
+    "code": "23-11-05-002",
+    "name": "MOZHI-GADA KLGEA SCH",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-003",
+    "code": "23-11-05-003",
+    "name": "GWARIA-WUZI KLGEA SCH",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-004",
+    "code": "23-11-05-004",
+    "name": "APATA WELEWELE KLGEA SCH",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-005",
+    "code": "23-11-05-005",
+    "name": "NOMADIC SCH, GORODEGE",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-006",
+    "code": "23-11-05-006",
+    "name": "GATE  KLGEA SCH",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-007",
+    "code": "23-11-05-007",
+    "name": "GWARIA CENTRAL MARKET",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-008",
+    "code": "23-11-05-008",
+    "name": "GANDA WAGU OPEN SPACE",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-009",
+    "code": "23-11-05-009",
+    "name": "NASARAWA KLGEA",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-010",
+    "code": "23-11-05-010",
+    "name": "TESSI AGEDA OPEN SPACE",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-011",
+    "code": "23-11-05-011",
+    "name": "TESE GADA KLGEA",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-012",
+    "code": "23-11-05-012",
+    "name": "GAAGA OPEN SPACE",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-013",
+    "code": "23-11-05-013",
+    "name": "VOBERA KLGEA",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-014",
+    "code": "23-11-05-014",
+    "name": "TESSI AGBEDE KLGEA",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-05-015",
+    "code": "23-11-05-015",
+    "name": "SOLADE KLGEA",
+    "wardId": "kaiama__ward-05"
+  },
+  {
+    "id": "23-11-06-001",
+    "code": "23-11-06-001",
+    "name": "CENTRAL PRY SCH, KAIAMA",
+    "wardId": "kaiama__ward-06"
+  },
+  {
+    "id": "23-11-06-002",
+    "code": "23-11-06-002",
+    "name": "NRC SECRETARIAT, KAIAMA I",
+    "wardId": "kaiama__ward-06"
+  },
+  {
+    "id": "23-11-06-003",
+    "code": "23-11-06-003",
+    "name": "NRC SECRETARIAT, KAIAMA II",
+    "wardId": "kaiama__ward-06"
+  },
+  {
+    "id": "23-11-06-004",
+    "code": "23-11-06-004",
+    "name": "KPAKPEN OPEN SPACE",
+    "wardId": "kaiama__ward-06"
+  },
+  {
+    "id": "23-11-06-005",
+    "code": "23-11-06-005",
+    "name": "GBABASAWA OPEN SPACE",
+    "wardId": "kaiama__ward-06"
+  },
+  {
+    "id": "23-11-06-006",
+    "code": "23-11-06-006",
+    "name": "MORA TASUDE SEC SCH",
+    "wardId": "kaiama__ward-06"
+  },
+  {
+    "id": "23-11-06-007",
+    "code": "23-11-06-007",
+    "name": "SERIKIN NOMA OPEN SPACE",
+    "wardId": "kaiama__ward-06"
+  },
+  {
+    "id": "23-11-07-001",
+    "code": "23-11-07-001",
+    "name": "MOW CAMP DEMONSTRATION SCH",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-002",
+    "code": "23-11-07-002",
+    "name": "NASSARAWA OPEN SPACE",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-003",
+    "code": "23-11-07-003",
+    "name": "KULINGIZIN ISLAMIYA OLD SCH",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-004",
+    "code": "23-11-07-004",
+    "name": "GBANAGIZI KLGEA SCH",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-005",
+    "code": "23-11-07-005",
+    "name": "OSIWERA VIEWING CENTRE, KAIAMA",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-006",
+    "code": "23-11-07-006",
+    "name": "KLGEA SCH, SABON-NGARI",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-007",
+    "code": "23-11-07-007",
+    "name": "BACHA OPEN SPACE",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-008",
+    "code": "23-11-07-008",
+    "name": "TUNDA WADA OPEN SPACE",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-009",
+    "code": "23-11-07-009",
+    "name": "ISLAMIYYAH KLGEA",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-010",
+    "code": "23-11-07-010",
+    "name": "MEGIRO SUPREME SCPEC SCH",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-011",
+    "code": "23-11-07-011",
+    "name": "SABO EEC VOCATIONAL",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-012",
+    "code": "23-11-07-012",
+    "name": "ALIMAJIRI KLGEA",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-07-013",
+    "code": "23-11-07-013",
+    "name": "SABO EEC VOCATIONAL",
+    "wardId": "kaiama__ward-07"
+  },
+  {
+    "id": "23-11-08-001",
+    "code": "23-11-08-001",
+    "name": "KABARU OPEN SPACE",
+    "wardId": "kaiama__ward-08"
+  },
+  {
+    "id": "23-11-08-002",
+    "code": "23-11-08-002",
+    "name": "POST OFFICE, KAIAMA",
+    "wardId": "kaiama__ward-08"
+  },
+  {
+    "id": "23-11-08-003",
+    "code": "23-11-08-003",
+    "name": "ZANGO OPEN SPACE",
+    "wardId": "kaiama__ward-08"
+  },
+  {
+    "id": "23-11-08-004",
+    "code": "23-11-08-004",
+    "name": "OGA-SAANI OPEN SPACE",
+    "wardId": "kaiama__ward-08"
+  },
+  {
+    "id": "23-11-08-005",
+    "code": "23-11-08-005",
+    "name": "WALI OPEN SPACE",
+    "wardId": "kaiama__ward-08"
+  },
+  {
+    "id": "23-11-08-006",
+    "code": "23-11-08-006",
+    "name": "BAAJIAOPEN SPACE",
+    "wardId": "kaiama__ward-08"
+  },
+  {
+    "id": "23-11-08-007",
+    "code": "23-11-08-007",
+    "name": "SERIKI SAMARI OPEN SPACE",
+    "wardId": "kaiama__ward-08"
+  },
+  {
+    "id": "23-11-08-008",
+    "code": "23-11-08-008",
+    "name": "YARELEA OPEN SPACE",
+    "wardId": "kaiama__ward-08"
+  },
+  {
+    "id": "23-11-09-001",
+    "code": "23-11-09-001",
+    "name": "KIBENFADI KLGEA SCH",
+    "wardId": "kaiama__ward-09"
+  },
+  {
+    "id": "23-11-09-002",
+    "code": "23-11-09-002",
+    "name": "KPEDEZIN KLGEA SCH",
+    "wardId": "kaiama__ward-09"
+  },
+  {
+    "id": "23-11-09-003",
+    "code": "23-11-09-003",
+    "name": "BABETE NOMADIC SCH",
+    "wardId": "kaiama__ward-09"
+  },
+  {
+    "id": "23-11-09-004",
+    "code": "23-11-09-004",
+    "name": "TENEBO KLGEA SCH",
+    "wardId": "kaiama__ward-09"
+  },
+  {
+    "id": "23-11-09-005",
+    "code": "23-11-09-005",
+    "name": "TUNGA SABARMA OPEN SPACE",
+    "wardId": "kaiama__ward-09"
+  },
+  {
+    "id": "23-11-09-006",
+    "code": "23-11-09-006",
+    "name": "TUNGA GARUWA CENTRAL MRKT",
+    "wardId": "kaiama__ward-09"
+  },
+  {
+    "id": "23-11-10-001",
+    "code": "23-11-10-001",
+    "name": "SHIRI-GWARIA KLGEA SCH",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-002",
+    "code": "23-11-10-002",
+    "name": "KUGIJI KLGEA SCH",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-003",
+    "code": "23-11-10-003",
+    "name": "BANISULA KLGEA SCH",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-004",
+    "code": "23-11-10-004",
+    "name": "KARO CAMP, KLGEA SCH",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-005",
+    "code": "23-11-10-005",
+    "name": "KARO CAMP MARKET SQUARE",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-006",
+    "code": "23-11-10-006",
+    "name": "BEZIRA KLGEA SCH",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-007",
+    "code": "23-11-10-007",
+    "name": "NANU KLGEA SCH",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-008",
+    "code": "23-11-10-008",
+    "name": "SHIRI GWARIA MARKET CENTER",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-009",
+    "code": "23-11-10-009",
+    "name": "WUZIBE OPEN SPACE",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-010",
+    "code": "23-11-10-010",
+    "name": "DAZI OPEN SPACE",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-011",
+    "code": "23-11-10-011",
+    "name": "MAKE WIZII OPEN SPACE",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-012",
+    "code": "23-11-10-012",
+    "name": "KARO KLGEA",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-013",
+    "code": "23-11-10-013",
+    "name": "SABONGARI OPEN SPACE",
+    "wardId": "kaiama__ward-10"
+  },
+  {
+    "id": "23-11-10-014",
+    "code": "23-11-10-014",
+    "name": "NANU OPEN SPACE",
+    "wardId": "kaiama__ward-10"
+  }
+]

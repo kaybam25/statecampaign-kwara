@@ -1,0 +1,79 @@
+[
+  {
+    "id": "irepodun__ward-01",
+    "name": "AJASE IPO 1",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-01",
+    "puCount": 23
+  },
+  {
+    "id": "irepodun__ward-02",
+    "name": "AJASE IPO 11",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-02",
+    "puCount": 15
+  },
+  {
+    "id": "irepodun__ward-03",
+    "name": "ARANDUN",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-03",
+    "puCount": 14
+  },
+  {
+    "id": "irepodun__ward-04",
+    "name": "ESIE/IJAN",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-04",
+    "puCount": 9
+  },
+  {
+    "id": "irepodun__ward-05",
+    "name": "IPETU/RORE/ARAN-ORIN",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-05",
+    "puCount": 15
+  },
+  {
+    "id": "irepodun__ward-06",
+    "name": "OMU-ARAN 1 (ARAN)",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-06",
+    "puCount": 12
+  },
+  {
+    "id": "irepodun__ward-07",
+    "name": "OMU-ARAN 11 (IHAYE)",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-07",
+    "puCount": 17
+  },
+  {
+    "id": "irepodun__ward-08",
+    "name": "OMU-ARAN 111 (IFAJA)",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-08",
+    "puCount": 17
+  },
+  {
+    "id": "irepodun__ward-09",
+    "name": "ORO 1",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-09",
+    "puCount": 11
+  },
+  {
+    "id": "irepodun__ward-10",
+    "name": "ORO 11",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-10",
+    "puCount": 19
+  },
+  {
+    "id": "irepodun__ward-11",
+    "name": "OKO",
+    "lgaId": "kwara__irepodun",
+    "code": "23-09-11",
+    "puCount": 6
+  }
+]

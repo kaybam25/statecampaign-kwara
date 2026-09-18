@@ -1,0 +1,632 @@
+[
+  {
+    "id": "23-16-01-001",
+    "code": "23-16-01-001",
+    "name": "BASIC HEALTH CENTRE",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-01-002",
+    "code": "23-16-01-002",
+    "name": "CENTRAL OFFICE",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-01-003",
+    "code": "23-16-01-003",
+    "name": "CENTRAL SCHOOL",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-01-004",
+    "code": "23-16-01-004",
+    "name": "REST HOUSE",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-01-005",
+    "code": "23-16-01-005",
+    "name": "S.I.M  SCHOOL",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-01-006",
+    "code": "23-16-01-006",
+    "name": "TSADO GATE",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-01-007",
+    "code": "23-16-01-007",
+    "name": "ABUBAKAR GBOAGI ARABIC SCHOOL",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-01-008",
+    "code": "23-16-01-008",
+    "name": "KPONTUN GANA GATE",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-01-009",
+    "code": "23-16-01-009",
+    "name": "KPANMANGI LGA SCHOOL",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-01-010",
+    "code": "23-16-01-010",
+    "name": "SIM SCHOOL II",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-01-011",
+    "code": "23-16-01-011",
+    "name": "EMI ALHAJI NDAGI KATUN OPEN SPACE",
+    "wardId": "patigi__ward-01"
+  },
+  {
+    "id": "23-16-02-001",
+    "code": "23-16-02-001",
+    "name": "EFUNGUNZHI OPEN SPACE",
+    "wardId": "patigi__ward-02"
+  },
+  {
+    "id": "23-16-02-002",
+    "code": "23-16-02-002",
+    "name": "GBOKE LGEA SCH I",
+    "wardId": "patigi__ward-02"
+  },
+  {
+    "id": "23-16-02-003",
+    "code": "23-16-02-003",
+    "name": "GBOKE LGEA SCH II",
+    "wardId": "patigi__ward-02"
+  },
+  {
+    "id": "23-16-02-004",
+    "code": "23-16-02-004",
+    "name": "NAKODI JIMADA OPEN SPACE",
+    "wardId": "patigi__ward-02"
+  },
+  {
+    "id": "23-16-02-005",
+    "code": "23-16-02-005",
+    "name": "MAKUN OPEN SPACE",
+    "wardId": "patigi__ward-02"
+  },
+  {
+    "id": "23-16-02-006",
+    "code": "23-16-02-006",
+    "name": "NDAWODI TSAWATSWAN OPEN SPACE",
+    "wardId": "patigi__ward-02"
+  },
+  {
+    "id": "23-16-03-001",
+    "code": "23-16-03-001",
+    "name": "DISPENSARY CENTRE",
+    "wardId": "patigi__ward-03"
+  },
+  {
+    "id": "23-16-03-002",
+    "code": "23-16-03-002",
+    "name": "PUBLIC HEALTH OPEN SPACE",
+    "wardId": "patigi__ward-03"
+  },
+  {
+    "id": "23-16-03-003",
+    "code": "23-16-03-003",
+    "name": "TSADU'S GATE",
+    "wardId": "patigi__ward-03"
+  },
+  {
+    "id": "23-16-03-004",
+    "code": "23-16-03-004",
+    "name": "MAMANNAWO'S GATE",
+    "wardId": "patigi__ward-03"
+  },
+  {
+    "id": "23-16-03-005",
+    "code": "23-16-03-005",
+    "name": "ALIKALI GANA WOSHI OPEN SPACE",
+    "wardId": "patigi__ward-03"
+  },
+  {
+    "id": "23-16-03-006",
+    "code": "23-16-03-006",
+    "name": "LAZHIYISA OPEN SPACE",
+    "wardId": "patigi__ward-03"
+  },
+  {
+    "id": "23-16-03-007",
+    "code": "23-16-03-007",
+    "name": "ETSU IDRIS GANA PRIMARY SCHOOL",
+    "wardId": "patigi__ward-03"
+  },
+  {
+    "id": "23-16-03-008",
+    "code": "23-16-03-008",
+    "name": "SHESHI SHAABA OPEN SPACE",
+    "wardId": "patigi__ward-03"
+  },
+  {
+    "id": "23-16-04-001",
+    "code": "23-16-04-001",
+    "name": "EDOGI LGEA SCH",
+    "wardId": "patigi__ward-04"
+  },
+  {
+    "id": "23-16-04-002",
+    "code": "23-16-04-002",
+    "name": "ELLA LGEA SCH",
+    "wardId": "patigi__ward-04"
+  },
+  {
+    "id": "23-16-04-003",
+    "code": "23-16-04-003",
+    "name": "GBADOKIN LGEA SCH",
+    "wardId": "patigi__ward-04"
+  },
+  {
+    "id": "23-16-04-004",
+    "code": "23-16-04-004",
+    "name": "GBARADOGI LGEA SCH",
+    "wardId": "patigi__ward-04"
+  },
+  {
+    "id": "23-16-04-005",
+    "code": "23-16-04-005",
+    "name": "GODIWAGI LGEA SCH",
+    "wardId": "patigi__ward-04"
+  },
+  {
+    "id": "23-16-04-006",
+    "code": "23-16-04-006",
+    "name": "MAWOGI OPEN SPACE",
+    "wardId": "patigi__ward-04"
+  },
+  {
+    "id": "23-16-04-007",
+    "code": "23-16-04-007",
+    "name": "TSWATAGI LGEA SCH",
+    "wardId": "patigi__ward-04"
+  },
+  {
+    "id": "23-16-04-008",
+    "code": "23-16-04-008",
+    "name": "LIKPOFU PRIMARY SCHOOL",
+    "wardId": "patigi__ward-04"
+  },
+  {
+    "id": "23-16-04-009",
+    "code": "23-16-04-009",
+    "name": "KUSOGI GANA TSWALU",
+    "wardId": "patigi__ward-04"
+  },
+  {
+    "id": "23-16-04-010",
+    "code": "23-16-04-010",
+    "name": "GUDUGI LGEA PRIMARY SCHOOL",
+    "wardId": "patigi__ward-04"
+  },
+  {
+    "id": "23-16-05-001",
+    "code": "23-16-05-001",
+    "name": "BASIC HEALTH CENTRE",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-002",
+    "code": "23-16-05-002",
+    "name": "DURO LGEA SCH",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-003",
+    "code": "23-16-05-003",
+    "name": "EMIWOROGI LGEA SCH",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-004",
+    "code": "23-16-05-004",
+    "name": "GAKPAN LGEA SCH",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-005",
+    "code": "23-16-05-005",
+    "name": "GULUGI LGEA SCH",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-006",
+    "code": "23-16-05-006",
+    "name": "KAJITA LGEA SCH",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-007",
+    "code": "23-16-05-007",
+    "name": "KPADA MARKET SQUARE",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-008",
+    "code": "23-16-05-008",
+    "name": "KPADA  S.I.M SCH",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-009",
+    "code": "23-16-05-009",
+    "name": "TSABAN LGEA SCH",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-010",
+    "code": "23-16-05-010",
+    "name": "WAKO LGEA SCH",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-011",
+    "code": "23-16-05-011",
+    "name": "EBU L.G.E.A. SCHOOL",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-012",
+    "code": "23-16-05-012",
+    "name": "KPATA EGBAN L.G.E.A. SCHOOL",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-013",
+    "code": "23-16-05-013",
+    "name": "BABOGI L.G.E.A. PRIMARY SCHOOL",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-014",
+    "code": "23-16-05-014",
+    "name": "MA'AJI L.G.E.A. PRIMARY SCHOOL",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-05-015",
+    "code": "23-16-05-015",
+    "name": "SHAABA OPEN SPACE",
+    "wardId": "patigi__ward-05"
+  },
+  {
+    "id": "23-16-06-001",
+    "code": "23-16-06-001",
+    "name": "ECHIWADA LGEA SCH",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-002",
+    "code": "23-16-06-002",
+    "name": "EGWAMAMA LGEA SCH",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-003",
+    "code": "23-16-06-003",
+    "name": "EZIGHIKO OPEN SPACE",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-004",
+    "code": "23-16-06-004",
+    "name": "FEY LGEA SCH",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-005",
+    "code": "23-16-06-005",
+    "name": "GULUKA LGEA SCH",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-006",
+    "code": "23-16-06-006",
+    "name": "KORO LGEA SCH",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-007",
+    "code": "23-16-06-007",
+    "name": "KUSOGI C.S.S",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-008",
+    "code": "23-16-06-008",
+    "name": "ROGUN LGEA SCH",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-009",
+    "code": "23-16-06-009",
+    "name": "GBAFU LGEA SCHOOL",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-010",
+    "code": "23-16-06-010",
+    "name": "GUNJI SAACHI LGEA SCHOOL",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-011",
+    "code": "23-16-06-011",
+    "name": "SUKU LGEA SCHOOL",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-06-012",
+    "code": "23-16-06-012",
+    "name": "LATAYI COMMUNITY LGEA SCHOOL",
+    "wardId": "patigi__ward-06"
+  },
+  {
+    "id": "23-16-07-001",
+    "code": "23-16-07-001",
+    "name": "AGBORO LGEA SCH",
+    "wardId": "patigi__ward-07"
+  },
+  {
+    "id": "23-16-07-002",
+    "code": "23-16-07-002",
+    "name": "RIFUN LGEA SCH",
+    "wardId": "patigi__ward-07"
+  },
+  {
+    "id": "23-16-07-003",
+    "code": "23-16-07-003",
+    "name": "TAMKPAFU LGEA SCH",
+    "wardId": "patigi__ward-07"
+  },
+  {
+    "id": "23-16-07-004",
+    "code": "23-16-07-004",
+    "name": "MATOKUN LGEA SCH",
+    "wardId": "patigi__ward-07"
+  },
+  {
+    "id": "23-16-07-005",
+    "code": "23-16-07-005",
+    "name": "RIFUN JUNIOR SECONDARY SCHOOL",
+    "wardId": "patigi__ward-07"
+  },
+  {
+    "id": "23-16-07-006",
+    "code": "23-16-07-006",
+    "name": "TANKPAFU COMMINUTY SECONDARY SCHOOL",
+    "wardId": "patigi__ward-07"
+  },
+  {
+    "id": "23-16-07-007",
+    "code": "23-16-07-007",
+    "name": "OPOTA/OKOLUSHE OPEN SPACE",
+    "wardId": "patigi__ward-07"
+  },
+  {
+    "id": "23-16-08-001",
+    "code": "23-16-08-001",
+    "name": "BONGI LGEA SCH",
+    "wardId": "patigi__ward-08"
+  },
+  {
+    "id": "23-16-08-002",
+    "code": "23-16-08-002",
+    "name": "CHITTA LGEA SCH",
+    "wardId": "patigi__ward-08"
+  },
+  {
+    "id": "23-16-08-003",
+    "code": "23-16-08-003",
+    "name": "GBADASHABA LGEA SCH",
+    "wardId": "patigi__ward-08"
+  },
+  {
+    "id": "23-16-08-004",
+    "code": "23-16-08-004",
+    "name": "MAGYA LGEA SCH",
+    "wardId": "patigi__ward-08"
+  },
+  {
+    "id": "23-16-08-005",
+    "code": "23-16-08-005",
+    "name": "SUNKUSO LGEA SCH",
+    "wardId": "patigi__ward-08"
+  },
+  {
+    "id": "23-16-08-006",
+    "code": "23-16-08-006",
+    "name": "SANCHITA OPEN SPACE",
+    "wardId": "patigi__ward-08"
+  },
+  {
+    "id": "23-16-08-007",
+    "code": "23-16-08-007",
+    "name": "LILE L.G.E.A. SCHOOL",
+    "wardId": "patigi__ward-08"
+  },
+  {
+    "id": "23-16-08-008",
+    "code": "23-16-08-008",
+    "name": "GADAWORO L.G.E.A PRY SCHOOL",
+    "wardId": "patigi__ward-08"
+  },
+  {
+    "id": "23-16-08-009",
+    "code": "23-16-08-009",
+    "name": "EKATI L.G.E.A. SCHOOL",
+    "wardId": "patigi__ward-08"
+  },
+  {
+    "id": "23-16-08-010",
+    "code": "23-16-08-010",
+    "name": "DAKANI L.G.E.A PRY SCHOOL",
+    "wardId": "patigi__ward-08"
+  },
+  {
+    "id": "23-16-09-001",
+    "code": "23-16-09-001",
+    "name": "LADE CENTRAL LGEA SCH",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-002",
+    "code": "23-16-09-002",
+    "name": "DINA LGEA SCH",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-003",
+    "code": "23-16-09-003",
+    "name": "DISTRICT OFFICE LADE",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-004",
+    "code": "23-16-09-004",
+    "name": "RANI-NDAKO LGEA SCH",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-005",
+    "code": "23-16-09-005",
+    "name": "TSUBA LGEA SCH",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-006",
+    "code": "23-16-09-006",
+    "name": "COTTAGE HOSPITAL",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-007",
+    "code": "23-16-09-007",
+    "name": "KOCHITAGI OPEN SPACE",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-008",
+    "code": "23-16-09-008",
+    "name": "NDANAKU COMMUNITY II",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-009",
+    "code": "23-16-09-009",
+    "name": "EMI ADAM CARPENTER OPEN SPACE",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-010",
+    "code": "23-16-09-010",
+    "name": "GUNUBATA OPEN SPACE",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-011",
+    "code": "23-16-09-011",
+    "name": "UBANDAWAKI OPEN SPACE",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-012",
+    "code": "23-16-09-012",
+    "name": "NDANAKU COMMUNITY I",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-09-013",
+    "code": "23-16-09-013",
+    "name": "GBANGEDE LGEA SCHOOL",
+    "wardId": "patigi__ward-09"
+  },
+  {
+    "id": "23-16-10-001",
+    "code": "23-16-10-001",
+    "name": "EDOGI-CHAPPA LGEA SCH",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-002",
+    "code": "23-16-10-002",
+    "name": "DZAKO LGEA SCH",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-003",
+    "code": "23-16-10-003",
+    "name": "LALAGI LGEA SCH",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-004",
+    "code": "23-16-10-004",
+    "name": "LATA LGEA SCH",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-005",
+    "code": "23-16-10-005",
+    "name": "SAKPEFU LGEA SCH",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-006",
+    "code": "23-16-10-006",
+    "name": "WODATA LGEA SCH",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-007",
+    "code": "23-16-10-007",
+    "name": "EDOGI CHAPPA MARKET SQUARE",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-008",
+    "code": "23-16-10-008",
+    "name": "ESUNDARI L.G.E.A PRY SCHOOL",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-009",
+    "code": "23-16-10-009",
+    "name": "LALAGI MARKET SQUARE",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-010",
+    "code": "23-16-10-010",
+    "name": "LATA ARABIC PRIMARY SCHOOL",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-011",
+    "code": "23-16-10-011",
+    "name": "ARABIC PRIMARY SCHOOL SAKPEFU",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-012",
+    "code": "23-16-10-012",
+    "name": "CHANENGI L.G.E.A. PRIMARY SCHOOL",
+    "wardId": "patigi__ward-10"
+  },
+  {
+    "id": "23-16-10-013",
+    "code": "23-16-10-013",
+    "name": "KANWORO L.G.E.A. PRIMARY SCHOOL",
+    "wardId": "patigi__ward-10"
+  }
+]

@@ -1,0 +1,5480 @@
+[
+  {
+    "id": "32-05-01-001",
+    "code": "32-05-01-001",
+    "name": "BAUCHI ROAD I",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-002",
+    "code": "32-05-01-002",
+    "name": "BAUCHI ROAD II",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-003",
+    "code": "32-05-01-003",
+    "name": "YAN DOKA TURAKI I",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-004",
+    "code": "32-05-01-004",
+    "name": "YAN DOKA TURAKI II",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-005",
+    "code": "32-05-01-005",
+    "name": "LAWAN NA ROGO",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-006",
+    "code": "32-05-01-006",
+    "name": "SCHOOL LANE I",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-007",
+    "code": "32-05-01-007",
+    "name": "SCHOOL LANE II",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-008",
+    "code": "32-05-01-008",
+    "name": "AUDUN KENKEN I",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-009",
+    "code": "32-05-01-009",
+    "name": "MAMMAN BORNO I",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-010",
+    "code": "32-05-01-010",
+    "name": "MAMMAN BORNO II",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-011",
+    "code": "32-05-01-011",
+    "name": "ABBA NA SHEHU I",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-012",
+    "code": "32-05-01-012",
+    "name": "ABBA NA SHEHU II",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-013",
+    "code": "32-05-01-013",
+    "name": "ABBA NA SHEHU III",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-014",
+    "code": "32-05-01-014",
+    "name": "KOFAR SARKIN KUBI",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-015",
+    "code": "32-05-01-015",
+    "name": "GARBA JIBIYA",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-016",
+    "code": "32-05-01-016",
+    "name": "IDI MAI BORKONO",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-017",
+    "code": "32-05-01-017",
+    "name": "MASS JUMMA'A STREET",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-018",
+    "code": "32-05-01-018",
+    "name": "AUDU LANE",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-019",
+    "code": "32-05-01-019",
+    "name": "TURAKI LANE",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-020",
+    "code": "32-05-01-020",
+    "name": "MANGO STREET",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-021",
+    "code": "32-05-01-021",
+    "name": "YAN REKE",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-022",
+    "code": "32-05-01-022",
+    "name": "INUWA KANO",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-023",
+    "code": "32-05-01-023",
+    "name": "BAKANO LANE",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-024",
+    "code": "32-05-01-024",
+    "name": "SCHOOL LANE III",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-025",
+    "code": "32-05-01-025",
+    "name": "MAMMAN BORNO III",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-026",
+    "code": "32-05-01-026",
+    "name": "MASSALACI JUMMA'A STR. I",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-027",
+    "code": "32-05-01-027",
+    "name": "AUDU KENKEN",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-028",
+    "code": "32-05-01-028",
+    "name": "BAUCHI ROAD III",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-029",
+    "code": "32-05-01-029",
+    "name": "MASSALACI JUMMA'A STR. II",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-030",
+    "code": "32-05-01-030",
+    "name": "BAUCHI ROAD IV",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-031",
+    "code": "32-05-01-031",
+    "name": "BAUCHI ROAD V",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-032",
+    "code": "32-05-01-032",
+    "name": "ISLAMIYA PRI SCH",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-033",
+    "code": "32-05-01-033",
+    "name": "POLICE BARRACKS",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-034",
+    "code": "32-05-01-034",
+    "name": "AUDU KEN KEN II",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-035",
+    "code": "32-05-01-035",
+    "name": "MAMAN BORNO III",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-036",
+    "code": "32-05-01-036",
+    "name": "ABBA NA SHEHU VII",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-037",
+    "code": "32-05-01-037",
+    "name": "ABBA NA SHEHU VIII",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-038",
+    "code": "32-05-01-038",
+    "name": "YAN TIPA",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-039",
+    "code": "32-05-01-039",
+    "name": "ABBA NA SHEHU IV",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-040",
+    "code": "32-05-01-040",
+    "name": "GARBA JIBIYA II",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-041",
+    "code": "32-05-01-041",
+    "name": "MASS JUMMA'A STREET VI",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-042",
+    "code": "32-05-01-042",
+    "name": "DODAN",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-043",
+    "code": "32-05-01-043",
+    "name": "GIDAN DOKI",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-044",
+    "code": "32-05-01-044",
+    "name": "MANGO STREET II",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-045",
+    "code": "32-05-01-045",
+    "name": "YAN RINI",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-046",
+    "code": "32-05-01-046",
+    "name": "INUWA KANO II",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-047",
+    "code": "32-05-01-047",
+    "name": "NEW MARKET SCHOOL LANE",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-048",
+    "code": "32-05-01-048",
+    "name": "MAMMAN BORNO IV",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-049",
+    "code": "32-05-01-049",
+    "name": "MASSALACHI JUMMA'A STREET V",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-050",
+    "code": "32-05-01-050",
+    "name": "A. HAMMA",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-051",
+    "code": "32-05-01-051",
+    "name": "YAN DUTSE",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-052",
+    "code": "32-05-01-052",
+    "name": "MASSALACHI JUMMA'A STREET III",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-01-053",
+    "code": "32-05-01-053",
+    "name": "FIRE SERVICE",
+    "wardId": "jos-north__ward-01"
+  },
+  {
+    "id": "32-05-02-001",
+    "code": "32-05-02-001",
+    "name": "ABDULSALAMI ST. I",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-002",
+    "code": "32-05-02-002",
+    "name": "NEW MARKET",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-003",
+    "code": "32-05-02-003",
+    "name": "KOFAR MAI UNGWA I",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-004",
+    "code": "32-05-02-004",
+    "name": "KOFAR MAI UNGWA II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-005",
+    "code": "32-05-02-005",
+    "name": "ALH. UMAR LANE I",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-006",
+    "code": "32-05-02-006",
+    "name": "ALH. UMAR LANE II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-007",
+    "code": "32-05-02-007",
+    "name": "SARKI MANGU STREET",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-008",
+    "code": "32-05-02-008",
+    "name": "LAMBERT STREET",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-009",
+    "code": "32-05-02-009",
+    "name": "UNG. DALYOP JUNCTION I",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-010",
+    "code": "32-05-02-010",
+    "name": "IDI MAI BORKONO",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-011",
+    "code": "32-05-02-011",
+    "name": "EMENIKE STREET",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-012",
+    "code": "32-05-02-012",
+    "name": "UNG. DALYOP JUNCTION II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-013",
+    "code": "32-05-02-013",
+    "name": "HARUNA HADEJA",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-014",
+    "code": "32-05-02-014",
+    "name": "LASISI MAKANJUOLA",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-015",
+    "code": "32-05-02-015",
+    "name": "AMINGO JUNCTION I",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-016",
+    "code": "32-05-02-016",
+    "name": "KOFAR MAI UNGWA III",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-017",
+    "code": "32-05-02-017",
+    "name": "MONEDO STREET",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-018",
+    "code": "32-05-02-018",
+    "name": "ALI KAZAURE",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-019",
+    "code": "32-05-02-019",
+    "name": "LGED SCHOOL",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-020",
+    "code": "32-05-02-020",
+    "name": "MALLAM KURE ST.",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-021",
+    "code": "32-05-02-021",
+    "name": "ASIBITIN KUTARE",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-022",
+    "code": "32-05-02-022",
+    "name": "MOSES ANYANSI ST.",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-023",
+    "code": "32-05-02-023",
+    "name": "NEW MARKET I",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-024",
+    "code": "32-05-02-024",
+    "name": "COMMUNITY CENTRE",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-025",
+    "code": "32-05-02-025",
+    "name": "HALIRU STREET",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-026",
+    "code": "32-05-02-026",
+    "name": "ABDULSALAMI ST. II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-027",
+    "code": "32-05-02-027",
+    "name": "ISHAKU GWAMNA ST.",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-028",
+    "code": "32-05-02-028",
+    "name": "KOFAR YAHAI MAITAYA",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-029",
+    "code": "32-05-02-029",
+    "name": "FED. HOTEL JUNCTION",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-030",
+    "code": "32-05-02-030",
+    "name": "COMMUNITY CENTRE",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-031",
+    "code": "32-05-02-031",
+    "name": "RELEVANT TECH",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-032",
+    "code": "32-05-02-032",
+    "name": "NURUDEEN TOWNSHIP SCH.",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-033",
+    "code": "32-05-02-033",
+    "name": "MUDI NA GARBA",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-034",
+    "code": "32-05-02-034",
+    "name": "YAN KAJI",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-035",
+    "code": "32-05-02-035",
+    "name": "ALI KAZAURE ST.",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-036",
+    "code": "32-05-02-036",
+    "name": "OSUMENYI STREET",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-037",
+    "code": "32-05-02-037",
+    "name": "NEW MARKET II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-038",
+    "code": "32-05-02-038",
+    "name": "AMINGO JUNCTION II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-039",
+    "code": "32-05-02-039",
+    "name": "AREA COURT",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-040",
+    "code": "32-05-02-040",
+    "name": "ASIBITIN KUTARE II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-041",
+    "code": "32-05-02-041",
+    "name": "EASTERN GATE I",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-042",
+    "code": "32-05-02-042",
+    "name": "MTN MAST",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-043",
+    "code": "32-05-02-043",
+    "name": "PHC",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-044",
+    "code": "32-05-02-044",
+    "name": "IDI MAI BORKONO II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-045",
+    "code": "32-05-02-045",
+    "name": "TRANSFORMER",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-046",
+    "code": "32-05-02-046",
+    "name": "FIRST GATE FILIN IDI",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-047",
+    "code": "32-05-02-047",
+    "name": "BEHIND MTN MAST",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-048",
+    "code": "32-05-02-048",
+    "name": "KOFAR MAI UNG IV",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-049",
+    "code": "32-05-02-049",
+    "name": "MONEDO STREET I",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-050",
+    "code": "32-05-02-050",
+    "name": "KASUWAN NAMA I",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-051",
+    "code": "32-05-02-051",
+    "name": "KASUWAN NAMA II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-052",
+    "code": "32-05-02-052",
+    "name": "MONEDO JUNCTION",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-053",
+    "code": "32-05-02-053",
+    "name": "MUDI NA GARBA II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-054",
+    "code": "32-05-02-054",
+    "name": "DUTSE MAI WANKIN HULA",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-055",
+    "code": "32-05-02-055",
+    "name": "YAN KABEJI",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-056",
+    "code": "32-05-02-056",
+    "name": "EASTERN GATE",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-057",
+    "code": "32-05-02-057",
+    "name": "NURUDEEN TOWNSHIP SCH III",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-058",
+    "code": "32-05-02-058",
+    "name": "MUDI NA GARBA II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-059",
+    "code": "32-05-02-059",
+    "name": "YAN BULALA",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-02-060",
+    "code": "32-05-02-060",
+    "name": "ANGWAN DALYOP II",
+    "wardId": "jos-north__ward-02"
+  },
+  {
+    "id": "32-05-03-001",
+    "code": "32-05-03-001",
+    "name": "SARKI STREET",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-002",
+    "code": "32-05-03-002",
+    "name": "GALADIMA STREET",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-003",
+    "code": "32-05-03-003",
+    "name": "ALH. FADI STREET I",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-004",
+    "code": "32-05-03-004",
+    "name": "COLE STREET",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-005",
+    "code": "32-05-03-005",
+    "name": "PUMP STREET",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-006",
+    "code": "32-05-03-006",
+    "name": "BAUCHI ROAD",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-007",
+    "code": "32-05-03-007",
+    "name": "NDU STREET",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-008",
+    "code": "32-05-03-008",
+    "name": "KASUWA DARE I",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-009",
+    "code": "32-05-03-009",
+    "name": "KASUWA DARE II",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-010",
+    "code": "32-05-03-010",
+    "name": "AYENI STREET I",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-011",
+    "code": "32-05-03-011",
+    "name": "AYENI STREET II",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-012",
+    "code": "32-05-03-012",
+    "name": "BUTCHER LANE",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-013",
+    "code": "32-05-03-013",
+    "name": "SANI STREET",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-014",
+    "code": "32-05-03-014",
+    "name": "YAN TAYA",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-015",
+    "code": "32-05-03-015",
+    "name": "YAN TINKA",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-016",
+    "code": "32-05-03-016",
+    "name": "MEGA STREET",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-017",
+    "code": "32-05-03-017",
+    "name": "YAN DOYA",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-018",
+    "code": "32-05-03-018",
+    "name": "KASUWA DARE JUNCTION",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-019",
+    "code": "32-05-03-019",
+    "name": "SARKI STREET",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-020",
+    "code": "32-05-03-020",
+    "name": "YAN TAYA JUNCTION",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-021",
+    "code": "32-05-03-021",
+    "name": "GALADIMA ST. JUNCTION",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-022",
+    "code": "32-05-03-022",
+    "name": "DILIMI STREET (BEHIND CARDINAL ROAD)",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-023",
+    "code": "32-05-03-023",
+    "name": "ALH. FADI STREET II",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-024",
+    "code": "32-05-03-024",
+    "name": "COLE STREET JUNCTION",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-025",
+    "code": "32-05-03-025",
+    "name": "MASSALACI DILIMI STREET",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-026",
+    "code": "32-05-03-026",
+    "name": "YAN KATIFA DILIMI",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-027",
+    "code": "32-05-03-027",
+    "name": "UNITY PLAZA",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-028",
+    "code": "32-05-03-028",
+    "name": "JUBULEE UP",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-029",
+    "code": "32-05-03-029",
+    "name": "WEST MINISTER",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-030",
+    "code": "32-05-03-030",
+    "name": "BUTCHER LANE II",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-031",
+    "code": "32-05-03-031",
+    "name": "GIDAN MAKARANTA",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-032",
+    "code": "32-05-03-032",
+    "name": "MAI FATA",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-033",
+    "code": "32-05-03-033",
+    "name": "YAN GANDA",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-034",
+    "code": "32-05-03-034",
+    "name": "YAN GWAN GWAN",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-035",
+    "code": "32-05-03-035",
+    "name": "YAN DOYA II",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-036",
+    "code": "32-05-03-036",
+    "name": "PHC DILIMI",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-037",
+    "code": "32-05-03-037",
+    "name": "AYENI JUNCTION",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-038",
+    "code": "32-05-03-038",
+    "name": "YAN TSIRE",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-039",
+    "code": "32-05-03-039",
+    "name": "COLE STR JUNCTION III",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-03-040",
+    "code": "32-05-03-040",
+    "name": "YAN KATIFA II",
+    "wardId": "jos-north__ward-03"
+  },
+  {
+    "id": "32-05-04-001",
+    "code": "32-05-04-001",
+    "name": "GSS GANGARE I",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-002",
+    "code": "32-05-04-002",
+    "name": "GSS   GANGARE",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-003",
+    "code": "32-05-04-003",
+    "name": "KOFAR MAI SAJE I",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-004",
+    "code": "32-05-04-004",
+    "name": "KOFAR MAI SAJE II",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-005",
+    "code": "32-05-04-005",
+    "name": "PARENTIN ITACHE",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-006",
+    "code": "32-05-04-006",
+    "name": "K/ALH. GAMBO",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-007",
+    "code": "32-05-04-007",
+    "name": "YAN KASHI I",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-008",
+    "code": "32-05-04-008",
+    "name": "YAN KASHI II",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-009",
+    "code": "32-05-04-009",
+    "name": "K/MAL. MUSA",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-010",
+    "code": "32-05-04-010",
+    "name": "RICHARD WAY",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-011",
+    "code": "32-05-04-011",
+    "name": "POST OFFICE",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-012",
+    "code": "32-05-04-012",
+    "name": "RAILWAY STATION",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-013",
+    "code": "32-05-04-013",
+    "name": "MURTALA WAY",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-014",
+    "code": "32-05-04-014",
+    "name": "KOFAR MAGAJI",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-015",
+    "code": "32-05-04-015",
+    "name": "DAKIN MITIN",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-016",
+    "code": "32-05-04-016",
+    "name": "K/SARKIN DOGARAI",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-017",
+    "code": "32-05-04-017",
+    "name": "KOFAR SHEHU",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-018",
+    "code": "32-05-04-018",
+    "name": "KOFAR YAYA",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-019",
+    "code": "32-05-04-019",
+    "name": "KOFAR KATAGUM",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-020",
+    "code": "32-05-04-020",
+    "name": "GSS GANGARE II",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-021",
+    "code": "32-05-04-021",
+    "name": "SABON LAYI STREET",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-022",
+    "code": "32-05-04-022",
+    "name": "GSS GANGARE JUNCTION",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-023",
+    "code": "32-05-04-023",
+    "name": "GANG-GARAN CHURCH",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-024",
+    "code": "32-05-04-024",
+    "name": "ANGWAN AUWALUNA AGA",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-025",
+    "code": "32-05-04-025",
+    "name": "MAI SAJE III",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-026",
+    "code": "32-05-04-026",
+    "name": "ZARAMI YAN-GADA",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-027",
+    "code": "32-05-04-027",
+    "name": "SARKIN FULANI STR",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-028",
+    "code": "32-05-04-028",
+    "name": "ADAMAWA CLUB",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-029",
+    "code": "32-05-04-029",
+    "name": "RAILWAY QUARTERS II",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-030",
+    "code": "32-05-04-030",
+    "name": "RAILWAY QUARTERS I",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-031",
+    "code": "32-05-04-031",
+    "name": "YAN-KASHI",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-032",
+    "code": "32-05-04-032",
+    "name": "OLD PLATEAU RIDERS",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-033",
+    "code": "32-05-04-033",
+    "name": "OLD CAMPUS UNI JOS",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-034",
+    "code": "32-05-04-034",
+    "name": "GANDA HOUSE",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-035",
+    "code": "32-05-04-035",
+    "name": "KASUWA DOLE",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-036",
+    "code": "32-05-04-036",
+    "name": "SANI GANGARE STR",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-037",
+    "code": "32-05-04-037",
+    "name": "OLD DAKIN MITIN",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-038",
+    "code": "32-05-04-038",
+    "name": "SALE HASSAN STREET",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-039",
+    "code": "32-05-04-039",
+    "name": "LAMBU ALH CLOSE",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-040",
+    "code": "32-05-04-040",
+    "name": "KOFAR CHIROMA",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-04-041",
+    "code": "32-05-04-041",
+    "name": "IBRAHIM SALE HASSAN STR",
+    "wardId": "jos-north__ward-04"
+  },
+  {
+    "id": "32-05-05-001",
+    "code": "32-05-05-001",
+    "name": "ADEBAYO STREET",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-002",
+    "code": "32-05-05-002",
+    "name": "KOLO STREET",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-003",
+    "code": "32-05-05-003",
+    "name": "BAUCHI ROAD I",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-004",
+    "code": "32-05-05-004",
+    "name": "DROVERS LANE",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-005",
+    "code": "32-05-05-005",
+    "name": "BEHIND DILIMI",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-006",
+    "code": "32-05-05-006",
+    "name": "NDU STREET",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-007",
+    "code": "32-05-05-007",
+    "name": "COLE STREET",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-008",
+    "code": "32-05-05-008",
+    "name": "SARKI STREET I",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-009",
+    "code": "32-05-05-009",
+    "name": "SARKI STREET II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-010",
+    "code": "32-05-05-010",
+    "name": "BUZU STREET I",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-011",
+    "code": "32-05-05-011",
+    "name": "BUZU STREET II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-012",
+    "code": "32-05-05-012",
+    "name": "BAUCHI ROAD II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-013",
+    "code": "32-05-05-013",
+    "name": "DAN  MARAYA",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-014",
+    "code": "32-05-05-014",
+    "name": "SABUWAR UNGUWA I",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-015",
+    "code": "32-05-05-015",
+    "name": "BUTCHER LANE",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-016",
+    "code": "32-05-05-016",
+    "name": "DILIMI",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-017",
+    "code": "32-05-05-017",
+    "name": "BEHIND DILIMI",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-018",
+    "code": "32-05-05-018",
+    "name": "LABOUR OFFICE",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-019",
+    "code": "32-05-05-019",
+    "name": "LUNGUN MAKAFI",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-020",
+    "code": "32-05-05-020",
+    "name": "FARIN WATA",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-021",
+    "code": "32-05-05-021",
+    "name": "ZOLOLO JUNCTION",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-022",
+    "code": "32-05-05-022",
+    "name": "DOGON AGOGO",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-023",
+    "code": "32-05-05-023",
+    "name": "BAUCHI ROAD III",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-024",
+    "code": "32-05-05-024",
+    "name": "LABOUR OFFICE JUNCTION",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-025",
+    "code": "32-05-05-025",
+    "name": "SABUWAR UNGWA II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-026",
+    "code": "32-05-05-026",
+    "name": "PUMP STREET",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-027",
+    "code": "32-05-05-027",
+    "name": "BEHIND DILIMI  I",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-028",
+    "code": "32-05-05-028",
+    "name": "YAN SOSO",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-029",
+    "code": "32-05-05-029",
+    "name": "SARKIN STREET II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-030",
+    "code": "32-05-05-030",
+    "name": "DAN MARAYA II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-031",
+    "code": "32-05-05-031",
+    "name": "BUTCHER LANE II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-032",
+    "code": "32-05-05-032",
+    "name": "GADAN SOGAI",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-033",
+    "code": "32-05-05-033",
+    "name": "BEHIND DILIMI II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-034",
+    "code": "32-05-05-034",
+    "name": "ZOLOLO JUNCTION II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-035",
+    "code": "32-05-05-035",
+    "name": "DOGON AGOGO II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-036",
+    "code": "32-05-05-036",
+    "name": "BAUCHI ROAD II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-05-037",
+    "code": "32-05-05-037",
+    "name": "LABOUR OFFICE JUNC. II",
+    "wardId": "jos-north__ward-05"
+  },
+  {
+    "id": "32-05-06-001",
+    "code": "32-05-06-001",
+    "name": "PLATEAU HOSPITAL JUNCTION",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-002",
+    "code": "32-05-06-002",
+    "name": "HILL STATION JUNCTION I",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-003",
+    "code": "32-05-06-003",
+    "name": "UNG. MARKERI  JUNCTION",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-004",
+    "code": "32-05-06-004",
+    "name": "PRESIDONIA J/ADAMU I",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-005",
+    "code": "32-05-06-005",
+    "name": "NTA QTRS J/ADAMU I",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-006",
+    "code": "32-05-06-006",
+    "name": "POLO GROUND",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-007",
+    "code": "32-05-06-007",
+    "name": "JENTA KASSA",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-008",
+    "code": "32-05-06-008",
+    "name": "ST. LUKES PRY. SCHOOL I",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-009",
+    "code": "32-05-06-009",
+    "name": "WARDERS CLUB I",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-010",
+    "code": "32-05-06-010",
+    "name": "HAUSA ROAD",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-011",
+    "code": "32-05-06-011",
+    "name": "PLATEAU HOSPITAL I",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-012",
+    "code": "32-05-06-012",
+    "name": "NOAD ROAD",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-013",
+    "code": "32-05-06-013",
+    "name": "OLD BUKURU ROAD",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-014",
+    "code": "32-05-06-014",
+    "name": "JENTA MANGORO",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-015",
+    "code": "32-05-06-015",
+    "name": "UNG. JENTA MAKERI",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-016",
+    "code": "32-05-06-016",
+    "name": "RIYOM DRIVE",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-017",
+    "code": "32-05-06-017",
+    "name": "JENTA TUDUN J/ADAMU",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-018",
+    "code": "32-05-06-018",
+    "name": "PLATEAU HOTEL JUNCTION",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-019",
+    "code": "32-05-06-019",
+    "name": "PRESIDONIA J/ADAMU II",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-020",
+    "code": "32-05-06-020",
+    "name": "ST. LUKES PRY. SCHOOL II",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-021",
+    "code": "32-05-06-021",
+    "name": "WARDERS CLUB II",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-022",
+    "code": "32-05-06-022",
+    "name": "PLATEAU HOSPITAL II",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-023",
+    "code": "32-05-06-023",
+    "name": "HILL STATION JUNCTION II",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-024",
+    "code": "32-05-06-024",
+    "name": "NTA QUARTERS J/ADAMU II",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-025",
+    "code": "32-05-06-025",
+    "name": "DENTAL HOSPITAL GATE",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-026",
+    "code": "32-05-06-026",
+    "name": "RAILWAY OPP. PLA. STATE WATER BOARD",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-027",
+    "code": "32-05-06-027",
+    "name": "HIGH COURT JUNCTION",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-028",
+    "code": "32-05-06-028",
+    "name": "SHENDAM COURT YARD JUNCTION",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-029",
+    "code": "32-05-06-029",
+    "name": "OPP. SHEKINAH HIGH SCH",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-030",
+    "code": "32-05-06-030",
+    "name": "POLICE OUTPOST J/ADAMU",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-031",
+    "code": "32-05-06-031",
+    "name": "OPP. NTA QTRS JENTA ADAMU",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-032",
+    "code": "32-05-06-032",
+    "name": "POLO GARDEN OPP. POLO GROUND",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-033",
+    "code": "32-05-06-033",
+    "name": "JENTA KASSA II",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-034",
+    "code": "32-05-06-034",
+    "name": "ST. LUKES PRI. SCH. III",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-035",
+    "code": "32-05-06-035",
+    "name": "JOS FLOUR MILL",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-036",
+    "code": "32-05-06-036",
+    "name": "JENTA MANGORO FIELD",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-037",
+    "code": "32-05-06-037",
+    "name": "SHALLOM JENTA MANGORO",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-038",
+    "code": "32-05-06-038",
+    "name": "READ LIBRARY",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-039",
+    "code": "32-05-06-039",
+    "name": "OPP. MIRIAM KIDDY SCH",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-040",
+    "code": "32-05-06-040",
+    "name": "UNG PETER JENTA MANGORO",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-041",
+    "code": "32-05-06-041",
+    "name": "JENTA DAWAKI",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-042",
+    "code": "32-05-06-042",
+    "name": "UNDER MANGO TREE",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-043",
+    "code": "32-05-06-043",
+    "name": "OPP. REALITY PRIVATE SCH",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-044",
+    "code": "32-05-06-044",
+    "name": "GRACE VICTORY",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-045",
+    "code": "32-05-06-045",
+    "name": "POLICE BARRACK LAUNDRY",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-06-046",
+    "code": "32-05-06-046",
+    "name": "WASE CLOSE ROUND ABOUT",
+    "wardId": "jos-north__ward-06"
+  },
+  {
+    "id": "32-05-07-001",
+    "code": "32-05-07-001",
+    "name": "APATA I",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-002",
+    "code": "32-05-07-002",
+    "name": "APATA II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-003",
+    "code": "32-05-07-003",
+    "name": "UNITY JUNCTION I",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-004",
+    "code": "32-05-07-004",
+    "name": "UNITY JUNCTION II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-005",
+    "code": "32-05-07-005",
+    "name": "MAICHIBI STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-006",
+    "code": "32-05-07-006",
+    "name": "AFODUME STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-007",
+    "code": "32-05-07-007",
+    "name": "OJUKWU STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-008",
+    "code": "32-05-07-008",
+    "name": "OKPORIDO STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-009",
+    "code": "32-05-07-009",
+    "name": "LAMBU VALLEY I",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-010",
+    "code": "32-05-07-010",
+    "name": "LAMBU VALLEY II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-011",
+    "code": "32-05-07-011",
+    "name": "LARANTO LOOP",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-012",
+    "code": "32-05-07-012",
+    "name": "RAFIN PA I",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-013",
+    "code": "32-05-07-013",
+    "name": "SDA PRY. SCHOOL",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-014",
+    "code": "32-05-07-014",
+    "name": "LARANTO MARKET I",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-015",
+    "code": "32-05-07-015",
+    "name": "LARANTO MARKET II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-016",
+    "code": "32-05-07-016",
+    "name": "GSS LARANTO",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-017",
+    "code": "32-05-07-017",
+    "name": "KATAKO BRIDGE",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-018",
+    "code": "32-05-07-018",
+    "name": "RAFIN PA II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-019",
+    "code": "32-05-07-019",
+    "name": "APATA III",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-020",
+    "code": "32-05-07-020",
+    "name": "JENTA MIANGO",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-021",
+    "code": "32-05-07-021",
+    "name": "BUSA BUJI STREET I",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-022",
+    "code": "32-05-07-022",
+    "name": "DANJA STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-023",
+    "code": "32-05-07-023",
+    "name": "ADETUTU STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-024",
+    "code": "32-05-07-024",
+    "name": "ZAKARIYA DIMKAT STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-025",
+    "code": "32-05-07-025",
+    "name": "BASE SUPREME JUNCTION",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-026",
+    "code": "32-05-07-026",
+    "name": "TEMPEST PRY. SCHOOL",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-027",
+    "code": "32-05-07-027",
+    "name": "YAN TIMBA LANE I",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-028",
+    "code": "32-05-07-028",
+    "name": "PEOPLE'S HOTEL JUNCTION",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-029",
+    "code": "32-05-07-029",
+    "name": "SALAMA PRIVATE SCHOOL",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-030",
+    "code": "32-05-07-030",
+    "name": "APATA IV",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-031",
+    "code": "32-05-07-031",
+    "name": "BUSA BUJI STREET II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-032",
+    "code": "32-05-07-032",
+    "name": "S.D.A PRIMARY SCHOOL",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-033",
+    "code": "32-05-07-033",
+    "name": "PEOPLE'S HOTEL JUNCTION",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-034",
+    "code": "32-05-07-034",
+    "name": "YAN TIMBER LANE II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-035",
+    "code": "32-05-07-035",
+    "name": "UNIJOS HOTEL",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-036",
+    "code": "32-05-07-036",
+    "name": "APATA IV",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-037",
+    "code": "32-05-07-037",
+    "name": "UNIJOS QTRS APATA",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-038",
+    "code": "32-05-07-038",
+    "name": "PHC JENTA APATA",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-039",
+    "code": "32-05-07-039",
+    "name": "IDIKA STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-040",
+    "code": "32-05-07-040",
+    "name": "JUBULEE HOTEL J/APATA",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-041",
+    "code": "32-05-07-041",
+    "name": "MAICHIBI STREET III",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-042",
+    "code": "32-05-07-042",
+    "name": "LARANTO LOOP II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-043",
+    "code": "32-05-07-043",
+    "name": "RUWA BIYU",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-044",
+    "code": "32-05-07-044",
+    "name": "NA ZURU STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-045",
+    "code": "32-05-07-045",
+    "name": "ADUNGU STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-046",
+    "code": "32-05-07-046",
+    "name": "MONASTERY JUNCTION",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-047",
+    "code": "32-05-07-047",
+    "name": "UNG. KENCHI",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-048",
+    "code": "32-05-07-048",
+    "name": "KARSHEN KWALTA",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-049",
+    "code": "32-05-07-049",
+    "name": "ZIRARE",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-050",
+    "code": "32-05-07-050",
+    "name": "EJIMBE SNR",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-051",
+    "code": "32-05-07-051",
+    "name": "CHOLLOM STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-052",
+    "code": "32-05-07-052",
+    "name": "JENTA MIANGO II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-053",
+    "code": "32-05-07-053",
+    "name": "BUSA BUJI III",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-054",
+    "code": "32-05-07-054",
+    "name": "BUSA BUJI IV",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-055",
+    "code": "32-05-07-055",
+    "name": "ADETUTU STREET II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-056",
+    "code": "32-05-07-056",
+    "name": "BEHIND TEMPEST",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-057",
+    "code": "32-05-07-057",
+    "name": "PEOPLE'S HOTEL JUNCTION II",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-058",
+    "code": "32-05-07-058",
+    "name": "UNIJOS QTRS IDIKA STR",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-059",
+    "code": "32-05-07-059",
+    "name": "GLORY CLINIC",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-07-060",
+    "code": "32-05-07-060",
+    "name": "LOMAK STREET",
+    "wardId": "jos-north__ward-07"
+  },
+  {
+    "id": "32-05-08-001",
+    "code": "32-05-08-001",
+    "name": "ITSITSA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-002",
+    "code": "32-05-08-002",
+    "name": "UNG. KAZEAZI",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-003",
+    "code": "32-05-08-003",
+    "name": "JOS JARAWA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-004",
+    "code": "32-05-08-004",
+    "name": "UNG. CHIROMA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-005",
+    "code": "32-05-08-005",
+    "name": "UNG. MANU AZI I",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-006",
+    "code": "32-05-08-006",
+    "name": "UNG. MANU AZI II",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-007",
+    "code": "32-05-08-007",
+    "name": "LGED RIKKOS",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-008",
+    "code": "32-05-08-008",
+    "name": "BAPTIST LAYOUT",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-009",
+    "code": "32-05-08-009",
+    "name": "UNG. AZI ITSE",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-010",
+    "code": "32-05-08-010",
+    "name": "LIBERTY LAYOUT",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-011",
+    "code": "32-05-08-011",
+    "name": "DUTSE UKU",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-012",
+    "code": "32-05-08-012",
+    "name": "KWANGA 'B'",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-013",
+    "code": "32-05-08-013",
+    "name": "BAPTIST GWAFAN",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-014",
+    "code": "32-05-08-014",
+    "name": "NUPIS",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-015",
+    "code": "32-05-08-015",
+    "name": "FURAKA VILLAGE",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-016",
+    "code": "32-05-08-016",
+    "name": "UNG. WAKILI I",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-017",
+    "code": "32-05-08-017",
+    "name": "UNG. WAKILI II",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-018",
+    "code": "32-05-08-018",
+    "name": "KATON RIKKOS",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-019",
+    "code": "32-05-08-019",
+    "name": "DNCR",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-020",
+    "code": "32-05-08-020",
+    "name": "UNG. KAZE",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-021",
+    "code": "32-05-08-021",
+    "name": "UNG. NYAM BAKA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-022",
+    "code": "32-05-08-022",
+    "name": "RIGUNG GWASH",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-023",
+    "code": "32-05-08-023",
+    "name": "YAN TRAILER",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-024",
+    "code": "32-05-08-024",
+    "name": "ANOTHER LIFE VILLAGE",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-025",
+    "code": "32-05-08-025",
+    "name": "UNG. UBAN DOMA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-026",
+    "code": "32-05-08-026",
+    "name": "LAMINGO JUNCTION",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-027",
+    "code": "32-05-08-027",
+    "name": "LEA LAMINGO",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-028",
+    "code": "32-05-08-028",
+    "name": "UNG. AGIDI RIKKOS",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-029",
+    "code": "32-05-08-029",
+    "name": "RIKKOS CENTRE",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-030",
+    "code": "32-05-08-030",
+    "name": "JOS JARAWA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-031",
+    "code": "32-05-08-031",
+    "name": "PHC GWAFAN I",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-032",
+    "code": "32-05-08-032",
+    "name": "PHC GWAFAN II",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-033",
+    "code": "32-05-08-033",
+    "name": "GWASH VILLAGE",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-034",
+    "code": "32-05-08-034",
+    "name": "BAPTIST PRY. SCHOOL",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-035",
+    "code": "32-05-08-035",
+    "name": "UNG. WAKILI III",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-036",
+    "code": "32-05-08-036",
+    "name": "UNG. CHIROMA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-037",
+    "code": "32-05-08-037",
+    "name": "ROKKOS CENTRE",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-038",
+    "code": "32-05-08-038",
+    "name": "ATY AKANI",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-039",
+    "code": "32-05-08-039",
+    "name": "ABAR ASENG",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-040",
+    "code": "32-05-08-040",
+    "name": "UNG AGIK AGWOM I",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-041",
+    "code": "32-05-08-041",
+    "name": "KABEN AKATONG",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-042",
+    "code": "32-05-08-042",
+    "name": "AHZI ITSE",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-043",
+    "code": "32-05-08-043",
+    "name": "GINDIN ATILE",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-044",
+    "code": "32-05-08-044",
+    "name": "KASUWAN MATA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-045",
+    "code": "32-05-08-045",
+    "name": "MADAKI NYAM IZANG",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-046",
+    "code": "32-05-08-046",
+    "name": "KAWAR ISHA ABOK",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-047",
+    "code": "32-05-08-047",
+    "name": "AZI MAGAGI",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-048",
+    "code": "32-05-08-048",
+    "name": "KAWAR AJIK SAMBO",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-049",
+    "code": "32-05-08-049",
+    "name": "KAWAR AJANG ADIJA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-050",
+    "code": "32-05-08-050",
+    "name": "IBIGAK JOS NORTH",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-051",
+    "code": "32-05-08-051",
+    "name": "ISHONG AGWOM",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-052",
+    "code": "32-05-08-052",
+    "name": "ARIN IZANG",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-053",
+    "code": "32-05-08-053",
+    "name": "KYAN",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-054",
+    "code": "32-05-08-054",
+    "name": "KAWAR ATSI AJANG",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-055",
+    "code": "32-05-08-055",
+    "name": "KAWAR ATU AJIK",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-056",
+    "code": "32-05-08-056",
+    "name": "GADAR KATAKO",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-057",
+    "code": "32-05-08-057",
+    "name": "WALIN KATANA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-058",
+    "code": "32-05-08-058",
+    "name": "RIJAYA TARA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-059",
+    "code": "32-05-08-059",
+    "name": "COMMUNITY SCHOOL RIKKOS",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-060",
+    "code": "32-05-08-060",
+    "name": "RIKKO AMANA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-061",
+    "code": "32-05-08-061",
+    "name": "KAZU KYAN",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-062",
+    "code": "32-05-08-062",
+    "name": "NUKDIS KABEN",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-063",
+    "code": "32-05-08-063",
+    "name": "GSS LAMINGO GWAFAN",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-064",
+    "code": "32-05-08-064",
+    "name": "KAWAR KAZE KUBEN",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-065",
+    "code": "32-05-08-065",
+    "name": "IREN ISHONG GWAFAN",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-066",
+    "code": "32-05-08-066",
+    "name": "TUDUN TALAKAWA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-067",
+    "code": "32-05-08-067",
+    "name": "ELEVEN LOMA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-068",
+    "code": "32-05-08-068",
+    "name": "AL - UKLAS",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-069",
+    "code": "32-05-08-069",
+    "name": "YAN GANDA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-070",
+    "code": "32-05-08-070",
+    "name": "RADAN RUWA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-071",
+    "code": "32-05-08-071",
+    "name": "RIKKOS FARIN RUWA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-072",
+    "code": "32-05-08-072",
+    "name": "ABUJAN MATA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-073",
+    "code": "32-05-08-073",
+    "name": "MAI MANJA JUNCTION",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-074",
+    "code": "32-05-08-074",
+    "name": "TUDUN OSI",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-075",
+    "code": "32-05-08-075",
+    "name": "RIKKOS MARHABA",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-08-076",
+    "code": "32-05-08-076",
+    "name": "ZAM ZAM RIKKOS",
+    "wardId": "jos-north__ward-08"
+  },
+  {
+    "id": "32-05-09-001",
+    "code": "32-05-09-001",
+    "name": "GADAN BAKO",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-002",
+    "code": "32-05-09-002",
+    "name": "KASUWAN DARE I",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-003",
+    "code": "32-05-09-003",
+    "name": "KASUWAN DARE II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-004",
+    "code": "32-05-09-004",
+    "name": "GADAN SOGAI I",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-005",
+    "code": "32-05-09-005",
+    "name": "GADAN SOGAI II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-006",
+    "code": "32-05-09-006",
+    "name": "GADAN ALASARIN",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-007",
+    "code": "32-05-09-007",
+    "name": "YAN ALIBO",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-008",
+    "code": "32-05-09-008",
+    "name": "UNG. U.N.A I",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-009",
+    "code": "32-05-09-009",
+    "name": "YAMSET CLINIC",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-010",
+    "code": "32-05-09-010",
+    "name": "YAN SHANU I",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-011",
+    "code": "32-05-09-011",
+    "name": "YAN SHANU II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-012",
+    "code": "32-05-09-012",
+    "name": "UNG. AZI (FILIN BALL)",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-013",
+    "code": "32-05-09-013",
+    "name": "UNG. MADAKI I",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-014",
+    "code": "32-05-09-014",
+    "name": "UNG. MADAKI II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-015",
+    "code": "32-05-09-015",
+    "name": "YAN SHANU III",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-016",
+    "code": "32-05-09-016",
+    "name": "YAN SHANU IV",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-017",
+    "code": "32-05-09-017",
+    "name": "YAN ALIBO I",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-018",
+    "code": "32-05-09-018",
+    "name": "UNG. MADAKI III",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-019",
+    "code": "32-05-09-019",
+    "name": "BAPTIST PRY. SCHOOL",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-020",
+    "code": "32-05-09-020",
+    "name": "UNG. U.N.A II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-021",
+    "code": "32-05-09-021",
+    "name": "UNG. U.N.A III",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-022",
+    "code": "32-05-09-022",
+    "name": "U.N.A AREA I",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-023",
+    "code": "32-05-09-023",
+    "name": "U.N.A AREA II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-024",
+    "code": "32-05-09-024",
+    "name": "NEPA JUNCTION",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-025",
+    "code": "32-05-09-025",
+    "name": "PREMIER HOTEL JUNCTION I",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-026",
+    "code": "32-05-09-026",
+    "name": "YAN ALIBO II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-027",
+    "code": "32-05-09-027",
+    "name": "FILIN BALL",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-028",
+    "code": "32-05-09-028",
+    "name": "CONGO JUNCTION",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-029",
+    "code": "32-05-09-029",
+    "name": "UNG. AZI",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-030",
+    "code": "32-05-09-030",
+    "name": "YAMSET CLINIC",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-031",
+    "code": "32-05-09-031",
+    "name": "PREMIER HOTEL JUNCTION II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-032",
+    "code": "32-05-09-032",
+    "name": "GADAN BAKO II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-033",
+    "code": "32-05-09-033",
+    "name": "CORONA JUNCTION",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-034",
+    "code": "32-05-09-034",
+    "name": "GADAN SOGAI III",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-035",
+    "code": "32-05-09-035",
+    "name": "GADAN SOGAI II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-036",
+    "code": "32-05-09-036",
+    "name": "ANGWAN SARKI PAWA",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-037",
+    "code": "32-05-09-037",
+    "name": "YAN SHANU MARKET II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-038",
+    "code": "32-05-09-038",
+    "name": "PHC YAN SHANU",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-039",
+    "code": "32-05-09-039",
+    "name": "YAN SHANU MARKET I",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-040",
+    "code": "32-05-09-040",
+    "name": "UNG MADAKI IV",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-041",
+    "code": "32-05-09-041",
+    "name": "YAN SHANU V",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-042",
+    "code": "32-05-09-042",
+    "name": "BEHIND BAPTIST PRI SCH",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-043",
+    "code": "32-05-09-043",
+    "name": "OPP. BAPTIST PRI SCHOOL",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-044",
+    "code": "32-05-09-044",
+    "name": "BAPTIST JUNCTON",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-045",
+    "code": "32-05-09-045",
+    "name": "ALH. LABARAN STREET",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-046",
+    "code": "32-05-09-046",
+    "name": "FILIN BALL MARKET",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-047",
+    "code": "32-05-09-047",
+    "name": "CONGO JUNCTION II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-09-048",
+    "code": "32-05-09-048",
+    "name": "UNG AZI II",
+    "wardId": "jos-north__ward-09"
+  },
+  {
+    "id": "32-05-10-001",
+    "code": "32-05-10-001",
+    "name": "KONAN SOJA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-002",
+    "code": "32-05-10-002",
+    "name": "GTC JOS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-003",
+    "code": "32-05-10-003",
+    "name": "UBYEL I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-004",
+    "code": "32-05-10-004",
+    "name": "UBYEL II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-005",
+    "code": "32-05-10-005",
+    "name": "UNG. RIMI I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-006",
+    "code": "32-05-10-006",
+    "name": "UNG. RIMI II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-007",
+    "code": "32-05-10-007",
+    "name": "UNG. RIMI III",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-008",
+    "code": "32-05-10-008",
+    "name": "KUNGA 1",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-009",
+    "code": "32-05-10-009",
+    "name": "MAZAH TARSHI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-010",
+    "code": "32-05-10-010",
+    "name": "GWONG",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-011",
+    "code": "32-05-10-011",
+    "name": "BEHWOL PRY. SCHOOL",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-012",
+    "code": "32-05-10-012",
+    "name": "MAZAH LIBA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-013",
+    "code": "32-05-10-013",
+    "name": "MAZAH NAGOHOM",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-014",
+    "code": "32-05-10-014",
+    "name": "F.R.C. ZARIA ROAD",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-015",
+    "code": "32-05-10-015",
+    "name": "UNG. ROGO PRY. SCHOL",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-016",
+    "code": "32-05-10-016",
+    "name": "BEHIN UNIJOS I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-017",
+    "code": "32-05-10-017",
+    "name": "BEHIN UNIJOS II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-018",
+    "code": "32-05-10-018",
+    "name": "MALLAM  CHAI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-019",
+    "code": "32-05-10-019",
+    "name": "GADAN BAUCHI I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-020",
+    "code": "32-05-10-020",
+    "name": "UNIJOS. PRY. SCHOOL I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-021",
+    "code": "32-05-10-021",
+    "name": "UNG. ROGO PRY. SCHOOL I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-022",
+    "code": "32-05-10-022",
+    "name": "UNG. ROGO PRY. SCHOOL II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-023",
+    "code": "32-05-10-023",
+    "name": "UNG. UJAH I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-024",
+    "code": "32-05-10-024",
+    "name": "UNG. UJAH II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-025",
+    "code": "32-05-10-025",
+    "name": "DA DUSU SQUARE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-026",
+    "code": "32-05-10-026",
+    "name": "MISHKAHAM OFFICE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-027",
+    "code": "32-05-10-027",
+    "name": "DA KALMA SQUARE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-028",
+    "code": "32-05-10-028",
+    "name": "UNG. DA MAMMAN DANG",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-029",
+    "code": "32-05-10-029",
+    "name": "CHWELN YAP I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-030",
+    "code": "32-05-10-030",
+    "name": "UNG. DA ADAMU ZANG",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-031",
+    "code": "32-05-10-031",
+    "name": "UNIV. PRY. SCHOOL II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-032",
+    "code": "32-05-10-032",
+    "name": "UNIV. PRY. SCHOOL III",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-033",
+    "code": "32-05-10-033",
+    "name": "GOVT. STAFF QUARTERS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-034",
+    "code": "32-05-10-034",
+    "name": "STUDENT VILLAGE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-035",
+    "code": "32-05-10-035",
+    "name": "SABON LAYI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-036",
+    "code": "32-05-10-036",
+    "name": "NARAGUTA HOSTEL",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-037",
+    "code": "32-05-10-037",
+    "name": "G.S.S. JOS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-038",
+    "code": "32-05-10-038",
+    "name": "GIDAN SARKI FUDAWA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-039",
+    "code": "32-05-10-039",
+    "name": "FUDAWA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-040",
+    "code": "32-05-10-040",
+    "name": "NABOR FUDAWA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-041",
+    "code": "32-05-10-041",
+    "name": "LEGISLATOR'S QUARTERS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-042",
+    "code": "32-05-10-042",
+    "name": "DOGON DUTSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-043",
+    "code": "32-05-10-043",
+    "name": "MAC. WILLIAMS JUNCTION",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-044",
+    "code": "32-05-10-044",
+    "name": "AL-IMAM PRY. SCHOOL",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-045",
+    "code": "32-05-10-045",
+    "name": "UNG. ROGO PRY. SCHOOL III",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-046",
+    "code": "32-05-10-046",
+    "name": "G.S.S. BABALE I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-047",
+    "code": "32-05-10-047",
+    "name": "TARGWONG",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-048",
+    "code": "32-05-10-048",
+    "name": "RAFIN JAKI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-049",
+    "code": "32-05-10-049",
+    "name": "RIGIZA LEA I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-050",
+    "code": "32-05-10-050",
+    "name": "RIGIZA LEA II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-051",
+    "code": "32-05-10-051",
+    "name": "ZOLOLO VILLAGE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-052",
+    "code": "32-05-10-052",
+    "name": "ZANGAM",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-053",
+    "code": "32-05-10-053",
+    "name": "YELWA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-054",
+    "code": "32-05-10-054",
+    "name": "G.S.S. BABALE I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-055",
+    "code": "32-05-10-055",
+    "name": "UNGWA. KEKE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-056",
+    "code": "32-05-10-056",
+    "name": "UNG. RUKUBA I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-057",
+    "code": "32-05-10-057",
+    "name": "UNG. RUKUBA II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-058",
+    "code": "32-05-10-058",
+    "name": "UNG. RUKUBA III",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-059",
+    "code": "32-05-10-059",
+    "name": "AREA COURT",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-060",
+    "code": "32-05-10-060",
+    "name": "RUSAI VILLAGE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-061",
+    "code": "32-05-10-061",
+    "name": "P.H.C UNG. ROGO",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-062",
+    "code": "32-05-10-062",
+    "name": "TAJIR",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-063",
+    "code": "32-05-10-063",
+    "name": "RUSAI VILLAGE I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-064",
+    "code": "32-05-10-064",
+    "name": "MAZAH YAHAM",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-065",
+    "code": "32-05-10-065",
+    "name": "RUSAI VILLAGE II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-066",
+    "code": "32-05-10-066",
+    "name": "MARAH GINZI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-067",
+    "code": "32-05-10-067",
+    "name": "LEGISLATOR'S QUARTERS JUNCTION",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-068",
+    "code": "32-05-10-068",
+    "name": "ASIBITIN DAUDA A/ROGO I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-069",
+    "code": "32-05-10-069",
+    "name": "ASIBITIN DAUDA A/ROGO II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-070",
+    "code": "32-05-10-070",
+    "name": "MALL. CHAI STREET",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-071",
+    "code": "32-05-10-071",
+    "name": "UNG. ROGO PRY. SCHOOL I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-072",
+    "code": "32-05-10-072",
+    "name": "UNG. ROGO PRY. SCHOOL II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-073",
+    "code": "32-05-10-073",
+    "name": "UNG. RIMI IV",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-074",
+    "code": "32-05-10-074",
+    "name": "SENIOR STAFF QUARTERS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-075",
+    "code": "32-05-10-075",
+    "name": "RIZAH",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-076",
+    "code": "32-05-10-076",
+    "name": "UKADUM KUNGA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-077",
+    "code": "32-05-10-077",
+    "name": "AYUMA UPANA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-078",
+    "code": "32-05-10-078",
+    "name": "MAZAH UGITIN",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-079",
+    "code": "32-05-10-079",
+    "name": "YARUJE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-080",
+    "code": "32-05-10-080",
+    "name": "HWOL TITHALAN",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-081",
+    "code": "32-05-10-081",
+    "name": "WATER WORKS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-082",
+    "code": "32-05-10-082",
+    "name": "RHIKUM VILLAGE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-083",
+    "code": "32-05-10-083",
+    "name": "MAZAH JUNCTION",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-084",
+    "code": "32-05-10-084",
+    "name": "RISHARI RHAKUBU",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-085",
+    "code": "32-05-10-085",
+    "name": "ECWA SEMINARY",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-086",
+    "code": "32-05-10-086",
+    "name": "KONAN MUMBUT",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-087",
+    "code": "32-05-10-087",
+    "name": "CHWELN YAP LGEDI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-088",
+    "code": "32-05-10-088",
+    "name": "CHWELN YAP LGEDI II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-089",
+    "code": "32-05-10-089",
+    "name": "YAN TRAILER",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-090",
+    "code": "32-05-10-090",
+    "name": "GREAT COMMISSION",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-091",
+    "code": "32-05-10-091",
+    "name": "UBYAL GOROH",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-092",
+    "code": "32-05-10-092",
+    "name": "UNG. MALLAM. CHAI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-093",
+    "code": "32-05-10-093",
+    "name": "UNG. UJAH",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-094",
+    "code": "32-05-10-094",
+    "name": "MARKUS ISHAYA LOOP",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-095",
+    "code": "32-05-10-095",
+    "name": "SANI SANTI BREAD A/ROGO",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-096",
+    "code": "32-05-10-096",
+    "name": "DUALA HOTEL JUNCTION",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-097",
+    "code": "32-05-10-097",
+    "name": "KOFAR MUSA SANTANA A/ROGO",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-098",
+    "code": "32-05-10-098",
+    "name": "A.A. ADAM UNG. ROGO",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-099",
+    "code": "32-05-10-099",
+    "name": "KOFAR MAL. MUSA U/ROGO",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-100",
+    "code": "32-05-10-100",
+    "name": "NEPA VILLAGE ZARIA ROAD",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-101",
+    "code": "32-05-10-101",
+    "name": "FUDAWA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-102",
+    "code": "32-05-10-102",
+    "name": "SNR. STAFF QUARTERS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-103",
+    "code": "32-05-10-103",
+    "name": "GADAN BAUCHI II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-104",
+    "code": "32-05-10-104",
+    "name": "UNG. ROGO PRY. SCHOOL IV",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-105",
+    "code": "32-05-10-105",
+    "name": "UNG. RUKUBA IV",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-106",
+    "code": "32-05-10-106",
+    "name": "MAZAH JUNCTION",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-107",
+    "code": "32-05-10-107",
+    "name": "KONAN SOJA II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-108",
+    "code": "32-05-10-108",
+    "name": "PHC AHOL NABOR",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-109",
+    "code": "32-05-10-109",
+    "name": "HWOLL B",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-110",
+    "code": "32-05-10-110",
+    "name": "BAYAN OANDO UNDER TRANSFORMER",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-111",
+    "code": "32-05-10-111",
+    "name": "UNG AZURFA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-112",
+    "code": "32-05-10-112",
+    "name": "UNITY JUNCTION",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-113",
+    "code": "32-05-10-113",
+    "name": "ZINARIYA C",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-114",
+    "code": "32-05-10-114",
+    "name": "UMAR MAI NIYA CLOSE ZINARIYA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-115",
+    "code": "32-05-10-115",
+    "name": "KWANAN MUTUWA ISYAKU CLOSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-116",
+    "code": "32-05-10-116",
+    "name": "HAFIZU TELLA ANGWAN RIMI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-117",
+    "code": "32-05-10-117",
+    "name": "GWONG II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-118",
+    "code": "32-05-10-118",
+    "name": "GWONG III",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-119",
+    "code": "32-05-10-119",
+    "name": "PHC GAMAJIGO",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-120",
+    "code": "32-05-10-120",
+    "name": "EL-COTEZ",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-121",
+    "code": "32-05-10-121",
+    "name": "HWOLAZA A",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-122",
+    "code": "32-05-10-122",
+    "name": "HWOLAZA E",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-123",
+    "code": "32-05-10-123",
+    "name": "ARMY ENGINEER",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-124",
+    "code": "32-05-10-124",
+    "name": "FGC JOS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-125",
+    "code": "32-05-10-125",
+    "name": "SUPREME BRAIN",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-126",
+    "code": "32-05-10-126",
+    "name": "MAI DAN KUNNE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-127",
+    "code": "32-05-10-127",
+    "name": "YELWA ROAD DAN LONDON",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-128",
+    "code": "32-05-10-128",
+    "name": "ALH IBRAHIM CLOSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-129",
+    "code": "32-05-10-129",
+    "name": "YAN ZUMA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-130",
+    "code": "32-05-10-130",
+    "name": "GADAN BAUCHI II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-131",
+    "code": "32-05-10-131",
+    "name": "GADAN BAUCHI III",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-132",
+    "code": "32-05-10-132",
+    "name": "PHC FILIN SUKUWA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-133",
+    "code": "32-05-10-133",
+    "name": "ALIN ABBA T. JUNCTION",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-134",
+    "code": "32-05-10-134",
+    "name": "THERESA BOREHOLE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-135",
+    "code": "32-05-10-135",
+    "name": "BEHIND MINING QUARTERS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-136",
+    "code": "32-05-10-136",
+    "name": "DUALA GINDIN DUTSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-137",
+    "code": "32-05-10-137",
+    "name": "TUDUN FAIRA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-138",
+    "code": "32-05-10-138",
+    "name": "FILIN SUKUWA I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-139",
+    "code": "32-05-10-139",
+    "name": "FILIN SUKUWA II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-140",
+    "code": "32-05-10-140",
+    "name": "NASARA BREAD TRUCK TERMINAL",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-141",
+    "code": "32-05-10-141",
+    "name": "SABON LAYI I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-142",
+    "code": "32-05-10-142",
+    "name": "SABON LAYI II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-143",
+    "code": "32-05-10-143",
+    "name": "NARAGUTA LEATHER WORKS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-144",
+    "code": "32-05-10-144",
+    "name": "RAFIN MAI CIZO",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-145",
+    "code": "32-05-10-145",
+    "name": "UGOMO ADAWA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-146",
+    "code": "32-05-10-146",
+    "name": "ULILIBA AJIGO",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-147",
+    "code": "32-05-10-147",
+    "name": "ANG JARAWA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-148",
+    "code": "32-05-10-148",
+    "name": "VICTORY HIGH SCHOOL",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-149",
+    "code": "32-05-10-149",
+    "name": "ZARUMA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-150",
+    "code": "32-05-10-150",
+    "name": "MAI ANGWAN ADAMU SACIS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-151",
+    "code": "32-05-10-151",
+    "name": "GIDAN SARKIN FUDAWA I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-152",
+    "code": "32-05-10-152",
+    "name": "FUDAWA V",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-153",
+    "code": "32-05-10-153",
+    "name": "NABOR FUDAWA I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-154",
+    "code": "32-05-10-154",
+    "name": "LEGISLATIVE QTRS  II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-155",
+    "code": "32-05-10-155",
+    "name": "DOGON DUTSE I BUPIAH",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-156",
+    "code": "32-05-10-156",
+    "name": "MC WILLIAMS JUNCTION I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-157",
+    "code": "32-05-10-157",
+    "name": "DAULA BARRACKS I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-158",
+    "code": "32-05-10-158",
+    "name": "DAULA BARRACKS II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-159",
+    "code": "32-05-10-159",
+    "name": "G.S.S BABALE III",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-160",
+    "code": "32-05-10-160",
+    "name": "UNG. KASSA BABALE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-161",
+    "code": "32-05-10-161",
+    "name": "UNG. MOKAWU",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-162",
+    "code": "32-05-10-162",
+    "name": "RIGIZA NOMADIC PRY SCH",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-163",
+    "code": "32-05-10-163",
+    "name": "INSTITUTE OF EDUCATION GATE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-164",
+    "code": "32-05-10-164",
+    "name": "MAGINA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-165",
+    "code": "32-05-10-165",
+    "name": "SARKIN GINI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-166",
+    "code": "32-05-10-166",
+    "name": "MAGAJIN RAFI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-167",
+    "code": "32-05-10-167",
+    "name": "SARKIN BUNU",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-168",
+    "code": "32-05-10-168",
+    "name": "UNGWAN KUZA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-169",
+    "code": "32-05-10-169",
+    "name": "UNGWAN KEKE II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-170",
+    "code": "32-05-10-170",
+    "name": "GARI YA WAYE UNG RUKUBA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-171",
+    "code": "32-05-10-171",
+    "name": "UNG RUKUBA VII",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-172",
+    "code": "32-05-10-172",
+    "name": "UNG. RUKUBA VIII",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-173",
+    "code": "32-05-10-173",
+    "name": "NASARA BREAD TRUCK TERMINAL II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-174",
+    "code": "32-05-10-174",
+    "name": "ALH. SHITU CLOSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-175",
+    "code": "32-05-10-175",
+    "name": "UMARU ALFA CLOSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-176",
+    "code": "32-05-10-176",
+    "name": "SHILO LODGE RUSSAU VILLAGE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-177",
+    "code": "32-05-10-177",
+    "name": "ANGWAN KAFINTA IZANG",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-178",
+    "code": "32-05-10-178",
+    "name": "LEGISLATIVE QTRS JUNCTION II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-179",
+    "code": "32-05-10-179",
+    "name": "ABDULRASHID CLOSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-180",
+    "code": "32-05-10-180",
+    "name": "KOSAI UKU",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-181",
+    "code": "32-05-10-181",
+    "name": "DANJUMA YUSUF CLOSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-182",
+    "code": "32-05-10-182",
+    "name": "RED CROSS",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-183",
+    "code": "32-05-10-183",
+    "name": "MAI KEKE JUNCTION",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-184",
+    "code": "32-05-10-184",
+    "name": "GREEN COLLEGE ANG RIMI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-185",
+    "code": "32-05-10-185",
+    "name": "MUSHADDADU CLOSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-186",
+    "code": "32-05-10-186",
+    "name": "ALH DALHATU CLOSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-187",
+    "code": "32-05-10-187",
+    "name": "AYUMA UPANA II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-188",
+    "code": "32-05-10-188",
+    "name": "MAZAH JUNCTION I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-189",
+    "code": "32-05-10-189",
+    "name": "RISHARI RHAKUBU II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-190",
+    "code": "32-05-10-190",
+    "name": "RISHARI RHAKUBU III",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-191",
+    "code": "32-05-10-191",
+    "name": "NEW GRA (ECWA STAFF)",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-192",
+    "code": "32-05-10-192",
+    "name": "ECWA SEMINARY I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-193",
+    "code": "32-05-10-193",
+    "name": "ECWA SEMINARY II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-194",
+    "code": "32-05-10-194",
+    "name": "CHWELN YAP LEA PRY SCH II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-195",
+    "code": "32-05-10-195",
+    "name": "KAWARAZIZUMI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-196",
+    "code": "32-05-10-196",
+    "name": "PHC FUDAWA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-197",
+    "code": "32-05-10-197",
+    "name": "KAWAR ITSE AGWOM FUDAWA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-198",
+    "code": "32-05-10-198",
+    "name": "MAI ANGWAN DUM BARI",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-199",
+    "code": "32-05-10-199",
+    "name": "BY MISIYA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-200",
+    "code": "32-05-10-200",
+    "name": "MARKUS ISHAYA I",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-201",
+    "code": "32-05-10-201",
+    "name": "MALL. SHEHU SULAIMAN STREET",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-202",
+    "code": "32-05-10-202",
+    "name": "DAULA JUNCTION II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-203",
+    "code": "32-05-10-203",
+    "name": "DAULA HOTEL JUNCTION II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-204",
+    "code": "32-05-10-204",
+    "name": "DAN BAKO AUTA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-205",
+    "code": "32-05-10-205",
+    "name": "KARSHEN KWALTA ANG ROGO",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-206",
+    "code": "32-05-10-206",
+    "name": "DD'S CLOSE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-207",
+    "code": "32-05-10-207",
+    "name": "DUTSE KARE KARE",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-208",
+    "code": "32-05-10-208",
+    "name": "KOFAR MAI UNGWA MAKERA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-209",
+    "code": "32-05-10-209",
+    "name": "MAKERA",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-210",
+    "code": "32-05-10-210",
+    "name": "ADAMU BIKKOS PRY SCH",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-211",
+    "code": "32-05-10-211",
+    "name": "FUDAWA III",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-212",
+    "code": "32-05-10-212",
+    "name": "FUDAWA IV",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-213",
+    "code": "32-05-10-213",
+    "name": "MAZADU CRESCENT",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-214",
+    "code": "32-05-10-214",
+    "name": "UNGWAN RUKUBA IV",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-215",
+    "code": "32-05-10-215",
+    "name": "UNGWAN RUKUBA V",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-10-216",
+    "code": "32-05-10-216",
+    "name": "MAZAH JUNCTION II",
+    "wardId": "jos-north__ward-10"
+  },
+  {
+    "id": "32-05-11-001",
+    "code": "32-05-11-001",
+    "name": "MOHAMMED WADA STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-002",
+    "code": "32-05-11-002",
+    "name": "AFODUME STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-003",
+    "code": "32-05-11-003",
+    "name": "NEW MARKET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-004",
+    "code": "32-05-11-004",
+    "name": "YUSUF STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-005",
+    "code": "32-05-11-005",
+    "name": "HALIRU STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-006",
+    "code": "32-05-11-006",
+    "name": "ATILI STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-007",
+    "code": "32-05-11-007",
+    "name": "MOONSHINE H. JUNCTION",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-008",
+    "code": "32-05-11-008",
+    "name": "SARKIN ARAB STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-009",
+    "code": "32-05-11-009",
+    "name": "POTATOES MARKET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-010",
+    "code": "32-05-11-010",
+    "name": "DODO STREET I",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-011",
+    "code": "32-05-11-011",
+    "name": "DODO STREET II",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-012",
+    "code": "32-05-11-012",
+    "name": "WILLIAM STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-013",
+    "code": "32-05-11-013",
+    "name": "MALLAM AUDU STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-014",
+    "code": "32-05-11-014",
+    "name": "CEMETERY STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-015",
+    "code": "32-05-11-015",
+    "name": "AJAYI STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-016",
+    "code": "32-05-11-016",
+    "name": "ENUGU STREET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-017",
+    "code": "32-05-11-017",
+    "name": "OLD RAILWAY",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-018",
+    "code": "32-05-11-018",
+    "name": "YAN KIFI",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-019",
+    "code": "32-05-11-019",
+    "name": "DODO III",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-11-020",
+    "code": "32-05-11-020",
+    "name": "YAN ARO NEW MARKET",
+    "wardId": "jos-north__ward-11"
+  },
+  {
+    "id": "32-05-12-001",
+    "code": "32-05-12-001",
+    "name": "KASHIM IBRAHIM",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-002",
+    "code": "32-05-12-002",
+    "name": "PANKSHIN STREET",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-003",
+    "code": "32-05-12-003",
+    "name": "GOMBE AVENUE",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-004",
+    "code": "32-05-12-004",
+    "name": "ZIK AVENUE I",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-005",
+    "code": "32-05-12-005",
+    "name": "TAFAWA BALEWA",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-006",
+    "code": "32-05-12-006",
+    "name": "TOWNSHIP SCHOOL",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-007",
+    "code": "32-05-12-007",
+    "name": "EYAMBA STREET",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-008",
+    "code": "32-05-12-008",
+    "name": "NDAGI FAROUK",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-009",
+    "code": "32-05-12-009",
+    "name": "NIGER AVENUE",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-010",
+    "code": "32-05-12-010",
+    "name": "PRESTIGE HOTEL JUNCTION",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-011",
+    "code": "32-05-12-011",
+    "name": "ZIK AVENUE II",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-012",
+    "code": "32-05-12-012",
+    "name": "JMDB JOS NORTH",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-013",
+    "code": "32-05-12-013",
+    "name": "RWANGPAM STADIUM MAIN GATE",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-014",
+    "code": "32-05-12-014",
+    "name": "GARDEN OF PEACE AND FORGIVENESS",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-015",
+    "code": "32-05-12-015",
+    "name": "TERRACE GARDEN",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-12-016",
+    "code": "32-05-12-016",
+    "name": "THE GREEN BELT GARDEN",
+    "wardId": "jos-north__ward-12"
+  },
+  {
+    "id": "32-05-13-001",
+    "code": "32-05-13-001",
+    "name": "KABONG SOUTH",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-002",
+    "code": "32-05-13-002",
+    "name": "ALHERI CENTRAL",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-003",
+    "code": "32-05-13-003",
+    "name": "ALHERI SOUTH I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-004",
+    "code": "32-05-13-004",
+    "name": "ALHERI SOUTH II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-005",
+    "code": "32-05-13-005",
+    "name": "UTAN CENTRAL",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-006",
+    "code": "32-05-13-006",
+    "name": "ST. MURUMBA ZARIA RD I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-007",
+    "code": "32-05-13-007",
+    "name": "UNG. ABUJA T/WADA I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-008",
+    "code": "32-05-13-008",
+    "name": "UNG. LAGOS T/WADA I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-009",
+    "code": "32-05-13-009",
+    "name": "UNG. LAGOS T/WADA II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-010",
+    "code": "32-05-13-010",
+    "name": "UNG. GADA T/WADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-011",
+    "code": "32-05-13-011",
+    "name": "UNG. MIANGO T/WADA I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-012",
+    "code": "32-05-13-012",
+    "name": "UNG. MIANGO T/WADA II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-013",
+    "code": "32-05-13-013",
+    "name": "UNG. BAUDA T/WADA I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-014",
+    "code": "32-05-13-014",
+    "name": "UNG. BAUDA T/WADA II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-015",
+    "code": "32-05-13-015",
+    "name": "UNG. BAUDA T/WADA III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-016",
+    "code": "32-05-13-016",
+    "name": "ST. MURUMBA ZARIA RD II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-017",
+    "code": "32-05-13-017",
+    "name": "UNG. WALI GADA BIYU I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-018",
+    "code": "32-05-13-018",
+    "name": "UNG. WALI GADA BIYU II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-019",
+    "code": "32-05-13-019",
+    "name": "UNG. SOYA I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-020",
+    "code": "32-05-13-020",
+    "name": "UNG. SOYA II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-021",
+    "code": "32-05-13-021",
+    "name": "LEA PR. SCH. T/WADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-022",
+    "code": "32-05-13-022",
+    "name": "FED. SECRETARIAT I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-023",
+    "code": "32-05-13-023",
+    "name": "UNG. HAUSAWA T/WADA I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-024",
+    "code": "32-05-13-024",
+    "name": "APOLO CRESCENT",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-025",
+    "code": "32-05-13-025",
+    "name": "UNG. YASHI T/WADA I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-026",
+    "code": "32-05-13-026",
+    "name": "UNG. YASHI T/WADA II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-027",
+    "code": "32-05-13-027",
+    "name": "UNG. ABUJA T/WADA II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-028",
+    "code": "32-05-13-028",
+    "name": "UNG. ABUJA T/WADA III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-029",
+    "code": "32-05-13-029",
+    "name": "DONG VILLAGE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-030",
+    "code": "32-05-13-030",
+    "name": "UNG. CHIROMA RUKUBA RD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-031",
+    "code": "32-05-13-031",
+    "name": "WILD LIFE PARK",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-032",
+    "code": "32-05-13-032",
+    "name": "KABONG CENTRAL I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-033",
+    "code": "32-05-13-033",
+    "name": "KABONG CENTRAL II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-034",
+    "code": "32-05-13-034",
+    "name": "KABONG RCM",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-035",
+    "code": "32-05-13-035",
+    "name": "UTAN NORTH",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-036",
+    "code": "32-05-13-036",
+    "name": "UTAN SOUTH",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-037",
+    "code": "32-05-13-037",
+    "name": "UNG. SARKI T/WADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-038",
+    "code": "32-05-13-038",
+    "name": "SABON GARI MADO TUDUNWADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-039",
+    "code": "32-05-13-039",
+    "name": "MADO TOURISM GATE T/WADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-040",
+    "code": "32-05-13-040",
+    "name": "ALBARKANS PRI. PRY. SCH. T/WADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-041",
+    "code": "32-05-13-041",
+    "name": "AREA COURT T/WADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-042",
+    "code": "32-05-13-042",
+    "name": "BRIGHT WAY RUKUBA ROAD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-043",
+    "code": "32-05-13-043",
+    "name": "UNG. RIMI RUKUBA ROAD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-044",
+    "code": "32-05-13-044",
+    "name": "UNG. CHAI KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-045",
+    "code": "32-05-13-045",
+    "name": "BAUDA KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-046",
+    "code": "32-05-13-046",
+    "name": "ALAMA JUNCTION RUKUBA RD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-047",
+    "code": "32-05-13-047",
+    "name": "UNG. CHAWAI KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-048",
+    "code": "32-05-13-048",
+    "name": "UTAN PHC",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-049",
+    "code": "32-05-13-049",
+    "name": "UNG. SALE LANE U/SOYA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-050",
+    "code": "32-05-13-050",
+    "name": "UNG. MATA KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-051",
+    "code": "32-05-13-051",
+    "name": "UNG. JUMAA ROAD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-052",
+    "code": "32-05-13-052",
+    "name": "ROCK HAVEN ZARIA RD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-053",
+    "code": "32-05-13-053",
+    "name": "J.M.D.B QUARTERS, T/WADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-054",
+    "code": "32-05-13-054",
+    "name": "POST OFFICE, ZARIA ROAD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-055",
+    "code": "32-05-13-055",
+    "name": "MALLAM FARI JUNCTION, ZARIA RD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-056",
+    "code": "32-05-13-056",
+    "name": "GBOKO ROAD, T/WADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-057",
+    "code": "32-05-13-057",
+    "name": "DONG VILLAGE (UNG. CHIROMA)",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-058",
+    "code": "32-05-13-058",
+    "name": "NEPA CLOSE T/WADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-059",
+    "code": "32-05-13-059",
+    "name": "UNG. KOWA RUKUBA ROAD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-060",
+    "code": "32-05-13-060",
+    "name": "BEHIND ST. MURUMBA Z/ROAD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-061",
+    "code": "32-05-13-061",
+    "name": "UTAN LANE RUKUBA RD I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-062",
+    "code": "32-05-13-062",
+    "name": "UNG. LAGOS T/WADA III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-063",
+    "code": "32-05-13-063",
+    "name": "FED. SECRETARIAT II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-064",
+    "code": "32-05-13-064",
+    "name": "UNG. HAUSAWA T/WADA II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-065",
+    "code": "32-05-13-065",
+    "name": "UTAN LANE RUKUBA RD II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-066",
+    "code": "32-05-13-066",
+    "name": "G.S.S KABONG I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-067",
+    "code": "32-05-13-067",
+    "name": "G.S.S KABONG II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-068",
+    "code": "32-05-13-068",
+    "name": "BABA GOTAN",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-069",
+    "code": "32-05-13-069",
+    "name": "UNG. FILIN JIRGI",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-070",
+    "code": "32-05-13-070",
+    "name": "G.S.S KABONG SOUTH WEST",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-071",
+    "code": "32-05-13-071",
+    "name": "FILIN LAKA KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-072",
+    "code": "32-05-13-072",
+    "name": "TENTENGI ESTATE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-073",
+    "code": "32-05-13-073",
+    "name": "DAN MALLAM STREET",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-074",
+    "code": "32-05-13-074",
+    "name": "UNG REDEEM",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-075",
+    "code": "32-05-13-075",
+    "name": "ALHERI SOUTH II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-076",
+    "code": "32-05-13-076",
+    "name": "ALHERI SOUTH III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-077",
+    "code": "32-05-13-077",
+    "name": "OPP. JOS HOTEL",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-078",
+    "code": "32-05-13-078",
+    "name": "UTAN CENTRAL II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-079",
+    "code": "32-05-13-079",
+    "name": "AJIBOLA ESTATE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-080",
+    "code": "32-05-13-080",
+    "name": "BESIDE ST. MURUMBA COLLEGE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-081",
+    "code": "32-05-13-081",
+    "name": "UNG. ABUJA T/WADA V",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-082",
+    "code": "32-05-13-082",
+    "name": "UNG. ABUJA RIVERSIDE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-083",
+    "code": "32-05-13-083",
+    "name": "T/WADA POLICE STATION",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-084",
+    "code": "32-05-13-084",
+    "name": "PAUL GINDIRI",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-085",
+    "code": "32-05-13-085",
+    "name": "GEO SCIENCE GATE T/WADA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-086",
+    "code": "32-05-13-086",
+    "name": "UNG MIANGO II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-087",
+    "code": "32-05-13-087",
+    "name": "CITY LODGE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-088",
+    "code": "32-05-13-088",
+    "name": "UNG ADA -AFAN",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-089",
+    "code": "32-05-13-089",
+    "name": "OLD  PARK",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-090",
+    "code": "32-05-13-090",
+    "name": "ROCK HEAVEN LANE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-091",
+    "code": "32-05-13-091",
+    "name": "OPP ST. MURUMBA COLLEGE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-092",
+    "code": "32-05-13-092",
+    "name": "SAMANJA STREET",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-093",
+    "code": "32-05-13-093",
+    "name": "KABONG GADA BIU",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-094",
+    "code": "32-05-13-094",
+    "name": "POLICE STATION UNG WALI",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-095",
+    "code": "32-05-13-095",
+    "name": "KUWIRI C",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-096",
+    "code": "32-05-13-096",
+    "name": "KUWIRI A",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-097",
+    "code": "32-05-13-097",
+    "name": "UNG. SOYA III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-098",
+    "code": "32-05-13-098",
+    "name": "FILIN PARKING",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-099",
+    "code": "32-05-13-099",
+    "name": "UNIVERSITY QTRS",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-100",
+    "code": "32-05-13-100",
+    "name": "FILIN SUNNAH",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-101",
+    "code": "32-05-13-101",
+    "name": "WAMBA ROAD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-102",
+    "code": "32-05-13-102",
+    "name": "UNG YASHI AJIJI",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-103",
+    "code": "32-05-13-103",
+    "name": "UNG YASHI III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-104",
+    "code": "32-05-13-104",
+    "name": "ANGWAN ABUJA  I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-105",
+    "code": "32-05-13-105",
+    "name": "ANGWAN ABUJA  II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-106",
+    "code": "32-05-13-106",
+    "name": "UNG ABUJA IV",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-107",
+    "code": "32-05-13-107",
+    "name": "KUTA ABOK AZONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-108",
+    "code": "32-05-13-108",
+    "name": "KAWAR ATSEN ADAUJI",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-109",
+    "code": "32-05-13-109",
+    "name": "GALMA IZANG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-110",
+    "code": "32-05-13-110",
+    "name": "LEA FANUBE PRY SCH KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-111",
+    "code": "32-05-13-111",
+    "name": "UNG. YURO BIA R/ROAD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-112",
+    "code": "32-05-13-112",
+    "name": "PHC JOS NORTH R/ROAD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-113",
+    "code": "32-05-13-113",
+    "name": "KAWAR KAZE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-114",
+    "code": "32-05-13-114",
+    "name": "KUTA AKONANG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-115",
+    "code": "32-05-13-115",
+    "name": "KABONG CENTRAL III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-116",
+    "code": "32-05-13-116",
+    "name": "CORNERSTONE HILL TOP KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-117",
+    "code": "32-05-13-117",
+    "name": "UNG. KASA KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-118",
+    "code": "32-05-13-118",
+    "name": "AGWOM CLOSE RAFIN GAMBO",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-119",
+    "code": "32-05-13-119",
+    "name": "OPP. ST. SAVIOUR",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-120",
+    "code": "32-05-13-120",
+    "name": "DANIEL GWOM ST. KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-121",
+    "code": "32-05-13-121",
+    "name": "WEST SIDE KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-122",
+    "code": "32-05-13-122",
+    "name": "LEA UTAN I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-123",
+    "code": "32-05-13-123",
+    "name": "LEA UTAN II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-124",
+    "code": "32-05-13-124",
+    "name": "UTAN GRA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-125",
+    "code": "32-05-13-125",
+    "name": "UTAN SOUTH II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-126",
+    "code": "32-05-13-126",
+    "name": "UTAN SOUTH III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-127",
+    "code": "32-05-13-127",
+    "name": "UTAN SOUTH IV",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-128",
+    "code": "32-05-13-128",
+    "name": "ISHONG IBOB",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-129",
+    "code": "32-05-13-129",
+    "name": "KATON GYESE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-130",
+    "code": "32-05-13-130",
+    "name": "UNG. GARBA ATANG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-131",
+    "code": "32-05-13-131",
+    "name": "ANGWAN RAFI",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-132",
+    "code": "32-05-13-132",
+    "name": "IKKUKUMUNG I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-133",
+    "code": "32-05-13-133",
+    "name": "KAZU PRIMARY SCH",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-134",
+    "code": "32-05-13-134",
+    "name": "IKKUKUMUNG II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-135",
+    "code": "32-05-13-135",
+    "name": "UNG. PETER IKKUKUMUNG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-136",
+    "code": "32-05-13-136",
+    "name": "UNG. MISSION II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-137",
+    "code": "32-05-13-137",
+    "name": "UNG. MISSION IKKUKUMUNG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-138",
+    "code": "32-05-13-138",
+    "name": "GORFAN IKKUKUMUNG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-139",
+    "code": "32-05-13-139",
+    "name": "ALBAKAN PRY SCH II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-140",
+    "code": "32-05-13-140",
+    "name": "ALBAKAN PRY SCH III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-141",
+    "code": "32-05-13-141",
+    "name": "UNG AGWOM ATU",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-142",
+    "code": "32-05-13-142",
+    "name": "BRIGHT WAY R/ROAD II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-143",
+    "code": "32-05-13-143",
+    "name": "BRIGHT WAY R/ROAD IV",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-144",
+    "code": "32-05-13-144",
+    "name": "BRIGHT WAY CENTRE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-145",
+    "code": "32-05-13-145",
+    "name": "BRIGHT WAY R/ROAD V",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-146",
+    "code": "32-05-13-146",
+    "name": "UNG. AZI BI JUNCTION",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-147",
+    "code": "32-05-13-147",
+    "name": "UNG. RIMI R/ROAD II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-148",
+    "code": "32-05-13-148",
+    "name": "CORNELIUS SHIOLBIAL STREET",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-149",
+    "code": "32-05-13-149",
+    "name": "DAVID NYANG KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-150",
+    "code": "32-05-13-150",
+    "name": "JOSEPH HWESE CLOSE KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-151",
+    "code": "32-05-13-151",
+    "name": "BOT SHA STREET KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-152",
+    "code": "32-05-13-152",
+    "name": "UPPER AREA COURT KABONG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-153",
+    "code": "32-05-13-153",
+    "name": "JULIUS DAGAP CLOSE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-154",
+    "code": "32-05-13-154",
+    "name": "ALAMA LINK",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-155",
+    "code": "32-05-13-155",
+    "name": "ALAMA LINK I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-156",
+    "code": "32-05-13-156",
+    "name": "AROKOYO SMAUEL CLOSE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-157",
+    "code": "32-05-13-157",
+    "name": "NYAM GWOM CLOSE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-158",
+    "code": "32-05-13-158",
+    "name": "UTAN PHC UTAN II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-159",
+    "code": "32-05-13-159",
+    "name": "UTAN PHC III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-160",
+    "code": "32-05-13-160",
+    "name": "UTAN PHC IV",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-161",
+    "code": "32-05-13-161",
+    "name": "KUWIRI B",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-162",
+    "code": "32-05-13-162",
+    "name": "BABA ATIMBA CLOSE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-163",
+    "code": "32-05-13-163",
+    "name": "KUNYI KATSE MARKET SQUARE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-164",
+    "code": "32-05-13-164",
+    "name": "KUNYI KATSE PRY SCH",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-165",
+    "code": "32-05-13-165",
+    "name": "UNG. AJHI IWA CLOSE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-166",
+    "code": "32-05-13-166",
+    "name": "ROCK HEAVEN II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-167",
+    "code": "32-05-13-167",
+    "name": "ROCK HEAVEN III",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-168",
+    "code": "32-05-13-168",
+    "name": "ROCK HEAVEN IV",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-169",
+    "code": "32-05-13-169",
+    "name": "UNG AZI I",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-170",
+    "code": "32-05-13-170",
+    "name": "UNG. AZI II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-171",
+    "code": "32-05-13-171",
+    "name": "POST OFFICE II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-172",
+    "code": "32-05-13-172",
+    "name": "POST OFFICE III ZARIA ROAD",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-173",
+    "code": "32-05-13-173",
+    "name": "BEHIND POST OFFICE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-174",
+    "code": "32-05-13-174",
+    "name": "MALLAM FARI JUNCTION II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-175",
+    "code": "32-05-13-175",
+    "name": "KAWAR ATINA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-176",
+    "code": "32-05-13-176",
+    "name": "KAWAR ABUCHI IZANG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-177",
+    "code": "32-05-13-177",
+    "name": "AZILANI",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-178",
+    "code": "32-05-13-178",
+    "name": "KEKE KAMPALA REGUNG",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-179",
+    "code": "32-05-13-179",
+    "name": "ADAUDA NAYA KEKE CLOSE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-180",
+    "code": "32-05-13-180",
+    "name": "KAWAR AJANG AZI CLOSE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-181",
+    "code": "32-05-13-181",
+    "name": "KAWAR AGALI ITSE CLOSE",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-182",
+    "code": "32-05-13-182",
+    "name": "BEHIND ST MURUMBA II",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-183",
+    "code": "32-05-13-183",
+    "name": "ST JOSEPH PRIMARY SCHOOL",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-184",
+    "code": "32-05-13-184",
+    "name": "GOFWEN",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-185",
+    "code": "32-05-13-185",
+    "name": "GINDIN RIMI UNG HAUSAWA",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-186",
+    "code": "32-05-13-186",
+    "name": "ADAZI NNUKWU TOWN",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-13-187",
+    "code": "32-05-13-187",
+    "name": "TURN BY TURN",
+    "wardId": "jos-north__ward-13"
+  },
+  {
+    "id": "32-05-14-001",
+    "code": "32-05-14-001",
+    "name": "PANYAM STREET I",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-002",
+    "code": "32-05-14-002",
+    "name": "CHURCH STREET",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-003",
+    "code": "32-05-14-003",
+    "name": "SHENDAM STREET I",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-004",
+    "code": "32-05-14-004",
+    "name": "ST. PAULS  TOWNSHIP",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-005",
+    "code": "32-05-14-005",
+    "name": "YELWA STREET",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-006",
+    "code": "32-05-14-006",
+    "name": "PANYAM STREET II",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-007",
+    "code": "32-05-14-007",
+    "name": "RWANG PAM STREET",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-008",
+    "code": "32-05-14-008",
+    "name": "LANGTANG STREET",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-009",
+    "code": "32-05-14-009",
+    "name": "ST. THERESA BOYS SCHOOL",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-010",
+    "code": "32-05-14-010",
+    "name": "DOHERTY STREET",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-011",
+    "code": "32-05-14-011",
+    "name": "SHENDAM STREET II",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-012",
+    "code": "32-05-14-012",
+    "name": "AREA DIRECTORATE OFFICE MINISTRY OF EDUCATION.",
+    "wardId": "jos-north__ward-14"
+  },
+  {
+    "id": "32-05-14-013",
+    "code": "32-05-14-013",
+    "name": "RWANG PAM STREET II",
+    "wardId": "jos-north__ward-14"
+  }
+]

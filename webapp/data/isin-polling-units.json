@@ -1,0 +1,482 @@
+[
+  {
+    "id": "23-10-01-001",
+    "code": "23-10-01-001",
+    "name": "MARKET CENTRE OPEN SPACE",
+    "wardId": "isin__ward-01"
+  },
+  {
+    "id": "23-10-01-002",
+    "code": "23-10-01-002",
+    "name": "L.G.E.A SCH OPONDA",
+    "wardId": "isin__ward-01"
+  },
+  {
+    "id": "23-10-01-003",
+    "code": "23-10-01-003",
+    "name": "OWODE KAJOLA OPEN SPACE",
+    "wardId": "isin__ward-01"
+  },
+  {
+    "id": "23-10-01-004",
+    "code": "23-10-01-004",
+    "name": "ILE OBA, ALLA OPEN SPACE",
+    "wardId": "isin__ward-01"
+  },
+  {
+    "id": "23-10-01-005",
+    "code": "23-10-01-005",
+    "name": "PRIMARY HEALTH CENTRE ALLA",
+    "wardId": "isin__ward-01"
+  },
+  {
+    "id": "23-10-02-001",
+    "code": "23-10-02-001",
+    "name": "ST ANDREW L.G.E.A SCH",
+    "wardId": "isin__ward-02"
+  },
+  {
+    "id": "23-10-02-002",
+    "code": "23-10-02-002",
+    "name": "BALE'S AREA OPEN SPACE",
+    "wardId": "isin__ward-02"
+  },
+  {
+    "id": "23-10-02-003",
+    "code": "23-10-02-003",
+    "name": "MARKET CENTRE OPEN SPACE",
+    "wardId": "isin__ward-02"
+  },
+  {
+    "id": "23-10-02-004",
+    "code": "23-10-02-004",
+    "name": "ILE-LOKE OPEN SPACE",
+    "wardId": "isin__ward-02"
+  },
+  {
+    "id": "23-10-02-005",
+    "code": "23-10-02-005",
+    "name": "MUSLIM COMMUNITY LGEA SCHOOL",
+    "wardId": "isin__ward-02"
+  },
+  {
+    "id": "23-10-03-001",
+    "code": "23-10-03-001",
+    "name": "ILE-LOKE ISANLU OPEN SPACE",
+    "wardId": "isin__ward-03"
+  },
+  {
+    "id": "23-10-03-002",
+    "code": "23-10-03-002",
+    "name": "ST JOSEPH'S L.G.E.A SCH",
+    "wardId": "isin__ward-03"
+  },
+  {
+    "id": "23-10-03-003",
+    "code": "23-10-03-003",
+    "name": "AIYETORO OPEN SPACE",
+    "wardId": "isin__ward-03"
+  },
+  {
+    "id": "23-10-03-004",
+    "code": "23-10-03-004",
+    "name": "BAPTIST L.G.E.A SCH",
+    "wardId": "isin__ward-03"
+  },
+  {
+    "id": "23-10-03-005",
+    "code": "23-10-03-005",
+    "name": "MARKET CENTRE ELEYIN",
+    "wardId": "isin__ward-03"
+  },
+  {
+    "id": "23-10-03-006",
+    "code": "23-10-03-006",
+    "name": "ODOGBO OPEN SPACE",
+    "wardId": "isin__ward-03"
+  },
+  {
+    "id": "23-10-03-007",
+    "code": "23-10-03-007",
+    "name": "ILE OLOGBA AREA",
+    "wardId": "isin__ward-03"
+  },
+  {
+    "id": "23-10-03-008",
+    "code": "23-10-03-008",
+    "name": "LGEA SCH KAJOLA",
+    "wardId": "isin__ward-03"
+  },
+  {
+    "id": "23-10-04-001",
+    "code": "23-10-04-001",
+    "name": "ILE AGBASIN OPEN SPACE",
+    "wardId": "isin__ward-04"
+  },
+  {
+    "id": "23-10-04-002",
+    "code": "23-10-04-002",
+    "name": "MARKET CENTRE OPEN SPACE",
+    "wardId": "isin__ward-04"
+  },
+  {
+    "id": "23-10-04-003",
+    "code": "23-10-04-003",
+    "name": "OKE-EPA OPEN SPACE",
+    "wardId": "isin__ward-04"
+  },
+  {
+    "id": "23-10-04-004",
+    "code": "23-10-04-004",
+    "name": "MATERNITY CENTRE",
+    "wardId": "isin__ward-04"
+  },
+  {
+    "id": "23-10-04-005",
+    "code": "23-10-04-005",
+    "name": "AIYEDE OPEN SPACE",
+    "wardId": "isin__ward-04"
+  },
+  {
+    "id": "23-10-04-006",
+    "code": "23-10-04-006",
+    "name": "IGBAGBOTEDO OPEN SPACE",
+    "wardId": "isin__ward-04"
+  },
+  {
+    "id": "23-10-04-007",
+    "code": "23-10-04-007",
+    "name": "ILE OLOMUJO OPEN SPACE",
+    "wardId": "isin__ward-04"
+  },
+  {
+    "id": "23-10-04-008",
+    "code": "23-10-04-008",
+    "name": "MODEL PRIMARY HEALTH CENTRE",
+    "wardId": "isin__ward-04"
+  },
+  {
+    "id": "23-10-04-009",
+    "code": "23-10-04-009",
+    "name": "POST OFFICE ISANLU-ISIN",
+    "wardId": "isin__ward-04"
+  },
+  {
+    "id": "23-10-05-001",
+    "code": "23-10-05-001",
+    "name": "OKE IGUNSIN OPEN SPACE",
+    "wardId": "isin__ward-05"
+  },
+  {
+    "id": "23-10-05-002",
+    "code": "23-10-05-002",
+    "name": "MARKET CENTRE OPEN SPACE",
+    "wardId": "isin__ward-05"
+  },
+  {
+    "id": "23-10-05-003",
+    "code": "23-10-05-003",
+    "name": "BAPTIST L.G.E.A SCH",
+    "wardId": "isin__ward-05"
+  },
+  {
+    "id": "23-10-05-004",
+    "code": "23-10-05-004",
+    "name": "BALE'S AREA OPEN SPACE",
+    "wardId": "isin__ward-05"
+  },
+  {
+    "id": "23-10-05-005",
+    "code": "23-10-05-005",
+    "name": "OLD COURT OPEN SPACE",
+    "wardId": "isin__ward-05"
+  },
+  {
+    "id": "23-10-05-006",
+    "code": "23-10-05-006",
+    "name": "ILE OLUSIN OPEN SPACE",
+    "wardId": "isin__ward-05"
+  },
+  {
+    "id": "23-10-05-007",
+    "code": "23-10-05-007",
+    "name": "ILE NLA OPEN SPACE",
+    "wardId": "isin__ward-05"
+  },
+  {
+    "id": "23-10-05-008",
+    "code": "23-10-05-008",
+    "name": "AJEGUNLE OPEN SPACE",
+    "wardId": "isin__ward-05"
+  },
+  {
+    "id": "23-10-05-009",
+    "code": "23-10-05-009",
+    "name": "OFATEDO OPEN SPACE",
+    "wardId": "isin__ward-05"
+  },
+  {
+    "id": "23-10-06-001",
+    "code": "23-10-06-001",
+    "name": "ILE OBA OPEN SPACE",
+    "wardId": "isin__ward-06"
+  },
+  {
+    "id": "23-10-06-002",
+    "code": "23-10-06-002",
+    "name": "COMM LGEA SCHOOL",
+    "wardId": "isin__ward-06"
+  },
+  {
+    "id": "23-10-06-003",
+    "code": "23-10-06-003",
+    "name": "ILE NLA OPEN SPACE",
+    "wardId": "isin__ward-06"
+  },
+  {
+    "id": "23-10-06-004",
+    "code": "23-10-06-004",
+    "name": "OKE-OPE OPEN SPACE",
+    "wardId": "isin__ward-06"
+  },
+  {
+    "id": "23-10-06-005",
+    "code": "23-10-06-005",
+    "name": "MATERNITY CENTRE OPEN SPACE I",
+    "wardId": "isin__ward-06"
+  },
+  {
+    "id": "23-10-06-006",
+    "code": "23-10-06-006",
+    "name": "MATERNITY CENTRE OPEN SPACE II",
+    "wardId": "isin__ward-06"
+  },
+  {
+    "id": "23-10-07-001",
+    "code": "23-10-07-001",
+    "name": "COURT AREA OPEN SPACE",
+    "wardId": "isin__ward-07"
+  },
+  {
+    "id": "23-10-07-002",
+    "code": "23-10-07-002",
+    "name": "ILE OBA OWU OPEN SPACE I",
+    "wardId": "isin__ward-07"
+  },
+  {
+    "id": "23-10-07-003",
+    "code": "23-10-07-003",
+    "name": "ILE OBA OWU OPEN SPACE II",
+    "wardId": "isin__ward-07"
+  },
+  {
+    "id": "23-10-07-004",
+    "code": "23-10-07-004",
+    "name": "LGEA SCH OWU",
+    "wardId": "isin__ward-07"
+  },
+  {
+    "id": "23-10-07-005",
+    "code": "23-10-07-005",
+    "name": "LGEA SCH  IJI-ISIN I",
+    "wardId": "isin__ward-07"
+  },
+  {
+    "id": "23-10-07-006",
+    "code": "23-10-07-006",
+    "name": "LGEA SCH  IJI-ISIN II",
+    "wardId": "isin__ward-07"
+  },
+  {
+    "id": "23-10-07-007",
+    "code": "23-10-07-007",
+    "name": "MARKET CENTRE KUDU",
+    "wardId": "isin__ward-07"
+  },
+  {
+    "id": "23-10-07-008",
+    "code": "23-10-07-008",
+    "name": "MARKET CENTRE OYI",
+    "wardId": "isin__ward-07"
+  },
+  {
+    "id": "23-10-07-009",
+    "code": "23-10-07-009",
+    "name": "MODEL PRIMARY HEALTH CENTRE OWU-ISIN",
+    "wardId": "isin__ward-07"
+  },
+  {
+    "id": "23-10-08-001",
+    "code": "23-10-08-001",
+    "name": "GARAGE OKE ONIGBIN OPEN SPACE",
+    "wardId": "isin__ward-08"
+  },
+  {
+    "id": "23-10-08-002",
+    "code": "23-10-08-002",
+    "name": "ALL SAINTS, LGEA SCH",
+    "wardId": "isin__ward-08"
+  },
+  {
+    "id": "23-10-08-003",
+    "code": "23-10-08-003",
+    "name": "ODO-IGBESI OPEN SPACE",
+    "wardId": "isin__ward-08"
+  },
+  {
+    "id": "23-10-08-004",
+    "code": "23-10-08-004",
+    "name": "COURT AREA OPEN SPACE",
+    "wardId": "isin__ward-08"
+  },
+  {
+    "id": "23-10-08-005",
+    "code": "23-10-08-005",
+    "name": "IGBESI LGEA SCH",
+    "wardId": "isin__ward-08"
+  },
+  {
+    "id": "23-10-08-006",
+    "code": "23-10-08-006",
+    "name": "ADIGUN OPEN SPACE",
+    "wardId": "isin__ward-08"
+  },
+  {
+    "id": "23-10-08-008",
+    "code": "23-10-08-008",
+    "name": "ALL SAINTS LGEA SCH II",
+    "wardId": "isin__ward-08"
+  },
+  {
+    "id": "23-10-08-009",
+    "code": "23-10-08-009",
+    "name": "MUSLIM COMMUNITY LGEA SCHOOL",
+    "wardId": "isin__ward-08"
+  },
+  {
+    "id": "23-10-09-001",
+    "code": "23-10-09-001",
+    "name": "PAMO LGEA SCH",
+    "wardId": "isin__ward-09"
+  },
+  {
+    "id": "23-10-09-002",
+    "code": "23-10-09-002",
+    "name": "OBA-ISIN LGEA SCH",
+    "wardId": "isin__ward-09"
+  },
+  {
+    "id": "23-10-09-003",
+    "code": "23-10-09-003",
+    "name": "SABAJA OPEN SPACE",
+    "wardId": "isin__ward-09"
+  },
+  {
+    "id": "23-10-09-004",
+    "code": "23-10-09-004",
+    "name": "HEALTH CENTRE PAMO",
+    "wardId": "isin__ward-09"
+  },
+  {
+    "id": "23-10-09-005",
+    "code": "23-10-09-005",
+    "name": "TOWN HALL OBA-ISIN",
+    "wardId": "isin__ward-09"
+  },
+  {
+    "id": "23-10-09-014",
+    "code": "23-10-09-014",
+    "name": "HEALTH CENTRE ARAROMI",
+    "wardId": "isin__ward-09"
+  },
+  {
+    "id": "23-10-10-001",
+    "code": "23-10-10-001",
+    "name": "OKE ABA LGEA SCH",
+    "wardId": "isin__ward-10"
+  },
+  {
+    "id": "23-10-10-002",
+    "code": "23-10-10-002",
+    "name": "ODO EKU LGEA SCH",
+    "wardId": "isin__ward-10"
+  },
+  {
+    "id": "23-10-10-003",
+    "code": "23-10-10-003",
+    "name": "BALE'S AREA ODO ORE",
+    "wardId": "isin__ward-10"
+  },
+  {
+    "id": "23-10-10-004",
+    "code": "23-10-10-004",
+    "name": "MAGAJI OLOKIN OPEN SPACE",
+    "wardId": "isin__ward-10"
+  },
+  {
+    "id": "23-10-10-005",
+    "code": "23-10-10-005",
+    "name": "OKE ABA TOWN HALL",
+    "wardId": "isin__ward-10"
+  },
+  {
+    "id": "23-10-10-006",
+    "code": "23-10-10-006",
+    "name": "ODO-EKU MARKET CENTRE",
+    "wardId": "isin__ward-10"
+  },
+  {
+    "id": "23-10-10-007",
+    "code": "23-10-10-007",
+    "name": "IDI AGBEDE OKE ABA",
+    "wardId": "isin__ward-10"
+  },
+  {
+    "id": "23-10-10-008",
+    "code": "23-10-10-008",
+    "name": "OKE ABA MARKET CENTRE",
+    "wardId": "isin__ward-10"
+  },
+  {
+    "id": "23-10-11-001",
+    "code": "23-10-11-001",
+    "name": "AIYEKALE OLLA OPEN SPACE",
+    "wardId": "isin__ward-11"
+  },
+  {
+    "id": "23-10-11-002",
+    "code": "23-10-11-002",
+    "name": "OLLA MARKET CENTRE",
+    "wardId": "isin__ward-11"
+  },
+  {
+    "id": "23-10-11-003",
+    "code": "23-10-11-003",
+    "name": "AGAMO OPEN SPACE",
+    "wardId": "isin__ward-11"
+  },
+  {
+    "id": "23-10-11-004",
+    "code": "23-10-11-004",
+    "name": "ECWA LGEA SCH OLLA",
+    "wardId": "isin__ward-11"
+  },
+  {
+    "id": "23-10-11-005",
+    "code": "23-10-11-005",
+    "name": "COMM LGEA SCH OLLA",
+    "wardId": "isin__ward-11"
+  },
+  {
+    "id": "23-10-11-006",
+    "code": "23-10-11-006",
+    "name": "ODOFIN AREA OLLA OPEN SPACE",
+    "wardId": "isin__ward-11"
+  },
+  {
+    "id": "23-10-11-007",
+    "code": "23-10-11-007",
+    "name": "PRIMARY HEALTH CENTRE OLLA",
+    "wardId": "isin__ward-11"
+  }
+]

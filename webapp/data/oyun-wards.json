@@ -1,0 +1,79 @@
+[
+  {
+    "id": "oyun__ward-01",
+    "name": "ERIN-ILE SOUTH",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-01",
+    "puCount": 12
+  },
+  {
+    "id": "oyun__ward-02",
+    "name": "ILEMONA",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-02",
+    "puCount": 11
+  },
+  {
+    "id": "oyun__ward-03",
+    "name": "IGBONA",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-03",
+    "puCount": 8
+  },
+  {
+    "id": "oyun__ward-04",
+    "name": "IRRA",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-04",
+    "puCount": 8
+  },
+  {
+    "id": "oyun__ward-05",
+    "name": "INAJA/AHOGBADA",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-05",
+    "puCount": 6
+  },
+  {
+    "id": "oyun__ward-06",
+    "name": "IKOTUN",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-06",
+    "puCount": 9
+  },
+  {
+    "id": "oyun__ward-07",
+    "name": "OJOKU",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-07",
+    "puCount": 9
+  },
+  {
+    "id": "oyun__ward-08",
+    "name": "IJAGBO",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-08",
+    "puCount": 13
+  },
+  {
+    "id": "oyun__ward-09",
+    "name": "IGOSUN",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-09",
+    "puCount": 6
+  },
+  {
+    "id": "oyun__ward-10",
+    "name": "IPEE",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-10",
+    "puCount": 12
+  },
+  {
+    "id": "oyun__ward-11",
+    "name": "ERIN-ILE NORTH",
+    "lgaId": "kwara__oyun",
+    "code": "23-15-11",
+    "puCount": 13
+  }
+]

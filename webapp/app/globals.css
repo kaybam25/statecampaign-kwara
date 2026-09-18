@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+/* CampaignOS design system — matches the strategy report / pitch deck palette.
+   Deliberately fixed light theme (no prefers-color-scheme switch): a pitch
+   demo cannot afford to flip to an unexpected dark mode on the venue's
+   projector or OS setting.
+
+   Kwara PDP build: primary chrome (--co-navy) is now a deep PDP-umbrella
+   red/maroon instead of the previous neutral navy — deliberately darker and
+   less saturated than --co-red (bright alarm red for incidents/crisis) so
+   the two never read as the same signal. Module-identity colors below are
+   otherwise unchanged — they encode which module you're in, not party
+   branding, matching the earlier build's convention. --co-green already
+   sits close to the PDP umbrella's green, so it does double duty as
+   "positive/confirmed" AND a PDP-adjacent accent. See PdpStrip in
+   components/shared for the literal green/white/red umbrella accent. */
+
+:root {
+  --background: #ffffff;
+  --foreground: #3a0f16;
+
+  --co-navy: #6b1220;      /* PDP brand red/maroon — headers, nav (was navy) */
+  --co-green: #1b7a43;     /* PDP umbrella green / Achievements module / positive / confirmed */
+  --co-blue: #2563eb;      /* Manifesto module */
+  --co-orange: #e85d2c;    /* Mobilisation + Field Ops modules */
+  --co-amber: #f59e0b;     /* Fund Management module / warnings */
+  --co-purple: #7c3aed;    /* Voter Intelligence module */
+  --co-teal: #0f766e;      /* Communications module */
+  --co-red: #dc2626;       /* Crisis & Compliance module / incidents (bright alarm red) */
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-co-navy: var(--co-navy);
+  --color-co-green: var(--co-green);
+  --color-co-blue: var(--co-blue);
+  --color-co-orange: var(--co-orange);
+  --color-co-amber: var(--co-amber);
+  --color-co-purple: var(--co-purple);
+  --color-co-teal: var(--co-teal);
+  --color-co-red: var(--co-red);
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}

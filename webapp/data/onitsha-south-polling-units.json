@@ -1,0 +1,1928 @@
+[
+  {
+    "id": "4-18-01-001",
+    "code": "4-18-01-001",
+    "name": "HOUSING ESTATE PLAYGROUND I",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-01-002",
+    "code": "4-18-01-002",
+    "name": "HOUSING ESTATE PLAY  GROUND II",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-01-003",
+    "code": "4-18-01-003",
+    "name": "HOUSING ESTATE PLAY GROUND III",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-01-004",
+    "code": "4-18-01-004",
+    "name": "FEGGE PAY OFFICE I",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-01-005",
+    "code": "4-18-01-005",
+    "name": "FEGGE PAY OFFICE II",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-01-006",
+    "code": "4-18-01-006",
+    "name": "FEGGE PAY OFFICE III",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-01-007",
+    "code": "4-18-01-007",
+    "name": "FEGGE PAY OFFICE IV",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-01-008",
+    "code": "4-18-01-008",
+    "name": "IDEMILI JUNCTION",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-01-009",
+    "code": "4-18-01-009",
+    "name": "OPEN SPACE IN FRONT OF 99/52 PORT HARCOURT ROAD I",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-01-010",
+    "code": "4-18-01-010",
+    "name": "OPEN SPACE IN FRONT OF 99/52 PORT HARCOURT ROAD   II",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-01-011",
+    "code": "4-18-01-011",
+    "name": "OPEN SPACE IN FRONT OF PLOT 1/22 END OF IDEMILI STR",
+    "wardId": "onitsha-south__ward-01"
+  },
+  {
+    "id": "4-18-02-001",
+    "code": "4-18-02-001",
+    "name": "UGBORIMILI PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-02-002",
+    "code": "4-18-02-002",
+    "name": "UGBORIMILI PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-02-003",
+    "code": "4-18-02-003",
+    "name": "UGBORIMILI PRY. SCHOOL III",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-02-004",
+    "code": "4-18-02-004",
+    "name": "UGBORIMILI PRY. SCHOOL IV",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-02-005",
+    "code": "4-18-02-005",
+    "name": "UGBORIMILI PRY. SCHOOL V",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-02-006",
+    "code": "4-18-02-006",
+    "name": "UGBORIMILI PRIMARY SCHOOL, BLOCK A I.",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-02-007",
+    "code": "4-18-02-007",
+    "name": "UGBORIMILI PRIMARY SCHOOL, BLOCK A II.",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-02-008",
+    "code": "4-18-02-008",
+    "name": "UGBORIMILI PRIMARY SCHOOL, BLOCK A III.",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-02-009",
+    "code": "4-18-02-009",
+    "name": "UGBORIMILI PRIMARY SCHOOL, BLOCK A IV.",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-02-010",
+    "code": "4-18-02-010",
+    "name": "UGBORIMILI PRIMARY SCHOOL, BLOCK I.",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-02-011",
+    "code": "4-18-02-011",
+    "name": "UGBORIMILI PRIMARY SCHOOL, BLOCK II.",
+    "wardId": "onitsha-south__ward-02"
+  },
+  {
+    "id": "4-18-03-001",
+    "code": "4-18-03-001",
+    "name": "2/3 AKPO STREET  I",
+    "wardId": "onitsha-south__ward-03"
+  },
+  {
+    "id": "4-18-03-002",
+    "code": "4-18-03-002",
+    "name": "2/3 AKPO STREET II",
+    "wardId": "onitsha-south__ward-03"
+  },
+  {
+    "id": "4-18-03-003",
+    "code": "4-18-03-003",
+    "name": "2/3 AKPO STREET III",
+    "wardId": "onitsha-south__ward-03"
+  },
+  {
+    "id": "4-18-03-004",
+    "code": "4-18-03-004",
+    "name": "2/3 AKPO STREET IV",
+    "wardId": "onitsha-south__ward-03"
+  },
+  {
+    "id": "4-18-03-005",
+    "code": "4-18-03-005",
+    "name": "OPEN SPACE  BESIDE TRANSFORMER, NO. 9, AKPO / URUNEBO STREET.",
+    "wardId": "onitsha-south__ward-03"
+  },
+  {
+    "id": "4-18-03-006",
+    "code": "4-18-03-006",
+    "name": "OPEN SPACE BESIDE MTN MAST,NO.19, URUNEBO STREET",
+    "wardId": "onitsha-south__ward-03"
+  },
+  {
+    "id": "4-18-03-007",
+    "code": "4-18-03-007",
+    "name": "OPEN SPACE IN FRONT OF 2/4, URUNEBO STREET.",
+    "wardId": "onitsha-south__ward-03"
+  },
+  {
+    "id": "4-18-03-008",
+    "code": "4-18-03-008",
+    "name": "OPEN SPACE IN FRONT OF 2/4, URUNEBO STREET, ADJACENT ASMATA OFFICE.",
+    "wardId": "onitsha-south__ward-03"
+  },
+  {
+    "id": "4-18-04-001",
+    "code": "4-18-04-001",
+    "name": "AKOKWA HALL I",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-002",
+    "code": "4-18-04-002",
+    "name": "AKOKWA HALL II",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-003",
+    "code": "4-18-04-003",
+    "name": "AGULU HALL I",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-004",
+    "code": "4-18-04-004",
+    "name": "AGULU HALL II",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-005",
+    "code": "4-18-04-005",
+    "name": "TOWNSHIP PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-006",
+    "code": "4-18-04-006",
+    "name": "TOWNSHIP PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-007",
+    "code": "4-18-04-007",
+    "name": "9, ZIKS AVENUE I",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-008",
+    "code": "4-18-04-008",
+    "name": "9, ZIKS AVENUE II",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-009",
+    "code": "4-18-04-009",
+    "name": "14, UDI STREET I",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-010",
+    "code": "4-18-04-010",
+    "name": "14, UDI STREET II",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-011",
+    "code": "4-18-04-011",
+    "name": "BATA SQUARE I",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-012",
+    "code": "4-18-04-012",
+    "name": "BATA SQUARE II",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-013",
+    "code": "4-18-04-013",
+    "name": "OPEN SPACE AT OZUBULU /AKOKWA STREET JUNCTION   I",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-014",
+    "code": "4-18-04-014",
+    "name": "OPEN SPACE AT OZUBULU /AKOKWA STREET JUNCTION   II",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-015",
+    "code": "4-18-04-015",
+    "name": "OPEN SPACE BESIDE TRANSFORMER I, IN FRONT OF NO. 18, OZUBULU STREET.",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-016",
+    "code": "4-18-04-016",
+    "name": "OPEN SPACE BESIDE TRANSFORMER II,  IN FRONT OF NO. 18, OZUBULU STREET .",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-017",
+    "code": "4-18-04-017",
+    "name": "TOWNSHIP PRIMARY SCHOOL III , FRONT OF HEAD TEACHER'S OFFICE.",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-018",
+    "code": "4-18-04-018",
+    "name": "TOWNSHIP PRIMARY SCHOOL IV, FRONT OF STAIRCASE.",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-019",
+    "code": "4-18-04-019",
+    "name": "TOWNSHIP PRIMARY SCHOOL V, FRONT OF LIBRARY.",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-020",
+    "code": "4-18-04-020",
+    "name": "OPEN SPACE BESIDE TRANSFORMER, IN FRONT OF 21/8 ,ZIK AVENUE.",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-021",
+    "code": "4-18-04-021",
+    "name": "OPEN SPACE IN FRONT OF NO. 4 ,UDI STR/OFILI JUNCTION.",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-04-022",
+    "code": "4-18-04-022",
+    "name": "OPEN SPACE IN FRONT OF NO.2,ONUORAIKEME STREET.",
+    "wardId": "onitsha-south__ward-04"
+  },
+  {
+    "id": "4-18-05-001",
+    "code": "4-18-05-001",
+    "name": "LAFIAJI PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-002",
+    "code": "4-18-05-002",
+    "name": "LAFIAJI PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-003",
+    "code": "4-18-05-003",
+    "name": "ORAIFITE HALL I",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-004",
+    "code": "4-18-05-004",
+    "name": "ORAIFITE HALL II",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-005",
+    "code": "4-18-05-005",
+    "name": "BISHOP SHANAHAN I",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-006",
+    "code": "4-18-05-006",
+    "name": "BISHOP SHANAHAN II",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-007",
+    "code": "4-18-05-007",
+    "name": "3, LAGOS STREET I",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-008",
+    "code": "4-18-05-008",
+    "name": "3, LAGOS STREET II",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-009",
+    "code": "4-18-05-009",
+    "name": "5, MAIFULANI STREET I",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-010",
+    "code": "4-18-05-010",
+    "name": "5, MAIFULANI STREET II",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-011",
+    "code": "4-18-05-011",
+    "name": "64, ZIKS AVENUE I",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-012",
+    "code": "4-18-05-012",
+    "name": "64, ZIKS AVENUE II",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-013",
+    "code": "4-18-05-013",
+    "name": "LAFIA PRIMARY SCHOOL III",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-014",
+    "code": "4-18-05-014",
+    "name": "LAFIAJI PRIMARY SCHOOL IV",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-015",
+    "code": "4-18-05-015",
+    "name": "LAFIAJI PRIMARY SCHOOL V",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-016",
+    "code": "4-18-05-016",
+    "name": "ORAIFITE HALL III",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-017",
+    "code": "4-18-05-017",
+    "name": "OPEN SPACE IN FRONT OF NO. 1, ILORIN/MISS ELEMS STREET",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-018",
+    "code": "4-18-05-018",
+    "name": "OPEN SPACE IN FRONT OF 14A,  BISHOP SHANNAHAN STREET I",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-019",
+    "code": "4-18-05-019",
+    "name": "OPEN SPACE IN FRONT OF 14A, BISHOP SHANNAHAN STREET II",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-020",
+    "code": "4-18-05-020",
+    "name": "OPEN SPACE IN FRONT OF NO. 5, LAGOS STREET.",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-05-021",
+    "code": "4-18-05-021",
+    "name": "OPEN SPACE IN FRONT OF NO. 58/59, ZIKS AVENUE.",
+    "wardId": "onitsha-south__ward-05"
+  },
+  {
+    "id": "4-18-06-001",
+    "code": "4-18-06-001",
+    "name": "AGAI PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-002",
+    "code": "4-18-06-002",
+    "name": "AGAI PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-003",
+    "code": "4-18-06-003",
+    "name": "OSINA HALL I",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-004",
+    "code": "4-18-06-004",
+    "name": "OSINA HALL II",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-005",
+    "code": "4-18-06-005",
+    "name": "AMICHI HALL I",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-006",
+    "code": "4-18-06-006",
+    "name": "AMICHI HALL II",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-007",
+    "code": "4-18-06-007",
+    "name": "PLAY GROUND I",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-008",
+    "code": "4-18-06-008",
+    "name": "PLAY GROUND II",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-009",
+    "code": "4-18-06-009",
+    "name": "4, PORT HARCOURT ROAD I",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-010",
+    "code": "4-18-06-010",
+    "name": "4, PORT HARCOURT ROAD II",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-011",
+    "code": "4-18-06-011",
+    "name": "70, PORT HARCOURT ROAD I",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-012",
+    "code": "4-18-06-012",
+    "name": "70, PORT HARCOURT ROAD II",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-013",
+    "code": "4-18-06-013",
+    "name": "AGAI PRIMARY SCHOOL,  NURSERY SECTION I.",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-014",
+    "code": "4-18-06-014",
+    "name": "AGAI PRIMARY SCHOOL, NURSERY SECTION II.",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-015",
+    "code": "4-18-06-015",
+    "name": "OSINA HALL III",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-016",
+    "code": "4-18-06-016",
+    "name": "OPEN SPACE INFRONT  OF NO. 14, UGA STREET  I.(ADJACENT AMICHI HALL)",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-017",
+    "code": "4-18-06-017",
+    "name": "OPEN SPACE IN  FRONT OF NO. 14, UGA STREET  II. (ADJACENT AMICHI HALL)",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-018",
+    "code": "4-18-06-018",
+    "name": "URBAN BOYS SECONDARY SCHOOL  I",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-019",
+    "code": "4-18-06-019",
+    "name": "URBAN BOYS SECONDARY SCHOOL  II",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-020",
+    "code": "4-18-06-020",
+    "name": "OPEN SPACE IN FRONT OF NO. 6, PORT HARCOURT ROAD.",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-06-021",
+    "code": "4-18-06-021",
+    "name": "OPEN SPACE IN FRONT OF NO. 72, PORTHARCOURT ROAD",
+    "wardId": "onitsha-south__ward-06"
+  },
+  {
+    "id": "4-18-07-001",
+    "code": "4-18-07-001",
+    "name": "ZIK'S AVENUE PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-002",
+    "code": "4-18-07-002",
+    "name": "ZIK'S AVENUE PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-003",
+    "code": "4-18-07-003",
+    "name": "ZIK'S AVENUE PRY. SCHOOL III",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-004",
+    "code": "4-18-07-004",
+    "name": "ZIK'S AVENUE PRY. SCHOOL IV",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-005",
+    "code": "4-18-07-005",
+    "name": "IGBOUKWU HALL I",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-006",
+    "code": "4-18-07-006",
+    "name": "IGBOUKWU HALL II",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-007",
+    "code": "4-18-07-007",
+    "name": "OTUMOYE PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-008",
+    "code": "4-18-07-008",
+    "name": "OTUMOYE PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-009",
+    "code": "4-18-07-009",
+    "name": "ZIK AVENUE PRIMARY SCHOOL  V, FRONT OF HEADMISTRESS OFFICE.",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-010",
+    "code": "4-18-07-010",
+    "name": "OPEN SPACE IN FRONT OF NO. 7, ARONDIZUOGU STREET.",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-011",
+    "code": "4-18-07-011",
+    "name": "OTUMOYE PRIMARY SCHOOL III",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-012",
+    "code": "4-18-07-012",
+    "name": "HOLY ROSARY II / NIGER PRIMARY SCHOOL   I",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-013",
+    "code": "4-18-07-013",
+    "name": "HOLY ROSARY II / NIGER PRIMARY SCHOOL  II",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-07-014",
+    "code": "4-18-07-014",
+    "name": "HOLY ROSARY II/ NIGER PRIMARY SCHOOL   III",
+    "wardId": "onitsha-south__ward-07"
+  },
+  {
+    "id": "4-18-08-001",
+    "code": "4-18-08-001",
+    "name": "NIGER CITY PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-002",
+    "code": "4-18-08-002",
+    "name": "NIGER CITY PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-003",
+    "code": "4-18-08-003",
+    "name": "NIGER CITY PRY. SCHOOL III",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-004",
+    "code": "4-18-08-004",
+    "name": "NUPE PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-005",
+    "code": "4-18-08-005",
+    "name": "NUPE PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-006",
+    "code": "4-18-08-006",
+    "name": "NUPE PRY. SCHOOL III",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-007",
+    "code": "4-18-08-007",
+    "name": "FEGGE COM. PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-008",
+    "code": "4-18-08-008",
+    "name": "FEGGE COMM. PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-009",
+    "code": "4-18-08-009",
+    "name": "FEGGE COMM. PRY. SCHOOL III",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-010",
+    "code": "4-18-08-010",
+    "name": "URBAN GIRLS SEC. SCHOOL I",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-011",
+    "code": "4-18-08-011",
+    "name": "URBAN GIRLS SEC. SCHOOL II",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-012",
+    "code": "4-18-08-012",
+    "name": "URBAN GIRLS SEC. SCHOOL III",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-013",
+    "code": "4-18-08-013",
+    "name": "OPEN SPACE IN FRONT OF ONITSHA SOUTH LG. HEALTH CENTRE. (BESIDE NUPE PRIMARY SCHOOL.)",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-014",
+    "code": "4-18-08-014",
+    "name": "FEGGE COMMUNITY PRIMARY SCHOOL IV",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-015",
+    "code": "4-18-08-015",
+    "name": "FEGGE COMMUNITY PRIMARY SCHOOL V",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-08-016",
+    "code": "4-18-08-016",
+    "name": "URBAN GIRLS SECONDARY SCHOOL   IV  (NBL BUILDING)",
+    "wardId": "onitsha-south__ward-08"
+  },
+  {
+    "id": "4-18-09-001",
+    "code": "4-18-09-001",
+    "name": "OKIJA HALL I",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-002",
+    "code": "4-18-09-002",
+    "name": "OKIJA HALL II",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-003",
+    "code": "4-18-09-003",
+    "name": "OKIJA HALL III",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-004",
+    "code": "4-18-09-004",
+    "name": "OKIJA HALL IV",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-005",
+    "code": "4-18-09-005",
+    "name": "23, ZIKS AVENUE I",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-006",
+    "code": "4-18-09-006",
+    "name": "23, ZIKS AVENUE II",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-007",
+    "code": "4-18-09-007",
+    "name": "23, ZIKS AVENUE III",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-008",
+    "code": "4-18-09-008",
+    "name": "51, ZIKS AVENUE I",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-009",
+    "code": "4-18-09-009",
+    "name": "51, ZIKS AVENUE II",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-010",
+    "code": "4-18-09-010",
+    "name": "51, ZIKS AVENUE III",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-011",
+    "code": "4-18-09-011",
+    "name": "PLAZAR SQUARE I",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-012",
+    "code": "4-18-09-012",
+    "name": "PLAZAR SQUARE II",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-013",
+    "code": "4-18-09-013",
+    "name": "PLAZAR SQUARE III",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-014",
+    "code": "4-18-09-014",
+    "name": "PLAZAR SQUARE IV",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-015",
+    "code": "4-18-09-015",
+    "name": "34, AGGREY ROAD I",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-016",
+    "code": "4-18-09-016",
+    "name": "34, AGGREY ROAD II",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-017",
+    "code": "4-18-09-017",
+    "name": "34, AGGREY ROAD III",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-018",
+    "code": "4-18-09-018",
+    "name": "OPEN SPACE AT CREEK ROAD/ONYEKWELU JUNCTION   I",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-019",
+    "code": "4-18-09-019",
+    "name": "OPEN SPACE AT CREEK ROAD/ONYEKWELU JUNCTION  II",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-020",
+    "code": "4-18-09-020",
+    "name": "OPEN SPACE IN FRONT OF NO. 42B, CREEK RD, BESIDE MECHANIC WORKSHOP.",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-021",
+    "code": "4-18-09-021",
+    "name": "OPEN SPACE IN FRONT OF NO. 37/50, ZIK AVENUE  I.",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-022",
+    "code": "4-18-09-022",
+    "name": "OPEN SPACE IN FRONT OF NO. 37/50, ZIK AVENUE  II.",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-023",
+    "code": "4-18-09-023",
+    "name": "OPEN SPACE IN FRONT OF NO. 37/50, ZIK AVENUE  III.",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-024",
+    "code": "4-18-09-024",
+    "name": "OPEN SPACE BESIDE GATE OF REV. EGBUCHE STR. BY ZIK AVENUE.",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-025",
+    "code": "4-18-09-025",
+    "name": "OPEN SPACE IN FRONT OF NO. 1A, BALEWA STREET    I.",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-026",
+    "code": "4-18-09-026",
+    "name": "OPEN SPACE IN FRONT OF NO. 1A, BALEWA STREET  II.",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-027",
+    "code": "4-18-09-027",
+    "name": "OPEN SPACE IN FRONT OF NO. 31, AGGREY ROAD/ONYEKWELU STR.   I.",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-09-028",
+    "code": "4-18-09-028",
+    "name": "OPEN SPACE IN FRONT OF NO. 31, AGGREY ROAD/ONYEKWELU STR.   II.",
+    "wardId": "onitsha-south__ward-09"
+  },
+  {
+    "id": "4-18-10-001",
+    "code": "4-18-10-001",
+    "name": "TASK FORCE I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-002",
+    "code": "4-18-10-002",
+    "name": "TASK FORCE II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-003",
+    "code": "4-18-10-003",
+    "name": "TASK FORCE III",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-004",
+    "code": "4-18-10-004",
+    "name": "SILAS WORKS ROAD I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-005",
+    "code": "4-18-10-005",
+    "name": "SILAS WORKS ROAD II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-006",
+    "code": "4-18-10-006",
+    "name": "SILAS WORKS ROAD III",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-007",
+    "code": "4-18-10-007",
+    "name": "69, AKUNNIA NJOTE I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-008",
+    "code": "4-18-10-008",
+    "name": "69, AKUNNIA NJOTE II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-009",
+    "code": "4-18-10-009",
+    "name": "69, AKUNNIA NJOTE III",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-010",
+    "code": "4-18-10-010",
+    "name": "69, AKUNNIA NJOTE IV",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-011",
+    "code": "4-18-10-011",
+    "name": "WOLIWO COMM. OFFICE I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-012",
+    "code": "4-18-10-012",
+    "name": "WOLIWO COMM. OFFICE II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-013",
+    "code": "4-18-10-013",
+    "name": "WOLIWO COMM. OFFICE III",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-014",
+    "code": "4-18-10-014",
+    "name": "WOLIWO COMM. OFFICE IV",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-015",
+    "code": "4-18-10-015",
+    "name": "YAM MARKET SQUARE I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-016",
+    "code": "4-18-10-016",
+    "name": "YAM MARKET SQUARE II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-017",
+    "code": "4-18-10-017",
+    "name": "YAM MARKET SQUARE III",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-018",
+    "code": "4-18-10-018",
+    "name": "EPIGNOSIS STANDARD COLLEGE WOLIWO   I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-019",
+    "code": "4-18-10-019",
+    "name": "EPIGNOSIS STANDARD COLLEGE WOLIWO II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-020",
+    "code": "4-18-10-020",
+    "name": "EPIGNOSIS STANDARD COLLEGE WOLIWO III",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-021",
+    "code": "4-18-10-021",
+    "name": "EPIGNOSIS STANDARD COLLEGE WOLIWO IV",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-022",
+    "code": "4-18-10-022",
+    "name": "EPIGNOSIS STANDARD COLLEGE WOLIWO V",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-023",
+    "code": "4-18-10-023",
+    "name": "EPIGNOSIS STANDARD COLLEGE COMPUTER CENTER",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-024",
+    "code": "4-18-10-024",
+    "name": "OPEN SPACE BESIDE WOLIWO HEALTH CENTER     I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-025",
+    "code": "4-18-10-025",
+    "name": "OPEN SPACE BESIDE WOLIWO HEALTH CENTER   II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-026",
+    "code": "4-18-10-026",
+    "name": "OPEN SPACE IN FRONT OF NO. 9,  SILAS WORKS ROAD  I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-027",
+    "code": "4-18-10-027",
+    "name": "OPEN SPACE IN FRONT OF NO. 9, SILAS WORKS ROAD  II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-028",
+    "code": "4-18-10-028",
+    "name": "OPEN SPACE IN FRONT OF NO. 9, SILAS WORKS ROAD  III",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-029",
+    "code": "4-18-10-029",
+    "name": "OPEN SPACE IN FRONT OF NO.  7 SILAS WORKS ROAD",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-030",
+    "code": "4-18-10-030",
+    "name": "OPEN SPACE IN FRONT OF NO. 70, AKUNNIA NJOTE STREET    I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-031",
+    "code": "4-18-10-031",
+    "name": "OPEN SPACE IN FRONT OF NO. 70, AKUNNIA NJOTE STREET    II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-032",
+    "code": "4-18-10-032",
+    "name": "OPEN SPACE AT EBILIEKWE JUNCTION I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-033",
+    "code": "4-18-10-033",
+    "name": "OPEN SPACE AT EBILIEKWE JUNCTION II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-034",
+    "code": "4-18-10-034",
+    "name": "OPEN SPACE INFRONT OF NO. 67, AKUNNIA NJOTE STREET    I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-035",
+    "code": "4-18-10-035",
+    "name": "OPEN SPACE INFRONT OF NO. 67, AKUNNIA NJOTE STREET   II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-036",
+    "code": "4-18-10-036",
+    "name": "OPEN SPACE INFRONT OF NO. 63, AKUNNIA NJOTE STREET    I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-037",
+    "code": "4-18-10-037",
+    "name": "OPEN SPACE INFRONT OF NO. 63, AKUNNIA NJOTE STREET    II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-038",
+    "code": "4-18-10-038",
+    "name": "OPEN SPACE IN FRONT OF NO. 11, AKUNNIA NJOTE STREET, ADJACENT WOLIWO MICROFINANCE BANK   I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-039",
+    "code": "4-18-10-039",
+    "name": "OPEN SPACE IN FRONT OF NO. 11, AKUNNIA NJOTE STREET ADJACENT WOLIWO MICROFINANCE BANK II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-040",
+    "code": "4-18-10-040",
+    "name": "OPEN SPACE AT AKUNNIA NJOTE STREET JUNCTION BY RICE MARKET I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-041",
+    "code": "4-18-10-041",
+    "name": "OPEN SPACE AT AKUNNIA NJOTE STREET JUNCTION BY RICE MARKET II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-042",
+    "code": "4-18-10-042",
+    "name": "INFANT JESUS NURSERY/PRIMARY SCHOOL    I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-043",
+    "code": "4-18-10-043",
+    "name": "INFANT JESUS NURSERY/PRIMARY SCHOOL   II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-044",
+    "code": "4-18-10-044",
+    "name": "INFANT JESUS NURSERY/PRIMARY SCHOOL  III",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-045",
+    "code": "4-18-10-045",
+    "name": "INFANT JESUS SECONDARY SCHOOL     I",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-046",
+    "code": "4-18-10-046",
+    "name": "INFANT JESUS SECONDARY SCHOOL   II",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-10-047",
+    "code": "4-18-10-047",
+    "name": "INFANT JESUS SECONDARY SCHOOL   III",
+    "wardId": "onitsha-south__ward-10"
+  },
+  {
+    "id": "4-18-11-001",
+    "code": "4-18-11-001",
+    "name": "PIONEER PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-002",
+    "code": "4-18-11-002",
+    "name": "PIONEER PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-003",
+    "code": "4-18-11-003",
+    "name": "PIONEER PRY. SCHOOL III",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-004",
+    "code": "4-18-11-004",
+    "name": "O'CONNOR PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-005",
+    "code": "4-18-11-005",
+    "name": "O'CONNOR PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-006",
+    "code": "4-18-11-006",
+    "name": "O'CONNOR PRY. SCHOOL III",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-007",
+    "code": "4-18-11-007",
+    "name": "C.K.C PRIMARY SCHOOL I",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-008",
+    "code": "4-18-11-008",
+    "name": "C.K.C PRIMARY SCHOOL II",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-009",
+    "code": "4-18-11-009",
+    "name": "C.K.C PRIMARY SCHOOL III",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-010",
+    "code": "4-18-11-010",
+    "name": "C.K.C. PRIMARY SCHOOL IV",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-011",
+    "code": "4-18-11-011",
+    "name": "PIONEER PRIMARY SCHOOL  IV  (BLOCK B)",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-012",
+    "code": "4-18-11-012",
+    "name": "PIONEER PRIMARY SCHOOL  V  (OPPOSITE HEADMISTRESS OFFICE)",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-013",
+    "code": "4-18-11-013",
+    "name": "PIONEER PRIMARY SCHOOL   VI                      (BLOCK C  I)",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-014",
+    "code": "4-18-11-014",
+    "name": "PIONEER PRIMARY SCHOOL VII                           (BLOCK C II)",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-015",
+    "code": "4-18-11-015",
+    "name": "O'CONNOR PRIMARY SCHOOL    IV                        (FRONT OF SKILL ACQUISITION CENTRE)",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-016",
+    "code": "4-18-11-016",
+    "name": "O'CONNOR PRIMARY SCHOOL   V                             ( FRONT OF L.G. 2013 PROJECT BUILDING)",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-017",
+    "code": "4-18-11-017",
+    "name": "O'CONNOR PRIMARY SCHOOL     VI                               (FRONT OF UBE/RN/2009 BUILDING)",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-018",
+    "code": "4-18-11-018",
+    "name": "C.K.C. COLLEGE   I                                                     (FRONT OF OLD LAWN TENNIS COURT COURT   I)",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-019",
+    "code": "4-18-11-019",
+    "name": "C.K.C. COLLEGE   II                                                            (FRONT OF OLD LAWN TENNIS COURT COURT II)",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-11-020",
+    "code": "4-18-11-020",
+    "name": "C.K.C. COLLEGE III                                               (FRONT OF BASKET BALL COURT )",
+    "wardId": "onitsha-south__ward-11"
+  },
+  {
+    "id": "4-18-12-001",
+    "code": "4-18-12-001",
+    "name": "COMMUNITY PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-002",
+    "code": "4-18-12-002",
+    "name": "COMMUNITY PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-003",
+    "code": "4-18-12-003",
+    "name": "COMMUNITY PRY. SCHOOL III",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-004",
+    "code": "4-18-12-004",
+    "name": "CENTRAL SCHOOL I",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-005",
+    "code": "4-18-12-005",
+    "name": "CENTRAL SCHOOL II",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-006",
+    "code": "4-18-12-006",
+    "name": "CENTRAL SCHOOL III",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-007",
+    "code": "4-18-12-007",
+    "name": "CENTRAL SCHOOL IV",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-008",
+    "code": "4-18-12-008",
+    "name": "MOTHERLESS BABIES HOME I",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-009",
+    "code": "4-18-12-009",
+    "name": "MOTEHRLESS BABIES HOME II",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-010",
+    "code": "4-18-12-010",
+    "name": "ACHUKWU HALL I",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-011",
+    "code": "4-18-12-011",
+    "name": "ACHUKWU HALL II",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-012",
+    "code": "4-18-12-012",
+    "name": "MODEBE SEC. SCHOOL I",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-013",
+    "code": "4-18-12-013",
+    "name": "MODEBE SEC. SCHOOL II",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-014",
+    "code": "4-18-12-014",
+    "name": "ONYEABOR PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-015",
+    "code": "4-18-12-015",
+    "name": "ONYEABOR PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-016",
+    "code": "4-18-12-016",
+    "name": "ONYEABOR PRY. SCHOOL III",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-017",
+    "code": "4-18-12-017",
+    "name": "SHANAHAN PRIMARY SCHOOL I",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-018",
+    "code": "4-18-12-018",
+    "name": "SHANAHAN PRIMARY SCHOOL II",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-019",
+    "code": "4-18-12-019",
+    "name": "COMMUNITY PRIMARY SCHOOL IV, FRONT OF SDG  BUILDING.",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-020",
+    "code": "4-18-12-020",
+    "name": "COMMUNITY PRIMARY SCHOOL V, FRONT OF SDG  BUILDING.",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-021",
+    "code": "4-18-12-021",
+    "name": "COMMUNITY PRIMARY SCHOOL VI, FRONT OF SDG BUILDING",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-022",
+    "code": "4-18-12-022",
+    "name": "CENTRAL SCHOOL V (BLOCK B  I)",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-023",
+    "code": "4-18-12-023",
+    "name": "CENTRAL SCHOOL VI (BLOCK B II)",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-024",
+    "code": "4-18-12-024",
+    "name": "CENTRAL SCHOOL VII (BLOCK B III)",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-025",
+    "code": "4-18-12-025",
+    "name": "OPEN SPACE IN FRONT OF SURE-P OFFICE I",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-026",
+    "code": "4-18-12-026",
+    "name": "OPEN SPACE INFRONT OF SURE-P OFFICE II",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-027",
+    "code": "4-18-12-027",
+    "name": "OPEN SPACE OPPOSITE ACHUKWU HALL  III",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-12-028",
+    "code": "4-18-12-028",
+    "name": "OPEN SPACE OPPOSITE ACHUKWU HALL IV",
+    "wardId": "onitsha-south__ward-12"
+  },
+  {
+    "id": "4-18-13-001",
+    "code": "4-18-13-001",
+    "name": "ANIONWU/OBANYE STREET I",
+    "wardId": "onitsha-south__ward-13"
+  },
+  {
+    "id": "4-18-13-002",
+    "code": "4-18-13-002",
+    "name": "ANIONWU/OBANYE STREET II",
+    "wardId": "onitsha-south__ward-13"
+  },
+  {
+    "id": "4-18-13-003",
+    "code": "4-18-13-003",
+    "name": "ANIONWU/OBANYE STREET III",
+    "wardId": "onitsha-south__ward-13"
+  },
+  {
+    "id": "4-18-13-004",
+    "code": "4-18-13-004",
+    "name": "PATRICK OKOLO P/S I",
+    "wardId": "onitsha-south__ward-13"
+  },
+  {
+    "id": "4-18-13-005",
+    "code": "4-18-13-005",
+    "name": "PATRICK OKOLO P/S II",
+    "wardId": "onitsha-south__ward-13"
+  },
+  {
+    "id": "4-18-13-006",
+    "code": "4-18-13-006",
+    "name": "PATRICK OKOLO P/S III",
+    "wardId": "onitsha-south__ward-13"
+  },
+  {
+    "id": "4-18-13-007",
+    "code": "4-18-13-007",
+    "name": "PATRICK OKOLO P/S IV",
+    "wardId": "onitsha-south__ward-13"
+  },
+  {
+    "id": "4-18-13-008",
+    "code": "4-18-13-008",
+    "name": "IBOKU/ONWUDIWE STREET I",
+    "wardId": "onitsha-south__ward-13"
+  },
+  {
+    "id": "4-18-13-009",
+    "code": "4-18-13-009",
+    "name": "IBOKU/ONWUDIWE STREET II",
+    "wardId": "onitsha-south__ward-13"
+  },
+  {
+    "id": "4-18-13-010",
+    "code": "4-18-13-010",
+    "name": "IBOKU/ONWUDIWE STREET III",
+    "wardId": "onitsha-south__ward-13"
+  },
+  {
+    "id": "4-18-14-001",
+    "code": "4-18-14-001",
+    "name": "30, MOORE STREET I",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-002",
+    "code": "4-18-14-002",
+    "name": "30, MOORE STREET II",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-003",
+    "code": "4-18-14-003",
+    "name": "30, MOORE STREET III",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-004",
+    "code": "4-18-14-004",
+    "name": "PAM PAM LANE I",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-005",
+    "code": "4-18-14-005",
+    "name": "PAM  PAM LANE II",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-006",
+    "code": "4-18-14-006",
+    "name": "PAM PAM LANE III",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-007",
+    "code": "4-18-14-007",
+    "name": "OTUMOYE STREET I",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-008",
+    "code": "4-18-14-008",
+    "name": "OTUMOYE STREET II",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-009",
+    "code": "4-18-14-009",
+    "name": "OTUMOYE STREET III",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-010",
+    "code": "4-18-14-010",
+    "name": "7, SOKOTO/HARUNA JUNCTION I",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-011",
+    "code": "4-18-14-011",
+    "name": "7, SOKOTO/HARUNA JUNCTION II",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-012",
+    "code": "4-18-14-012",
+    "name": "7, SOKOTO / HARUNA JUNCTION III",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-013",
+    "code": "4-18-14-013",
+    "name": "20B, IFEJIKA STREET I",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-014",
+    "code": "4-18-14-014",
+    "name": "20B, IFEJIKA STREET II",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-015",
+    "code": "4-18-14-015",
+    "name": "20B, IFEJIKA STREET III",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-016",
+    "code": "4-18-14-016",
+    "name": "OPEN SPACE AT PAM PAM LANE IV",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-017",
+    "code": "4-18-14-017",
+    "name": "OPEN SPACE OPPOSITE KAINNE, OTUMOYE STREET IV",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-018",
+    "code": "4-18-14-018",
+    "name": "OPEN SPACE BESIDE  TRANSFORMER, OTUMOYE STREET V",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-14-019",
+    "code": "4-18-14-019",
+    "name": "OPEN SPACE OPPOSITE UMEH, OTUMOYE STREET VI",
+    "wardId": "onitsha-south__ward-14"
+  },
+  {
+    "id": "4-18-15-001",
+    "code": "4-18-15-001",
+    "name": "MODEBE MEMO P/S I",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-15-002",
+    "code": "4-18-15-002",
+    "name": "MODEBE MEMO P/S II",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-15-003",
+    "code": "4-18-15-003",
+    "name": "MODEBE MEMO P/S III",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-15-004",
+    "code": "4-18-15-004",
+    "name": "MODEBE MEMO P/S IV",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-15-005",
+    "code": "4-18-15-005",
+    "name": "NWEJE PRY. SCHOOL I",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-15-006",
+    "code": "4-18-15-006",
+    "name": "NWEJE PRY. SCHOOL II",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-15-007",
+    "code": "4-18-15-007",
+    "name": "NWEJE PRY. SCHOOL III",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-15-008",
+    "code": "4-18-15-008",
+    "name": "UMUOJI/ULI STREET I",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-15-009",
+    "code": "4-18-15-009",
+    "name": "UMUOJI/ULI STREET II",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-15-010",
+    "code": "4-18-15-010",
+    "name": "UMUOJI/ULI STREET III",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-15-011",
+    "code": "4-18-15-011",
+    "name": "NWEJE PRIMARY SCHOOL  IV, IN FRONT OF HEADMISTRESS OFFICE",
+    "wardId": "onitsha-south__ward-15"
+  },
+  {
+    "id": "4-18-16-001",
+    "code": "4-18-16-001",
+    "name": "NEW MARKET ROAD P.S I",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-002",
+    "code": "4-18-16-002",
+    "name": "NEW MARKET ROAD P/S II",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-003",
+    "code": "4-18-16-003",
+    "name": "NEW MARKET ROAD P/S III",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-004",
+    "code": "4-18-16-004",
+    "name": "EZENWA/NEW MARKET ROAD I",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-005",
+    "code": "4-18-16-005",
+    "name": "EZENWA/NEW MARKET ROAD II",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-006",
+    "code": "4-18-16-006",
+    "name": "EZENWA/NEW MARKET ROAD III",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-007",
+    "code": "4-18-16-007",
+    "name": "VENN ROAD SOUTH I",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-008",
+    "code": "4-18-16-008",
+    "name": "VENN ROAD SOUTH II",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-009",
+    "code": "4-18-16-009",
+    "name": "MOORE/SAINNEZ I",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-010",
+    "code": "4-18-16-010",
+    "name": "MOORE/SAINNEZ II",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-011",
+    "code": "4-18-16-011",
+    "name": "MOORE/SAINNEZ III",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-012",
+    "code": "4-18-16-012",
+    "name": "41, MOORE STREET I",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-013",
+    "code": "4-18-16-013",
+    "name": "41, MOORE STREET II",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-014",
+    "code": "4-18-16-014",
+    "name": "41, MOORE STREET III",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-015",
+    "code": "4-18-16-015",
+    "name": "OKWEI STREET I",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-016",
+    "code": "4-18-16-016",
+    "name": "OKWEI STREET II",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-017",
+    "code": "4-18-16-017",
+    "name": "OKWEI STREET III",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-16-018",
+    "code": "4-18-16-018",
+    "name": "NEW MARKET ROAD PRIMARY SCHOOL IV (FRONT OF BLOCK A 1)",
+    "wardId": "onitsha-south__ward-16"
+  },
+  {
+    "id": "4-18-17-001",
+    "code": "4-18-17-001",
+    "name": "METU MEMO SEC. SCHOOL I",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-002",
+    "code": "4-18-17-002",
+    "name": "METU MEMO SEC. SCHOOL II",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-003",
+    "code": "4-18-17-003",
+    "name": "METU MEMO SEC. SCHOOL III",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-004",
+    "code": "4-18-17-004",
+    "name": "METU MEMO SEC. SCHOOL IV",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-005",
+    "code": "4-18-17-005",
+    "name": "METU MEMO SEC. SCHOOL V",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-006",
+    "code": "4-18-17-006",
+    "name": "OZUBULU HALL I",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-007",
+    "code": "4-18-17-007",
+    "name": "OZUBULU HALL II",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-008",
+    "code": "4-18-17-008",
+    "name": "OZUBULU HALL III",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-009",
+    "code": "4-18-17-009",
+    "name": "OZUBULU HALL IV",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-010",
+    "code": "4-18-17-010",
+    "name": "MARGARETH/NNEWI STREET I",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-011",
+    "code": "4-18-17-011",
+    "name": "MARGARETH/NNEWI STREET II",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-012",
+    "code": "4-18-17-012",
+    "name": "MARGARETH/NNEWI STREET III",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-013",
+    "code": "4-18-17-013",
+    "name": "MARGARETH/NNEWI STREET IV",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-014",
+    "code": "4-18-17-014",
+    "name": "METU MEMORIAL SECONDARY SCHOOL VI FRONT OF LIBRARY",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-015",
+    "code": "4-18-17-015",
+    "name": "METU MEMORIAL SECONDARY SCHOOL VII, FRONT OF PRINCIPAL'S OFFICE.",
+    "wardId": "onitsha-south__ward-17"
+  },
+  {
+    "id": "4-18-17-016",
+    "code": "4-18-17-016",
+    "name": "OZUBULU HALL    V",
+    "wardId": "onitsha-south__ward-17"
+  }
+]

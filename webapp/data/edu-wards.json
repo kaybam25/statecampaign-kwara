@@ -1,0 +1,72 @@
+[
+  {
+    "id": "edu__ward-01",
+    "name": "LAFIAGI 1",
+    "lgaId": "kwara__edu",
+    "code": "23-03-01",
+    "puCount": 20
+  },
+  {
+    "id": "edu__ward-02",
+    "name": "LAFIAGI 11",
+    "lgaId": "kwara__edu",
+    "code": "23-03-02",
+    "puCount": 22
+  },
+  {
+    "id": "edu__ward-03",
+    "name": "LAFIAGI 111",
+    "lgaId": "kwara__edu",
+    "code": "23-03-03",
+    "puCount": 19
+  },
+  {
+    "id": "edu__ward-04",
+    "name": "LAFIAGI 1V",
+    "lgaId": "kwara__edu",
+    "code": "23-03-04",
+    "puCount": 17
+  },
+  {
+    "id": "edu__ward-05",
+    "name": "TSARAGI 1",
+    "lgaId": "kwara__edu",
+    "code": "23-03-05",
+    "puCount": 16
+  },
+  {
+    "id": "edu__ward-06",
+    "name": "TSARAGI 11",
+    "lgaId": "kwara__edu",
+    "code": "23-03-06",
+    "puCount": 20
+  },
+  {
+    "id": "edu__ward-07",
+    "name": "TSARAGI 111",
+    "lgaId": "kwara__edu",
+    "code": "23-03-07",
+    "puCount": 20
+  },
+  {
+    "id": "edu__ward-08",
+    "name": "TSONGA 1",
+    "lgaId": "kwara__edu",
+    "code": "23-03-08",
+    "puCount": 16
+  },
+  {
+    "id": "edu__ward-09",
+    "name": "TSONGA 11",
+    "lgaId": "kwara__edu",
+    "code": "23-03-09",
+    "puCount": 12
+  },
+  {
+    "id": "edu__ward-10",
+    "name": "TSONGA 111",
+    "lgaId": "kwara__edu",
+    "code": "23-03-10",
+    "puCount": 13
+  }
+]

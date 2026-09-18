@@ -1,0 +1,3776 @@
+[
+  {
+    "id": "20-21-01-001",
+    "code": "20-21-01-001",
+    "name": "ALKANTARA, FILIN ALKANTARA I",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-002",
+    "code": "20-21-01-002",
+    "name": "ALKANTARA, FILIN ALKANTARA II",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-003",
+    "code": "20-21-01-003",
+    "name": "ALKANTARA, FILIN ALKANTARA III",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-004",
+    "code": "20-21-01-004",
+    "name": "ALKANTARA, FILIN ALKANTARA IV",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-005",
+    "code": "20-21-01-005",
+    "name": "CHEDI FILIN ALKANTARA I",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-006",
+    "code": "20-21-01-006",
+    "name": "CHEDI FILIN ALKANTARA II",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-007",
+    "code": "20-21-01-007",
+    "name": "CHEDI FILIN ALKANTARA III",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-008",
+    "code": "20-21-01-008",
+    "name": "CHEDI FILIN ALKANTARA IV",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-009",
+    "code": "20-21-01-009",
+    "name": "CHIROMAWA FILIN WANKI",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-010",
+    "code": "20-21-01-010",
+    "name": "CHIROMAWA FILIN WANKI II",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-011",
+    "code": "20-21-01-011",
+    "name": "CHIROMAWA FILIN WANKI III",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-012",
+    "code": "20-21-01-012",
+    "name": "DARMA, YOLAWA ISLAMIYYA I",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-013",
+    "code": "20-21-01-013",
+    "name": "DARMA, YOLAWA ISLAMIYYA II",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-014",
+    "code": "20-21-01-014",
+    "name": "DARMA, YOLAWA ISLAMIYYA III",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-015",
+    "code": "20-21-01-015",
+    "name": "DARMA, YOLAWA ISLAMIYYA IV",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-016",
+    "code": "20-21-01-016",
+    "name": "DARMA, YOLAWA ISLAMIYYA V",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-017",
+    "code": "20-21-01-017",
+    "name": "DARMA, YOLAWA ISLAMIYYA VI",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-018",
+    "code": "20-21-01-018",
+    "name": "DARMA, YOLAWA ISLAMIYYA VII",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-020",
+    "code": "20-21-01-020",
+    "name": "ALKANTARA, FILIN ALKANTARA III",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-021",
+    "code": "20-21-01-021",
+    "name": "CHIROMA",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-022",
+    "code": "20-21-01-022",
+    "name": "CHIROMAWA FILIN WANKI",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-01-023",
+    "code": "20-21-01-023",
+    "name": "DARMA YOLAWA ISLAMIYYA",
+    "wardId": "kano-municipal__ward-01"
+  },
+  {
+    "id": "20-21-02-001",
+    "code": "20-21-02-001",
+    "name": "DAN'AGUNDI S.P.S I (DAN'AGUNDI I)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-002",
+    "code": "20-21-02-002",
+    "name": "DAN'AGUNDI S.P.S II (DAN'AGUNDI II)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-003",
+    "code": "20-21-02-003",
+    "name": "DAN'AGUNDI S.P.S III (DAN'AGUNDI III)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-004",
+    "code": "20-21-02-004",
+    "name": "DAN'AGUNDI S.P.S IV (DAN'AGUNDI IV)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-005",
+    "code": "20-21-02-005",
+    "name": "DAN'AGUNDI S.P.S V (DAN'AGUNDI V)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-006",
+    "code": "20-21-02-006",
+    "name": "DAN'AGUNDI S.P.S VI (DAN'AGUNDI VI)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-007",
+    "code": "20-21-02-007",
+    "name": "DAN'AGUNDI S.P.S VII (DAN'AGUNDI VII)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-008",
+    "code": "20-21-02-008",
+    "name": "DAN'AGUNDI S.P.S VIII (DAN'AGUNDI VIII)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-009",
+    "code": "20-21-02-009",
+    "name": "DAN'AGUNDI S.P.S IX (DAN'AGUNDI IX)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-010",
+    "code": "20-21-02-010",
+    "name": "ADO BAYERO ISLAMIYYA I (INDABAWA I)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-011",
+    "code": "20-21-02-011",
+    "name": "ADO BAYERO ISLAMIYYA II (INDABAWA II)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-012",
+    "code": "20-21-02-012",
+    "name": "ADO BAYERO ISLAMIYYA III (INDABAWA III)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-013",
+    "code": "20-21-02-013",
+    "name": "ADO BAYERO ISLAMIYYA IV (INDABAWA IV)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-014",
+    "code": "20-21-02-014",
+    "name": "ADO BAYERO ISLAMIYYA V (INDABAWA V)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-015",
+    "code": "20-21-02-015",
+    "name": "ADO BAYERO ISLAMIYYA VI (INDABAWA VI)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-016",
+    "code": "20-21-02-016",
+    "name": "ADO BAYERO ISLAMIYYA VII (INDABAWA VII)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-017",
+    "code": "20-21-02-017",
+    "name": "ADO BAYERO ISLAMIYYA VIII (INDABAWA VIII)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-018",
+    "code": "20-21-02-018",
+    "name": "WASILA ISLAIMIYYA I (KURMAWA I)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-019",
+    "code": "20-21-02-019",
+    "name": "WASILA ISLAIMIYYA II (KURMAWA II)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-020",
+    "code": "20-21-02-020",
+    "name": "WASILA ISLAIMIYYA III (KURMAWA III)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-021",
+    "code": "20-21-02-021",
+    "name": "WASILA ISLAIMIYYA IV (KURMAWA IV)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-022",
+    "code": "20-21-02-022",
+    "name": "WASILA ISLAIMIYYA V (KURMAWA V)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-023",
+    "code": "20-21-02-023",
+    "name": "WASILA ISLAIMIYYA VI (KURMAWA VI)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-024",
+    "code": "20-21-02-024",
+    "name": "WASILA ISLAIMIYYA VII (KURMAWA VII)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-025",
+    "code": "20-21-02-025",
+    "name": "KURMAWA VIII/WASILA ISLAIMIYYA (KURMAWA VIII)",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-026",
+    "code": "20-21-02-026",
+    "name": "DAN AGUNDI S.P.S",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-027",
+    "code": "20-21-02-027",
+    "name": "INDABAWA ADO BAYERO ISLAMIYYA",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-028",
+    "code": "20-21-02-028",
+    "name": "WAJILA ISLAMIYYA KURAMAWA",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-02-029",
+    "code": "20-21-02-029",
+    "name": "WAJILA ISLAMIYYA KURAMAWA",
+    "wardId": "kano-municipal__ward-02"
+  },
+  {
+    "id": "20-21-03-001",
+    "code": "20-21-03-001",
+    "name": "GANDU S.P.S. I (GANDUN ALBASA I)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-002",
+    "code": "20-21-03-002",
+    "name": "GANDU S.P.S. II (GANDUN ALBASA II)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-003",
+    "code": "20-21-03-003",
+    "name": "GANDU S.P.S. III (GANDUN ALBASA III)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-004",
+    "code": "20-21-03-004",
+    "name": "GANDU S.P.S. IV (GANDUN ALBASA IV)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-005",
+    "code": "20-21-03-005",
+    "name": "GANDU S.P.S. V (GANDUN ALBASA V)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-006",
+    "code": "20-21-03-006",
+    "name": "GANDU S.P.S. VI (GANDUN ALBASA VI)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-007",
+    "code": "20-21-03-007",
+    "name": "GANDU S.P.S. VII (GANDUN ALBASA VII)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-008",
+    "code": "20-21-03-008",
+    "name": "GANDU S.P.S. VIII (GANDUN ALBASA VIII)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-009",
+    "code": "20-21-03-009",
+    "name": "GANDU S.P.S. IX (GANDUN ALBASA IX)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-010",
+    "code": "20-21-03-010",
+    "name": "GANDU S.P.S. X (GANDUN ALBASA X)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-011",
+    "code": "20-21-03-011",
+    "name": "G.G.J.S.S GANDU ALBASA I (GANDUN ALBASA XI)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-012",
+    "code": "20-21-03-012",
+    "name": "G.G.J.S.S GANDU ALBASA II (GANDUN ALBASA XII)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-013",
+    "code": "20-21-03-013",
+    "name": "G.G.J.S.S GANDU ALBASA III (GANDUN ALBASA XIII)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-014",
+    "code": "20-21-03-014",
+    "name": "G.G.J.S.S GANDU ALBASA IV (GANDUN ALBASA XIV)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-015",
+    "code": "20-21-03-015",
+    "name": "G.G.J.S.S GANDU ALBASA V (GANDUN ALBASA XV)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-016",
+    "code": "20-21-03-016",
+    "name": "G.G.J.S.S GANDU ALBASA VI (GANDUN ALBASA XVI)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-017",
+    "code": "20-21-03-017",
+    "name": "G.G.J.S.S GANDU ALBASA VII (GANDUN ALBASA XVII)",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-018",
+    "code": "20-21-03-018",
+    "name": "GANDU P.S. I",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-019",
+    "code": "20-21-03-019",
+    "name": "GANDU P.S. II",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-020",
+    "code": "20-21-03-020",
+    "name": "GANDU P.S. III",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-021",
+    "code": "20-21-03-021",
+    "name": "GANDU P.S. IV",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-022",
+    "code": "20-21-03-022",
+    "name": "MINI MARKET I",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-023",
+    "code": "20-21-03-023",
+    "name": "MINI MARKET II",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-024",
+    "code": "20-21-03-024",
+    "name": "MINI MARKET III",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-025",
+    "code": "20-21-03-025",
+    "name": "MINI MARKET IV",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-026",
+    "code": "20-21-03-026",
+    "name": "MINI MARKET V",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-027",
+    "code": "20-21-03-027",
+    "name": "MINI MARKET VI",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-028",
+    "code": "20-21-03-028",
+    "name": "MINI MARKET VII",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-029",
+    "code": "20-21-03-029",
+    "name": "MINI MARKET VIII",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-030",
+    "code": "20-21-03-030",
+    "name": "MINI MARKET IX",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-031",
+    "code": "20-21-03-031",
+    "name": "RUMFA COLLEGE I",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-032",
+    "code": "20-21-03-032",
+    "name": "RUMFA COLLEGE II",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-033",
+    "code": "20-21-03-033",
+    "name": "RUMFA COLLEGE III",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-034",
+    "code": "20-21-03-034",
+    "name": "G.S.S.S GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-035",
+    "code": "20-21-03-035",
+    "name": "G.S.S.S GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-036",
+    "code": "20-21-03-036",
+    "name": "G.S.S.S GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-037",
+    "code": "20-21-03-037",
+    "name": "G.S.S.S GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-038",
+    "code": "20-21-03-038",
+    "name": "GG .S.S.S GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-039",
+    "code": "20-21-03-039",
+    "name": "GG .S.S.S GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-040",
+    "code": "20-21-03-040",
+    "name": "GG .S.S.S GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-041",
+    "code": "20-21-03-041",
+    "name": "S.P.S GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-042",
+    "code": "20-21-03-042",
+    "name": "S.P.S GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-043",
+    "code": "20-21-03-043",
+    "name": "S.P.S GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-044",
+    "code": "20-21-03-044",
+    "name": "MINI MARKET GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-045",
+    "code": "20-21-03-045",
+    "name": "MINI MARKET GANDUN ALBASA",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-03-046",
+    "code": "20-21-03-046",
+    "name": "MINI MARKET IV",
+    "wardId": "kano-municipal__ward-03"
+  },
+  {
+    "id": "20-21-04-001",
+    "code": "20-21-04-001",
+    "name": "FILING BAKIN ZUWO I (BAKINZUWO K/GIDAN M/UNGUWA I)",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-002",
+    "code": "20-21-04-002",
+    "name": "FILING BAKIN ZUWO II (BAKINZUWO K/GIDAN M/UNGUWA II)",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-003",
+    "code": "20-21-04-003",
+    "name": "FILING BAKIN ZUWO III (BAKINZUWO K/GIDAN M/UNGUWA III)",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-004",
+    "code": "20-21-04-004",
+    "name": "FILING BAKIN ZUWO IV (BAKINZUWO K/GIDAN M/UNGUWA IV)",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-005",
+    "code": "20-21-04-005",
+    "name": "DANBAZAU, DANBAZAU ISLAMIYYA I",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-006",
+    "code": "20-21-04-006",
+    "name": "DANBAZAU, DANBAZAU ISLAMIYYA II",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-007",
+    "code": "20-21-04-007",
+    "name": "DANBAZAU, DANBAZAU ISLAMIYYA III",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-008",
+    "code": "20-21-04-008",
+    "name": "DURUMIN ARBABI - K/GIDAN M/UNGUWA I",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-009",
+    "code": "20-21-04-009",
+    "name": "DURUMIN ARBABI - K/GIDAN M/UNGUWA II",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-010",
+    "code": "20-21-04-010",
+    "name": "DURUMIN ARBABI - K/GIDAN M/UNGUWA III",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-011",
+    "code": "20-21-04-011",
+    "name": "JUJIN YANLABU, DANBAZAU ISLAMIYYA I",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-012",
+    "code": "20-21-04-012",
+    "name": "JUJIN YANLABU, DANBAZAU ISLAMIYYA II",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-013",
+    "code": "20-21-04-013",
+    "name": "KWARIN MABUGA - KOTUN KASUWA I",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-014",
+    "code": "20-21-04-014",
+    "name": "KWARIN MABUGA - KOTUN KASUWA II",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-015",
+    "code": "20-21-04-015",
+    "name": "KWARIN MABUGA - KOTUN KASUWA III",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-016",
+    "code": "20-21-04-016",
+    "name": "JAKARA HOSPITAL V (MASU KWANI ,JAKARA POST OFFICE I)",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-017",
+    "code": "20-21-04-017",
+    "name": "JAKARA HOSPITAL I (MASU KWANI ,JAKARA POST OFFICE II)",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-018",
+    "code": "20-21-04-018",
+    "name": "JAKARA HOSPITAL II (MASU KWANI ,JAKARA POST OFFICE III)",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-019",
+    "code": "20-21-04-019",
+    "name": "JAKARA HOSPITAL III (MASU KWANI ,JAKARA POST OFFICE IV)",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-020",
+    "code": "20-21-04-020",
+    "name": "JAKARA HOSPITAL IV (MASU KWANI ,JAKARA POST OFFICE V)",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-021",
+    "code": "20-21-04-021",
+    "name": "YANDOYA FILIN, YANDOYA I",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-022",
+    "code": "20-21-04-022",
+    "name": "YANDOYA FILIN, YANDOYA II",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-023",
+    "code": "20-21-04-023",
+    "name": "YANDOYA FILIN, YANDOYA III",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-04-024",
+    "code": "20-21-04-024",
+    "name": "JAKARA HOSPITAL  MASU KWANI POST OFFICE",
+    "wardId": "kano-municipal__ward-04"
+  },
+  {
+    "id": "20-21-05-001",
+    "code": "20-21-05-001",
+    "name": "DOGARAI G/MAKAMA S.P.S. I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-002",
+    "code": "20-21-05-002",
+    "name": "DOGARAI G/MAKAMA S.P.S. II",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-003",
+    "code": "20-21-05-003",
+    "name": "DURUMIN ZUNGURA WOMEN CENTRE I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-004",
+    "code": "20-21-05-004",
+    "name": "DURUMIN ZUNGURA WOMEN CENTRE II",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-005",
+    "code": "20-21-05-005",
+    "name": "DURUMIN ZUNGURA WOMEN CENTRE III",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-006",
+    "code": "20-21-05-006",
+    "name": "DURUMIN ZUNGURA WOMEN CENTRE IV",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-007",
+    "code": "20-21-05-007",
+    "name": "DURUMIN ZUNGURA WOMEN CENTRE V",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-008",
+    "code": "20-21-05-008",
+    "name": "DURUMIN ZUNGURA WOMEN CENTRE VI",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-009",
+    "code": "20-21-05-009",
+    "name": "KANKAROFI QURANIC SCH. I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-010",
+    "code": "20-21-05-010",
+    "name": "KANKAROFI QURANIC SCH. II",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-011",
+    "code": "20-21-05-011",
+    "name": "KANKAROFI QURANIC SCH. III",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-012",
+    "code": "20-21-05-012",
+    "name": "KANKAROFI QURANIC SCH. IV",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-013",
+    "code": "20-21-05-013",
+    "name": "KANKAROFI QURANIC SCH. V",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-014",
+    "code": "20-21-05-014",
+    "name": "KANKAROFI QURANIC SCH. VI",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-015",
+    "code": "20-21-05-015",
+    "name": "KOFAR NASSARAWA N.A. GARDEN I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-016",
+    "code": "20-21-05-016",
+    "name": "KOFAR NASSARAWA N.A. GARDEN II",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-017",
+    "code": "20-21-05-017",
+    "name": "KOFAR NASSARAWA N.A. GARDEN III",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-018",
+    "code": "20-21-05-018",
+    "name": "KOFAR NASSARAWA N.A. GARDEN IV",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-019",
+    "code": "20-21-05-019",
+    "name": "KOFAR NASSARAWA N.A. GARDEN V",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-020",
+    "code": "20-21-05-020",
+    "name": "KOFAR NASSARAWA N.A. GARDEN VI",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-021",
+    "code": "20-21-05-021",
+    "name": "KOFAR NASSARAWA N.A. GARDEN VII",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-022",
+    "code": "20-21-05-022",
+    "name": "G.G.S.S. HASANA SUFI I (KOFAR NASSARAWA N.A. GARDEN VIII)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-023",
+    "code": "20-21-05-023",
+    "name": "G.G.S.S. HASANA SUFI II (KOFAR NASSARAWA N.A. GARDEN IX)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-024",
+    "code": "20-21-05-024",
+    "name": "G.G.S.S. HASANA SUFI III (KOFAR NASSARAWA N.A. GARDEN X)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-025",
+    "code": "20-21-05-025",
+    "name": "G.G.S.S. HASANA SUFI IV (KOFAR NASSARAWA N.A. GARDEN XI)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-026",
+    "code": "20-21-05-026",
+    "name": "G.G.S.S. HASANA SUFI V (KOFAR NASSARAWA N.A. GARDEN XII)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-027",
+    "code": "20-21-05-027",
+    "name": "G.G.S.S. HASANA SUFI VI (KOFAR NASSARAWA N.A. GARDEN XIII)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-028",
+    "code": "20-21-05-028",
+    "name": "G.G.S.S. HASANA SUFI VII (KOFAR NASSARAWA N.A. GARDEN XIV)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-029",
+    "code": "20-21-05-029",
+    "name": "MUBI KWALLI S.P.S. I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-030",
+    "code": "20-21-05-030",
+    "name": "MUBI KWALLI S.P.S. II",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-031",
+    "code": "20-21-05-031",
+    "name": "MUBI KWALLI S.P.S. III",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-032",
+    "code": "20-21-05-032",
+    "name": "MUBI KWALLI S.P.S. IV",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-033",
+    "code": "20-21-05-033",
+    "name": "MUBI KWALLI S.P.S. V",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-034",
+    "code": "20-21-05-034",
+    "name": "MUBI KWALLI S.P.S. VI",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-035",
+    "code": "20-21-05-035",
+    "name": "MUBI KWALLI S.P.S. VII",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-036",
+    "code": "20-21-05-036",
+    "name": "SCHOOL ARABIC STUDIES I (UNGUWAR GINI, FILIN KWALLI I)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-037",
+    "code": "20-21-05-037",
+    "name": "SCHOOL ARABIC STUDIES II (UNGUWAR GINI, FILIN KWALLI II)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-038",
+    "code": "20-21-05-038",
+    "name": "SCHOOL ARABIC STUDIES III (UNGUWAR GINI, FILIN KWALLI III)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-039",
+    "code": "20-21-05-039",
+    "name": "SCHOOL ARABIC STUDIES IV (UNGUWAR GINI, FILIN KWALLI IV)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-040",
+    "code": "20-21-05-040",
+    "name": "SCHOOL ARABIC STUDIES V (UNGUWAR GINI, FILIN KWALLI V)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-041",
+    "code": "20-21-05-041",
+    "name": "SCHOOL ARABIC STUDIES VI (UNGUWAR GINI, FILIN KWALLI VI)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-042",
+    "code": "20-21-05-042",
+    "name": "SCHOOL ARABIC STUDIES VII (UNGUWAR GINI, FILIN KWALLI VII)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-043",
+    "code": "20-21-05-043",
+    "name": "SCHOOL ARABIC STUDIES VIII (UNGUWAR GINI, FILIN KWALLI VIII)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-044",
+    "code": "20-21-05-044",
+    "name": "WATATAZO DISPENSIRY I (UNGUWAR GINI, FILIN KWALLI IX)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-045",
+    "code": "20-21-05-045",
+    "name": "WATATAZO DISPENSIRY II (UNGUWAR GINI, FILIN KWALLI X)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-046",
+    "code": "20-21-05-046",
+    "name": "WATATAZO DISPENSIRY III (UNGUWAR GINI, FILIN KWALLI XI)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-047",
+    "code": "20-21-05-047",
+    "name": "WATATAZO DISPENSIRY IV (UNGUWAR GINI, FILIN KWALLI XII)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-048",
+    "code": "20-21-05-048",
+    "name": "WATATAZO DISPENSIRY V (UNGUWAR GINI, FILIN KWALLI XIII)",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-049",
+    "code": "20-21-05-049",
+    "name": "WUDILAWA G/MAKAMA S.P.S. I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-050",
+    "code": "20-21-05-050",
+    "name": "WUDILAWA G/MAKAMA S.P.S. II",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-051",
+    "code": "20-21-05-051",
+    "name": "WUDILAWA G/MAKAMA S.P.S. III",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-052",
+    "code": "20-21-05-052",
+    "name": "WUDILAWA G/MAKAMA S.P.S. IV",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-053",
+    "code": "20-21-05-053",
+    "name": "WUDILAWA G/MAKAMA S.P.S. V",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-054",
+    "code": "20-21-05-054",
+    "name": "CENTRAL PRISON I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-055",
+    "code": "20-21-05-055",
+    "name": "CENTRAL PRISON II",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-056",
+    "code": "20-21-05-056",
+    "name": "CENTRAL PRISON III",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-057",
+    "code": "20-21-05-057",
+    "name": "DOGARAII G/MAKAMA S.P.S.I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-058",
+    "code": "20-21-05-058",
+    "name": "DURUMIN ZUNGURA WOMEN CENTRE I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-059",
+    "code": "20-21-05-059",
+    "name": "DURUMIN ZUNGURA WOMEN CENTRE",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-060",
+    "code": "20-21-05-060",
+    "name": "DURUMIN ZUNGURA WOMEN CENTRE II",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-061",
+    "code": "20-21-05-061",
+    "name": "KANKAROFI QURANIC SCHOOL I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-062",
+    "code": "20-21-05-062",
+    "name": "KANKAROFI QURANIC SCHOOL IV",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-063",
+    "code": "20-21-05-063",
+    "name": "KANKAROFI QURANIC SCHOOL VI",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-064",
+    "code": "20-21-05-064",
+    "name": "KOFAR NASSARAWA N.A GARDEN I",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-065",
+    "code": "20-21-05-065",
+    "name": "KOFAR NASSARAWA N.A GARDEN IV",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-066",
+    "code": "20-21-05-066",
+    "name": "MUBI KWALLI S.P.S II",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-067",
+    "code": "20-21-05-067",
+    "name": "MUBI KWALLI S.P.S III",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-068",
+    "code": "20-21-05-068",
+    "name": "MUBI KWALLI S.P.S IV",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-069",
+    "code": "20-21-05-069",
+    "name": "MUBI KWALLI S.P.S VI",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-070",
+    "code": "20-21-05-070",
+    "name": "WATA TAZO DISPENSARY IV",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-071",
+    "code": "20-21-05-071",
+    "name": "MUBI KWALLI S.P.S VI",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-05-072",
+    "code": "20-21-05-072",
+    "name": "MUBI KWALLI S.P.S VII",
+    "wardId": "kano-municipal__ward-05"
+  },
+  {
+    "id": "20-21-06-001",
+    "code": "20-21-06-001",
+    "name": "BB TALLE ISLAMIYYA I (AGADASAWA I)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-002",
+    "code": "20-21-06-002",
+    "name": "BB TALLE ISLAMIYYA II (AGADASAWA II)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-003",
+    "code": "20-21-06-003",
+    "name": "BB TALLE ISLAMIYYA III (AGADASAWA III)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-004",
+    "code": "20-21-06-004",
+    "name": "BB TALLE ISLAMIYYA IV (AGADASAWA IV)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-005",
+    "code": "20-21-06-005",
+    "name": "ADO YOLA S.P.S I (CEDIYAR KUDA I)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-006",
+    "code": "20-21-06-006",
+    "name": "ADO YOLA S.P.S II (CEDIYAR KUDA II)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-007",
+    "code": "20-21-06-007",
+    "name": "SHEIK MUSA ALI ISLAM. I (GABARI I)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-008",
+    "code": "20-21-06-008",
+    "name": "SHEIK MUSA ALI ISLAM. II (GABARI II)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-009",
+    "code": "20-21-06-009",
+    "name": "SHEIK MUSA ALI ISLAM. III (GABARI III)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-010",
+    "code": "20-21-06-010",
+    "name": "FESTIVAL S.P.S. I (KOFAR WAMBAI I)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-011",
+    "code": "20-21-06-011",
+    "name": "FESTIVAL S.P.S. II (KOFAR WAMBAI II)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-012",
+    "code": "20-21-06-012",
+    "name": "FESTIVAL S.P.S. III (KOFAR WAMBAI III)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-013",
+    "code": "20-21-06-013",
+    "name": "FESTIVAL S.P.S. IV (KOFAR WAMBAI IV)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-014",
+    "code": "20-21-06-014",
+    "name": "FESTIVAL S.P.S. V (KOFAR WAMBAI V)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-015",
+    "code": "20-21-06-015",
+    "name": "FESTIVAL S.P.S. VI (KOFAR WAMBAI VI)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-016",
+    "code": "20-21-06-016",
+    "name": "FESTIVAL S.P.S. VII (KOFAR WAMBAI VII)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-017",
+    "code": "20-21-06-017",
+    "name": "FESTIVAL S.P.S. VIII (KOFAR WAMBAI VIII)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-018",
+    "code": "20-21-06-018",
+    "name": "FESTIVAL S.P.S. IX (KOFAR WAMBAI IX)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-019",
+    "code": "20-21-06-019",
+    "name": "FILING KURAWA I (KURAWA I)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-020",
+    "code": "20-21-06-020",
+    "name": "FILING KURAWA II (KURAWA II)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-021",
+    "code": "20-21-06-021",
+    "name": "FILING KURAWA III (KURAWA III)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-022",
+    "code": "20-21-06-022",
+    "name": "FILING KURAWA IV (KURAWA IV)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-023",
+    "code": "20-21-06-023",
+    "name": "ADO YOLA S.P.S I (KURNA I)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-024",
+    "code": "20-21-06-024",
+    "name": "ADO YOLA S.P.S II (KURNA II)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-025",
+    "code": "20-21-06-025",
+    "name": "ADO YOLA S.P.S III (KURNA III)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-026",
+    "code": "20-21-06-026",
+    "name": "ADO YOLA S.P.S IV (KURNA IV)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-027",
+    "code": "20-21-06-027",
+    "name": "MAKAFIN K/WAMBAI",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-028",
+    "code": "20-21-06-028",
+    "name": "SATATIMA I",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-029",
+    "code": "20-21-06-029",
+    "name": "SATATIMA II",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-030",
+    "code": "20-21-06-030",
+    "name": "SATATIMA III",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-031",
+    "code": "20-21-06-031",
+    "name": "SATATIMA IV",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-032",
+    "code": "20-21-06-032",
+    "name": "MADARAS Q. WALAULAD I (SHARFADI I)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-033",
+    "code": "20-21-06-033",
+    "name": "MADARAS Q. WALAULAD II (SHARFADI II)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-034",
+    "code": "20-21-06-034",
+    "name": "MADARAS Q. WALAULAD III (SHARFADI III)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-035",
+    "code": "20-21-06-035",
+    "name": "MADARAS Q. WALAULAD IV (SHARFADI IV)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-036",
+    "code": "20-21-06-036",
+    "name": "MADARAS Q. WALAULAD V (SHARFADI V)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-037",
+    "code": "20-21-06-037",
+    "name": "MADARAS Q. WALAULAD VI (SHARFADI VI)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-038",
+    "code": "20-21-06-038",
+    "name": "SHARIFAI I",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-039",
+    "code": "20-21-06-039",
+    "name": "SHARIFAI II",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-040",
+    "code": "20-21-06-040",
+    "name": "SHARIFAI III",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-041",
+    "code": "20-21-06-041",
+    "name": "SHARIFAI IV",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-042",
+    "code": "20-21-06-042",
+    "name": "SHARIFAI V",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-043",
+    "code": "20-21-06-043",
+    "name": "SHARIFAI VI",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-044",
+    "code": "20-21-06-044",
+    "name": "YOLA ISLAMIYYA I (YOLA I)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-045",
+    "code": "20-21-06-045",
+    "name": "YOLA ISLAMIYYA II (YOLA II)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-046",
+    "code": "20-21-06-046",
+    "name": "YOLA ISLAMIYYA III (YOLA III)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-047",
+    "code": "20-21-06-047",
+    "name": "YOLA ISLAMIYYA IV (YOLA IV)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-048",
+    "code": "20-21-06-048",
+    "name": "YOLA ISLAMIYYA V (YOLA V)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-049",
+    "code": "20-21-06-049",
+    "name": "SHEIK MUSA ALI ISLAMIYYA (GABARI)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-050",
+    "code": "20-21-06-050",
+    "name": "FESTIVAL S.P.S K/WAMBAI II",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-051",
+    "code": "20-21-06-051",
+    "name": "FESTIVAL S.P.S K/WAMBAI",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-052",
+    "code": "20-21-06-052",
+    "name": "FESTIVAL S.P.S. VII (KOFAR WAMBAI VII)",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-053",
+    "code": "20-21-06-053",
+    "name": "MASSALLACI P.S SCIENCE",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-054",
+    "code": "20-21-06-054",
+    "name": "MASSALLACI P.S SCIENCE",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-055",
+    "code": "20-21-06-055",
+    "name": "MASSALLACI P.S SCIENCE",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-056",
+    "code": "20-21-06-056",
+    "name": "MAKARANTAR MALAM MUAZU",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-057",
+    "code": "20-21-06-057",
+    "name": "KOFAR GIDAN SARKIN SHARIFAI",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-06-058",
+    "code": "20-21-06-058",
+    "name": "YOLA ISLAMIYYA P.S",
+    "wardId": "kano-municipal__ward-06"
+  },
+  {
+    "id": "20-21-07-001",
+    "code": "20-21-07-001",
+    "name": "HUDAYBIYYA ISLAMIYYA I",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-002",
+    "code": "20-21-07-002",
+    "name": "HUDAYBIYYA ISLAMIYYA II",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-003",
+    "code": "20-21-07-003",
+    "name": "HUDAYBIYYA ISLAMIYYA III",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-004",
+    "code": "20-21-07-004",
+    "name": "HUDAYBIYYA ISLAMIYYA IV",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-005",
+    "code": "20-21-07-005",
+    "name": "KABIRU KIRU ISLAMIYYA I",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-006",
+    "code": "20-21-07-006",
+    "name": "KABIRU KIRU ISLAMIYYA II",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-007",
+    "code": "20-21-07-007",
+    "name": "KABIRU KIRU ISLAMIYYA III",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-008",
+    "code": "20-21-07-008",
+    "name": "KABIRU KIRU ISLAMIYYA IV",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-009",
+    "code": "20-21-07-009",
+    "name": "SALANTA S.P.S I (SALANTA  I)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-010",
+    "code": "20-21-07-010",
+    "name": "SALANTA S.P.S II (SALANTA II)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-011",
+    "code": "20-21-07-011",
+    "name": "SALANTA S.P.S III (SALANTA III)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-012",
+    "code": "20-21-07-012",
+    "name": "SALANTA S.P.S IV (SALANTA IV)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-013",
+    "code": "20-21-07-013",
+    "name": "SALANTA S.P.S V (SALANTA V)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-014",
+    "code": "20-21-07-014",
+    "name": "SALANTA S.P.S VI (SALANTA VI)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-015",
+    "code": "20-21-07-015",
+    "name": "SALANTA S.P.S VII (SALANTA VII)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-016",
+    "code": "20-21-07-016",
+    "name": "SALANTA S.P.S VIII (SALANTAVIII)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-017",
+    "code": "20-21-07-017",
+    "name": "SALANTA S.P.S IX (SALANTA IX)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-018",
+    "code": "20-21-07-018",
+    "name": "SALANTA S.P.S X (SALANTA X)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-019",
+    "code": "20-21-07-019",
+    "name": "SALANTA S.P.S XI (SALANTA XI)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-020",
+    "code": "20-21-07-020",
+    "name": "SALANTA S.P.S XII (SALANTA XII)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-021",
+    "code": "20-21-07-021",
+    "name": "SALANTA S.P.S XIII (SALANTA XIII)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-022",
+    "code": "20-21-07-022",
+    "name": "SALANTA S.P.S XIV (SALANTA XIV)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-023",
+    "code": "20-21-07-023",
+    "name": "SALANTA S.P.S XV (SALANTA XV)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-024",
+    "code": "20-21-07-024",
+    "name": "SALANTA S.P.S XVI (SALANTA XVI)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-025",
+    "code": "20-21-07-025",
+    "name": "TUKUNTAWA S.P.S I (TUKUNTAWA I)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-026",
+    "code": "20-21-07-026",
+    "name": "TUKUNTAWA S.P.S II (TUKUNTAWA II)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-027",
+    "code": "20-21-07-027",
+    "name": "TUKUNTAWA S.P.S III (TUKUNTAWA III)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-028",
+    "code": "20-21-07-028",
+    "name": "TUKUNTAWA S.P.S IV (TUKUNTAWA IV)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-029",
+    "code": "20-21-07-029",
+    "name": "TUKUNTAWA S.P.S V (TUKUNTAWA V)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-030",
+    "code": "20-21-07-030",
+    "name": "TUKUNTAWA S.P.S VI (TUKUNTAWA VI)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-031",
+    "code": "20-21-07-031",
+    "name": "TUKUNTAWA S.P.S VII (TUKUNTAWA VII)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-032",
+    "code": "20-21-07-032",
+    "name": "TUKUNTAWA S.P.S VIII (TUKUNTAWA VIII)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-033",
+    "code": "20-21-07-033",
+    "name": "TUKUNTAWA S.P.S IX (TUKUNTAWA IX)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-034",
+    "code": "20-21-07-034",
+    "name": "TUKUNTAWA S.P.S X (TUKUNTAWA X)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-035",
+    "code": "20-21-07-035",
+    "name": "TUKUNTAWA G/RADIO I (TUKUNTAWA XI)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-036",
+    "code": "20-21-07-036",
+    "name": "TUKUNTAWA G/RADIO II (TUKUNTAWA XII)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-037",
+    "code": "20-21-07-037",
+    "name": "TUKUNTAWA G/RADIO III (TUKUNTAWA XIII)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-038",
+    "code": "20-21-07-038",
+    "name": "TUKUNTAWA G/RADIO IV (TUKUNTAWA XIV)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-039",
+    "code": "20-21-07-039",
+    "name": "TUKUNTAWA G/RADIO V (TUKUNTAWA XV)",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-040",
+    "code": "20-21-07-040",
+    "name": "HUDAIBIYYA ISLAMIYYA I",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-041",
+    "code": "20-21-07-041",
+    "name": "HUDAIBIYYA ISLAMIYYA I",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-042",
+    "code": "20-21-07-042",
+    "name": "HUDAIBIYYA ISLAMIYYA II",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-043",
+    "code": "20-21-07-043",
+    "name": "HUDAIBIYYA ISLAMIYYA IV",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-044",
+    "code": "20-21-07-044",
+    "name": "HUDAIBIYYA ISLAMIYYA IV",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-045",
+    "code": "20-21-07-045",
+    "name": "KABIRU KIRU ISLAMIYYA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-046",
+    "code": "20-21-07-046",
+    "name": "KABIRU KIRU ISLAMIYYA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-047",
+    "code": "20-21-07-047",
+    "name": "KABIRU KIRU ISLAMIYYA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-048",
+    "code": "20-21-07-048",
+    "name": "KABIRU KIRU ISLAMIYYA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-049",
+    "code": "20-21-07-049",
+    "name": "KABIRU KIRU ISLAMIYYA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-050",
+    "code": "20-21-07-050",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-051",
+    "code": "20-21-07-051",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-052",
+    "code": "20-21-07-052",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-053",
+    "code": "20-21-07-053",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-054",
+    "code": "20-21-07-054",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-055",
+    "code": "20-21-07-055",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-056",
+    "code": "20-21-07-056",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-057",
+    "code": "20-21-07-057",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-058",
+    "code": "20-21-07-058",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-059",
+    "code": "20-21-07-059",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-060",
+    "code": "20-21-07-060",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-061",
+    "code": "20-21-07-061",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-062",
+    "code": "20-21-07-062",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-063",
+    "code": "20-21-07-063",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-064",
+    "code": "20-21-07-064",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-065",
+    "code": "20-21-07-065",
+    "name": "G.S.S  SHARADA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-066",
+    "code": "20-21-07-066",
+    "name": "SALANTA S.P.S. XI",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-067",
+    "code": "20-21-07-067",
+    "name": "SALANTA S.P.S. XI",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-068",
+    "code": "20-21-07-068",
+    "name": "SALANTA S.P.S.",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-069",
+    "code": "20-21-07-069",
+    "name": "TUKUNTAWA S.P. S",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-070",
+    "code": "20-21-07-070",
+    "name": "MADARATUL KAFALATUL AULADUL ISLAMIYYA PRI. SCH. GIDAN RADIO",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-071",
+    "code": "20-21-07-071",
+    "name": "TUKUNTAWA GIDAN ANDO",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-072",
+    "code": "20-21-07-072",
+    "name": "TUKUNTAWA GIDAN ANDO",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-073",
+    "code": "20-21-07-073",
+    "name": "MADARASATUL KAFALATUL AULADUL ISLAMIYYA PRI. SCH. GIDAN RADIO",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-074",
+    "code": "20-21-07-074",
+    "name": "TUKUNTAWA GIDAN MAZA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-075",
+    "code": "20-21-07-075",
+    "name": "TUKUNTAWA GIDAN MAZA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-076",
+    "code": "20-21-07-076",
+    "name": "TUKUNTAWA GIDAN MAZA",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-077",
+    "code": "20-21-07-077",
+    "name": "TUKUNTAWA UNGUWAR NALADO",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-078",
+    "code": "20-21-07-078",
+    "name": "TUKUNTAWA UNGUWAR NALADO",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-079",
+    "code": "20-21-07-079",
+    "name": "TUKUNTAWA UNGUWAR NALADO",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-080",
+    "code": "20-21-07-080",
+    "name": "TUKUNTAWA UNGUWAR NALADO",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-081",
+    "code": "20-21-07-081",
+    "name": "TUKUNTAWA UNGUWAR DABINAI",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-082",
+    "code": "20-21-07-082",
+    "name": "TUKUNTAWA RUVUS MODEL UNGUWAR DABINAI",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-083",
+    "code": "20-21-07-083",
+    "name": "TUKUNTAWA UNGUWAR DABINAI",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-07-084",
+    "code": "20-21-07-084",
+    "name": "TUKUNTAWA UNGUWAR DABINAI",
+    "wardId": "kano-municipal__ward-07"
+  },
+  {
+    "id": "20-21-08-001",
+    "code": "20-21-08-001",
+    "name": "MAL. KAMALU ISLAMIYYA I (ALFINDIKI I)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-002",
+    "code": "20-21-08-002",
+    "name": "MAL. KAMALU ISLAMIYYA II (ALFINDIKI II)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-003",
+    "code": "20-21-08-003",
+    "name": "MAL. KAMALU ISLAMIYYA III (ALFINDIKI III)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-004",
+    "code": "20-21-08-004",
+    "name": "MAL. KAMALU ISLAMIYYA IV (ALFINDIKI IV)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-005",
+    "code": "20-21-08-005",
+    "name": "TAHFIZ ISLAMIYYA GULBI I (DANEJI I)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-006",
+    "code": "20-21-08-006",
+    "name": "TAHFIZ ISLAMIYYA GULBI II (DANEJI II)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-007",
+    "code": "20-21-08-007",
+    "name": "TAHFIZ ISLAMIYYA GULBI III (DANEJI III)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-008",
+    "code": "20-21-08-008",
+    "name": "TAHFIZ ISLAMIYYA GULBI IV (DANEJI IV)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-009",
+    "code": "20-21-08-009",
+    "name": "TAHFIZ ISLAMIYYA GULBI V (DANEJI V)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-010",
+    "code": "20-21-08-010",
+    "name": "TAHFIZ ISLAMIYYA GULBI VI (DANEJI VI)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-011",
+    "code": "20-21-08-011",
+    "name": "KUDUDDUFAWA I",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-012",
+    "code": "20-21-08-012",
+    "name": "KUDUDDUFAWA II",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-013",
+    "code": "20-21-08-013",
+    "name": "KUDUDDUFAWA III",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-014",
+    "code": "20-21-08-014",
+    "name": "KUDUDDUFAWA IV",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-015",
+    "code": "20-21-08-015",
+    "name": "KUDUDDUFAWA V",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-016",
+    "code": "20-21-08-016",
+    "name": "ABUBKAR SADIQ J.S.S I (KALINA I)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-017",
+    "code": "20-21-08-017",
+    "name": "ABUBKAR SADIQ J.S.S II (KALINA II)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-018",
+    "code": "20-21-08-018",
+    "name": "ABUBKAR SADIQ J.S.S III (KALINA III)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-019",
+    "code": "20-21-08-019",
+    "name": "ABUBKAR SADIQ J.S.S IV (KALINA IV)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-020",
+    "code": "20-21-08-020",
+    "name": "MARMARA COMM. SCH. I (MARMARA I)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-021",
+    "code": "20-21-08-021",
+    "name": "MARMARA COMM. SCH. II (MARMARA II)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-022",
+    "code": "20-21-08-022",
+    "name": "MARMARA COMM. SCH. III (MARMARA III)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-023",
+    "code": "20-21-08-023",
+    "name": "MARMARA COMM. SCH. IV (MARMARA IV)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-024",
+    "code": "20-21-08-024",
+    "name": "MAIGARI ISLAMIYYA I (SHESHE I)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-025",
+    "code": "20-21-08-025",
+    "name": "MAIGARI ISLAMIYYA II (SHESHE II)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-026",
+    "code": "20-21-08-026",
+    "name": "MAIGARI ISLAMIYYA III (SHESHE III)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-027",
+    "code": "20-21-08-027",
+    "name": "MAIGARI ISLAMIYYA IV (SHESHE IV)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-028",
+    "code": "20-21-08-028",
+    "name": "MAIGARI ISLAMIYYA V (SHESHE V)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-029",
+    "code": "20-21-08-029",
+    "name": "MAIGARI ISLAMIYYA VI (SHESHE VI)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-030",
+    "code": "20-21-08-030",
+    "name": "HASIYA BAYERO J.S.S I (SORON DINKI I)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-031",
+    "code": "20-21-08-031",
+    "name": "HASIYA BAYERO J.S.S II (SORON DINKI II)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-032",
+    "code": "20-21-08-032",
+    "name": "HASIYA BAYERO J.S.S III (SORON DINKI III)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-033",
+    "code": "20-21-08-033",
+    "name": "HASIYA BAYERO J.S.S IV (SORON DINKI IV)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-034",
+    "code": "20-21-08-034",
+    "name": "HASIYA BAYERO J.S.S V (SORON DINKI V)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-035",
+    "code": "20-21-08-035",
+    "name": "HASIYA BAYERO J.S.S VI (SORON DINKI VI)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-036",
+    "code": "20-21-08-036",
+    "name": "HASIYA BAYERO J.S.S VII (SORON DINKI VII)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-037",
+    "code": "20-21-08-037",
+    "name": "NURUL QURANIC ISL. I (SORON DINKI VIII)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-038",
+    "code": "20-21-08-038",
+    "name": "NURUL QURANIC ISL. II (SORON DINKI IX)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-039",
+    "code": "20-21-08-039",
+    "name": "NURUL QURANIC ISL. III (SORON DINKI X)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-040",
+    "code": "20-21-08-040",
+    "name": "NURUL QURANIC ISL. IV (SORON DINKI XI)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-041",
+    "code": "20-21-08-041",
+    "name": "NURUL QURANIC ISL. V (SORON DINKI XII)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-042",
+    "code": "20-21-08-042",
+    "name": "YANMURUCHI ISL. I (SORON DINKI XIII)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-043",
+    "code": "20-21-08-043",
+    "name": "YANMURUCHI ISL. II (SORON DINKI XIV)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-044",
+    "code": "20-21-08-044",
+    "name": "YANMURUCHI ISL. III (SORON DINKI XV)",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-045",
+    "code": "20-21-08-045",
+    "name": "TAHFIZ ISLAMIYYA GULBI",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-046",
+    "code": "20-21-08-046",
+    "name": "TAHFIZ ISLAMIYYA GULBI",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-047",
+    "code": "20-21-08-047",
+    "name": "MARMARA COMM SCH. IV",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-048",
+    "code": "20-21-08-048",
+    "name": "MAIGARI ISLAMIYYA I",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-049",
+    "code": "20-21-08-049",
+    "name": "MAIGARI ISLAMIYYA II",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-08-050",
+    "code": "20-21-08-050",
+    "name": "MAIGARI ISLAMIYYA III",
+    "wardId": "kano-municipal__ward-08"
+  },
+  {
+    "id": "20-21-09-001",
+    "code": "20-21-09-001",
+    "name": "MAZAN KWARAI I",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-002",
+    "code": "20-21-09-002",
+    "name": "MAZAN KWARAI II",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-003",
+    "code": "20-21-09-003",
+    "name": "MAZAN KWARAI III",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-004",
+    "code": "20-21-09-004",
+    "name": "TAKALMAWA I",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-005",
+    "code": "20-21-09-005",
+    "name": "TAKALMAWA II",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-006",
+    "code": "20-21-09-006",
+    "name": "TAKALMAWA III",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-007",
+    "code": "20-21-09-007",
+    "name": "TUDUN NUFAWA I",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-008",
+    "code": "20-21-09-008",
+    "name": "TUDUN NUFAWA II",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-009",
+    "code": "20-21-09-009",
+    "name": "TUDUN NUFAWA III",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-010",
+    "code": "20-21-09-010",
+    "name": "TUDUN WADA I",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-011",
+    "code": "20-21-09-011",
+    "name": "TUDUN WADA II",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-012",
+    "code": "20-21-09-012",
+    "name": "YANMURUCHI I",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-013",
+    "code": "20-21-09-013",
+    "name": "YANMURUCHI II",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-014",
+    "code": "20-21-09-014",
+    "name": "YANMURUCHI III",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-015",
+    "code": "20-21-09-015",
+    "name": "ZANGON BARE BARI I",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-016",
+    "code": "20-21-09-016",
+    "name": "ZANGON BARE BARI II",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-017",
+    "code": "20-21-09-017",
+    "name": "ZANGON BARE BARI III",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-018",
+    "code": "20-21-09-018",
+    "name": "ZANGON BARE BARI IV",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-019",
+    "code": "20-21-09-019",
+    "name": "ZANGON BARE BARI V",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-020",
+    "code": "20-21-09-020",
+    "name": "ZANGON BARE BARI VI",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-021",
+    "code": "20-21-09-021",
+    "name": "MAZAN KWARAI",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-022",
+    "code": "20-21-09-022",
+    "name": "TUDUN NUFAWA",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-023",
+    "code": "20-21-09-023",
+    "name": "TUDUN NUFAWA II",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-024",
+    "code": "20-21-09-024",
+    "name": "TUDUN NUFAWA",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-025",
+    "code": "20-21-09-025",
+    "name": "TUDUN WADA",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-09-026",
+    "code": "20-21-09-026",
+    "name": "ZANGON BARE BARI",
+    "wardId": "kano-municipal__ward-09"
+  },
+  {
+    "id": "20-21-10-001",
+    "code": "20-21-10-001",
+    "name": "GWANGWAZO FILIN GWANGWAZO I",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-002",
+    "code": "20-21-10-002",
+    "name": "GWANGWAZO FILIN GWANGWAZO II",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-003",
+    "code": "20-21-10-003",
+    "name": "GWANGWAZO FILIN GWANGWAZO III",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-004",
+    "code": "20-21-10-004",
+    "name": "GWANGWAZO FILIN GWANGWAZO IV",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-005",
+    "code": "20-21-10-005",
+    "name": "KOFAR KUDU PRI. SCH.  III (KOFAR KUDU FILIN K/KUDU III)",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-006",
+    "code": "20-21-10-006",
+    "name": "GWANGWAZO FILIN GWANGWAZO VI",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-007",
+    "code": "20-21-10-007",
+    "name": "GWANGWAZO FILIN GWANGWAZO VII",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-008",
+    "code": "20-21-10-008",
+    "name": "GWANGWAZO FILIN GWANGWAZO VIII",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-009",
+    "code": "20-21-10-009",
+    "name": "GWANGWAZO FILIN GWANGWAZO IX",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-010",
+    "code": "20-21-10-010",
+    "name": "GWANGWAZO FILIN GWANGWAZO X",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-011",
+    "code": "20-21-10-011",
+    "name": "KABARA JARKASA S.P.S. I",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-012",
+    "code": "20-21-10-012",
+    "name": "KABARA JARKASA S.P.S. II",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-013",
+    "code": "20-21-10-013",
+    "name": "KABARA JARKASA S.P.S. III",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-014",
+    "code": "20-21-10-014",
+    "name": "KABARA JARKASA S.P.S. IV",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-015",
+    "code": "20-21-10-015",
+    "name": "KABARA JARKASA S.P.S. V",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-016",
+    "code": "20-21-10-016",
+    "name": "KABARA JARKASA S.P.S. VI",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-017",
+    "code": "20-21-10-017",
+    "name": "KABARA JARKASA S.P.S. VII",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-018",
+    "code": "20-21-10-018",
+    "name": "KABARA JARKASA S.P.S. VIII",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-019",
+    "code": "20-21-10-019",
+    "name": "KABARA JARKASA S.P.S. IX",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-020",
+    "code": "20-21-10-020",
+    "name": "KABARA JARKASA S.P.S. X",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-021",
+    "code": "20-21-10-021",
+    "name": "KOFAR KUDU PRI. SCH.  I (KOFAR KUDU FILIN K/KUDU)",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-022",
+    "code": "20-21-10-022",
+    "name": "KOFAR KUDU PRI. SCH.  II (KOFAR KUDU FILIN K/KUDU II)",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-023",
+    "code": "20-21-10-023",
+    "name": "KOFAR KUDU PRI. SCH.  III (KOFAR KUDU FILIN K/KUDU III)",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-024",
+    "code": "20-21-10-024",
+    "name": "KOFAR KWARU ISLAMIYYA I (KOFAR KWARU K/KWARU I)",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-025",
+    "code": "20-21-10-025",
+    "name": "KOFAR KWARU ISLAMIYYA II (KOFAR KWARU K/KWARU II)",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-026",
+    "code": "20-21-10-026",
+    "name": "FILING KUSURWA I (SAGAGI FILIN GIDAN WAMBAI)",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-027",
+    "code": "20-21-10-027",
+    "name": "FILING KUSURWA II (SAGAGI FILIN GIDAN WAMBAI II)",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-028",
+    "code": "20-21-10-028",
+    "name": "FILING KUSURWA III (SAGAGI FILIN GIDAN WAMBAI III)",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-029",
+    "code": "20-21-10-029",
+    "name": "FILING KUSURWA IV (SAGAGI FILIN GIDAN WAMBAI IV)",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-030",
+    "code": "20-21-10-030",
+    "name": "TUDUN WAZIRCHI FILIN K/KUDU I",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-031",
+    "code": "20-21-10-031",
+    "name": "TUDUN WAZIRCHI FILIN K/KUDU II",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-032",
+    "code": "20-21-10-032",
+    "name": "TUDUN WAZIRCHI FILIN K/KUDU III",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-033",
+    "code": "20-21-10-033",
+    "name": "TUDUN WAZIRCHI FILIN K/KUDU IV",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-034",
+    "code": "20-21-10-034",
+    "name": "TUDUN WAZIRCHI FILIN K/KUDU V",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-035",
+    "code": "20-21-10-035",
+    "name": "TUDUN WAZIRCHI FILIN K/KUDU VI",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-036",
+    "code": "20-21-10-036",
+    "name": "TUDUN WAZIRCHI FILIN K/KUDU VII",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-037",
+    "code": "20-21-10-037",
+    "name": "GWANGWAZO FILIN GWANGWAZO",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-038",
+    "code": "20-21-10-038",
+    "name": "GWANGWAZO FILIN GWANGWAZO",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-039",
+    "code": "20-21-10-039",
+    "name": "KABARA JAR KASA .S.P.S I",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-040",
+    "code": "20-21-10-040",
+    "name": "KABARA JAR KASA .S.P.S I",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-041",
+    "code": "20-21-10-041",
+    "name": "JARKASA S.P.S",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-042",
+    "code": "20-21-10-042",
+    "name": "JARKASA S.P.S",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-043",
+    "code": "20-21-10-043",
+    "name": "KOFAR KUDU  S.P. S",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-044",
+    "code": "20-21-10-044",
+    "name": "KOFAR KUDU .S.P.S",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-045",
+    "code": "20-21-10-045",
+    "name": "KOFAR KWARU ISLAMIYYA",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-046",
+    "code": "20-21-10-046",
+    "name": "FILIN KUSURWA , SAGAGI . FILIN WAMBAI",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-047",
+    "code": "20-21-10-047",
+    "name": "FILIN KUSURWA , SAGAGI . FILIN WAMBAI",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-10-048",
+    "code": "20-21-10-048",
+    "name": "TUDUN WAZIRCHI FILIN K/KUDU",
+    "wardId": "kano-municipal__ward-10"
+  },
+  {
+    "id": "20-21-11-001",
+    "code": "20-21-11-001",
+    "name": "YAKASAI 'A' YAKASAI S.P.S. I",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-002",
+    "code": "20-21-11-002",
+    "name": "YAKASAI 'A' YAKASAI S.P.S. II",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-003",
+    "code": "20-21-11-003",
+    "name": "YAKASAI 'A' YAKASAI S.P.S. III",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-004",
+    "code": "20-21-11-004",
+    "name": "YAKASAI 'A' YAKASAI S.P.S. IV",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-005",
+    "code": "20-21-11-005",
+    "name": "YAKASAI 'A' YAKASAI S.P.S. V",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-006",
+    "code": "20-21-11-006",
+    "name": "YAKASAI 'A' YAKASAI S.P.S. VI",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-007",
+    "code": "20-21-11-007",
+    "name": "YAKASAI 'A' YAKASAI S.P.S. VII",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-008",
+    "code": "20-21-11-008",
+    "name": "YAKASAI 'A' YAKASAI S.P.S. VIII",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-009",
+    "code": "20-21-11-009",
+    "name": "YAKASAI 'A' YAKASAI S.P.S. IX",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-010",
+    "code": "20-21-11-010",
+    "name": "YAKASAI 'A' YAKASAI S.P.S. X",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-011",
+    "code": "20-21-11-011",
+    "name": "G.G.S.S. YAKASAI I (YAKASAI 'A' YAKASAI S.P.S. XI)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-012",
+    "code": "20-21-11-012",
+    "name": "G.G.S.S. YAKASAI II (YAKASAI 'A' YAKASAI S.P.S. XII)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-013",
+    "code": "20-21-11-013",
+    "name": "G.G.S.S. YAKASAI III (YAKASAI 'A' YAKASAI S.P.S. XIII)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-014",
+    "code": "20-21-11-014",
+    "name": "G.G.S.S. YAKASAI IV (YAKASAI 'A' YAKASAI S.P.S. XIV)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-015",
+    "code": "20-21-11-015",
+    "name": "YAKASAI 'A' SHAHUCII S.P.S. I",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-016",
+    "code": "20-21-11-016",
+    "name": "YAKASAI 'A' SHAHUCII S.P.S. II",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-017",
+    "code": "20-21-11-017",
+    "name": "YAKASAI 'A' SHAHUCII S.P.S. III",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-018",
+    "code": "20-21-11-018",
+    "name": "YAKASAI 'A' SHAHUCII S.P.S. IV",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-019",
+    "code": "20-21-11-019",
+    "name": "YAKASAI 'A' SHAHUCII S.P.S. V",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-020",
+    "code": "20-21-11-020",
+    "name": "YAKASAI 'A' SHAHUCII S.P.S. VI",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-021",
+    "code": "20-21-11-021",
+    "name": "YAKASAI 'A' SHAHUCII S.P.S. VII",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-022",
+    "code": "20-21-11-022",
+    "name": "G.G.S.S. YAKASAI V (YAKASAI 'A' SHAHUCII S.P.S. VIII)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-023",
+    "code": "20-21-11-023",
+    "name": "G.G.S.S. YAKASAI VI (YAKASAI 'A' SHAHUCII S.P.S. IX)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-024",
+    "code": "20-21-11-024",
+    "name": "G.G.S.S. YAKASAI VII (YAKASAI 'A' SHAHUCII S.P.S. X)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-025",
+    "code": "20-21-11-025",
+    "name": "G.G.S.S. SHEIKARA I (YAKASAI 'B' G.G.S.S. SHEKARA I)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-026",
+    "code": "20-21-11-026",
+    "name": "G.G.S.S. SHEIKARA II (YAKASAI 'B' G.G.S.S. SHEKARA II)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-027",
+    "code": "20-21-11-027",
+    "name": "G.G.S.S. SHEIKARA III (YAKASAI 'B' G.G.S.S. SHEKARA III)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-028",
+    "code": "20-21-11-028",
+    "name": "G.G.S.S. SHEIKARA IV (YAKASAI 'B' G.G.S.S. SHEKARA IV)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-029",
+    "code": "20-21-11-029",
+    "name": "G.G.S.S. SHEIKARA V (YAKASAI 'B' G.G.S.S. SHEKARA V)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-030",
+    "code": "20-21-11-030",
+    "name": "G.G.S.S. SHEIKARA VI (YAKASAI 'B' G.G.S.S. SHEKARA VI)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-031",
+    "code": "20-21-11-031",
+    "name": "G.G.S.S. SHEIKARA VII (YAKASAI 'B' G.G.S.S. SHEKARA VII)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-032",
+    "code": "20-21-11-032",
+    "name": "G.G.S.S. SHEIKARA VIII (YAKASAI 'B' G.G.S.S. SHEKARA VIII)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-033",
+    "code": "20-21-11-033",
+    "name": "G.G.S.S. SHEIKARA IX (YAKASAI 'B' G.G.S.S. SHEKARA IX)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-034",
+    "code": "20-21-11-034",
+    "name": "G.G.S.S. SHEIKARA X (YAKASAI 'B' G.G.S.S. SHEKARA X)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-035",
+    "code": "20-21-11-035",
+    "name": "G.S.S.S. RIMI CITY I (YAKASAI 'B' G.G.S.S. SHEKARA XI)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-036",
+    "code": "20-21-11-036",
+    "name": "G.S.S.S. RIMI CITY II (YAKASAI 'B' G.G.S.S. SHEKARA XII)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-037",
+    "code": "20-21-11-037",
+    "name": "G.S.S.S. RIMI CITY III (YAKASAI 'B' G.G.S.S. SHEKARA XIII)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-038",
+    "code": "20-21-11-038",
+    "name": "G.S.S.S. RIMI CITY IV (YAKASAI 'B' G.G.S.S. SHEKARA XIV)",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-039",
+    "code": "20-21-11-039",
+    "name": "YAKASAI 'B'RIMI CITY S.P.S. I",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-040",
+    "code": "20-21-11-040",
+    "name": "YAKASAI 'B'RIMI CITY S.P.S. II",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-041",
+    "code": "20-21-11-041",
+    "name": "YAKASAI 'B'RIMI CITY S.P.S. III",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-042",
+    "code": "20-21-11-042",
+    "name": "YAKASAI 'B'RIMI CITY S.P.S. IV",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-043",
+    "code": "20-21-11-043",
+    "name": "YAKASAI 'B'RIMI CITY S.P.S. V",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-044",
+    "code": "20-21-11-044",
+    "name": "YAKASAI 'B'RIMI CITY S.P.S. VI",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-045",
+    "code": "20-21-11-045",
+    "name": "YAKASAI 'B'RIMI CITY S.P.S. VII",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-046",
+    "code": "20-21-11-046",
+    "name": "YAKASAI 'B'RIMI CITY S.P.S. VIII",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-047",
+    "code": "20-21-11-047",
+    "name": "YAKASAI 'B'RIMI CITY S.P.S. IX",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-048",
+    "code": "20-21-11-048",
+    "name": "YAKASAI S.P.S",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-049",
+    "code": "20-21-11-049",
+    "name": "YAKASAI S.P.S I",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-050",
+    "code": "20-21-11-050",
+    "name": "YAKASAI S.P.S I",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-051",
+    "code": "20-21-11-051",
+    "name": "YAKASAI S.P.S I",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-052",
+    "code": "20-21-11-052",
+    "name": "YAKASAI S.P.S I",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-053",
+    "code": "20-21-11-053",
+    "name": "YAKASAI RIMI CITY S.P.S",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-11-054",
+    "code": "20-21-11-054",
+    "name": "YAKASAI RIMI CITY S.P.S",
+    "wardId": "kano-municipal__ward-11"
+  },
+  {
+    "id": "20-21-12-001",
+    "code": "20-21-12-001",
+    "name": "DUKAWA YAN'AWAKI S.P.S. I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-002",
+    "code": "20-21-12-002",
+    "name": "DUKAWA YAN'AWAKI S.P.S. II",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-003",
+    "code": "20-21-12-003",
+    "name": "DUKAWA YAN'AWAKI S.P.S. III",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-004",
+    "code": "20-21-12-004",
+    "name": "DUKAWA YAN'AWAKI S.P.S. IV",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-005",
+    "code": "20-21-12-005",
+    "name": "KOKI MAYANKA S.P.S. I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-006",
+    "code": "20-21-12-006",
+    "name": "KOKI MAYANKA S.P.S. II",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-007",
+    "code": "20-21-12-007",
+    "name": "KOKI MAYANKA S.P.S. III",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-008",
+    "code": "20-21-12-008",
+    "name": "KOKI MAYANKA S.P.S. IV",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-009",
+    "code": "20-21-12-009",
+    "name": "KOKI MAYANKA S.P.S.V",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-010",
+    "code": "20-21-12-010",
+    "name": "KOKI MAYANKA S.P.S. VI",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-011",
+    "code": "20-21-12-011",
+    "name": "KOKI MAYANKA S.P.S. VII",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-012",
+    "code": "20-21-12-012",
+    "name": "KOKI MAYANKA S.P.S. VIII",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-013",
+    "code": "20-21-12-013",
+    "name": "KOKI MAYANKA S.P.S. IX",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-014",
+    "code": "20-21-12-014",
+    "name": "KOKI MAYANKA S.P.S. X",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-015",
+    "code": "20-21-12-015",
+    "name": "KOKI MAYANKA S.P.S. XI",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-016",
+    "code": "20-21-12-016",
+    "name": "KOKI MAYANKA S.P.S. XII",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-017",
+    "code": "20-21-12-017",
+    "name": "KOKI MAYANKA S.P.S. XIII",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-018",
+    "code": "20-21-12-018",
+    "name": "KOKI MAYANKA S.P.S. XIV",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-019",
+    "code": "20-21-12-019",
+    "name": "KOKI MAYANKA S.P.S. XV",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-020",
+    "code": "20-21-12-020",
+    "name": "MALAM GANARI YAN'AWAKI S.P.S I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-021",
+    "code": "20-21-12-021",
+    "name": "MALAM GANARI YAN'AWAKI S.P.S II",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-022",
+    "code": "20-21-12-022",
+    "name": "MALAM GANARI YAN'AWAKI S.P.S III",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-023",
+    "code": "20-21-12-023",
+    "name": "MALAM GANARI YAN'AWAKI S.P.S IV",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-024",
+    "code": "20-21-12-024",
+    "name": "YAN'AWAKI YAN'AWAKI S.P.S I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-025",
+    "code": "20-21-12-025",
+    "name": "YAN'AWAKI YAN'AWAKI S.P.S II",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-026",
+    "code": "20-21-12-026",
+    "name": "G.G.S.S UMMU ZARIA I (YAN'AWAKI YAN'AWAKI S.P.S III)",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-027",
+    "code": "20-21-12-027",
+    "name": "G.G.S.S UMMU ZARIA II (YAN'AWAKI YAN'AWAKI S.P.S IV)",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-028",
+    "code": "20-21-12-028",
+    "name": "G.G.S.S UMMU ZARIA III (YAN'AWAKI YAN'AWAKI S.P.S V)",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-029",
+    "code": "20-21-12-029",
+    "name": "G.G.S.S UMMU ZARIA IV (YAN'AWAKI YAN'AWAKI S.P.S VI)",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-030",
+    "code": "20-21-12-030",
+    "name": "G.G.S.S UMMU ZARIA V (ZAITAWA YAN'AWAKI S.P.S. I)",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-031",
+    "code": "20-21-12-031",
+    "name": "G.G.S.S UMMU ZARIA VI (ZAITAWA YAN'AWAKI S.P.S. II)",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-032",
+    "code": "20-21-12-032",
+    "name": "G.G.S.S UMMU ZARIA VII (ZAITAWA YAN'AWAKI S.P.S. III)",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-033",
+    "code": "20-21-12-033",
+    "name": "G.G.S.S UMMU ZARIA VIII (ZAITAWA YAN'AWAKI S.P.S. IV)",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-034",
+    "code": "20-21-12-034",
+    "name": "G.G.S.S UMMU ZARIA IX (ZAITAWA YAN'AWAKI S.P.S. V)",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-035",
+    "code": "20-21-12-035",
+    "name": "G.G.S.S UMMU ZARIA X (ZAITAWA YAN'AWAKI S.P.S. VI)",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-036",
+    "code": "20-21-12-036",
+    "name": "KOKI MAYANKA S.P.S I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-037",
+    "code": "20-21-12-037",
+    "name": "KOKI MAYANKA S.P.S I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-038",
+    "code": "20-21-12-038",
+    "name": "KOKI MAYANKA S.P.S I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-039",
+    "code": "20-21-12-039",
+    "name": "KOKI MAYANKA S.P.S I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-040",
+    "code": "20-21-12-040",
+    "name": "KOKI MAYANKA S.P.S I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-041",
+    "code": "20-21-12-041",
+    "name": "KOKI MAYANKA S.P.S I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-042",
+    "code": "20-21-12-042",
+    "name": "KOKI MAYANKA S.P.S I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-043",
+    "code": "20-21-12-043",
+    "name": "KOKI MAYANKA S.P.S I",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-044",
+    "code": "20-21-12-044",
+    "name": "MALAM GANARI YAN AWAKI",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-045",
+    "code": "20-21-12-045",
+    "name": "YAN AWAKI S.P.S",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-046",
+    "code": "20-21-12-046",
+    "name": "G.G.S.S.S UMMA ZARIA",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-047",
+    "code": "20-21-12-047",
+    "name": "G.G.S.S.S UMMA ZARIA",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-048",
+    "code": "20-21-12-048",
+    "name": "G.G.S.S.S UMMA ZARIA",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-12-049",
+    "code": "20-21-12-049",
+    "name": "G.G.S.S.S UMMA ZARIA",
+    "wardId": "kano-municipal__ward-12"
+  },
+  {
+    "id": "20-21-13-001",
+    "code": "20-21-13-001",
+    "name": "DORAYI FILIN ZAGE I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-002",
+    "code": "20-21-13-002",
+    "name": "DORAYI FILIN ZAGE II",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-003",
+    "code": "20-21-13-003",
+    "name": "DORAYI FILIN ZAGE III",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-004",
+    "code": "20-21-13-004",
+    "name": "DORAYI FILIN ZAGE IV",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-005",
+    "code": "20-21-13-005",
+    "name": "DORAYI FILIN ZAGE V",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-006",
+    "code": "20-21-13-006",
+    "name": "DURUMIN IYA KURMAWA S.P.S. I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-007",
+    "code": "20-21-13-007",
+    "name": "DURUMIN IYA KURMAWA S.P.S. II",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-008",
+    "code": "20-21-13-008",
+    "name": "DURUMIN IYA KURMAWA S.P.S. III",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-009",
+    "code": "20-21-13-009",
+    "name": "DURUMIN IYA KURMAWA S.P.S. IV",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-010",
+    "code": "20-21-13-010",
+    "name": "DURUMIN IYA KURMAWA S.P.S. V",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-011",
+    "code": "20-21-13-011",
+    "name": "DURUMIN IYA KURMAWA S.P.S. VI",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-012",
+    "code": "20-21-13-012",
+    "name": "KOFAR MATA G.S.S. K/NASS. I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-013",
+    "code": "20-21-13-013",
+    "name": "KOFAR MATA G.S.S. K/NASS. II",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-014",
+    "code": "20-21-13-014",
+    "name": "KOFAR MATA G.S.S. K/NASS. III",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-015",
+    "code": "20-21-13-015",
+    "name": "KOFAR MATA G.S.S. K/NASS. IV",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-016",
+    "code": "20-21-13-016",
+    "name": "KOFAR MATA G.S.S. K/NASS. V",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-017",
+    "code": "20-21-13-017",
+    "name": "KOFAR MATA G.S.S. K/NASS. VI",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-018",
+    "code": "20-21-13-018",
+    "name": "KOFAR MATA G.S.S. K/NASS. VII",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-019",
+    "code": "20-21-13-019",
+    "name": "KOFAR MATA G.S.S. K/NASS. VIII",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-020",
+    "code": "20-21-13-020",
+    "name": "RIMIN KIRA MASALLACHI S.P.S. I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-021",
+    "code": "20-21-13-021",
+    "name": "RIMIN KIRA MASALLACHI S.P.S. II",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-022",
+    "code": "20-21-13-022",
+    "name": "RIMIN KIRA MASALLACHI S.P.S. III",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-023",
+    "code": "20-21-13-023",
+    "name": "RIMIN KIRA MASALLACHI S.P.S. IV",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-024",
+    "code": "20-21-13-024",
+    "name": "RIMIN KIRA MASALLACHI S.P.S. V",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-025",
+    "code": "20-21-13-025",
+    "name": "RIMIN KIRA MASALLACHI S.P.S. VI",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-026",
+    "code": "20-21-13-026",
+    "name": "ZAGE FILIN ZAGE I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-027",
+    "code": "20-21-13-027",
+    "name": "ZAGE FILIN ZAGE II",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-028",
+    "code": "20-21-13-028",
+    "name": "ZAGE FILIN ZAGE III",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-029",
+    "code": "20-21-13-029",
+    "name": "ZAGE FILIN ZAGE IV",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-030",
+    "code": "20-21-13-030",
+    "name": "ZAGE FILIN ZAGE V",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-031",
+    "code": "20-21-13-031",
+    "name": "ZAGE FILIN ZAGE VI",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-032",
+    "code": "20-21-13-032",
+    "name": "ZAGE FILIN ZAGE VII",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-033",
+    "code": "20-21-13-033",
+    "name": "ZAGE FILIN ZAGE VIII",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-034",
+    "code": "20-21-13-034",
+    "name": "ZAGE FILIN ZAGE IX",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-035",
+    "code": "20-21-13-035",
+    "name": "MODEL SCHOOL(ZANGOK/NASS.S.P.S.I)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-036",
+    "code": "20-21-13-036",
+    "name": "MODEL COMMUNITY SCHOOL(ZANGOK/NASS.S.P.S.II)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-037",
+    "code": "20-21-13-037",
+    "name": "SPACE BEHIND MODEL COMM SCH(ZANGOK/NASS.S.P.S.II)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-038",
+    "code": "20-21-13-038",
+    "name": "SPACE BEHIND MODEL COMM SCH(SALIHUINUWAIS.ZANGOI)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-039",
+    "code": "20-21-13-039",
+    "name": "ALONG MURTALA MUHD SPECIALIST HOSPITAL SPACE (SALIHUINUWAIS.ZANGOII)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-040",
+    "code": "20-21-13-040",
+    "name": "ALONG MURTALA MUHD SPECIALIST HOSPITAL SPACE (SALIHUINUWAIS.ZANGOIII)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-041",
+    "code": "20-21-13-041",
+    "name": "ALONG MURTALA MUHD SPECIALIST HOSPITAL SPACE (SALIHUINUWAIS.ZANGOIV)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-042",
+    "code": "20-21-13-042",
+    "name": "ALONG MURTALA MUHD SPECIALIST HOSPITAL SPACE (SALIHUINUWAIS.ZANGOV)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-043",
+    "code": "20-21-13-043",
+    "name": "ALONG MURTALA MUHD SPECIALIST HOSPITAL SPACE (SALIHUINUWAIS.ZANGOVI)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-044",
+    "code": "20-21-13-044",
+    "name": "ALONG MURTALA MUHD SPECIALIST HOSPITAL SPACE(SALIHUINUWAIS.ZANGOVII)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-045",
+    "code": "20-21-13-045",
+    "name": "ALONG MURTALA MUHD SPECIALIST HOSPITAL SPACE(SALIHUINUWAIS.ZANGOVIII)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-046",
+    "code": "20-21-13-046",
+    "name": "ALONG MURTALA MUHD SPECIALIST HOSPITAL SPACE(SALIHUINUWAIS.ZANGOIX)",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-047",
+    "code": "20-21-13-047",
+    "name": "DORAYI FILIN ZAGE II",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-048",
+    "code": "20-21-13-048",
+    "name": "DORAYI FILIN ZAGE V",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-049",
+    "code": "20-21-13-049",
+    "name": "DURUMIN IYA KURMAWA SPS II",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-050",
+    "code": "20-21-13-050",
+    "name": "K/NASSARAWA GSS",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-051",
+    "code": "20-21-13-051",
+    "name": "K/NASSARAWA GSS",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-052",
+    "code": "20-21-13-052",
+    "name": "K/NASSARAWA GSS",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-053",
+    "code": "20-21-13-053",
+    "name": "K/NASSARAWA GSS",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-054",
+    "code": "20-21-13-054",
+    "name": "K/NASSARAWA GSS",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-055",
+    "code": "20-21-13-055",
+    "name": "K/NASSARAWA GSS",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-056",
+    "code": "20-21-13-056",
+    "name": "RIMIN KIRA MASSALLACI S.P.S III",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-057",
+    "code": "20-21-13-057",
+    "name": "ADO ABDULLAHI BAYERO COM. MODEL SCH.",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-058",
+    "code": "20-21-13-058",
+    "name": "ADO ABDULLAHI BAYERO COM. MODEL SCH.",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-059",
+    "code": "20-21-13-059",
+    "name": "ZAGE FILIN ZAGE I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-060",
+    "code": "20-21-13-060",
+    "name": "ZAGE FILIN ZAGE I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-061",
+    "code": "20-21-13-061",
+    "name": "ZAGE FILIN ZAGE I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-062",
+    "code": "20-21-13-062",
+    "name": "ZAGE FILIN ZAGE I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-063",
+    "code": "20-21-13-063",
+    "name": "ZAGE FILIN ZAGE I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-064",
+    "code": "20-21-13-064",
+    "name": "ZAGE FILIN ZAGE I",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-065",
+    "code": "20-21-13-065",
+    "name": "MODEL SCHOOL ZANGO  K/NASS S.PS",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-066",
+    "code": "20-21-13-066",
+    "name": "SPACE BEHIND MODEL SCHOOL ZANGO  K/NASS S.PS",
+    "wardId": "kano-municipal__ward-13"
+  },
+  {
+    "id": "20-21-13-067",
+    "code": "20-21-13-067",
+    "name": "ALONG MURTALA MOHD SPECIALIST HOSPITAL SPACE SALIHU INUWA ZANGO VIII",
+    "wardId": "kano-municipal__ward-13"
+  }
+]

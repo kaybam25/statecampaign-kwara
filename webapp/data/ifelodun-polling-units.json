@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "23-05-01-001",
+    "code": "23-05-01-001",
+    "name": "ECWA SCH OKE-ODE",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-01-002",
+    "code": "23-05-01-002",
+    "name": "ARABIC SCH OKE-ODE",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-01-003",
+    "code": "23-05-01-003",
+    "name": "COMM SCH OKE-ODE",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-01-004",
+    "code": "23-05-01-004",
+    "name": "TOWN HALL OKE-ODE",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-01-005",
+    "code": "23-05-01-005",
+    "name": "OKE AGO OKE-ODE",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-01-006",
+    "code": "23-05-01-006",
+    "name": "MATERNITY OKE-ODE",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-01-007",
+    "code": "23-05-01-007",
+    "name": "OPEN SPACE IDIAPA OKE-ODE",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-01-008",
+    "code": "23-05-01-008",
+    "name": "ILE ELEMOSHO OKE-ODE",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-01-009",
+    "code": "23-05-01-009",
+    "name": "ECWA SCH OKE-ODE",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-01-010",
+    "code": "23-05-01-010",
+    "name": "LOCAL GOVT DISPENSARY",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-01-011",
+    "code": "23-05-01-011",
+    "name": "QURANIC SCH OKE-ODE",
+    "wardId": "ifelodun__ward-01"
+  },
+  {
+    "id": "23-05-02-001",
+    "code": "23-05-02-001",
+    "name": "ECWA SCH SHAGBE I",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-02-002",
+    "code": "23-05-02-002",
+    "name": "ECWA SCH SHAGBE II",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-02-003",
+    "code": "23-05-02-003",
+    "name": "ECWA SCH AGBEE I",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-02-004",
+    "code": "23-05-02-004",
+    "name": "ECWA SCH AGBEE II",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-02-005",
+    "code": "23-05-02-005",
+    "name": "COMM SCH AJEGUNLE",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-02-006",
+    "code": "23-05-02-006",
+    "name": "COMM SCH BANKOLE",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-02-007",
+    "code": "23-05-02-007",
+    "name": "COMM SCH  OLOGORUN",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-02-008",
+    "code": "23-05-02-008",
+    "name": "MARKET SQUARE ALAWON ALASORO",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-02-009",
+    "code": "23-05-02-009",
+    "name": "COMM SCH FAMOLE",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-02-010",
+    "code": "23-05-02-010",
+    "name": "COMM SCH   ALABE-OJA",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-02-011",
+    "code": "23-05-02-011",
+    "name": "COMM SCH   OLOGOMO",
+    "wardId": "ifelodun__ward-02"
+  },
+  {
+    "id": "23-05-03-001",
+    "code": "23-05-03-001",
+    "name": "COMM SCH ALADE",
+    "wardId": "ifelodun__ward-03"
+  },
+  {
+    "id": "23-05-03-002",
+    "code": "23-05-03-002",
+    "name": "COMM SCH LABAKA IDERA",
+    "wardId": "ifelodun__ward-03"
+  },
+  {
+    "id": "23-05-03-003",
+    "code": "23-05-03-003",
+    "name": "COMM SCH  ASUNGBALE",
+    "wardId": "ifelodun__ward-03"
+  },
+  {
+    "id": "23-05-03-004",
+    "code": "23-05-03-004",
+    "name": "COMM SCH  DABU OROKI",
+    "wardId": "ifelodun__ward-03"
+  },
+  {
+    "id": "23-05-03-005",
+    "code": "23-05-03-005",
+    "name": "COMM SCH  ELEIYELE",
+    "wardId": "ifelodun__ward-03"
+  },
+  {
+    "id": "23-05-03-006",
+    "code": "23-05-03-006",
+    "name": "ECWA SCH LABAKA-OJA",
+    "wardId": "ifelodun__ward-03"
+  },
+  {
+    "id": "23-05-03-007",
+    "code": "23-05-03-007",
+    "name": "ECWA SCH LABAKA-OJA",
+    "wardId": "ifelodun__ward-03"
+  },
+  {
+    "id": "23-05-03-008",
+    "code": "23-05-03-008",
+    "name": "COMM SCH OMI-ARO",
+    "wardId": "ifelodun__ward-03"
+  },
+  {
+    "id": "23-05-03-009",
+    "code": "23-05-03-009",
+    "name": "COMM SCH  GBEDE",
+    "wardId": "ifelodun__ward-03"
+  },
+  {
+    "id": "23-05-04-001",
+    "code": "23-05-04-001",
+    "name": "ECWA SCH ORA",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-04-002",
+    "code": "23-05-04-002",
+    "name": "OPEN SPACE ARAROMI OKE",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-04-003",
+    "code": "23-05-04-003",
+    "name": "COMM SCH OKE-AYO",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-04-004",
+    "code": "23-05-04-004",
+    "name": "MARKET SQUARE ORA",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-04-005",
+    "code": "23-05-04-005",
+    "name": "COMM SCH MANASARA",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-04-006",
+    "code": "23-05-04-006",
+    "name": "COMM SCH ADIGUN",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-04-007",
+    "code": "23-05-04-007",
+    "name": "OPEN SPACE BALOGUN VILLAGE",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-04-008",
+    "code": "23-05-04-008",
+    "name": "COMM SCH DESENI",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-04-009",
+    "code": "23-05-04-009",
+    "name": "COMM SCH  AIREKE",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-04-010",
+    "code": "23-05-04-010",
+    "name": "COMM SCH  MAGBON",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-04-011",
+    "code": "23-05-04-011",
+    "name": "JAMAT NASIR ISLAM LGEA SCHOOL,ORA",
+    "wardId": "ifelodun__ward-04"
+  },
+  {
+    "id": "23-05-05-001",
+    "code": "23-05-05-001",
+    "name": "COMM SCH BABANLA",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-002",
+    "code": "23-05-05-002",
+    "name": "COUNCIL HALL BABANLA",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-003",
+    "code": "23-05-05-003",
+    "name": "OPEN SPACE ILENDEJI BABANLA I",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-004",
+    "code": "23-05-05-004",
+    "name": "OPEN SPACE ILENDEJI BABANLA II",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-005",
+    "code": "23-05-05-005",
+    "name": "LOCAL GOVT DISPENSARY OKE-OYAN",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-006",
+    "code": "23-05-05-006",
+    "name": "ECWA SCH  ALABE I",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-007",
+    "code": "23-05-05-007",
+    "name": "ECWA SCH ALABE II",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-008",
+    "code": "23-05-05-008",
+    "name": "ECWA SCH IDERA I",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-009",
+    "code": "23-05-05-009",
+    "name": "ECWA SCH IDERA II",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-010",
+    "code": "23-05-05-010",
+    "name": "COMM SCH IKOSIN",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-011",
+    "code": "23-05-05-011",
+    "name": "COMM SCH OWODE I",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-012",
+    "code": "23-05-05-012",
+    "name": "COMM SCH OWODE II",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-013",
+    "code": "23-05-05-013",
+    "name": "TOWN HALL KAJOLA",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-014",
+    "code": "23-05-05-014",
+    "name": "COMM SCH OWA ONIRE",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-015",
+    "code": "23-05-05-015",
+    "name": "COMM SCH  OREKE",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-016",
+    "code": "23-05-05-016",
+    "name": "COMM SCH  GANMU",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-017",
+    "code": "23-05-05-017",
+    "name": "COMM SCH  BUDOIDOWU",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-018",
+    "code": "23-05-05-018",
+    "name": "MARKET SQUARE IDOBA/OBIN",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-019",
+    "code": "23-05-05-019",
+    "name": "COMM SCH AFIN",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-020",
+    "code": "23-05-05-020",
+    "name": "BABASANGO OPEN SPACE AREA",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-021",
+    "code": "23-05-05-021",
+    "name": "OKE OYAN SENIOR SECONDARY SCHOOL",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-05-022",
+    "code": "23-05-05-022",
+    "name": "BASIC HEALTH CENTER OREKE",
+    "wardId": "ifelodun__ward-05"
+  },
+  {
+    "id": "23-05-06-001",
+    "code": "23-05-06-001",
+    "name": "COMM SCH AGUNJIN",
+    "wardId": "ifelodun__ward-06"
+  },
+  {
+    "id": "23-05-06-002",
+    "code": "23-05-06-002",
+    "name": "COUNCIL HALL AGUNJIN",
+    "wardId": "ifelodun__ward-06"
+  },
+  {
+    "id": "23-05-06-003",
+    "code": "23-05-06-003",
+    "name": "ECWA SCH OLAYINKA",
+    "wardId": "ifelodun__ward-06"
+  },
+  {
+    "id": "23-05-06-004",
+    "code": "23-05-06-004",
+    "name": "COMM. SCH.,  OREE",
+    "wardId": "ifelodun__ward-06"
+  },
+  {
+    "id": "23-05-06-005",
+    "code": "23-05-06-005",
+    "name": "ECWA SCH AGBEKU",
+    "wardId": "ifelodun__ward-06"
+  },
+  {
+    "id": "23-05-06-006",
+    "code": "23-05-06-006",
+    "name": "MARKET SQUARE AGBEKU",
+    "wardId": "ifelodun__ward-06"
+  },
+  {
+    "id": "23-05-06-007",
+    "code": "23-05-06-007",
+    "name": "COMM SCH AMORI WANDE",
+    "wardId": "ifelodun__ward-06"
+  },
+  {
+    "id": "23-05-06-008",
+    "code": "23-05-06-008",
+    "name": "ECWA SCH PATAKO",
+    "wardId": "ifelodun__ward-06"
+  },
+  {
+    "id": "23-05-07-001",
+    "code": "23-05-07-001",
+    "name": "ECWA SCH ORO-AGO",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-002",
+    "code": "23-05-07-002",
+    "name": "COMM SCH ORO-AGO",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-003",
+    "code": "23-05-07-003",
+    "name": "COMM SCH OKE-AYIN",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-004",
+    "code": "23-05-07-004",
+    "name": "ECWA SCH OYATE",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-005",
+    "code": "23-05-07-005",
+    "name": "OPEN SPACE AHUN VILLAGE",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-006",
+    "code": "23-05-07-006",
+    "name": "ECWA SCH OKEDABA",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-007",
+    "code": "23-05-07-007",
+    "name": "ECWA SCH OKEDABA",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-008",
+    "code": "23-05-07-008",
+    "name": "COMM SCH OMUGO",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-009",
+    "code": "23-05-07-009",
+    "name": "COMM SCH IRABON",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-010",
+    "code": "23-05-07-010",
+    "name": "COMM SCH  OKEDIO",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-011",
+    "code": "23-05-07-011",
+    "name": "COMM SCH AJEGUNLE",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-012",
+    "code": "23-05-07-012",
+    "name": "COMM SCH AJEGUNLE/OWA",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-013",
+    "code": "23-05-07-013",
+    "name": "COMM SCH OKE-OWA",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-014",
+    "code": "23-05-07-014",
+    "name": "OPEN SPACE AIYETORO",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-015",
+    "code": "23-05-07-015",
+    "name": "ADULT SCH OYATE",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-016",
+    "code": "23-05-07-016",
+    "name": "OPEN SPACE OKEWA OYATEDO ROAD",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-017",
+    "code": "23-05-07-017",
+    "name": "OKE MURE MARKET SQUARE, OPEN SPACE",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-018",
+    "code": "23-05-07-018",
+    "name": "OJUDE OGAYIN (MEETING PLACE)",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-019",
+    "code": "23-05-07-019",
+    "name": "OMO-OLOMI COMPREHENSIVE HIGH SCH.AHUN",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-020",
+    "code": "23-05-07-020",
+    "name": "OPEN SPACE BESIDE NSCDC'S OFFICE, OMUGO",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-07-021",
+    "code": "23-05-07-021",
+    "name": "AGBADA OPEN SPACE",
+    "wardId": "ifelodun__ward-07"
+  },
+  {
+    "id": "23-05-08-001",
+    "code": "23-05-08-001",
+    "name": "COMM SCH OMUPO",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-002",
+    "code": "23-05-08-002",
+    "name": "ST MICHAEL SCH OMUPO",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-003",
+    "code": "23-05-08-003",
+    "name": "ARABIC  SCH OMUPO",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-004",
+    "code": "23-05-08-004",
+    "name": "SHEIK ISLAMIC SCH OMUPO",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-005",
+    "code": "23-05-08-005",
+    "name": "ARABIC COLLEGE OMUPO",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-006",
+    "code": "23-05-08-006",
+    "name": "COMM SCH AMODU",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-007",
+    "code": "23-05-08-007",
+    "name": "GOVT TECH  SCH AMODU",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-008",
+    "code": "23-05-08-008",
+    "name": "COMM SCH KOKO",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-009",
+    "code": "23-05-08-009",
+    "name": "L.G.E.A SCH KOKO",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-010",
+    "code": "23-05-08-010",
+    "name": "WESLEY SCH OKANLE",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-011",
+    "code": "23-05-08-011",
+    "name": "COMM SCH BASANYIN",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-012",
+    "code": "23-05-08-012",
+    "name": "ANSARUL ISLAM SCH IGBOWU",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-013",
+    "code": "23-05-08-013",
+    "name": "COMM SCH MALOKO",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-014",
+    "code": "23-05-08-014",
+    "name": "COMM SCH  OKO-ODE",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-015",
+    "code": "23-05-08-015",
+    "name": "COMM SCH  ZULU",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-016",
+    "code": "23-05-08-016",
+    "name": "COMM SCH  OBALOYAN",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-017",
+    "code": "23-05-08-017",
+    "name": "L.G.E.A SCH ARUGBO",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-018",
+    "code": "23-05-08-018",
+    "name": "OPEN SPACE ATANDA NDA ALIYU",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-019",
+    "code": "23-05-08-019",
+    "name": "MUSLIM COLLEGE, OMUPO",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-08-020",
+    "code": "23-05-08-020",
+    "name": "BAYANGAN ILE COMMUNITY SCH.",
+    "wardId": "ifelodun__ward-08"
+  },
+  {
+    "id": "23-05-09-001",
+    "code": "23-05-09-001",
+    "name": "COMM SCH SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-002",
+    "code": "23-05-09-002",
+    "name": "ILE BALE OJABUTU SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-003",
+    "code": "23-05-09-003",
+    "name": "ILE GARBA SOJA SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-004",
+    "code": "23-05-09-004",
+    "name": "SHAYO L.G.E.A SCH SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-005",
+    "code": "23-05-09-005",
+    "name": "AREA COURT SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-006",
+    "code": "23-05-09-006",
+    "name": "ILE ONIBI SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-007",
+    "code": "23-05-09-007",
+    "name": "ILE  BALE 11 SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-008",
+    "code": "23-05-09-008",
+    "name": "ILE  ADEBIOPON  SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-009",
+    "code": "23-05-09-009",
+    "name": "OPEN SPACE BOJI BAALE, SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-010",
+    "code": "23-05-09-010",
+    "name": "ADESHINA COLLEGE OF EDUCATION, SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-011",
+    "code": "23-05-09-011",
+    "name": "COMMUNITY PRIMARY SCH.APATA AJE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-012",
+    "code": "23-05-09-012",
+    "name": "GENERAL HOSPITAL OPEN SPACE SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-09-013",
+    "code": "23-05-09-013",
+    "name": "CAC PRIMARY & SECONDARY SCH. SHARE",
+    "wardId": "ifelodun__ward-09"
+  },
+  {
+    "id": "23-05-10-001",
+    "code": "23-05-10-001",
+    "name": "N.Y.S.C BUS STOP SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-002",
+    "code": "23-05-10-002",
+    "name": "ILE ABOLOGBON SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-003",
+    "code": "23-05-10-003",
+    "name": "ILE OLULOKE SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-004",
+    "code": "23-05-10-004",
+    "name": "ILE ADEYI  SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-005",
+    "code": "23-05-10-005",
+    "name": "ILE AGUN   SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-006",
+    "code": "23-05-10-006",
+    "name": "OPEN SPACE MOTOR PARK SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-007",
+    "code": "23-05-10-007",
+    "name": "ILE OLOWOLAIYEMO SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-008",
+    "code": "23-05-10-008",
+    "name": "TOWN HALL SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-009",
+    "code": "23-05-10-009",
+    "name": "ILE AIYEGBO SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-010",
+    "code": "23-05-10-010",
+    "name": "OLOJO BUS STOP, SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-011",
+    "code": "23-05-10-011",
+    "name": "SHARIAH COURT OF APPEAL, SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-012",
+    "code": "23-05-10-012",
+    "name": "POLICE BARACK OPEN SPACE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-10-013",
+    "code": "23-05-10-013",
+    "name": "MAGISTRATE COURT, SHARE",
+    "wardId": "ifelodun__ward-10"
+  },
+  {
+    "id": "23-05-11-001",
+    "code": "23-05-11-001",
+    "name": "KATALAGBON OPEN SPACE",
+    "wardId": "ifelodun__ward-11"
+  },
+  {
+    "id": "23-05-11-002",
+    "code": "23-05-11-002",
+    "name": "OPEN SPACE  TITALAGOLO",
+    "wardId": "ifelodun__ward-11"
+  },
+  {
+    "id": "23-05-11-003",
+    "code": "23-05-11-003",
+    "name": "MARKET SQUARE LOMA",
+    "wardId": "ifelodun__ward-11"
+  },
+  {
+    "id": "23-05-11-004",
+    "code": "23-05-11-004",
+    "name": "COMM SCH  LOMA",
+    "wardId": "ifelodun__ward-11"
+  },
+  {
+    "id": "23-05-11-005",
+    "code": "23-05-11-005",
+    "name": "AGUN AREA LOMA",
+    "wardId": "ifelodun__ward-11"
+  },
+  {
+    "id": "23-05-11-006",
+    "code": "23-05-11-006",
+    "name": "OPEN SPACE ARUSA LOMA",
+    "wardId": "ifelodun__ward-11"
+  },
+  {
+    "id": "23-05-11-007",
+    "code": "23-05-11-007",
+    "name": "OPEN SPACE OLABALU  LOMA",
+    "wardId": "ifelodun__ward-11"
+  },
+  {
+    "id": "23-05-11-008",
+    "code": "23-05-11-008",
+    "name": "OPEN SPACE AWUWO   LOMA",
+    "wardId": "ifelodun__ward-11"
+  },
+  {
+    "id": "23-05-11-009",
+    "code": "23-05-11-009",
+    "name": "OPEN SPACE FADEYI   LOMA",
+    "wardId": "ifelodun__ward-11"
+  },
+  {
+    "id": "23-05-11-010",
+    "code": "23-05-11-010",
+    "name": "BUS STOP LOMA",
+    "wardId": "ifelodun__ward-11"
+  },
+  {
+    "id": "23-05-12-001",
+    "code": "23-05-12-001",
+    "name": "OPEN SPACE GBOGILEMU",
+    "wardId": "ifelodun__ward-12"
+  },
+  {
+    "id": "23-05-12-002",
+    "code": "23-05-12-002",
+    "name": "COMM SCH OKOSE",
+    "wardId": "ifelodun__ward-12"
+  },
+  {
+    "id": "23-05-12-003",
+    "code": "23-05-12-003",
+    "name": "COUNCIL HALL LOMA",
+    "wardId": "ifelodun__ward-12"
+  },
+  {
+    "id": "23-05-12-004",
+    "code": "23-05-12-004",
+    "name": "ILE OLUODE LOMA",
+    "wardId": "ifelodun__ward-12"
+  },
+  {
+    "id": "23-05-12-005",
+    "code": "23-05-12-005",
+    "name": "OPEN SPACE ODENIYI AREA LOMA",
+    "wardId": "ifelodun__ward-12"
+  },
+  {
+    "id": "23-05-12-006",
+    "code": "23-05-12-006",
+    "name": "OPEN SPACE ONIPE  AREA LOMA",
+    "wardId": "ifelodun__ward-12"
+  },
+  {
+    "id": "23-05-12-007",
+    "code": "23-05-12-007",
+    "name": "OPEN SPACE AFARI   AREA LOMA",
+    "wardId": "ifelodun__ward-12"
+  },
+  {
+    "id": "23-05-12-008",
+    "code": "23-05-12-008",
+    "name": "OPEN SPACE MALETE   AREA LOMA",
+    "wardId": "ifelodun__ward-12"
+  },
+  {
+    "id": "23-05-13-001",
+    "code": "23-05-13-001",
+    "name": "OPEN SPACE FAJE VILLAGE",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-002",
+    "code": "23-05-13-002",
+    "name": "COMM SCH SHARE JUNCTION",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-003",
+    "code": "23-05-13-003",
+    "name": "OPEN SPACE SEKUN VILLAGE",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-004",
+    "code": "23-05-13-004",
+    "name": "COMM SCH LAKANLA",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-005",
+    "code": "23-05-13-005",
+    "name": "COMM SCH ALEGONGO",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-006",
+    "code": "23-05-13-006",
+    "name": "COMM SCH TEMIDIRE",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-007",
+    "code": "23-05-13-007",
+    "name": "COMM SCH SANGOTAYO/BUDO UMORU",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-008",
+    "code": "23-05-13-008",
+    "name": "ST MARTIN'S SCH ADIO",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-009",
+    "code": "23-05-13-009",
+    "name": "COMM SCH ILUPEJU",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-010",
+    "code": "23-05-13-010",
+    "name": "COMM SCH ALERA",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-011",
+    "code": "23-05-13-011",
+    "name": "GIDANBURU OPEN SPACE",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-13-012",
+    "code": "23-05-13-012",
+    "name": "COMMUNITY SCH. KPIANGBIA",
+    "wardId": "ifelodun__ward-13"
+  },
+  {
+    "id": "23-05-14-001",
+    "code": "23-05-14-001",
+    "name": "MARKET SQUARE IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-002",
+    "code": "23-05-14-002",
+    "name": "ECWA SCH IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-003",
+    "code": "23-05-14-003",
+    "name": "COMM SCH IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-004",
+    "code": "23-05-14-004",
+    "name": "JAMAAT SCH IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-005",
+    "code": "23-05-14-005",
+    "name": "JAMAAT SCH IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-006",
+    "code": "23-05-14-006",
+    "name": "BAPTIST SCH IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-007",
+    "code": "23-05-14-007",
+    "name": "OPEN SPACE ISALE IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-008",
+    "code": "23-05-14-008",
+    "name": "OPEN SPACE ISALE IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-009",
+    "code": "23-05-14-009",
+    "name": "ILE BALOGUN IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-010",
+    "code": "23-05-14-010",
+    "name": "ECWA DEM SCH IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-011",
+    "code": "23-05-14-011",
+    "name": "ECWA DEM SCH IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-012",
+    "code": "23-05-14-012",
+    "name": "MARKET SQUARE IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-14-013",
+    "code": "23-05-14-013",
+    "name": "MARKET SQUARE IGBAJA",
+    "wardId": "ifelodun__ward-14"
+  },
+  {
+    "id": "23-05-15-001",
+    "code": "23-05-15-001",
+    "name": "COMM SCH OFFARESE",
+    "wardId": "ifelodun__ward-15"
+  },
+  {
+    "id": "23-05-15-002",
+    "code": "23-05-15-002",
+    "name": "COMM SCH ADANLA",
+    "wardId": "ifelodun__ward-15"
+  },
+  {
+    "id": "23-05-15-003",
+    "code": "23-05-15-003",
+    "name": "COMM SCH ALAKA",
+    "wardId": "ifelodun__ward-15"
+  },
+  {
+    "id": "23-05-15-004",
+    "code": "23-05-15-004",
+    "name": "COMM SCH  ALASORO",
+    "wardId": "ifelodun__ward-15"
+  },
+  {
+    "id": "23-05-15-005",
+    "code": "23-05-15-005",
+    "name": "COMM SCH  ATIRAN",
+    "wardId": "ifelodun__ward-15"
+  },
+  {
+    "id": "23-05-15-006",
+    "code": "23-05-15-006",
+    "name": "COMM SCH  ILUPEJU",
+    "wardId": "ifelodun__ward-15"
+  },
+  {
+    "id": "23-05-15-007",
+    "code": "23-05-15-007",
+    "name": "COMM SCH  BALOGUN OJA",
+    "wardId": "ifelodun__ward-15"
+  },
+  {
+    "id": "23-05-15-008",
+    "code": "23-05-15-008",
+    "name": "JAMAT SCH IDIAPA",
+    "wardId": "ifelodun__ward-15"
+  },
+  {
+    "id": "23-05-15-009",
+    "code": "23-05-15-009",
+    "name": "COMM SCH ONIJO",
+    "wardId": "ifelodun__ward-15"
+  },
+  {
+    "id": "23-05-16-001",
+    "code": "23-05-16-001",
+    "name": "COMM SCH YARU",
+    "wardId": "ifelodun__ward-16"
+  },
+  {
+    "id": "23-05-16-002",
+    "code": "23-05-16-002",
+    "name": "MARKET SQUARE YARU",
+    "wardId": "ifelodun__ward-16"
+  },
+  {
+    "id": "23-05-16-003",
+    "code": "23-05-16-003",
+    "name": "COMM SCH DUROSOTO",
+    "wardId": "ifelodun__ward-16"
+  },
+  {
+    "id": "23-05-16-004",
+    "code": "23-05-16-004",
+    "name": "OPEN SPACE MASUDO",
+    "wardId": "ifelodun__ward-16"
+  },
+  {
+    "id": "23-05-16-005",
+    "code": "23-05-16-005",
+    "name": "OPEN SPACE  GBOLOKO",
+    "wardId": "ifelodun__ward-16"
+  },
+  {
+    "id": "23-05-16-006",
+    "code": "23-05-16-006",
+    "name": "OPEN SPACE TONGOLO",
+    "wardId": "ifelodun__ward-16"
+  },
+  {
+    "id": "23-05-16-007",
+    "code": "23-05-16-007",
+    "name": "OPEN SPACE OROKI OJA",
+    "wardId": "ifelodun__ward-16"
+  },
+  {
+    "id": "23-05-16-008",
+    "code": "23-05-16-008",
+    "name": "MARKET SQUARE BAYERO",
+    "wardId": "ifelodun__ward-16"
+  },
+  {
+    "id": "23-05-16-009",
+    "code": "23-05-16-009",
+    "name": "L.G.E.A SCH AJIBOWO",
+    "wardId": "ifelodun__ward-16"
+  },
+  {
+    "id": "23-05-16-010",
+    "code": "23-05-16-010",
+    "name": "COMM SCH KUNMI",
+    "wardId": "ifelodun__ward-16"
+  },
+  {
+    "id": "23-05-17-001",
+    "code": "23-05-17-001",
+    "name": "COMM SCH IDOFIAN",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-002",
+    "code": "23-05-17-002",
+    "name": "ST JOHN'S SCH  IDOFIAN I",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-003",
+    "code": "23-05-17-003",
+    "name": "ST JOHN'S SCH  IDOFIAN II",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-004",
+    "code": "23-05-17-004",
+    "name": "COUNCIL HALL  IDOFIAN",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-005",
+    "code": "23-05-17-005",
+    "name": "COMM SCH JIMBA OJA",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-006",
+    "code": "23-05-17-006",
+    "name": "ST JAME'S SCH FALOKUN-OJA",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-007",
+    "code": "23-05-17-007",
+    "name": "MARKET SQUARE FALOKUN",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-008",
+    "code": "23-05-17-008",
+    "name": "COMM SCH ALAKUKO",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-009",
+    "code": "23-05-17-009",
+    "name": "OPEN SPACE GATTA",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-010",
+    "code": "23-05-17-010",
+    "name": "POST OFFICE IDOFIAN",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-011",
+    "code": "23-05-17-011",
+    "name": "IDOFIAN MOTOR PARK, OPEN SPACE",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-012",
+    "code": "23-05-17-012",
+    "name": "SUCCESS NUR&PRY SCH. IDOFIAN",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-17-013",
+    "code": "23-05-17-013",
+    "name": "JIMBA OJA MARKET OPEN SPACE",
+    "wardId": "ifelodun__ward-17"
+  },
+  {
+    "id": "23-05-18-001",
+    "code": "23-05-18-001",
+    "name": "COMM SCH GANMO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-002",
+    "code": "23-05-18-002",
+    "name": "ARABIC SCH GANMO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-003",
+    "code": "23-05-18-003",
+    "name": "WESLEY SCH ELERINJARE I",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-004",
+    "code": "23-05-18-004",
+    "name": "WESLEY SCH ELERINJARE II",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-005",
+    "code": "23-05-18-005",
+    "name": "WESLEY SCH ELERINJARE III",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-006",
+    "code": "23-05-18-006",
+    "name": "ECWA SCH  AMAYO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-007",
+    "code": "23-05-18-007",
+    "name": "OPEN SPACE AMAYO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-008",
+    "code": "23-05-18-008",
+    "name": "COMM SCH KABBA/DONGARI",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-009",
+    "code": "23-05-18-009",
+    "name": "OPEN SPACE KABBA/KAJOLA",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-010",
+    "code": "23-05-18-010",
+    "name": "OPEN SPACE KABBA/OWODE",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-011",
+    "code": "23-05-18-011",
+    "name": "OPEN SPACE GBAGEDE",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-012",
+    "code": "23-05-18-012",
+    "name": "ATH-THABAAT INT.SCH.N.T.A AREA",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-013",
+    "code": "23-05-18-013",
+    "name": "CITIZENS MODEL SCH. ALOMILAYA",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-014",
+    "code": "23-05-18-014",
+    "name": "OPELOYERU MODEL PRY SCH. GANMO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-015",
+    "code": "23-05-18-015",
+    "name": "PRIMUS HIGH SCH. BEHIND OBA'S PALACE, GANMO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-016",
+    "code": "23-05-18-016",
+    "name": "ANSARUL ISLAM AKATA, GANMO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-017",
+    "code": "23-05-18-017",
+    "name": "JUNIOR SECONDARY SCHOOL AMAYO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-018",
+    "code": "23-05-18-018",
+    "name": "ANSARUL ISLAM PRIMARY SCH.AMAYO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-019",
+    "code": "23-05-18-019",
+    "name": "AKEWUSHOLA COLLEGE, AMAYO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-020",
+    "code": "23-05-18-020",
+    "name": "NIGHT MARKET, BUS STOP, AMAYO",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-021",
+    "code": "23-05-18-021",
+    "name": "GBAGEDE BASIC HEALTH CENTRE",
+    "wardId": "ifelodun__ward-18"
+  },
+  {
+    "id": "23-05-18-022",
+    "code": "23-05-18-022",
+    "name": "OPEN SPACE NOTREDAM AMAYO",
+    "wardId": "ifelodun__ward-18"
+  }
+]

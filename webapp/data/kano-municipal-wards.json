@@ -1,0 +1,93 @@
+[
+  {
+    "id": "kano-municipal__ward-01",
+    "name": "CHEDI WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-01",
+    "puCount": 22
+  },
+  {
+    "id": "kano-municipal__ward-02",
+    "name": "DAN'AGUNDI WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-02",
+    "puCount": 29
+  },
+  {
+    "id": "kano-municipal__ward-03",
+    "name": "GANDUN ALBASA WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-03",
+    "puCount": 46
+  },
+  {
+    "id": "kano-municipal__ward-04",
+    "name": "JAKARA WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-04",
+    "puCount": 24
+  },
+  {
+    "id": "kano-municipal__ward-05",
+    "name": "KANKAROFI WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-05",
+    "puCount": 72
+  },
+  {
+    "id": "kano-municipal__ward-06",
+    "name": "SHAHUCHI WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-06",
+    "puCount": 58
+  },
+  {
+    "id": "kano-municipal__ward-07",
+    "name": "SHARADA WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-07",
+    "puCount": 84
+  },
+  {
+    "id": "kano-municipal__ward-08",
+    "name": "SHESHE WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-08",
+    "puCount": 50
+  },
+  {
+    "id": "kano-municipal__ward-09",
+    "name": "TUDUN NUFAWA WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-09",
+    "puCount": 26
+  },
+  {
+    "id": "kano-municipal__ward-10",
+    "name": "TUDUN WAZIRCHI WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-10",
+    "puCount": 48
+  },
+  {
+    "id": "kano-municipal__ward-11",
+    "name": "YAKASAI WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-11",
+    "puCount": 54
+  },
+  {
+    "id": "kano-municipal__ward-12",
+    "name": "ZAITAWA WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-12",
+    "puCount": 49
+  },
+  {
+    "id": "kano-municipal__ward-13",
+    "name": "ZANGO WARD",
+    "lgaId": "kano__kano-municipal",
+    "code": "20-21-13",
+    "puCount": 67
+  }
+]

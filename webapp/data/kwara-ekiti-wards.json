@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kwara-ekiti__ward-01",
+    "name": "ERUKU",
+    "lgaId": "kwara__ekiti",
+    "code": "23-04-01",
+    "puCount": 7
+  },
+  {
+    "id": "kwara-ekiti__ward-02",
+    "name": "ISAPA",
+    "lgaId": "kwara__ekiti",
+    "code": "23-04-02",
+    "puCount": 8
+  },
+  {
+    "id": "kwara-ekiti__ward-03",
+    "name": "KORO",
+    "lgaId": "kwara__ekiti",
+    "code": "23-04-03",
+    "puCount": 5
+  },
+  {
+    "id": "kwara-ekiti__ward-04",
+    "name": "OBBO-AIYEGGUNLE 1",
+    "lgaId": "kwara__ekiti",
+    "code": "23-04-04",
+    "puCount": 6
+  },
+  {
+    "id": "kwara-ekiti__ward-05",
+    "name": "OBBO-AIYEGGUNLE 11",
+    "lgaId": "kwara__ekiti",
+    "code": "23-04-05",
+    "puCount": 6
+  },
+  {
+    "id": "kwara-ekiti__ward-06",
+    "name": "OBBO-ILE",
+    "lgaId": "kwara__ekiti",
+    "code": "23-04-06",
+    "puCount": 7
+  },
+  {
+    "id": "kwara-ekiti__ward-07",
+    "name": "OSI 1",
+    "lgaId": "kwara__ekiti",
+    "code": "23-04-07",
+    "puCount": 9
+  },
+  {
+    "id": "kwara-ekiti__ward-08",
+    "name": "OSI 11",
+    "lgaId": "kwara__ekiti",
+    "code": "23-04-08",
+    "puCount": 7
+  },
+  {
+    "id": "kwara-ekiti__ward-09",
+    "name": "OPIN",
+    "lgaId": "kwara__ekiti",
+    "code": "23-04-09",
+    "puCount": 13
+  },
+  {
+    "id": "kwara-ekiti__ward-10",
+    "name": "OKE-OPIN/ETAN",
+    "lgaId": "kwara__ekiti",
+    "code": "23-04-10",
+    "puCount": 8
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ifelodun__ward-01",
+    "name": "OKE-ODE 1",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-01",
+    "puCount": 11
+  },
+  {
+    "id": "ifelodun__ward-02",
+    "name": "OKE-ODE 11",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-02",
+    "puCount": 11
+  },
+  {
+    "id": "ifelodun__ward-03",
+    "name": "OKE-ODE 111",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-03",
+    "puCount": 9
+  },
+  {
+    "id": "ifelodun__ward-04",
+    "name": "ORA",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-04",
+    "puCount": 11
+  },
+  {
+    "id": "ifelodun__ward-05",
+    "name": "ILE-IRE",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-05",
+    "puCount": 22
+  },
+  {
+    "id": "ifelodun__ward-06",
+    "name": "AGUNJIN",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-06",
+    "puCount": 8
+  },
+  {
+    "id": "ifelodun__ward-07",
+    "name": "ORO-AGO",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-07",
+    "puCount": 21
+  },
+  {
+    "id": "ifelodun__ward-08",
+    "name": "OMUPO",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-08",
+    "puCount": 20
+  },
+  {
+    "id": "ifelodun__ward-09",
+    "name": "SHARE 1",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-09",
+    "puCount": 13
+  },
+  {
+    "id": "ifelodun__ward-10",
+    "name": "SHARE 11",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-10",
+    "puCount": 13
+  },
+  {
+    "id": "ifelodun__ward-11",
+    "name": "SHARE 111",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-11",
+    "puCount": 10
+  },
+  {
+    "id": "ifelodun__ward-12",
+    "name": "SHARE 1V",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-12",
+    "puCount": 8
+  },
+  {
+    "id": "ifelodun__ward-13",
+    "name": "SHARE V",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-13",
+    "puCount": 12
+  },
+  {
+    "id": "ifelodun__ward-14",
+    "name": "IGBAJA 1",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-14",
+    "puCount": 13
+  },
+  {
+    "id": "ifelodun__ward-15",
+    "name": "IGBAJA 11",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-15",
+    "puCount": 9
+  },
+  {
+    "id": "ifelodun__ward-16",
+    "name": "IGBAJA 111",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-16",
+    "puCount": 10
+  },
+  {
+    "id": "ifelodun__ward-17",
+    "name": "IDOFIAN 1",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-17",
+    "puCount": 13
+  },
+  {
+    "id": "ifelodun__ward-18",
+    "name": "IDOFIAN 11",
+    "lgaId": "kwara__ifelodun",
+    "code": "23-05-18",
+    "puCount": 22
+  }
+]

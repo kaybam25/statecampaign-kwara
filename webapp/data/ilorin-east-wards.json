@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ilorin-east__ward-01",
+    "name": "AGBEYANGI/GBADAMU/OSIN",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-01",
+    "puCount": 17
+  },
+  {
+    "id": "ilorin-east__ward-02",
+    "name": "GAMBARI 1",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-02",
+    "puCount": 23
+  },
+  {
+    "id": "ilorin-east__ward-03",
+    "name": "BALOGUN GAMBARI 11",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-03",
+    "puCount": 29
+  },
+  {
+    "id": "ilorin-east__ward-04",
+    "name": "IBAGUN",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-04",
+    "puCount": 58
+  },
+  {
+    "id": "ilorin-east__ward-05",
+    "name": "APADO",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-05",
+    "puCount": 8
+  },
+  {
+    "id": "ilorin-east__ward-06",
+    "name": "IPONRIN",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-06",
+    "puCount": 8
+  },
+  {
+    "id": "ilorin-east__ward-07",
+    "name": "MAGAJI ARE 1",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-07",
+    "puCount": 38
+  },
+  {
+    "id": "ilorin-east__ward-08",
+    "name": "MAGAJI ARE 11",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-08",
+    "puCount": 42
+  },
+  {
+    "id": "ilorin-east__ward-09",
+    "name": "MARAFA/PEPELE",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-09",
+    "puCount": 19
+  },
+  {
+    "id": "ilorin-east__ward-10",
+    "name": "MAYA/ILE-APA",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-10",
+    "puCount": 21
+  },
+  {
+    "id": "ilorin-east__ward-11",
+    "name": "OKE OYI/OKE OSE/ALALUBOSA",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-11",
+    "puCount": 26
+  },
+  {
+    "id": "ilorin-east__ward-12",
+    "name": "ZANGO",
+    "lgaId": "kwara__ilorin-east",
+    "code": "23-06-12",
+    "puCount": 31
+  }
+]

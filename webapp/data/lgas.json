@@ -1,0 +1,6762 @@
+[
+  {
+    "id": "abia__aba-north",
+    "name": "Aba North",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__aba-south",
+    "name": "Aba South",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__arochukwu",
+    "name": "Arochukwu",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__bende",
+    "name": "Bende",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__ikwuano",
+    "name": "Ikwuano",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__isiala",
+    "name": "Isiala",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__isiala-ngwa-south",
+    "name": "Isiala Ngwa South",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__isukwuato",
+    "name": "Isukwuato",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__ngwa-north",
+    "name": "Ngwa North",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__ukwa-east",
+    "name": "Ukwa East",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__ukwa-west",
+    "name": "Ukwa West",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__umuahia",
+    "name": "Umuahia",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "abia__umuahia-south",
+    "name": "Umuahia South",
+    "stateId": "abia",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__demsa",
+    "name": "Demsa",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__fufore",
+    "name": "Fufore",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__ganye",
+    "name": "Ganye",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__girei",
+    "name": "Girei",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__gombi",
+    "name": "Gombi",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__hung",
+    "name": "Hung",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__jada",
+    "name": "Jada",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__jimeta",
+    "name": "Jimeta",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__lamurde",
+    "name": "Lamurde",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__madagali",
+    "name": "Madagali",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__maiha",
+    "name": "Maiha",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__mayo-belwa",
+    "name": "Mayo-Belwa",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__michika",
+    "name": "Michika",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__mubi-south",
+    "name": "Mubi South",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__numna",
+    "name": "Numna",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__shelleng",
+    "name": "Shelleng",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__song",
+    "name": "Song",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__toungo",
+    "name": "Toungo",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "adamawa__yola-north",
+    "name": "Yola North",
+    "stateId": "adamawa",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 377
+  },
+  {
+    "id": "adamawa__yola-south",
+    "name": "Yola South",
+    "stateId": "adamawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__abak",
+    "name": "Abak",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__eastern-obolo",
+    "name": "Eastern Obolo",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__eket",
+    "name": "Eket",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__esit-eket",
+    "name": "Esit Eket",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__essien-udim",
+    "name": "Essien Udim",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__etimekpo",
+    "name": "Etimekpo",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__etinan",
+    "name": "Etinan",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__ibeno",
+    "name": "Ibeno",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__ibesikpo-asutan",
+    "name": "Ibesikpo Asutan",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__ibiono-ibom",
+    "name": "Ibiono Ibom",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__ika",
+    "name": "Ika",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__ikono",
+    "name": "Ikono",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__ikot-abasi",
+    "name": "Ikot Abasi",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__ikot-ekpene",
+    "name": "Ikot Ekpene",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__ini",
+    "name": "Ini",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__itu",
+    "name": "Itu",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__mbo",
+    "name": "Mbo",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__mkpat-enin",
+    "name": "Mkpat Enin",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__nsit-ibom",
+    "name": "Nsit Ibom",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__nsit-ubium",
+    "name": "Nsit Ubium",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__obot-akara",
+    "name": "Obot Akara",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__okobo",
+    "name": "Okobo",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__onna",
+    "name": "Onna",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__oron",
+    "name": "Oron",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__orukanam",
+    "name": "Orukanam",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__oruko-ete",
+    "name": "Oruko Ete",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__udung-uko",
+    "name": "Udung Uko",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__ukanafun",
+    "name": "Ukanafun",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__uruan",
+    "name": "Uruan",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__urue-offoung",
+    "name": "Urue Offoung",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "akwa-ibom__uyo",
+    "name": "Uyo",
+    "stateId": "akwa-ibom",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__aguata",
+    "name": "Aguata",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__akwa-north",
+    "name": "Akwa North",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__anambra",
+    "name": "Anambra",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__anambra-west",
+    "name": "Anambra-West",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__anaocha",
+    "name": "Anaocha",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__awka-north",
+    "name": "Awka-North",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__awka-south",
+    "name": "Awka-South",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__ayamelum",
+    "name": "Ayamelum",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__dunukofia",
+    "name": "Dunukofia",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__ekwusigo",
+    "name": "Ekwusigo",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__idemili-north",
+    "name": "Idemili-North",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__idemili-south",
+    "name": "Idemili-South",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__ihiala",
+    "name": "Ihiala",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__imo",
+    "name": "Imo",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__nibo",
+    "name": "Nibo",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__njikoka",
+    "name": "Njikoka",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__nnewi-north",
+    "name": "Nnewi-North",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__nnewi-south",
+    "name": "Nnewi-South",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__ogbaru",
+    "name": "Ogbaru",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__olumba",
+    "name": "Olumba",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__onitsha-north",
+    "name": "Onitsha-North",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__onitsha-south",
+    "name": "Onitsha-South",
+    "stateId": "anambra",
+    "hasRealWardData": true,
+    "wardCount": 17,
+    "puCount": 321
+  },
+  {
+    "id": "anambra__orumba-north",
+    "name": "Orumba-North",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__orumba-south",
+    "name": "Orumba-South",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__oti",
+    "name": "Oti",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__otu-ocha",
+    "name": "Otu-Ocha",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__ubuluizor-ihiala",
+    "name": "Ubuluizor Ihiala",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "anambra__uyi",
+    "name": "Uyi",
+    "stateId": "anambra",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__alkaleri",
+    "name": "Alkaleri",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__bauchi",
+    "name": "Bauchi",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__bogoro",
+    "name": "Bogoro",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__damban",
+    "name": "Damban",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__darazo",
+    "name": "Darazo",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__dass",
+    "name": "Dass",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__gamawa",
+    "name": "Gamawa",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__ganjuwa",
+    "name": "Ganjuwa",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__giade",
+    "name": "Giade",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__itas-gadau",
+    "name": "Itas/Gadau",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__jama-are",
+    "name": "Jama'Are",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__katagum",
+    "name": "Katagum",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__kirfi",
+    "name": "Kirfi",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__misau",
+    "name": "Misau",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__ningi",
+    "name": "Ningi",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__shira",
+    "name": "Shira",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__tafawa-balewa",
+    "name": "Tafawa-Balewa",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__toro",
+    "name": "Toro",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__warji",
+    "name": "Warji",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bauchi__zaki",
+    "name": "Zaki",
+    "stateId": "bauchi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__adagbabiri",
+    "name": "Adagbabiri",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__brass",
+    "name": "Brass",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__ekeremor",
+    "name": "Ekeremor",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__kembe",
+    "name": "Kembe",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__kolokuma",
+    "name": "Kolokuma",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__kolokuma-opkuma",
+    "name": "Kolokuma/Opkuma",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__nembe",
+    "name": "Nembe",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__ogbia",
+    "name": "Ogbia",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__sagbama",
+    "name": "Sagbama",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__southern-ijaw",
+    "name": "Southern-Ijaw",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__toru-abubo",
+    "name": "Toru-Abubo",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "bayelsa__yenegoa",
+    "name": "Yenegoa",
+    "stateId": "bayelsa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__ado",
+    "name": "Ado",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__agatu",
+    "name": "Agatu",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__apa",
+    "name": "Apa",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__buruku",
+    "name": "Buruku",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__gboko",
+    "name": "Gboko",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__guma",
+    "name": "Guma",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__gwer-east",
+    "name": "Gwer-East",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__gwer-west",
+    "name": "Gwer-West",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__katsina-ala",
+    "name": "Katsina-Ala",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__konshisha",
+    "name": "Konshisha",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__kwande",
+    "name": "Kwande",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__logo",
+    "name": "Logo",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__makurdi",
+    "name": "Makurdi",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__ogbadibo",
+    "name": "Ogbadibo",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__ohimini",
+    "name": "Ohimini",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__oju",
+    "name": "Oju",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__okpokwu",
+    "name": "Okpokwu",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__otukpo",
+    "name": "Otukpo",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__oturkpa",
+    "name": "Oturkpa",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__tarka",
+    "name": "Tarka",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__ukum",
+    "name": "Ukum",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "benue__vandekya",
+    "name": "Vandekya",
+    "stateId": "benue",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__abadan",
+    "name": "Abadan",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__askira-uba",
+    "name": "Askira-Uba",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__bama",
+    "name": "Bama",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__bayo",
+    "name": "Bayo",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__biu",
+    "name": "Biu",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__chibok",
+    "name": "Chibok",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__damboa",
+    "name": "Damboa",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__dikwa",
+    "name": "Dikwa",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__gubio",
+    "name": "Gubio",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__guzamala",
+    "name": "Guzamala",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__gwoza",
+    "name": "Gwoza",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__hawul",
+    "name": "Hawul",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__jere",
+    "name": "Jere",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__kaga",
+    "name": "Kaga",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__kala-balge",
+    "name": "Kala/Balge",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__konduga",
+    "name": "Konduga",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__kukawa",
+    "name": "Kukawa",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__kwaya-kusar",
+    "name": "Kwaya-Kusar",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__mafa",
+    "name": "Mafa",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__magumeri",
+    "name": "Magumeri",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__maiduguri",
+    "name": "Maiduguri",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__marte",
+    "name": "Marte",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__mobbar",
+    "name": "Mobbar",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__mongunu",
+    "name": "Mongunu",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__ngala",
+    "name": "Ngala",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__nganzai",
+    "name": "Nganzai",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "borno__shani",
+    "name": "Shani",
+    "stateId": "borno",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__abi",
+    "name": "Abi",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__abuochichie",
+    "name": "Abuochichie",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__akamkpa",
+    "name": "Akamkpa",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__akpabuyo",
+    "name": "Akpabuyo",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__bakassi",
+    "name": "Bakassi",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__bekwara",
+    "name": "Bekwara",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__biasi",
+    "name": "Biasi",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__boki",
+    "name": "Boki",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__calabar-municipal",
+    "name": "Calabar-Municipal",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__calabar-south",
+    "name": "Calabar-South",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__etunk",
+    "name": "Etunk",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__ikom",
+    "name": "Ikom",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__obanliku",
+    "name": "Obanliku",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__obubra",
+    "name": "Obubra",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__obudu",
+    "name": "Obudu",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__odukpani",
+    "name": "Odukpani",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__ogoja",
+    "name": "Ogoja",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__ugep-north",
+    "name": "Ugep-North",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__yakurr",
+    "name": "Yakurr",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "cross-river__yala",
+    "name": "Yala",
+    "stateId": "cross-river",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__aniocha-north",
+    "name": "Aniocha North",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__aniocha-north",
+    "name": "Aniocha-North",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__aniocha-south",
+    "name": "Aniocha-South",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__bomadi",
+    "name": "Bomadi",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__burutu",
+    "name": "Burutu",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__effurun",
+    "name": "Effurun",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ethiope-east",
+    "name": "Ethiope-East",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ethiope-west",
+    "name": "Ethiope-West",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__idu",
+    "name": "Idu",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ika-ne",
+    "name": "Ika-Ne",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ika-north-east",
+    "name": "Ika-North-East",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ika-south",
+    "name": "Ika-South",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ikpemili",
+    "name": "Ikpemili",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__isoko-north",
+    "name": "Isoko-North",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__isoko-south",
+    "name": "Isoko-South",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ndokwa-east",
+    "name": "Ndokwa-East",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ndokwa-north",
+    "name": "Ndokwa-North",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ndokwa-south",
+    "name": "Ndokwa-South",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ndokwa-west",
+    "name": "Ndokwa-West",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__okpe",
+    "name": "Okpe",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__okwuani",
+    "name": "Okwuani",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__oleh",
+    "name": "Oleh",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__oshielli-north",
+    "name": "Oshielli-North",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__oshimili",
+    "name": "Oshimili",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__oshimili-north",
+    "name": "Oshimili-North",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__oshimili-south",
+    "name": "Oshimili-South",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__osimili",
+    "name": "Osimili",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__osimili-north",
+    "name": "Osimili-North",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__osimili-south",
+    "name": "Osimili-South",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__patani",
+    "name": "Patani",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__sapele",
+    "name": "Sapele",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__udokwa",
+    "name": "Udokwa",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__udu",
+    "name": "Udu",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ughelli-north",
+    "name": "Ughelli-North",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ughelli-south",
+    "name": "Ughelli-South",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__ukwuani",
+    "name": "Ukwuani",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__uraun",
+    "name": "Uraun",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__urwie",
+    "name": "Urwie",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__uvie",
+    "name": "Uvie",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__uvwei",
+    "name": "Uvwei",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__uvwie",
+    "name": "Uvwie",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__uwvie",
+    "name": "Uwvie",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__warri-central",
+    "name": "Warri-Central",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__warri-north",
+    "name": "Warri-North",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "delta__warri-south",
+    "name": "Warri-South",
+    "stateId": "delta",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__abakaliki",
+    "name": "Abakaliki",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__afikpo-north",
+    "name": "Afikpo-North",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__afikpo-south",
+    "name": "Afikpo-South",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__bomadim",
+    "name": "Bomadim",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__ebonyi",
+    "name": "Ebonyi",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__ezza-north",
+    "name": "Ezza-North",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__ezza-south",
+    "name": "Ezza-South",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__ikwo",
+    "name": "Ikwo",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__ishielu",
+    "name": "Ishielu",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__ivo",
+    "name": "Ivo",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__izzi",
+    "name": "Izzi",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__obaukwu",
+    "name": "Obaukwu",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__ohakwu",
+    "name": "Ohakwu",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__onicha",
+    "name": "Onicha",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ebonyi__ukaba",
+    "name": "Ukaba",
+    "stateId": "ebonyi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__afokpella",
+    "name": "Afokpella",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__afuze",
+    "name": "Afuze",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__agbazilo",
+    "name": "Agbazilo",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__akoko-edo",
+    "name": "Akoko Edo",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__akoko-edo",
+    "name": "Akoko-Edo",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__egor",
+    "name": "Egor",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__esan-central",
+    "name": "Esan-Central",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__esan-north-east",
+    "name": "Esan-North-East",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__esan-north-east",
+    "name": "Esan-North-East",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__esan-south-east",
+    "name": "Esan-South-East",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__esan-west",
+    "name": "Esan-West",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__etsako-central",
+    "name": "Etsako-Central",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__etsako-east",
+    "name": "Etsako-East",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__etsako-west",
+    "name": "Etsako-West",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__igueben",
+    "name": "Igueben",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__iguobano-north-east",
+    "name": "Iguobano North East",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__ikpoba-okha",
+    "name": "Ikpoba-Okha",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__ohunmwode",
+    "name": "Ohunmwode",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__ologbo",
+    "name": "Ologbo",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__opoji-irrua",
+    "name": "Opoji Irrua",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__opoji-irrua",
+    "name": "Opoji Irrua",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__oredo",
+    "name": "Oredo",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__orhionmwon",
+    "name": "Orhionmwon",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__ovia-north-east",
+    "name": "Ovia-North-East",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__ovia-south-west",
+    "name": "Ovia-South-West",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__owan-east",
+    "name": "Owan East",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__owan-east",
+    "name": "Owan-East",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__owan-west",
+    "name": "Owan-West",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "edo__uhunmwonde",
+    "name": "Uhunmwonde",
+    "stateId": "edo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ado-ekiti",
+    "name": "Ado-Ekiti",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__aiyekire",
+    "name": "Aiyekire",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__efon",
+    "name": "Efon",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ekiti-east",
+    "name": "Ekiti-East",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ekiti-south-west",
+    "name": "Ekiti-South-West",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ekiti-west",
+    "name": "Ekiti-West",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__emure-ise-orun",
+    "name": "Emure/Ise/Orun",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__gbonyin",
+    "name": "Gbonyin",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ido-osi",
+    "name": "Ido-Osi",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ijero",
+    "name": "Ijero",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ikare",
+    "name": "Ikare",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ikere",
+    "name": "Ikere",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ikole",
+    "name": "Ikole",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ilejemeje",
+    "name": "Ilejemeje",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__irepodun-ifelodun",
+    "name": "Irepodun/Ifelodun",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__ise-orun",
+    "name": "Ise-Orun",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__moba",
+    "name": "Moba",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ekiti__oye",
+    "name": "Oye",
+    "stateId": "ekiti",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__aninri",
+    "name": "Aninri",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__awgu",
+    "name": "Awgu",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__enugu-east",
+    "name": "Enugu-East",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__enugu-north",
+    "name": "Enugu-North",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__enugu-south",
+    "name": "Enugu-South",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__ezeagu",
+    "name": "Ezeagu",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__igbo-etiti",
+    "name": "Igbo-Etiti",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__igbo-eze-north",
+    "name": "Igbo-Eze-North",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__igbo-eze-south",
+    "name": "Igbo-Eze-South",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__isi-uzo",
+    "name": "Isi-Uzo",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__nkanu-east",
+    "name": "Nkanu-East",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__nkanu-west",
+    "name": "Nkanu-West",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__nsukka",
+    "name": "Nsukka",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__nukanu-east",
+    "name": "Nukanu East",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__oji-river",
+    "name": "Oji-River",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__udenu",
+    "name": "Udenu",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__udi",
+    "name": "Udi",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "enugu__uzo-uwani",
+    "name": "Uzo-Uwani",
+    "stateId": "enugu",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "federal-capital-territory__abaji",
+    "name": "Abaji",
+    "stateId": "federal-capital-territory",
+    "hasRealWardData": false,
+    "wardCount": 11,
+    "puCount": 210
+  },
+  {
+    "id": "federal-capital-territory__abuja-municipal",
+    "name": "Abuja Municipal",
+    "stateId": "federal-capital-territory",
+    "hasRealWardData": false,
+    "wardCount": 11,
+    "puCount": 210
+  },
+  {
+    "id": "federal-capital-territory__bwari",
+    "name": "Bwari",
+    "stateId": "federal-capital-territory",
+    "hasRealWardData": false,
+    "wardCount": 11,
+    "puCount": 210
+  },
+  {
+    "id": "federal-capital-territory__gwagwalada",
+    "name": "Gwagwalada",
+    "stateId": "federal-capital-territory",
+    "hasRealWardData": false,
+    "wardCount": 11,
+    "puCount": 210
+  },
+  {
+    "id": "federal-capital-territory__kuje",
+    "name": "Kuje",
+    "stateId": "federal-capital-territory",
+    "hasRealWardData": false,
+    "wardCount": 11,
+    "puCount": 210
+  },
+  {
+    "id": "federal-capital-territory__kwali",
+    "name": "Kwali",
+    "stateId": "federal-capital-territory",
+    "hasRealWardData": false,
+    "wardCount": 11,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__akko",
+    "name": "Akko",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__balanga",
+    "name": "Balanga",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__billiri",
+    "name": "Billiri",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__dukku",
+    "name": "Dukku",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__funakaye",
+    "name": "Funakaye",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__gombe",
+    "name": "Gombe",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__kaltungo",
+    "name": "Kaltungo",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__kwami",
+    "name": "Kwami",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__nafada-bajoga",
+    "name": "Nafada/Bajoga",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__shomgom",
+    "name": "Shomgom",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "gombe__yamaltu-deba",
+    "name": "Yamaltu/Deba",
+    "stateId": "gombe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__aboh-mbaise",
+    "name": "Aboh-Mbaise",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ahiazu-mbaise",
+    "name": "Ahiazu-Mbaise",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__dral-esat",
+    "name": "Dral-Esat",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ehime-mbano",
+    "name": "Ehime-Mbano",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ezeobodo",
+    "name": "Ezeobodo",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ezinihitte",
+    "name": "Ezinihitte",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ideato",
+    "name": "Ideato",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ideato-north",
+    "name": "Ideato-North",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ideato-south",
+    "name": "Ideato-South",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ihitte-uboma",
+    "name": "Ihitte/Uboma",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ikeduru",
+    "name": "Ikeduru",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__isiala-mbano",
+    "name": "Isiala-Mbano",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__isu",
+    "name": "Isu",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__mbaitoli",
+    "name": "Mbaitoli",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__mbano",
+    "name": "Mbano",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ngor-okpala",
+    "name": "Ngor-Okpala",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__njaba",
+    "name": "Njaba",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__nkwerre",
+    "name": "Nkwerre",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__nwangele",
+    "name": "Nwangele",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__obowo",
+    "name": "Obowo",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__oguta",
+    "name": "Oguta",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ohaji-egbema",
+    "name": "Ohaji-Egbema",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__okigwe",
+    "name": "Okigwe",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__onuimo",
+    "name": "Onuimo",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__orlu",
+    "name": "Orlu",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__oro-west",
+    "name": "Oro-West",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__orsu",
+    "name": "Orsu",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__oru-east",
+    "name": "Oru-East",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__oru-west",
+    "name": "Oru-West",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__owerri-municipal",
+    "name": "Owerri-Municipal",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__owerri-north",
+    "name": "Owerri-North",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__owerri-west",
+    "name": "Owerri-West",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ugiri-ike-ikeduru",
+    "name": "Ugiri-Ike Ikeduru",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__ugiri-ikedikeduru",
+    "name": "Ugiri-Ikedikeduru",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__unbano",
+    "name": "Unbano",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "imo__zinihitte",
+    "name": "Zinihitte",
+    "stateId": "imo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__auyo",
+    "name": "Auyo",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__babura",
+    "name": "Babura",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__biriniwa",
+    "name": "Biriniwa",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__birnin-kudu",
+    "name": "Birnin-Kudu",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__bosuwa",
+    "name": "Bosuwa",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__buji",
+    "name": "Buji",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__dutse",
+    "name": "Dutse",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__gagarawa",
+    "name": "Gagarawa",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__garki",
+    "name": "Garki",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__gumel",
+    "name": "Gumel",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__guri",
+    "name": "Guri",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__gwaram",
+    "name": "Gwaram",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__gwiwa",
+    "name": "Gwiwa",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__hadejia",
+    "name": "Hadejia",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__jahun",
+    "name": "Jahun",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__kafin-hausa",
+    "name": "Kafin-Hausa",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__kaugama",
+    "name": "Kaugama",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__kazaure",
+    "name": "Kazaure",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__kirkasamma",
+    "name": "Kirkasamma",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__maigatari",
+    "name": "Maigatari",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__malam-maduri",
+    "name": "Malam-Maduri",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__miga",
+    "name": "Miga",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__ringim",
+    "name": "Ringim",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__roni",
+    "name": "Roni",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__sule-tankarkar",
+    "name": "Sule-Tankarkar",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__taura",
+    "name": "Taura",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "jigawa__yankwashi",
+    "name": "Yankwashi",
+    "stateId": "jigawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__birnin-gwari",
+    "name": "Birnin-Gwari",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__chikun",
+    "name": "Chikun",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__giwa",
+    "name": "Giwa",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__gwagwada",
+    "name": "Gwagwada",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__igabi",
+    "name": "Igabi",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__ikara",
+    "name": "Ikara",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__jaba",
+    "name": "Jaba",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__jema-a",
+    "name": "Jema'A",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__kachia",
+    "name": "Kachia",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__kaduna-north",
+    "name": "Kaduna-North",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__kagarko",
+    "name": "Kagarko",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__kajuru",
+    "name": "Kajuru",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__kaura",
+    "name": "Kaura",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__kauru",
+    "name": "Kauru",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__koka-kawo",
+    "name": "Koka/Kawo",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__kubah",
+    "name": "Kubah",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__kudan",
+    "name": "Kudan",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__lere",
+    "name": "Lere",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__makarfi",
+    "name": "Makarfi",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__sabon-gari",
+    "name": "Sabon-Gari",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__sanga",
+    "name": "Sanga",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__soba",
+    "name": "Soba",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__tudun-wada-makera",
+    "name": "Tudun-Wada/Makera",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__zango-kataf",
+    "name": "Zango-Kataf",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kaduna__zaria",
+    "name": "Zaria",
+    "stateId": "kaduna",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__ajingi",
+    "name": "Ajingi",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__albasu",
+    "name": "Albasu",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__bagwai",
+    "name": "Bagwai",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__bebeji",
+    "name": "Bebeji",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__bichi",
+    "name": "Bichi",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__bunkure",
+    "name": "Bunkure",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__dala",
+    "name": "Dala",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__dambatta",
+    "name": "Dambatta",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__dawakin-kudu",
+    "name": "Dawakin-Kudu",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__dawakin-tofa",
+    "name": "Dawakin-Tofa",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__doguwa",
+    "name": "Doguwa",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__fagge",
+    "name": "Fagge",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__gabasawa",
+    "name": "Gabasawa",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__garko",
+    "name": "Garko",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__garun-mallam",
+    "name": "Garun-Mallam",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__gaya",
+    "name": "Gaya",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__gezawa",
+    "name": "Gezawa",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__gwale",
+    "name": "Gwale",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__gwarzo",
+    "name": "Gwarzo",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__kano-municipal",
+    "name": "Kano-Municipal",
+    "stateId": "kano",
+    "hasRealWardData": true,
+    "wardCount": 13,
+    "puCount": 629
+  },
+  {
+    "id": "kano__karaye",
+    "name": "Karaye",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__kibiya",
+    "name": "Kibiya",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__kiru",
+    "name": "Kiru",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__kumbotso",
+    "name": "Kumbotso",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__kunchi",
+    "name": "Kunchi",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__kura",
+    "name": "Kura",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__madobi",
+    "name": "Madobi",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__makoda",
+    "name": "Makoda",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__minjibir",
+    "name": "Minjibir",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__nasarawa",
+    "name": "Nasarawa",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__rano",
+    "name": "Rano",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__rimin-gado",
+    "name": "Rimin-Gado",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__rogo",
+    "name": "Rogo",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__shanono",
+    "name": "Shanono",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__sumaila",
+    "name": "Sumaila",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__takai",
+    "name": "Takai",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__tarauni",
+    "name": "Tarauni",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__tofa",
+    "name": "Tofa",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__tsanyawa",
+    "name": "Tsanyawa",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__tudun-wada",
+    "name": "Tudun-Wada",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__ungogo",
+    "name": "Ungogo",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__warawa",
+    "name": "Warawa",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kano__wudil",
+    "name": "Wudil",
+    "stateId": "kano",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__bakori",
+    "name": "Bakori",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__batagarawa",
+    "name": "Batagarawa",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__batsari",
+    "name": "Batsari",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__baure",
+    "name": "Baure",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__bindawa",
+    "name": "Bindawa",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__charanchi",
+    "name": "Charanchi",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__dan-musa",
+    "name": "Dan-Musa",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__dandume",
+    "name": "Dandume",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__danji",
+    "name": "Danji",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__daura",
+    "name": "Daura",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__dutsi",
+    "name": "Dutsi",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__dutsinma",
+    "name": "Dutsinma",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__faskari",
+    "name": "Faskari",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__funtua",
+    "name": "Funtua",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__ingawa",
+    "name": "Ingawa",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__jibia",
+    "name": "Jibia",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__kafur",
+    "name": "Kafur",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__kaita",
+    "name": "Kaita",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__kankara",
+    "name": "Kankara",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__kankia",
+    "name": "Kankia",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__katsina",
+    "name": "Katsina",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__kurfi",
+    "name": "Kurfi",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__kusada",
+    "name": "Kusada",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__mai-adua",
+    "name": "Mai-Adua",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__malumfashi",
+    "name": "Malumfashi",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__mani",
+    "name": "Mani",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__mashi",
+    "name": "Mashi",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__matazu",
+    "name": "Matazu",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__musawa",
+    "name": "Musawa",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__rimi",
+    "name": "Rimi",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__sabuwa",
+    "name": "Sabuwa",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__safana",
+    "name": "Safana",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__sandamu",
+    "name": "Sandamu",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "katsina__zango",
+    "name": "Zango",
+    "stateId": "katsina",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__aleiro",
+    "name": "Aleiro",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__arewa-dandi",
+    "name": "Arewa-Dandi",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__argungu",
+    "name": "Argungu",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__augie",
+    "name": "Augie",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__bagudo",
+    "name": "Bagudo",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__birnin-kebbi",
+    "name": "Birnin-Kebbi",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__bumza",
+    "name": "Bumza",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__dandi",
+    "name": "Dandi",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__danko",
+    "name": "Danko",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__fakai",
+    "name": "Fakai",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__gwandu",
+    "name": "Gwandu",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__jega",
+    "name": "Jega",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__kalgo",
+    "name": "Kalgo",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__koko-besse",
+    "name": "Koko-Besse",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__maiyama",
+    "name": "Maiyama",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__ngaski",
+    "name": "Ngaski",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__sakaba",
+    "name": "Sakaba",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__shanga",
+    "name": "Shanga",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__suru",
+    "name": "Suru",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__wasagu",
+    "name": "Wasagu",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__yauri",
+    "name": "Yauri",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kebbi__zuru",
+    "name": "Zuru",
+    "stateId": "kebbi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__adavi",
+    "name": "Adavi",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__ajaokuta",
+    "name": "Ajaokuta",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__ankpa",
+    "name": "Ankpa",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__dekina",
+    "name": "Dekina",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__ibaji",
+    "name": "Ibaji",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__idah",
+    "name": "Idah",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__igalamela",
+    "name": "Igalamela",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__ijumu",
+    "name": "Ijumu",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__ikoyi-ijumu",
+    "name": "Ikoyi-Ijumu",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__kabba-bunu",
+    "name": "Kabba/Bunu",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__kogi",
+    "name": "Kogi",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__lokoja",
+    "name": "Lokoja",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__mopa-muro-mopi",
+    "name": "Mopa-Muro-Mopi",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__obaji",
+    "name": "Obaji",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__ofu",
+    "name": "Ofu",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__ogori-magongo",
+    "name": "Ogori/Magongo",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__okehi",
+    "name": "Okehi",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__okene",
+    "name": "Okene",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__olamaboro",
+    "name": "Olamaboro",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__omala",
+    "name": "Omala",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__oru",
+    "name": "Oru",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__oyi",
+    "name": "Oyi",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__yagba-east",
+    "name": "Yagba-East",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kogi__yagba-west",
+    "name": "Yagba-West",
+    "stateId": "kogi",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "kwara__asa",
+    "name": "Asa",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 17,
+    "puCount": 145
+  },
+  {
+    "id": "kwara__baruten",
+    "name": "Baruten",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 230
+  },
+  {
+    "id": "kwara__edu",
+    "name": "Edu",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 10,
+    "puCount": 175
+  },
+  {
+    "id": "kwara__ekiti",
+    "name": "Ekiti",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 10,
+    "puCount": 76
+  },
+  {
+    "id": "kwara__ifelodun",
+    "name": "Ifelodun",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 18,
+    "puCount": 236
+  },
+  {
+    "id": "kwara__ilorin-east",
+    "name": "Ilorin East",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 12,
+    "puCount": 320
+  },
+  {
+    "id": "kwara__ilorin-south",
+    "name": "Ilorin South",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 275
+  },
+  {
+    "id": "kwara__ilorin-west",
+    "name": "Ilorin West",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 12,
+    "puCount": 464
+  },
+  {
+    "id": "kwara__irepodun",
+    "name": "Irepodun",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 158
+  },
+  {
+    "id": "kwara__isin",
+    "name": "Isin",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 80
+  },
+  {
+    "id": "kwara__kaiama",
+    "name": "Kaiama",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 10,
+    "puCount": 124
+  },
+  {
+    "id": "kwara__moro",
+    "name": "Moro",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 17,
+    "puCount": 142
+  },
+  {
+    "id": "kwara__offa",
+    "name": "Offa",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 12,
+    "puCount": 172
+  },
+  {
+    "id": "kwara__oke-ero",
+    "name": "Oke-Ero",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 10,
+    "puCount": 77
+  },
+  {
+    "id": "kwara__oyun",
+    "name": "Oyun",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 107
+  },
+  {
+    "id": "kwara__patigi",
+    "name": "Patigi",
+    "stateId": "kwara",
+    "hasRealWardData": true,
+    "wardCount": 10,
+    "puCount": 105
+  },
+  {
+    "id": "lagos__agege",
+    "name": "Agege",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 695
+  },
+  {
+    "id": "lagos__ajeromi-ifelodun",
+    "name": "Ajeromi-Ifelodun",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 734
+  },
+  {
+    "id": "lagos__alimosho",
+    "name": "Alimosho",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 1545
+  },
+  {
+    "id": "lagos__amuwo-odofin",
+    "name": "Amuwo-Odofin",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 637
+  },
+  {
+    "id": "lagos__apapa",
+    "name": "Apapa",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 10,
+    "puCount": 373
+  },
+  {
+    "id": "lagos__badagry",
+    "name": "Badagry",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 412
+  },
+  {
+    "id": "lagos__epe",
+    "name": "Epe",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 19,
+    "puCount": 374
+  },
+  {
+    "id": "lagos__eti-osa",
+    "name": "Eti-Osa",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 10,
+    "puCount": 725
+  },
+  {
+    "id": "lagos__ibeju-lekki",
+    "name": "Ibeju-Lekki",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 226
+  },
+  {
+    "id": "lagos__ifako-ijaiye",
+    "name": "Ifako-Ijaiye",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 761
+  },
+  {
+    "id": "lagos__ikeja",
+    "name": "Ikeja",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 10,
+    "puCount": 667
+  },
+  {
+    "id": "lagos__ikorodu",
+    "name": "Ikorodu",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 19,
+    "puCount": 682
+  },
+  {
+    "id": "lagos__kosofe",
+    "name": "Kosofe",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 10,
+    "puCount": 899
+  },
+  {
+    "id": "lagos__lagos-island",
+    "name": "Lagos Island",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 19,
+    "puCount": 389
+  },
+  {
+    "id": "lagos__lagos-mainland",
+    "name": "Lagos Mainland",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 493
+  },
+  {
+    "id": "lagos__mushin",
+    "name": "Mushin",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 14,
+    "puCount": 865
+  },
+  {
+    "id": "lagos__ojo",
+    "name": "Ojo",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 582
+  },
+  {
+    "id": "lagos__oshodi-isolo",
+    "name": "Oshodi-Isolo",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 11,
+    "puCount": 890
+  },
+  {
+    "id": "lagos__shomolu",
+    "name": "Shomolu",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 12,
+    "puCount": 616
+  },
+  {
+    "id": "lagos__surulere",
+    "name": "Surulere",
+    "stateId": "lagos",
+    "hasRealWardData": true,
+    "wardCount": 12,
+    "puCount": 757
+  },
+  {
+    "id": "nassarawa__akwanga",
+    "name": "Akwanga",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__awe",
+    "name": "Awe",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__doma",
+    "name": "Doma",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__karu",
+    "name": "Karu",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__keana",
+    "name": "Keana",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__keffi",
+    "name": "Keffi",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__kokona",
+    "name": "Kokona",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__lafia",
+    "name": "Lafia",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__nassawara",
+    "name": "Nassawara",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__nassawara-eggon",
+    "name": "Nassawara Eggon",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__obi",
+    "name": "Obi",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "nassarawa__wambu",
+    "name": "Wambu",
+    "stateId": "nassarawa",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__agaie",
+    "name": "Agaie",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__agwara",
+    "name": "Agwara",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__bida",
+    "name": "Bida",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__borgu",
+    "name": "Borgu",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__bosso",
+    "name": "Bosso",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__chanchaga",
+    "name": "Chanchaga",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__edati",
+    "name": "Edati",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__gbako",
+    "name": "Gbako",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__gurara",
+    "name": "Gurara",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__katcha",
+    "name": "Katcha",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__kontagora",
+    "name": "Kontagora",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__lapai",
+    "name": "Lapai",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__lavun",
+    "name": "Lavun",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__magama",
+    "name": "Magama",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__mariga",
+    "name": "Mariga",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__mashegu",
+    "name": "Mashegu",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__mokwa",
+    "name": "Mokwa",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__muya",
+    "name": "Muya",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__paikoro",
+    "name": "Paikoro",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__rafi",
+    "name": "Rafi",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__rijau",
+    "name": "Rijau",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__shiroro",
+    "name": "Shiroro",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__suleja",
+    "name": "Suleja",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__tafa",
+    "name": "Tafa",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "niger__wushishi",
+    "name": "Wushishi",
+    "stateId": "niger",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__abeokuta-north",
+    "name": "Abeokuta-North",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__abeokuta-south",
+    "name": "Abeokuta-South",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__ado-odo-ota",
+    "name": "Ado-Odo/Ota",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__ewekoro",
+    "name": "Ewekoro",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__ifo",
+    "name": "Ifo",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__ijebu-east",
+    "name": "Ijebu-East",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__ijebu-north",
+    "name": "Ijebu-North",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__ijebu-north-east",
+    "name": "Ijebu-North-East",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__ijebu-ode",
+    "name": "Ijebu-Ode",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__ikenne",
+    "name": "Ikenne",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__imeko-afon",
+    "name": "Imeko-Afon",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__ipokia",
+    "name": "Ipokia",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__obafemi-owode",
+    "name": "Obafemi-Owode",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__odeda",
+    "name": "Odeda",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__odogbolu",
+    "name": "Odogbolu",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__ogun-waterside",
+    "name": "Ogun-Waterside",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__remo-north",
+    "name": "Remo-North",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__sagamu",
+    "name": "Sagamu",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__yewa-north",
+    "name": "Yewa North",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ogun__yewa-south",
+    "name": "Yewa South",
+    "stateId": "ogun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__akoko",
+    "name": "Akoko",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__akoko-north",
+    "name": "Akoko-North",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__akoko-north-west",
+    "name": "Akoko-North-West",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__akoko-south",
+    "name": "Akoko-South",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__akoko-south-east",
+    "name": "Akoko-South-East",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__akure",
+    "name": "Akure",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__akure-north",
+    "name": "Akure-North",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__akure-south",
+    "name": "Akure-South",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__ese-odo",
+    "name": "Ese-Odo",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__idanre",
+    "name": "Idanre",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__ifedore",
+    "name": "Ifedore",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__igbisin",
+    "name": "Igbisin",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__ikale",
+    "name": "Ikale",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__ilaje",
+    "name": "Ilaje",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__ilaje-west",
+    "name": "Ilaje-West",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__ile-oluji-okeigbo",
+    "name": "Ile-Oluji-Okeigbo",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__irele",
+    "name": "Irele",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__odigbo",
+    "name": "Odigbo",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__oka-ak0ko",
+    "name": "Oka Ak0Ko",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__okiti-pupa-ijuodo",
+    "name": "Okiti Pupa Ijuodo",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__okiti-pupa",
+    "name": "Okiti-Pupa",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__ondo",
+    "name": "Ondo",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__ondo-west",
+    "name": "Ondo West",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__ondo-east",
+    "name": "Ondo-East",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__ose",
+    "name": "Ose",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "ondo__owo",
+    "name": "Owo",
+    "stateId": "ondo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__atakumosa",
+    "name": "Atakumosa",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__atakumosa-east",
+    "name": "Atakumosa East",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ayeda-ade",
+    "name": "Ayeda-Ade",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ayedire",
+    "name": "Ayedire",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__boluwaduro",
+    "name": "Boluwaduro",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__boripe",
+    "name": "Boripe",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ede",
+    "name": "Ede",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ede-north",
+    "name": "Ede North",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__egbedore",
+    "name": "Egbedore",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ejigbo",
+    "name": "Ejigbo",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ife",
+    "name": "Ife",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ife-north",
+    "name": "Ife North",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ife-south",
+    "name": "Ife South",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ife-central",
+    "name": "Ife-Central",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ife-east",
+    "name": "Ife-East",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ifelodun",
+    "name": "Ifelodun",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ila",
+    "name": "Ila",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ilesa-east",
+    "name": "Ilesa-East",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ilesa-west",
+    "name": "Ilesa-West",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ilesha",
+    "name": "Ilesha",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ilesha-west",
+    "name": "Ilesha West",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__irepodun",
+    "name": "Irepodun",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__irewole",
+    "name": "Irewole",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__isokan",
+    "name": "Isokan",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__iwo",
+    "name": "Iwo",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__obokun",
+    "name": "Obokun",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__odo-otin",
+    "name": "Odo-Otin",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ola-oluwa",
+    "name": "Ola Oluwa",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__olorunda",
+    "name": "Olorunda",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__ori-ade",
+    "name": "Ori-Ade",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__orolu",
+    "name": "Orolu",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "osun__osogbo",
+    "name": "Osogbo",
+    "stateId": "osun",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__afijio",
+    "name": "Afijio",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__akinyele",
+    "name": "Akinyele",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__atiba",
+    "name": "Atiba",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__atisbo",
+    "name": "Atisbo",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__egbeda",
+    "name": "Egbeda",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ibadan-central",
+    "name": "Ibadan-Central",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ibadan-north-east",
+    "name": "Ibadan-North-East",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ibadan-north-west",
+    "name": "Ibadan-North-West",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ibadan-south-east",
+    "name": "Ibadan-South-East",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ibadan-south-west",
+    "name": "Ibadan-South-West",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ibarapa-central",
+    "name": "Ibarapa-Central",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ibarapa-east",
+    "name": "Ibarapa-East",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ibarapa-north",
+    "name": "Ibarapa-North",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ido",
+    "name": "Ido",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__irepo",
+    "name": "Irepo",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__iseyin",
+    "name": "Iseyin",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__itseiwaju",
+    "name": "Itseiwaju",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__iwajowa",
+    "name": "Iwajowa",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__kajola",
+    "name": "Kajola",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__lagelu",
+    "name": "Lagelu",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__odo-oluwa",
+    "name": "Odo-Oluwa",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ogbomosho-north",
+    "name": "Ogbomosho-North",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ogbomosho-south",
+    "name": "Ogbomosho-South",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__olorunsogo",
+    "name": "Olorunsogo",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__oluyole",
+    "name": "Oluyole",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ona-ara",
+    "name": "Ona-Ara",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__orelope",
+    "name": "Orelope",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__ori-ire",
+    "name": "Ori-Ire",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__oyo-east",
+    "name": "Oyo-East",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__oyo-west",
+    "name": "Oyo-West",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__saki-east",
+    "name": "Saki-East",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__saki-west",
+    "name": "Saki-West",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "oyo__surulere",
+    "name": "Surulere",
+    "stateId": "oyo",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__barkin-ladi",
+    "name": "Barkin-Ladi",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__bassa",
+    "name": "Bassa",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__bokkos",
+    "name": "Bokkos",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__jos-east",
+    "name": "Jos-East",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__jos-north",
+    "name": "Jos-North",
+    "stateId": "plateau",
+    "hasRealWardData": true,
+    "wardCount": 14,
+    "puCount": 913
+  },
+  {
+    "id": "plateau__jos-south",
+    "name": "Jos-South",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__kanam",
+    "name": "Kanam",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__kanke",
+    "name": "Kanke",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__langtang-north",
+    "name": "Langtang-North",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__langtang-south",
+    "name": "Langtang-South",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__mangu",
+    "name": "Mangu",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__mikang",
+    "name": "Mikang",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__pankshin",
+    "name": "Pankshin",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__quan-anpan",
+    "name": "Quan'Anpan",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__riyom",
+    "name": "Riyom",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__shendam",
+    "name": "Shendam",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "plateau__wase",
+    "name": "Wase",
+    "stateId": "plateau",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__aboa-odual",
+    "name": "Aboa/Odual",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__ahoada-east",
+    "name": "Ahoada-East",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__ahoada-west",
+    "name": "Ahoada-West",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__akukutoru",
+    "name": "Akukutoru",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__andoni",
+    "name": "Andoni",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__asari-toru",
+    "name": "Asari-Toru",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__bonny",
+    "name": "Bonny",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__buguma",
+    "name": "Buguma",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__degema",
+    "name": "Degema",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__eleme",
+    "name": "Eleme",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__elfane",
+    "name": "Elfane",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__emuoha",
+    "name": "Emuoha",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__etche",
+    "name": "Etche",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__gokana",
+    "name": "Gokana",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__ikwerre",
+    "name": "Ikwerre",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__khana",
+    "name": "Khana",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__obia-akpor",
+    "name": "Obia/Akpor",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__ogba-egbema-ndoni",
+    "name": "Ogba-Egbema-Ndoni",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__ogba-egbema-ndoni",
+    "name": "Ogba/Egbema/Ndoni",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__ogu-bolo",
+    "name": "Ogu/Bolo",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__okirika",
+    "name": "Okirika",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__omuma",
+    "name": "Omuma",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__opobo-nkoro",
+    "name": "Opobo/Nkoro",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__oyigbo",
+    "name": "Oyigbo",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "rivers__port-harcourt",
+    "name": "Port-Harcourt",
+    "stateId": "rivers",
+    "hasRealWardData": true,
+    "wardCount": 20,
+    "puCount": 961
+  },
+  {
+    "id": "rivers__tai",
+    "name": "Tai",
+    "stateId": "rivers",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__binji",
+    "name": "Binji",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__bodinga",
+    "name": "Bodinga",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__dange-shuni",
+    "name": "Dange-Shuni",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__gada",
+    "name": "Gada",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__goronyo",
+    "name": "Goronyo",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__gudu",
+    "name": "Gudu",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__gwadabawa",
+    "name": "Gwadabawa",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__illela",
+    "name": "Illela",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__kebbe",
+    "name": "Kebbe",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__kware",
+    "name": "Kware",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__raba",
+    "name": "Raba",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__sabo-birni",
+    "name": "Sabo-Birni",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__shagari",
+    "name": "Shagari",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__silame",
+    "name": "Silame",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__sokoto-north",
+    "name": "Sokoto-North",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__sokoto-south",
+    "name": "Sokoto-South",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__tambuwal",
+    "name": "Tambuwal",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__tangaza",
+    "name": "Tangaza",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__tureta",
+    "name": "Tureta",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__wamakko",
+    "name": "Wamakko",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__wurno",
+    "name": "Wurno",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "sokoto__yabo",
+    "name": "Yabo",
+    "stateId": "sokoto",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__ardo-kola",
+    "name": "Ardo-Kola",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__bali",
+    "name": "Bali",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__donga",
+    "name": "Donga",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__gashaka",
+    "name": "Gashaka",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__gassol",
+    "name": "Gassol",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__ibi",
+    "name": "Ibi",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__jalingo",
+    "name": "Jalingo",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__karim-lamido",
+    "name": "Karim-Lamido",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__kurmi",
+    "name": "Kurmi",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__lau",
+    "name": "Lau",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__oilingo",
+    "name": "Oilingo",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__sardauna",
+    "name": "Sardauna",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__takum",
+    "name": "Takum",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__ussa",
+    "name": "Ussa",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__wukari",
+    "name": "Wukari",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__yorro",
+    "name": "Yorro",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "taraba__zing",
+    "name": "Zing",
+    "stateId": "taraba",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__bade",
+    "name": "Bade",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__borsali",
+    "name": "Borsali",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__damaturu",
+    "name": "Damaturu",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__fika",
+    "name": "Fika",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__fune",
+    "name": "Fune",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__geidam",
+    "name": "Geidam",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__gogaram",
+    "name": "Gogaram",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__gujba",
+    "name": "Gujba",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__gulani",
+    "name": "Gulani",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__jakusko",
+    "name": "Jakusko",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__karasuwa",
+    "name": "Karasuwa",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__machina",
+    "name": "Machina",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__nangere",
+    "name": "Nangere",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__nguru",
+    "name": "Nguru",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__potiskum",
+    "name": "Potiskum",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__tarmua",
+    "name": "Tarmua",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__yunusari",
+    "name": "Yunusari",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "yobe__yusufari",
+    "name": "Yusufari",
+    "stateId": "yobe",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__anka",
+    "name": "Anka",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__bakura",
+    "name": "Bakura",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__bukkuyum",
+    "name": "Bukkuyum",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__bungudu",
+    "name": "Bungudu",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__gumi",
+    "name": "Gumi",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__gusau",
+    "name": "Gusau",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__isa",
+    "name": "Isa",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__kaura-namoda",
+    "name": "Kaura-Namoda",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__kiyawa",
+    "name": "Kiyawa",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__maradun",
+    "name": "Maradun",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__maru",
+    "name": "Maru",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__shinkafi",
+    "name": "Shinkafi",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__talata-mafara",
+    "name": "Talata-Mafara",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__tsafe",
+    "name": "Tsafe",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  },
+  {
+    "id": "zamfara__zurmi",
+    "name": "Zurmi",
+    "stateId": "zamfara",
+    "hasRealWardData": false,
+    "wardCount": 10,
+    "puCount": 210
+  }
+]

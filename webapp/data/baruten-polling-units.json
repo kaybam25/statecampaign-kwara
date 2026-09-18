@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "23-02-01-001",
+    "code": "23-02-01-001",
+    "name": "BORIYA  L.G.E.A.SCH",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-002",
+    "code": "23-02-01-002",
+    "name": "BORIYA  SABO AREA",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-003",
+    "code": "23-02-01-003",
+    "name": "DANKORU OPEN SPACE I",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-004",
+    "code": "23-02-01-004",
+    "name": "DANKORU OPEN SPACE II",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-005",
+    "code": "23-02-01-005",
+    "name": "OGAMUE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-006",
+    "code": "23-02-01-006",
+    "name": "BUSHIPARU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-007",
+    "code": "23-02-01-007",
+    "name": "BUSHIRU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-008",
+    "code": "23-02-01-008",
+    "name": "SHIYA  L.G.E.A.SCH",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-009",
+    "code": "23-02-01-009",
+    "name": "GBIRIBU/GBAYINA",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-010",
+    "code": "23-02-01-010",
+    "name": "KPALURU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-011",
+    "code": "23-02-01-011",
+    "name": "SHIYA OLD MARKET",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-012",
+    "code": "23-02-01-012",
+    "name": "SHIYA NEW MARKET",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-013",
+    "code": "23-02-01-013",
+    "name": "TUNDUN WADA OPEN SPACE SHIYA",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-014",
+    "code": "23-02-01-014",
+    "name": "MARKET SQUARE BORIYA",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-015",
+    "code": "23-02-01-015",
+    "name": "BENIN GARAGE BORIYA OPEN SPACE",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-016",
+    "code": "23-02-01-016",
+    "name": "MANGO SOKII",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-017",
+    "code": "23-02-01-017",
+    "name": "BORIYA GARAGE",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-018",
+    "code": "23-02-01-018",
+    "name": "ARAFAT OPEN SPACE",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-019",
+    "code": "23-02-01-019",
+    "name": "BUSHIBORO OPEN SPACE",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-020",
+    "code": "23-02-01-020",
+    "name": "LOKORGOBI OPEN SPACE",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-021",
+    "code": "23-02-01-021",
+    "name": "KOROBANI KPALURU",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-022",
+    "code": "23-02-01-022",
+    "name": "YARU-GADO OPEN SPACE",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-023",
+    "code": "23-02-01-023",
+    "name": "SAKISAN SUKURU OPEN SPACE",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-024",
+    "code": "23-02-01-024",
+    "name": "KASANE LGEA SCHOOL",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-01-025",
+    "code": "23-02-01-025",
+    "name": "FEREKERU SHIYA OPEN SPACE",
+    "wardId": "baruten__ward-01"
+  },
+  {
+    "id": "23-02-02-001",
+    "code": "23-02-02-001",
+    "name": "MONRE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-002",
+    "code": "23-02-02-002",
+    "name": "MOSHI  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-003",
+    "code": "23-02-02-003",
+    "name": "BWEREGURU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-004",
+    "code": "23-02-02-004",
+    "name": "KURABARU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-005",
+    "code": "23-02-02-005",
+    "name": "TUGA  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-006",
+    "code": "23-02-02-006",
+    "name": "GWASORO  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-007",
+    "code": "23-02-02-007",
+    "name": "GWANE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-008",
+    "code": "23-02-02-008",
+    "name": "SABO SARE",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-009",
+    "code": "23-02-02-009",
+    "name": "YANRI  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-010",
+    "code": "23-02-02-010",
+    "name": "AJEGUNLE/GURE NEW MRKET",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-011",
+    "code": "23-02-02-011",
+    "name": "BANIKANI/GURE OPEN SPACE",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-012",
+    "code": "23-02-02-012",
+    "name": "GURE OLD MARKET",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-013",
+    "code": "23-02-02-013",
+    "name": "GURE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-014",
+    "code": "23-02-02-014",
+    "name": "SINAGURU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-015",
+    "code": "23-02-02-015",
+    "name": "KOSUBOSU AREA COURT",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-016",
+    "code": "23-02-02-016",
+    "name": "KOSUBOSU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-017",
+    "code": "23-02-02-017",
+    "name": "MOSHIKPEKU MOORE II",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-018",
+    "code": "23-02-02-018",
+    "name": "MOSHI GBOFA CENT. MARKET",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-019",
+    "code": "23-02-02-019",
+    "name": "BWEREGURU II OPP.MTN MAST",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-020",
+    "code": "23-02-02-020",
+    "name": "DADIN KOWA KURABARU",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-021",
+    "code": "23-02-02-021",
+    "name": "OKADA GARAGE TUKA",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-022",
+    "code": "23-02-02-022",
+    "name": "BLGA DISPENSARY GWANE RD",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-023",
+    "code": "23-02-02-023",
+    "name": "CAMP BESIDE POL. STATION",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-024",
+    "code": "23-02-02-024",
+    "name": "GURU BOREHOLE GWANE",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-025",
+    "code": "23-02-02-025",
+    "name": "TONNA TANGE LGEA SCH.",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-026",
+    "code": "23-02-02-026",
+    "name": "SERESEKIRI LGEA SCHPPL",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-027",
+    "code": "23-02-02-027",
+    "name": "SABO SARE II",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-028",
+    "code": "23-02-02-028",
+    "name": "TAKISARIRU YANRI OPEN SPACE",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-029",
+    "code": "23-02-02-029",
+    "name": "GRA GURE OPEN SPACE",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-030",
+    "code": "23-02-02-030",
+    "name": "KPAWULU GURE OPEN SPACE",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-031",
+    "code": "23-02-02-031",
+    "name": "OKADA GARAGE YONGUREGI GURE",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-032",
+    "code": "23-02-02-032",
+    "name": "ALLAH YA BADA SA'A GURE",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-033",
+    "code": "23-02-02-033",
+    "name": "DAAGURU GURE OPEN SPACE",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-034",
+    "code": "23-02-02-034",
+    "name": "GAA PUMP OPEN SPACE",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-035",
+    "code": "23-02-02-035",
+    "name": "NASARAWA AREA KOSUBOSU",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-036",
+    "code": "23-02-02-036",
+    "name": "KIRUKUNKPARU KOSUBOSU",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-02-037",
+    "code": "23-02-02-037",
+    "name": "NURTW GARAGE KOSUBOSU",
+    "wardId": "baruten__ward-02"
+  },
+  {
+    "id": "23-02-03-001",
+    "code": "23-02-03-001",
+    "name": "GUKONBU MARKET",
+    "wardId": "baruten__ward-03"
+  },
+  {
+    "id": "23-02-03-002",
+    "code": "23-02-03-002",
+    "name": "WAGURU MARKET",
+    "wardId": "baruten__ward-03"
+  },
+  {
+    "id": "23-02-03-003",
+    "code": "23-02-03-003",
+    "name": "BABANE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-03"
+  },
+  {
+    "id": "23-02-03-004",
+    "code": "23-02-03-004",
+    "name": "GWEDEBERERU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-03"
+  },
+  {
+    "id": "23-02-03-005",
+    "code": "23-02-03-005",
+    "name": "BODE MARKET AREA",
+    "wardId": "baruten__ward-03"
+  },
+  {
+    "id": "23-02-03-006",
+    "code": "23-02-03-006",
+    "name": "OLD CENT. MOSQUES AREA BODE",
+    "wardId": "baruten__ward-03"
+  },
+  {
+    "id": "23-02-03-007",
+    "code": "23-02-03-007",
+    "name": "GAAMUDI/KPURA KPURA",
+    "wardId": "baruten__ward-03"
+  },
+  {
+    "id": "23-02-03-008",
+    "code": "23-02-03-008",
+    "name": "YAWADI/KOSIGI",
+    "wardId": "baruten__ward-03"
+  },
+  {
+    "id": "23-02-03-009",
+    "code": "23-02-03-009",
+    "name": "OLD MARKET TOBURE",
+    "wardId": "baruten__ward-03"
+  },
+  {
+    "id": "23-02-04-001",
+    "code": "23-02-04-001",
+    "name": "GOBBO  L.G.E.A.SCH",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-002",
+    "code": "23-02-04-002",
+    "name": "DOKONU GOBBO OPEN SPACE",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-003",
+    "code": "23-02-04-003",
+    "name": "MARESUNOKPARU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-004",
+    "code": "23-02-04-004",
+    "name": "MAMUNEKPERU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-005",
+    "code": "23-02-04-005",
+    "name": "KIYAYERU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-006",
+    "code": "23-02-04-006",
+    "name": "MUNKO  L.G.E.A.SCH",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-007",
+    "code": "23-02-04-007",
+    "name": "KUBURE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-008",
+    "code": "23-02-04-008",
+    "name": "GBIRINU/NINGURUME  L.G.E.A.SCH",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-009",
+    "code": "23-02-04-009",
+    "name": "NINGURUME OLD MARKET",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-010",
+    "code": "23-02-04-010",
+    "name": "NINGURUME  L.G.E.A.SCH",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-011",
+    "code": "23-02-04-011",
+    "name": "GINAWARA NEW MARKET",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-012",
+    "code": "23-02-04-012",
+    "name": "GWANARA  L.G.E.A.SCH",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-013",
+    "code": "23-02-04-013",
+    "name": "GWANARA CENTRAL OFFICE I",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-014",
+    "code": "23-02-04-014",
+    "name": "GWANARA CENTRAL OFFICE II",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-015",
+    "code": "23-02-04-015",
+    "name": "GWANARA  L.G.E.A.SCH",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-016",
+    "code": "23-02-04-016",
+    "name": "DOKONU OPEN SPACE",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-017",
+    "code": "23-02-04-017",
+    "name": "OPP. KOKIGBABI PALACE OPEN SPACE",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-018",
+    "code": "23-02-04-018",
+    "name": "OPP. KIYAYERU PALACE OPEN SPACE",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-019",
+    "code": "23-02-04-019",
+    "name": "WERA OPEN SPACE",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-04-020",
+    "code": "23-02-04-020",
+    "name": "NEW MARKET OPEN SPACE",
+    "wardId": "baruten__ward-04"
+  },
+  {
+    "id": "23-02-05-001",
+    "code": "23-02-05-001",
+    "name": "KPAKOTORU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-002",
+    "code": "23-02-05-002",
+    "name": "YAKIBURARU MARKET",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-003",
+    "code": "23-02-05-003",
+    "name": "KOSOMONO  L.G.E.A.SCH",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-004",
+    "code": "23-02-05-004",
+    "name": "NANORU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-005",
+    "code": "23-02-05-005",
+    "name": "ILESHA AREA COURT",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-006",
+    "code": "23-02-05-006",
+    "name": "ILESHA SABO AREA I",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-007",
+    "code": "23-02-05-007",
+    "name": "ILESHA SABO AREA II",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-008",
+    "code": "23-02-05-008",
+    "name": "ILESHA T.V CENTRE I",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-009",
+    "code": "23-02-05-009",
+    "name": "ILESHA T.V CENTRE II",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-010",
+    "code": "23-02-05-010",
+    "name": "ILESHA  L.G.E.A.SCH",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-011",
+    "code": "23-02-05-011",
+    "name": "ILESHA  DISPENSARY",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-012",
+    "code": "23-02-05-012",
+    "name": "OJORA PRIMARY SCHOOL",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-013",
+    "code": "23-02-05-013",
+    "name": "OGUNKPA AREA",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-014",
+    "code": "23-02-05-014",
+    "name": "TUTUNKUGURU AREA",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-015",
+    "code": "23-02-05-015",
+    "name": "BUYONFITILA AREA",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-016",
+    "code": "23-02-05-016",
+    "name": "BWINKPKI AREA",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-017",
+    "code": "23-02-05-017",
+    "name": "NEW YIDI PRAYER GROUND",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-018",
+    "code": "23-02-05-018",
+    "name": "WENRAKOKOU OPEN SPACE",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-05-019",
+    "code": "23-02-05-019",
+    "name": "MEDINA AREA OPEN SPACE",
+    "wardId": "baruten__ward-05"
+  },
+  {
+    "id": "23-02-06-001",
+    "code": "23-02-06-001",
+    "name": "NIKKIKPERU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-002",
+    "code": "23-02-06-002",
+    "name": "BAAH  L.G.E.A.SCH",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-003",
+    "code": "23-02-06-003",
+    "name": "GANKOTORU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-004",
+    "code": "23-02-06-004",
+    "name": "YANBEREKU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-005",
+    "code": "23-02-06-005",
+    "name": "GBENGBERERU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-006",
+    "code": "23-02-06-006",
+    "name": "YAKPARU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-007",
+    "code": "23-02-06-007",
+    "name": "SHEYE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-008",
+    "code": "23-02-06-008",
+    "name": "KENU NEW MARKET",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-009",
+    "code": "23-02-06-009",
+    "name": "KENU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-010",
+    "code": "23-02-06-010",
+    "name": "TABERU OLD MARKET",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-011",
+    "code": "23-02-06-011",
+    "name": "TABERU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-012",
+    "code": "23-02-06-012",
+    "name": "CENTRAL MARKET WAISARU",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-013",
+    "code": "23-02-06-013",
+    "name": "YANBWA MARKET",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-014",
+    "code": "23-02-06-014",
+    "name": "SABO AREA OPEN SPACE",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-015",
+    "code": "23-02-06-015",
+    "name": "BLGEA KENU BEKON",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-016",
+    "code": "23-02-06-016",
+    "name": "KPAKPERU OPEN SPACE",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-017",
+    "code": "23-02-06-017",
+    "name": "SINABONI OPEN SPACE",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-018",
+    "code": "23-02-06-018",
+    "name": "OLD KPAWONLU OPEN SPACE",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-019",
+    "code": "23-02-06-019",
+    "name": "ASASENKE OPEN SPACE",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-06-020",
+    "code": "23-02-06-020",
+    "name": "TAKISARI AREA TABERU",
+    "wardId": "baruten__ward-06"
+  },
+  {
+    "id": "23-02-07-001",
+    "code": "23-02-07-001",
+    "name": "GBONGBORU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-002",
+    "code": "23-02-07-002",
+    "name": "DOGERE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-003",
+    "code": "23-02-07-003",
+    "name": "KONTUBARU  L.G.E.A.SCH I",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-004",
+    "code": "23-02-07-004",
+    "name": "KONTUBARU  L.G.E.A.SCH II",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-005",
+    "code": "23-02-07-005",
+    "name": "MUNDURO  L.G.E.A.SCH",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-006",
+    "code": "23-02-07-006",
+    "name": "AYOO  L.G.E.A.SCH",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-007",
+    "code": "23-02-07-007",
+    "name": "WONKORU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-008",
+    "code": "23-02-07-008",
+    "name": "KERO  L.G.E.A.SCH",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-009",
+    "code": "23-02-07-009",
+    "name": "BEKIA KERO",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-010",
+    "code": "23-02-07-010",
+    "name": "YAKIRU MARKET",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-011",
+    "code": "23-02-07-011",
+    "name": "YAKIRU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-012",
+    "code": "23-02-07-012",
+    "name": "YEKORU LGEA SCHOOL",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-013",
+    "code": "23-02-07-013",
+    "name": "YAKIRU NEW MARKET",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-07-014",
+    "code": "23-02-07-014",
+    "name": "KOROBORI LGEA SCHOOL",
+    "wardId": "baruten__ward-07"
+  },
+  {
+    "id": "23-02-08-001",
+    "code": "23-02-08-001",
+    "name": "BIOGBERU  L.G.E.A.SCH I",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-002",
+    "code": "23-02-08-002",
+    "name": "BIOGBERU  L.G.E.A.SCH II",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-003",
+    "code": "23-02-08-003",
+    "name": "DAWIRU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-004",
+    "code": "23-02-08-004",
+    "name": "BUDO AIKI  L.G.E.A.SCH",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-005",
+    "code": "23-02-08-005",
+    "name": "KIYORU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-006",
+    "code": "23-02-08-006",
+    "name": "BOROBIYE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-007",
+    "code": "23-02-08-007",
+    "name": "BWEN  L.G.E.A.SCH",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-008",
+    "code": "23-02-08-008",
+    "name": "BUKURO  L.G.E.A.SCH",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-009",
+    "code": "23-02-08-009",
+    "name": "GBABE MARKET",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-010",
+    "code": "23-02-08-010",
+    "name": "GBABE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-011",
+    "code": "23-02-08-011",
+    "name": "DAMERA  L.G.E.A.SCH",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-012",
+    "code": "23-02-08-012",
+    "name": "SINDIBURO MARKET",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-013",
+    "code": "23-02-08-013",
+    "name": "KOBIARO MARKET",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-014",
+    "code": "23-02-08-014",
+    "name": "OPP. WADATA PALACE",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-015",
+    "code": "23-02-08-015",
+    "name": "P. HEALTH CENTRE BIOGBERU",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-016",
+    "code": "23-02-08-016",
+    "name": "KORO OLD MARKET",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-017",
+    "code": "23-02-08-017",
+    "name": "OKE IGBALA OPEN SPACE",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-018",
+    "code": "23-02-08-018",
+    "name": "OLD KIYIRU LGEA SCHOOL",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-019",
+    "code": "23-02-08-019",
+    "name": "TABARU OPEN SPACE",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-020",
+    "code": "23-02-08-020",
+    "name": "BWEN MARKET",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-021",
+    "code": "23-02-08-021",
+    "name": "BUKURO CENTRAL MARKET",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-022",
+    "code": "23-02-08-022",
+    "name": "ZANGO  OPEN SPACE",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-08-023",
+    "code": "23-02-08-023",
+    "name": "DAMERA DISPENSARY",
+    "wardId": "baruten__ward-08"
+  },
+  {
+    "id": "23-02-09-001",
+    "code": "23-02-09-001",
+    "name": "TENGE  L.G.E.A.SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-002",
+    "code": "23-02-09-002",
+    "name": "BERO  L.G.E.A.SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-003",
+    "code": "23-02-09-003",
+    "name": "TEMIDIRE/AROGURU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-004",
+    "code": "23-02-09-004",
+    "name": "TEU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-005",
+    "code": "23-02-09-005",
+    "name": "FONFON  L.G.E.A.SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-006",
+    "code": "23-02-09-006",
+    "name": "BANKUBU  L.G.E.A.SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-007",
+    "code": "23-02-09-007",
+    "name": "TENBONU L.G.E.A SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-008",
+    "code": "23-02-09-008",
+    "name": "KABODONORU L.G.E.A SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-009",
+    "code": "23-02-09-009",
+    "name": "GBANA GURU L.G.E.A SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-010",
+    "code": "23-02-09-010",
+    "name": "OKUTA GONGO BORU MARKET",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-011",
+    "code": "23-02-09-011",
+    "name": "OKUTA GOROBANI  MARKET",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-012",
+    "code": "23-02-09-012",
+    "name": "OKUTA BARIKE PEOPLES' BANK",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-013",
+    "code": "23-02-09-013",
+    "name": "OKUTA BAPTIST L.G.E.A SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-014",
+    "code": "23-02-09-014",
+    "name": "OKUTA SANGO MARKET",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-015",
+    "code": "23-02-09-015",
+    "name": "OKUTA CENTRAL L.G.E.A SCH",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-016",
+    "code": "23-02-09-016",
+    "name": "OKUTA NASARAWA NEW MARKET",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-017",
+    "code": "23-02-09-017",
+    "name": "BOORIPARU BANIKANI",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-018",
+    "code": "23-02-09-018",
+    "name": "SIKORONE OPEN SPACE",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-019",
+    "code": "23-02-09-019",
+    "name": "GIDAKPANO LGEA SCHOOL",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-020",
+    "code": "23-02-09-020",
+    "name": "BANIKANI AREA OPEN SPACE",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-021",
+    "code": "23-02-09-021",
+    "name": "KIPARUBARUTEN  LGEA SCH.",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-022",
+    "code": "23-02-09-022",
+    "name": "OLD MARKET OKUTA",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-023",
+    "code": "23-02-09-023",
+    "name": "GURUMANKASARU OPEN SPACE",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-024",
+    "code": "23-02-09-024",
+    "name": "TAKAREROCK OPEN SPACE",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-025",
+    "code": "23-02-09-025",
+    "name": "KENU WORU OPEN SPACE",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-026",
+    "code": "23-02-09-026",
+    "name": "SABO OPEN SPACE",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-027",
+    "code": "23-02-09-027",
+    "name": "ZANGO MARKET AREA II",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-028",
+    "code": "23-02-09-028",
+    "name": "CENTRAL OFFICE OPEN SPACE",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-09-029",
+    "code": "23-02-09-029",
+    "name": "SIYANONKPARU OPEN SPACE",
+    "wardId": "baruten__ward-09"
+  },
+  {
+    "id": "23-02-10-001",
+    "code": "23-02-10-001",
+    "name": "TEBETABERU MARKET",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-002",
+    "code": "23-02-10-002",
+    "name": "TUNBUYAN L.G.E.A SCH",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-003",
+    "code": "23-02-10-003",
+    "name": "BUKARU L.G.E.A SCH",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-004",
+    "code": "23-02-10-004",
+    "name": "SUBAYO L.G.E.A SCH",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-005",
+    "code": "23-02-10-005",
+    "name": "SHINAWU OLD MARKET I",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-006",
+    "code": "23-02-10-006",
+    "name": "SHINAWU OLD MARKET II",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-007",
+    "code": "23-02-10-007",
+    "name": "SHINAWU L.G.E.A SCH",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-008",
+    "code": "23-02-10-008",
+    "name": "ZANGO OPEN SPACE",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-009",
+    "code": "23-02-10-009",
+    "name": "WONKORU OPEN SPACE",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-010",
+    "code": "23-02-10-010",
+    "name": "TUNBUYAN NEW SETTLEMENT",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-011",
+    "code": "23-02-10-011",
+    "name": "KPURAKPURA KPAARU OPEN SPACE",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-10-012",
+    "code": "23-02-10-012",
+    "name": "AGBANKA OPEN SPACE",
+    "wardId": "baruten__ward-10"
+  },
+  {
+    "id": "23-02-11-001",
+    "code": "23-02-11-001",
+    "name": "DOGARI MARKET",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-002",
+    "code": "23-02-11-002",
+    "name": "WODORA L.G.E.A SCH",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-003",
+    "code": "23-02-11-003",
+    "name": "KARONJI L.G.E.A SCH",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-004",
+    "code": "23-02-11-004",
+    "name": "GWETTE L.G.E.A SCH",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-005",
+    "code": "23-02-11-005",
+    "name": "BWERU/GANDO L.G.E.A SCH",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-006",
+    "code": "23-02-11-006",
+    "name": "SHINATOKO L.G.E.A SCH",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-007",
+    "code": "23-02-11-007",
+    "name": "KUBURUFU L.G.E.A SCH",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-008",
+    "code": "23-02-11-008",
+    "name": "KENUGBE MARKET",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-009",
+    "code": "23-02-11-009",
+    "name": "SEKUGBE MARKET",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-010",
+    "code": "23-02-11-010",
+    "name": "YASHIKIRA OLD MARKET",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-011",
+    "code": "23-02-11-011",
+    "name": "YASHIKIRA  L.G.E.A SCH",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-012",
+    "code": "23-02-11-012",
+    "name": "CHIKANDA OLD MARKET",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-013",
+    "code": "23-02-11-013",
+    "name": "CHIKANDA L.G.E.A SCH",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-014",
+    "code": "23-02-11-014",
+    "name": "CHIKANDA  SANGO AREA",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-015",
+    "code": "23-02-11-015",
+    "name": "GWETTE SAAMU OPEN SPACE",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-016",
+    "code": "23-02-11-016",
+    "name": "KEY PARISONE LGEA SCH.",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-017",
+    "code": "23-02-11-017",
+    "name": "OPP. SHINATOKO HEAD PALACE",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-018",
+    "code": "23-02-11-018",
+    "name": "KUBURUFU OLD MARKET",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-019",
+    "code": "23-02-11-019",
+    "name": "JENNERI LGEA SCHOOL",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-020",
+    "code": "23-02-11-020",
+    "name": "BANI/WEERI OPEN SPACE",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-021",
+    "code": "23-02-11-021",
+    "name": "YENSEMME LGEA SCHOOL",
+    "wardId": "baruten__ward-11"
+  },
+  {
+    "id": "23-02-11-022",
+    "code": "23-02-11-022",
+    "name": "KARA MARKET OPEN SPACE",
+    "wardId": "baruten__ward-11"
+  }
+]

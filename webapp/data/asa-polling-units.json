@@ -1,0 +1,872 @@
+[
+  {
+    "id": "23-01-01-001",
+    "code": "23-01-01-001",
+    "name": "SOSOKI L G E A SCH",
+    "wardId": "asa__ward-01"
+  },
+  {
+    "id": "23-01-01-002",
+    "code": "23-01-01-002",
+    "name": "ONIYEYE OPEN SPACE",
+    "wardId": "asa__ward-01"
+  },
+  {
+    "id": "23-01-01-003",
+    "code": "23-01-01-003",
+    "name": "LAODU 1 OPEN SPACE",
+    "wardId": "asa__ward-01"
+  },
+  {
+    "id": "23-01-01-004",
+    "code": "23-01-01-004",
+    "name": "IDI-OSE L.G.E.A SCH",
+    "wardId": "asa__ward-01"
+  },
+  {
+    "id": "23-01-01-005",
+    "code": "23-01-01-005",
+    "name": "SOSOKI LGEA SCH II",
+    "wardId": "asa__ward-01"
+  },
+  {
+    "id": "23-01-01-006",
+    "code": "23-01-01-006",
+    "name": "ONIYEYE LGEA SCHOOL",
+    "wardId": "asa__ward-01"
+  },
+  {
+    "id": "23-01-02-001",
+    "code": "23-01-02-001",
+    "name": "ADIGBONGBO L.G.E.A SCH",
+    "wardId": "asa__ward-02"
+  },
+  {
+    "id": "23-01-02-002",
+    "code": "23-01-02-002",
+    "name": "AWE L.G.E.A SCH",
+    "wardId": "asa__ward-02"
+  },
+  {
+    "id": "23-01-02-003",
+    "code": "23-01-02-003",
+    "name": "AFO-OJA L.G.E.A SCH",
+    "wardId": "asa__ward-02"
+  },
+  {
+    "id": "23-01-02-004",
+    "code": "23-01-02-004",
+    "name": "YEDE/ORIMARO L.G.E.A SCH",
+    "wardId": "asa__ward-02"
+  },
+  {
+    "id": "23-01-02-005",
+    "code": "23-01-02-005",
+    "name": "TIRO L.G.E.A SCH",
+    "wardId": "asa__ward-02"
+  },
+  {
+    "id": "23-01-02-006",
+    "code": "23-01-02-006",
+    "name": "OKE-PETE OLORI LGEA SCH",
+    "wardId": "asa__ward-02"
+  },
+  {
+    "id": "23-01-03-001",
+    "code": "23-01-03-001",
+    "name": "OJA-IYA L.G.E.A SCH",
+    "wardId": "asa__ward-03"
+  },
+  {
+    "id": "23-01-03-002",
+    "code": "23-01-03-002",
+    "name": "AGBONA L.G.E.A SCH",
+    "wardId": "asa__ward-03"
+  },
+  {
+    "id": "23-01-03-003",
+    "code": "23-01-03-003",
+    "name": "MEGIDA EDUNJO OPEN SPACE I",
+    "wardId": "asa__ward-03"
+  },
+  {
+    "id": "23-01-03-004",
+    "code": "23-01-03-004",
+    "name": "MEGIDA EDUNJO OPEN SPACE II",
+    "wardId": "asa__ward-03"
+  },
+  {
+    "id": "23-01-03-005",
+    "code": "23-01-03-005",
+    "name": "OMOJAMO DISPENSARY",
+    "wardId": "asa__ward-03"
+  },
+  {
+    "id": "23-01-03-006",
+    "code": "23-01-03-006",
+    "name": "IGBOROKO L.G.E.A SCH",
+    "wardId": "asa__ward-03"
+  },
+  {
+    "id": "23-01-03-007",
+    "code": "23-01-03-007",
+    "name": "BUDO TUNTUN OPEN SPACE",
+    "wardId": "asa__ward-03"
+  },
+  {
+    "id": "23-01-03-008",
+    "code": "23-01-03-008",
+    "name": "BUDO TUNN LGEA SCHOOL",
+    "wardId": "asa__ward-03"
+  },
+  {
+    "id": "23-01-03-009",
+    "code": "23-01-03-009",
+    "name": "AGBOOLU LGEA SCHOOL",
+    "wardId": "asa__ward-03"
+  },
+  {
+    "id": "23-01-04-001",
+    "code": "23-01-04-001",
+    "name": "ALAPA L.G.E.A SCH",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-04-002",
+    "code": "23-01-04-002",
+    "name": "KONDORO L.G.E.A SCH",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-04-003",
+    "code": "23-01-04-003",
+    "name": "ODE-GIWA MARKET",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-04-004",
+    "code": "23-01-04-004",
+    "name": "ONIKEKE L.G.E.A SCH",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-04-005",
+    "code": "23-01-04-005",
+    "name": "ONIRE ALHAJI OPEN SPACE",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-04-006",
+    "code": "23-01-04-006",
+    "name": "LABITAN L.G.E.A SCH",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-04-007",
+    "code": "23-01-04-007",
+    "name": "ALAPA KORO OPEN SPACE",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-04-008",
+    "code": "23-01-04-008",
+    "name": "ALAPA AREA COURT",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-04-009",
+    "code": "23-01-04-009",
+    "name": "ODEGIWA LGEA SCH",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-04-010",
+    "code": "23-01-04-010",
+    "name": "ONIPAKO LGEA SCH",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-04-011",
+    "code": "23-01-04-011",
+    "name": "LGEA SCHOOL LAMBA",
+    "wardId": "asa__ward-04"
+  },
+  {
+    "id": "23-01-05-001",
+    "code": "23-01-05-001",
+    "name": "ALAPETE DISPENSARY",
+    "wardId": "asa__ward-05"
+  },
+  {
+    "id": "23-01-05-002",
+    "code": "23-01-05-002",
+    "name": "BAKASE L.G.E.A SCH",
+    "wardId": "asa__ward-05"
+  },
+  {
+    "id": "23-01-05-003",
+    "code": "23-01-05-003",
+    "name": "OLUPO-IJANA L.G.E.A SCH",
+    "wardId": "asa__ward-05"
+  },
+  {
+    "id": "23-01-05-004",
+    "code": "23-01-05-004",
+    "name": "ABIOWA L.G.E.A SCH",
+    "wardId": "asa__ward-05"
+  },
+  {
+    "id": "23-01-05-005",
+    "code": "23-01-05-005",
+    "name": "ABEMI L.G.E.A SCH",
+    "wardId": "asa__ward-05"
+  },
+  {
+    "id": "23-01-05-006",
+    "code": "23-01-05-006",
+    "name": "OGUNLOMA/GAA GBURUKU COMMUNITY HALL",
+    "wardId": "asa__ward-05"
+  },
+  {
+    "id": "23-01-06-001",
+    "code": "23-01-06-001",
+    "name": "DONGARI ETILE L.G.E.A SCH",
+    "wardId": "asa__ward-06"
+  },
+  {
+    "id": "23-01-06-002",
+    "code": "23-01-06-002",
+    "name": "SOKOTO L.G.E.A SCH",
+    "wardId": "asa__ward-06"
+  },
+  {
+    "id": "23-01-06-003",
+    "code": "23-01-06-003",
+    "name": "DONGARI LGEA SCH II",
+    "wardId": "asa__ward-06"
+  },
+  {
+    "id": "23-01-07-001",
+    "code": "23-01-07-001",
+    "name": "EFUE L.G.E.A SCH",
+    "wardId": "asa__ward-07"
+  },
+  {
+    "id": "23-01-07-002",
+    "code": "23-01-07-002",
+    "name": "BERIKODO L.G.E.A SCH",
+    "wardId": "asa__ward-07"
+  },
+  {
+    "id": "23-01-07-003",
+    "code": "23-01-07-003",
+    "name": "GBENAGBENA L.G.E.A SCH",
+    "wardId": "asa__ward-07"
+  },
+  {
+    "id": "23-01-07-004",
+    "code": "23-01-07-004",
+    "name": "EFUE LGEA SCH II",
+    "wardId": "asa__ward-07"
+  },
+  {
+    "id": "23-01-07-005",
+    "code": "23-01-07-005",
+    "name": "BERIKODO LGEA SCH II",
+    "wardId": "asa__ward-07"
+  },
+  {
+    "id": "23-01-08-001",
+    "code": "23-01-08-001",
+    "name": "OWODE L.G.E.A.SCH",
+    "wardId": "asa__ward-08"
+  },
+  {
+    "id": "23-01-08-002",
+    "code": "23-01-08-002",
+    "name": "AJUWON  L.G.E.A.SCH",
+    "wardId": "asa__ward-08"
+  },
+  {
+    "id": "23-01-08-003",
+    "code": "23-01-08-003",
+    "name": "GBOGUN  L.G.E.A.SCH",
+    "wardId": "asa__ward-08"
+  },
+  {
+    "id": "23-01-08-004",
+    "code": "23-01-08-004",
+    "name": "ELERE/TAFATAFA  L.G.E.A.SCH",
+    "wardId": "asa__ward-08"
+  },
+  {
+    "id": "23-01-08-005",
+    "code": "23-01-08-005",
+    "name": "OWODE LGEA SCH II",
+    "wardId": "asa__ward-08"
+  },
+  {
+    "id": "23-01-08-006",
+    "code": "23-01-08-006",
+    "name": "AJUWON LGEA SCHOOL II",
+    "wardId": "asa__ward-08"
+  },
+  {
+    "id": "23-01-08-007",
+    "code": "23-01-08-007",
+    "name": "COMPREHENSIVE HEALTH CARE",
+    "wardId": "asa__ward-08"
+  },
+  {
+    "id": "23-01-09-001",
+    "code": "23-01-09-001",
+    "name": "OTTE  L.G.E.A.SCH",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-002",
+    "code": "23-01-09-002",
+    "name": "BUDO ARE  L.G.E.A.SCH",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-003",
+    "code": "23-01-09-003",
+    "name": "BALLAH  L.G.E.A.SCH",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-004",
+    "code": "23-01-09-004",
+    "name": "ARAROMI  L.G.E.A.SCH",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-005",
+    "code": "23-01-09-005",
+    "name": "EYENKORIN  L.G.E.A.SCH",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-006",
+    "code": "23-01-09-006",
+    "name": "OTTE MARKET",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-007",
+    "code": "23-01-09-007",
+    "name": "OTTE MATERNITY",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-008",
+    "code": "23-01-09-008",
+    "name": "AREA COURT BALLAH",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-009",
+    "code": "23-01-09-009",
+    "name": "GBAGBA  L.G.E.A.SCH",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-010",
+    "code": "23-01-09-010",
+    "name": "ILE ABE OTTE OPEN SPACE",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-011",
+    "code": "23-01-09-011",
+    "name": "LASOJU OPEN SPACE",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-012",
+    "code": "23-01-09-012",
+    "name": "OTTE LGEA SCHOOL II",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-013",
+    "code": "23-01-09-013",
+    "name": "BALLAH LGEA SCH II",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-015",
+    "code": "23-01-09-015",
+    "name": "EYENKORIN LGEA SCH II",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-016",
+    "code": "23-01-09-016",
+    "name": "KAM-ABIOYE JOUSING POWER-LINE EYENKORIN",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-017",
+    "code": "23-01-09-017",
+    "name": "ORO GBAGBA/PASA LGEA SCH",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-018",
+    "code": "23-01-09-018",
+    "name": "HEALTH CENTRE AKOPARI",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-09-019",
+    "code": "23-01-09-019",
+    "name": "LASOJU LGEA SCH",
+    "wardId": "asa__ward-09"
+  },
+  {
+    "id": "23-01-10-001",
+    "code": "23-01-10-001",
+    "name": "REKE  L.G.E.A.SCH",
+    "wardId": "asa__ward-10"
+  },
+  {
+    "id": "23-01-10-002",
+    "code": "23-01-10-002",
+    "name": "OGBONDOROKO DISPENSARY",
+    "wardId": "asa__ward-10"
+  },
+  {
+    "id": "23-01-10-003",
+    "code": "23-01-10-003",
+    "name": "OGBONDOROKO  L.G.E.A.SCH",
+    "wardId": "asa__ward-10"
+  },
+  {
+    "id": "23-01-10-004",
+    "code": "23-01-10-004",
+    "name": "OGBONDOROKO A.I.S.S",
+    "wardId": "asa__ward-10"
+  },
+  {
+    "id": "23-01-10-005",
+    "code": "23-01-10-005",
+    "name": "IDI-NAARI ERE",
+    "wardId": "asa__ward-10"
+  },
+  {
+    "id": "23-01-10-006",
+    "code": "23-01-10-006",
+    "name": "OGBONDOROKO LGEA SCH II",
+    "wardId": "asa__ward-10"
+  },
+  {
+    "id": "23-01-10-007",
+    "code": "23-01-10-007",
+    "name": "ILE-ILA JUNCTION OGBONDOROKO OPPOSITE OLAM",
+    "wardId": "asa__ward-10"
+  },
+  {
+    "id": "23-01-10-008",
+    "code": "23-01-10-008",
+    "name": "ORI-ERU LGEA SCH",
+    "wardId": "asa__ward-10"
+  },
+  {
+    "id": "23-01-11-001",
+    "code": "23-01-11-001",
+    "name": "LADUBA  L.G.E.A.SCH",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-002",
+    "code": "23-01-11-002",
+    "name": "LADUBA  AREA COURT I",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-003",
+    "code": "23-01-11-003",
+    "name": "LADUBA  AREA COURT II",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-004",
+    "code": "23-01-11-004",
+    "name": "ABAYAWO  L.G.E.A.SCH",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-005",
+    "code": "23-01-11-005",
+    "name": "SAPATI-ILE  L.G.E.A.SCH",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-006",
+    "code": "23-01-11-006",
+    "name": "AGO-OJA DISPENSARY",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-007",
+    "code": "23-01-11-007",
+    "name": "BUDO AGUN OPEN SPACE",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-008",
+    "code": "23-01-11-008",
+    "name": "TERU OPEN SPACE",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-009",
+    "code": "23-01-11-009",
+    "name": "LADUBA LGEA SCH II",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-010",
+    "code": "23-01-11-010",
+    "name": "SAPATI-ILE LGEA SCH II",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-011",
+    "code": "23-01-11-011",
+    "name": "SAPATI COMMUNITY SEC SCHOOL",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-11-012",
+    "code": "23-01-11-012",
+    "name": "BUDO AGUN LGEA SCHOOL",
+    "wardId": "asa__ward-11"
+  },
+  {
+    "id": "23-01-12-001",
+    "code": "23-01-12-001",
+    "name": "AFON  L.G.E.A.SCH",
+    "wardId": "asa__ward-12"
+  },
+  {
+    "id": "23-01-12-002",
+    "code": "23-01-12-002",
+    "name": "AFON AREA COURT",
+    "wardId": "asa__ward-12"
+  },
+  {
+    "id": "23-01-12-003",
+    "code": "23-01-12-003",
+    "name": "AFON C.D OFFICE",
+    "wardId": "asa__ward-12"
+  },
+  {
+    "id": "23-01-12-004",
+    "code": "23-01-12-004",
+    "name": "KANKAN  L.G.E.A.SCH",
+    "wardId": "asa__ward-12"
+  },
+  {
+    "id": "23-01-12-005",
+    "code": "23-01-12-005",
+    "name": "IGBOROKO  L.G.E.A.SCH",
+    "wardId": "asa__ward-12"
+  },
+  {
+    "id": "23-01-12-006",
+    "code": "23-01-12-006",
+    "name": "AFON LGEA SCHOOL II",
+    "wardId": "asa__ward-12"
+  },
+  {
+    "id": "23-01-12-007",
+    "code": "23-01-12-007",
+    "name": "REDE/AFON OPPOSITE POLICE STATION",
+    "wardId": "asa__ward-12"
+  },
+  {
+    "id": "23-01-12-008",
+    "code": "23-01-12-008",
+    "name": "AFON AREA COURT ASA LGEA SHOPPING COMPLEX",
+    "wardId": "asa__ward-12"
+  },
+  {
+    "id": "23-01-12-009",
+    "code": "23-01-12-009",
+    "name": "APA - ONIMALU LGEA SCH",
+    "wardId": "asa__ward-12"
+  },
+  {
+    "id": "23-01-13-001",
+    "code": "23-01-13-001",
+    "name": "ILA OJA  L.G.E.A.SCH",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-002",
+    "code": "23-01-13-002",
+    "name": "AJELANWA  L.G.E.A.SCH",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-003",
+    "code": "23-01-13-003",
+    "name": "ABOTO-ALFA  L.G.E.A.SCH",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-004",
+    "code": "23-01-13-004",
+    "name": "FOKO  L.G.E.A.SCH",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-005",
+    "code": "23-01-13-005",
+    "name": "OGUNTOYINBO  L.G.E.A.SCH",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-006",
+    "code": "23-01-13-006",
+    "name": "ONIGUGURU  L.G.E.A.SCH",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-007",
+    "code": "23-01-13-007",
+    "name": "OLORO  L.G.E.A.SCH",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-008",
+    "code": "23-01-13-008",
+    "name": "SAPATI OKO  L.G.E.A.SCH",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-009",
+    "code": "23-01-13-009",
+    "name": "ONIYERE  L.G.E.A.SCH",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-010",
+    "code": "23-01-13-010",
+    "name": "AJAGUSI LGEA SCHOOL",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-011",
+    "code": "23-01-13-011",
+    "name": "OLOMODA LGEA",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-13-012",
+    "code": "23-01-13-012",
+    "name": "IGBO-ARAN LGEA SCHOOL",
+    "wardId": "asa__ward-13"
+  },
+  {
+    "id": "23-01-14-001",
+    "code": "23-01-14-001",
+    "name": "OGELE  L.G.E.A.SCH",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-14-002",
+    "code": "23-01-14-002",
+    "name": "OGELE DISPENSARY",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-14-003",
+    "code": "23-01-14-003",
+    "name": "PAMPO  L.G.E.A.SCH",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-14-004",
+    "code": "23-01-14-004",
+    "name": "ALADERE MOGAJI  L.G.E.A.SCH",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-14-005",
+    "code": "23-01-14-005",
+    "name": "OGELE LGEA SCHOOL APATA",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-14-006",
+    "code": "23-01-14-006",
+    "name": "OGELE SEC. SCH.",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-14-007",
+    "code": "23-01-14-007",
+    "name": "HEALTH CENTRE EXTENSION",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-14-008",
+    "code": "23-01-14-008",
+    "name": "OGELE ANSARUL ISLAM LGEA SCH.",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-14-009",
+    "code": "23-01-14-009",
+    "name": "PAMPO LGEA SCH II",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-14-010",
+    "code": "23-01-14-010",
+    "name": "ALADERE MOGAJI LGEA SCHOOL II",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-14-011",
+    "code": "23-01-14-011",
+    "name": "ALADERE - ODE LGEA SCH",
+    "wardId": "asa__ward-14"
+  },
+  {
+    "id": "23-01-15-001",
+    "code": "23-01-15-001",
+    "name": "ST KELVIN  L.G.E.A.SCH I",
+    "wardId": "asa__ward-15"
+  },
+  {
+    "id": "23-01-15-002",
+    "code": "23-01-15-002",
+    "name": "ST KELVIN  L.G.E.A.SCH II",
+    "wardId": "asa__ward-15"
+  },
+  {
+    "id": "23-01-15-003",
+    "code": "23-01-15-003",
+    "name": "ADABATA  L.G.E.A.SCH",
+    "wardId": "asa__ward-15"
+  },
+  {
+    "id": "23-01-15-004",
+    "code": "23-01-15-004",
+    "name": "KOROKE  L.G.E.A.SCH",
+    "wardId": "asa__ward-15"
+  },
+  {
+    "id": "23-01-15-005",
+    "code": "23-01-15-005",
+    "name": "ONIGBO  L.G.E.A.SCH",
+    "wardId": "asa__ward-15"
+  },
+  {
+    "id": "23-01-15-006",
+    "code": "23-01-15-006",
+    "name": "ELEMI-NLA  L.G.E.A.SCH",
+    "wardId": "asa__ward-15"
+  },
+  {
+    "id": "23-01-15-007",
+    "code": "23-01-15-007",
+    "name": "AGBOYI-NLA  L.G.E.A.SCH",
+    "wardId": "asa__ward-15"
+  },
+  {
+    "id": "23-01-15-008",
+    "code": "23-01-15-008",
+    "name": "COTTAGE HOSPITAL BUDO-EGBA",
+    "wardId": "asa__ward-15"
+  },
+  {
+    "id": "23-01-15-009",
+    "code": "23-01-15-009",
+    "name": "FRONT OF ASA LOCAL GOVERNMENT  SHOPPING COMPLEX BUDO-EGBA",
+    "wardId": "asa__ward-15"
+  },
+  {
+    "id": "23-01-16-001",
+    "code": "23-01-16-001",
+    "name": "OKESHO  L.G.E.A.SCH",
+    "wardId": "asa__ward-16"
+  },
+  {
+    "id": "23-01-16-002",
+    "code": "23-01-16-002",
+    "name": "AFEYIN  L.G.E.A.SCH",
+    "wardId": "asa__ward-16"
+  },
+  {
+    "id": "23-01-16-003",
+    "code": "23-01-16-003",
+    "name": "OKESO LGEA SCHOOL II",
+    "wardId": "asa__ward-16"
+  },
+  {
+    "id": "23-01-16-004",
+    "code": "23-01-16-004",
+    "name": "AFEYIN LGEA SCH",
+    "wardId": "asa__ward-16"
+  },
+  {
+    "id": "23-01-17-001",
+    "code": "23-01-17-001",
+    "name": "ABOTO  L.G.E.A.SCH I",
+    "wardId": "asa__ward-17"
+  },
+  {
+    "id": "23-01-17-002",
+    "code": "23-01-17-002",
+    "name": "ABOTO  L.G.E.A.SCH II",
+    "wardId": "asa__ward-17"
+  },
+  {
+    "id": "23-01-17-003",
+    "code": "23-01-17-003",
+    "name": "BUDO-ARO  L.G.E.A.SCH",
+    "wardId": "asa__ward-17"
+  },
+  {
+    "id": "23-01-17-004",
+    "code": "23-01-17-004",
+    "name": "ODO-ODE  L.G.E.A.SCH",
+    "wardId": "asa__ward-17"
+  },
+  {
+    "id": "23-01-17-005",
+    "code": "23-01-17-005",
+    "name": "OMOLE  L.G.E.A.SCH",
+    "wardId": "asa__ward-17"
+  },
+  {
+    "id": "23-01-17-006",
+    "code": "23-01-17-006",
+    "name": "OWODE ALAGBON  L.G.E.A.SCH",
+    "wardId": "asa__ward-17"
+  },
+  {
+    "id": "23-01-17-007",
+    "code": "23-01-17-007",
+    "name": "ABOTO LGEA SCH",
+    "wardId": "asa__ward-17"
+  },
+  {
+    "id": "23-01-17-008",
+    "code": "23-01-17-008",
+    "name": "ABOTO LGEA SCH IV",
+    "wardId": "asa__ward-17"
+  },
+  {
+    "id": "23-01-17-009",
+    "code": "23-01-17-009",
+    "name": "ODO-ODE LGEA SCH II",
+    "wardId": "asa__ward-17"
+  }
+]

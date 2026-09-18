@@ -1,0 +1,464 @@
+[
+  {
+    "id": "23-14-01-001",
+    "code": "23-14-01-001",
+    "name": "MARKET CENTRE I",
+    "wardId": "oke-ero__ward-01"
+  },
+  {
+    "id": "23-14-01-002",
+    "code": "23-14-01-002",
+    "name": "MARKET CENTRE II",
+    "wardId": "oke-ero__ward-01"
+  },
+  {
+    "id": "23-14-01-003",
+    "code": "23-14-01-003",
+    "name": "IJELU CENTRE I",
+    "wardId": "oke-ero__ward-01"
+  },
+  {
+    "id": "23-14-01-004",
+    "code": "23-14-01-004",
+    "name": "IJELU CENTRE II",
+    "wardId": "oke-ero__ward-01"
+  },
+  {
+    "id": "23-14-01-005",
+    "code": "23-14-01-005",
+    "name": "ILE ALA",
+    "wardId": "oke-ero__ward-01"
+  },
+  {
+    "id": "23-14-01-006",
+    "code": "23-14-01-006",
+    "name": "ADODO",
+    "wardId": "oke-ero__ward-01"
+  },
+  {
+    "id": "23-14-01-007",
+    "code": "23-14-01-007",
+    "name": "ODE EDE",
+    "wardId": "oke-ero__ward-01"
+  },
+  {
+    "id": "23-14-01-008",
+    "code": "23-14-01-008",
+    "name": "PASERE OPEN SPACE",
+    "wardId": "oke-ero__ward-01"
+  },
+  {
+    "id": "23-14-02-001",
+    "code": "23-14-02-001",
+    "name": "ERI EGUN",
+    "wardId": "oke-ero__ward-02"
+  },
+  {
+    "id": "23-14-02-002",
+    "code": "23-14-02-002",
+    "name": "OPEN SPACE AFIN",
+    "wardId": "oke-ero__ward-02"
+  },
+  {
+    "id": "23-14-02-003",
+    "code": "23-14-02-003",
+    "name": "IDERA ROAD",
+    "wardId": "oke-ero__ward-02"
+  },
+  {
+    "id": "23-14-02-004",
+    "code": "23-14-02-004",
+    "name": "OKE ILEGUN",
+    "wardId": "oke-ero__ward-02"
+  },
+  {
+    "id": "23-14-02-005",
+    "code": "23-14-02-005",
+    "name": "ILE TARA",
+    "wardId": "oke-ero__ward-02"
+  },
+  {
+    "id": "23-14-02-006",
+    "code": "23-14-02-006",
+    "name": "ODO-OWA",
+    "wardId": "oke-ero__ward-02"
+  },
+  {
+    "id": "23-14-02-007",
+    "code": "23-14-02-007",
+    "name": "ILE-AGBEDU",
+    "wardId": "oke-ero__ward-02"
+  },
+  {
+    "id": "23-14-02-008",
+    "code": "23-14-02-008",
+    "name": "OKE-OKIN",
+    "wardId": "oke-ero__ward-02"
+  },
+  {
+    "id": "23-14-02-009",
+    "code": "23-14-02-009",
+    "name": "AJURE",
+    "wardId": "oke-ero__ward-02"
+  },
+  {
+    "id": "23-14-03-001",
+    "code": "23-14-03-001",
+    "name": "COMM L.G.E.A SCH IMOJI",
+    "wardId": "oke-ero__ward-03"
+  },
+  {
+    "id": "23-14-03-002",
+    "code": "23-14-03-002",
+    "name": "COMM L.G.E.A SCH ILALE",
+    "wardId": "oke-ero__ward-03"
+  },
+  {
+    "id": "23-14-03-003",
+    "code": "23-14-03-003",
+    "name": "MARKET CENTRE ERINMOPE",
+    "wardId": "oke-ero__ward-03"
+  },
+  {
+    "id": "23-14-03-004",
+    "code": "23-14-03-004",
+    "name": "ODO OYE ILALE",
+    "wardId": "oke-ero__ward-03"
+  },
+  {
+    "id": "23-14-03-005",
+    "code": "23-14-03-005",
+    "name": "ILALE COMMUNITY MARKET",
+    "wardId": "oke-ero__ward-03"
+  },
+  {
+    "id": "23-14-04-001",
+    "code": "23-14-04-001",
+    "name": "JAMAT L.G.E.A SCH",
+    "wardId": "oke-ero__ward-04"
+  },
+  {
+    "id": "23-14-04-002",
+    "code": "23-14-04-002",
+    "name": "OLD MARKET",
+    "wardId": "oke-ero__ward-04"
+  },
+  {
+    "id": "23-14-04-003",
+    "code": "23-14-04-003",
+    "name": "IREPE COMPOUND",
+    "wardId": "oke-ero__ward-04"
+  },
+  {
+    "id": "23-14-04-004",
+    "code": "23-14-04-004",
+    "name": "OKE IPO I",
+    "wardId": "oke-ero__ward-04"
+  },
+  {
+    "id": "23-14-04-005",
+    "code": "23-14-04-005",
+    "name": "OKE IPO II",
+    "wardId": "oke-ero__ward-04"
+  },
+  {
+    "id": "23-14-04-006",
+    "code": "23-14-04-006",
+    "name": "ST JOHN C.A.C SCH I",
+    "wardId": "oke-ero__ward-04"
+  },
+  {
+    "id": "23-14-04-007",
+    "code": "23-14-04-007",
+    "name": "ST JOHN C.A.C SCH II",
+    "wardId": "oke-ero__ward-04"
+  },
+  {
+    "id": "23-14-04-008",
+    "code": "23-14-04-008",
+    "name": "ILOFFA GRAMMAR SCHOOL",
+    "wardId": "oke-ero__ward-04"
+  },
+  {
+    "id": "23-14-04-009",
+    "code": "23-14-04-009",
+    "name": "COTTAGE HOSPITAL ILOFFA",
+    "wardId": "oke-ero__ward-04"
+  },
+  {
+    "id": "23-14-04-010",
+    "code": "23-14-04-010",
+    "name": "MAGISTRATE COURT",
+    "wardId": "oke-ero__ward-04"
+  },
+  {
+    "id": "23-14-05-001",
+    "code": "23-14-05-001",
+    "name": "EGOSI TOWN HALL",
+    "wardId": "oke-ero__ward-05"
+  },
+  {
+    "id": "23-14-05-002",
+    "code": "23-14-05-002",
+    "name": "IDI-EKITI",
+    "wardId": "oke-ero__ward-05"
+  },
+  {
+    "id": "23-14-05-003",
+    "code": "23-14-05-003",
+    "name": "OKE-OWA/OKO-ORU",
+    "wardId": "oke-ero__ward-05"
+  },
+  {
+    "id": "23-14-05-004",
+    "code": "23-14-05-004",
+    "name": "OKE-ARO COMPOUND",
+    "wardId": "oke-ero__ward-05"
+  },
+  {
+    "id": "23-14-05-005",
+    "code": "23-14-05-005",
+    "name": "BOLORUNDURO",
+    "wardId": "oke-ero__ward-05"
+  },
+  {
+    "id": "23-14-05-006",
+    "code": "23-14-05-006",
+    "name": "COMMUNITY PRY SCHOOL EGOSI ILE",
+    "wardId": "oke-ero__ward-05"
+  },
+  {
+    "id": "23-14-05-007",
+    "code": "23-14-05-007",
+    "name": "ABE OBI OPEN SPACE",
+    "wardId": "oke-ero__ward-05"
+  },
+  {
+    "id": "23-14-05-008",
+    "code": "23-14-05-008",
+    "name": "JUNIOR SECONDARY SCHOOL EGOSI ILE",
+    "wardId": "oke-ero__ward-05"
+  },
+  {
+    "id": "23-14-05-009",
+    "code": "23-14-05-009",
+    "name": "COMMUNITY PRY SCHOOL IMODE",
+    "wardId": "oke-ero__ward-05"
+  },
+  {
+    "id": "23-14-06-001",
+    "code": "23-14-06-001",
+    "name": "ADULT L.G.E.A SCH",
+    "wardId": "oke-ero__ward-06"
+  },
+  {
+    "id": "23-14-06-002",
+    "code": "23-14-06-002",
+    "name": "COURT PREMISES",
+    "wardId": "oke-ero__ward-06"
+  },
+  {
+    "id": "23-14-06-003",
+    "code": "23-14-06-003",
+    "name": "MARKET CENTRE",
+    "wardId": "oke-ero__ward-06"
+  },
+  {
+    "id": "23-14-06-004",
+    "code": "23-14-06-004",
+    "name": "ST PAUL L.G.E.A SCH",
+    "wardId": "oke-ero__ward-06"
+  },
+  {
+    "id": "23-14-06-005",
+    "code": "23-14-06-005",
+    "name": "ODOLOKE COMPOUND",
+    "wardId": "oke-ero__ward-06"
+  },
+  {
+    "id": "23-14-06-006",
+    "code": "23-14-06-006",
+    "name": "ODO-AGBEDE COMPOUND",
+    "wardId": "oke-ero__ward-06"
+  },
+  {
+    "id": "23-14-07-001",
+    "code": "23-14-07-001",
+    "name": "MOTOR PARK",
+    "wardId": "oke-ero__ward-07"
+  },
+  {
+    "id": "23-14-07-002",
+    "code": "23-14-07-002",
+    "name": "AREA OFFICE",
+    "wardId": "oke-ero__ward-07"
+  },
+  {
+    "id": "23-14-07-003",
+    "code": "23-14-07-003",
+    "name": "ODO-OSE COMPOUND",
+    "wardId": "oke-ero__ward-07"
+  },
+  {
+    "id": "23-14-07-004",
+    "code": "23-14-07-004",
+    "name": "KOBA",
+    "wardId": "oke-ero__ward-07"
+  },
+  {
+    "id": "23-14-07-005",
+    "code": "23-14-07-005",
+    "name": "KADE",
+    "wardId": "oke-ero__ward-07"
+  },
+  {
+    "id": "23-14-08-001",
+    "code": "23-14-08-001",
+    "name": "L.G.E.A SCH AYEKALE",
+    "wardId": "oke-ero__ward-08"
+  },
+  {
+    "id": "23-14-08-002",
+    "code": "23-14-08-002",
+    "name": "MARKET CENTRE EHINAFO",
+    "wardId": "oke-ero__ward-08"
+  },
+  {
+    "id": "23-14-08-003",
+    "code": "23-14-08-003",
+    "name": "COMM L.G.E.A SCH EHINAFO",
+    "wardId": "oke-ero__ward-08"
+  },
+  {
+    "id": "23-14-08-004",
+    "code": "23-14-08-004",
+    "name": "ILE OLUKOSE AYEKALE",
+    "wardId": "oke-ero__ward-08"
+  },
+  {
+    "id": "23-14-08-005",
+    "code": "23-14-08-005",
+    "name": "ILE ALAYE ODO AGA",
+    "wardId": "oke-ero__ward-08"
+  },
+  {
+    "id": "23-14-08-006",
+    "code": "23-14-08-006",
+    "name": "OKE MAPO/MAKURDI I",
+    "wardId": "oke-ero__ward-08"
+  },
+  {
+    "id": "23-14-08-007",
+    "code": "23-14-08-007",
+    "name": "OKE MAPO/MAKURDI II",
+    "wardId": "oke-ero__ward-08"
+  },
+  {
+    "id": "23-14-08-008",
+    "code": "23-14-08-008",
+    "name": "POLICE STATION",
+    "wardId": "oke-ero__ward-08"
+  },
+  {
+    "id": "23-14-08-015",
+    "code": "23-14-08-015",
+    "name": "COMMUNITY SECONDARY SCHOOL OFFA",
+    "wardId": "oke-ero__ward-08"
+  },
+  {
+    "id": "23-14-09-001",
+    "code": "23-14-09-001",
+    "name": "AFIN COMPOUND",
+    "wardId": "oke-ero__ward-09"
+  },
+  {
+    "id": "23-14-09-002",
+    "code": "23-14-09-002",
+    "name": "ARINRIN COMPOUND",
+    "wardId": "oke-ero__ward-09"
+  },
+  {
+    "id": "23-14-09-003",
+    "code": "23-14-09-003",
+    "name": "IKOTUN COMPOUND",
+    "wardId": "oke-ero__ward-09"
+  },
+  {
+    "id": "23-14-09-004",
+    "code": "23-14-09-004",
+    "name": "C.A.C L.G.E.A SCH",
+    "wardId": "oke-ero__ward-09"
+  },
+  {
+    "id": "23-14-09-005",
+    "code": "23-14-09-005",
+    "name": "ADULT L.G.E.A SCH",
+    "wardId": "oke-ero__ward-09"
+  },
+  {
+    "id": "23-14-09-006",
+    "code": "23-14-09-006",
+    "name": "ST THOMAS PRY SCH",
+    "wardId": "oke-ero__ward-09"
+  },
+  {
+    "id": "23-14-09-007",
+    "code": "23-14-09-007",
+    "name": "IGBEDE COMPOUND",
+    "wardId": "oke-ero__ward-09"
+  },
+  {
+    "id": "23-14-09-008",
+    "code": "23-14-09-008",
+    "name": "OROTA COMMUNITY HIGH SCHOOL",
+    "wardId": "oke-ero__ward-09"
+  },
+  {
+    "id": "23-14-09-009",
+    "code": "23-14-09-009",
+    "name": "IKOTUN ILE OPEN SPACE",
+    "wardId": "oke-ero__ward-09"
+  },
+  {
+    "id": "23-14-10-001",
+    "code": "23-14-10-001",
+    "name": "IPEKUN COMPOUND",
+    "wardId": "oke-ero__ward-10"
+  },
+  {
+    "id": "23-14-10-002",
+    "code": "23-14-10-002",
+    "name": "IGBINLO  COMPOUND",
+    "wardId": "oke-ero__ward-10"
+  },
+  {
+    "id": "23-14-10-003",
+    "code": "23-14-10-003",
+    "name": "IGBIRA  COMPOUND",
+    "wardId": "oke-ero__ward-10"
+  },
+  {
+    "id": "23-14-10-004",
+    "code": "23-14-10-004",
+    "name": "ST JOSEPH PRY SCH",
+    "wardId": "oke-ero__ward-10"
+  },
+  {
+    "id": "23-14-10-005",
+    "code": "23-14-10-005",
+    "name": "TEMIDIRE (YASOLA)",
+    "wardId": "oke-ero__ward-10"
+  },
+  {
+    "id": "23-14-10-006",
+    "code": "23-14-10-006",
+    "name": "KAJOLA HEALTH CENTRE",
+    "wardId": "oke-ero__ward-10"
+  },
+  {
+    "id": "23-14-10-007",
+    "code": "23-14-10-007",
+    "name": "KAJOLA MARKET",
+    "wardId": "oke-ero__ward-10"
+  }
+]

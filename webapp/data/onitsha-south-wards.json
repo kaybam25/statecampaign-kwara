@@ -1,0 +1,121 @@
+[
+  {
+    "id": "onitsha-south__ward-01",
+    "name": "BRIDGE HEAD I WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-01",
+    "puCount": 11
+  },
+  {
+    "id": "onitsha-south__ward-02",
+    "name": "BRIDGE HEAD II WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-02",
+    "puCount": 11
+  },
+  {
+    "id": "onitsha-south__ward-03",
+    "name": "BRIDGE HEAD III WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-03",
+    "puCount": 8
+  },
+  {
+    "id": "onitsha-south__ward-04",
+    "name": "FEGGE 1 WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-04",
+    "puCount": 22
+  },
+  {
+    "id": "onitsha-south__ward-05",
+    "name": "FEGGE II WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-05",
+    "puCount": 21
+  },
+  {
+    "id": "onitsha-south__ward-06",
+    "name": "FEGGE III WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-06",
+    "puCount": 21
+  },
+  {
+    "id": "onitsha-south__ward-07",
+    "name": "FEGGE 1V WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-07",
+    "puCount": 14
+  },
+  {
+    "id": "onitsha-south__ward-08",
+    "name": "FEGGE V WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-08",
+    "puCount": 16
+  },
+  {
+    "id": "onitsha-south__ward-09",
+    "name": "FEGGE VI WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-09",
+    "puCount": 28
+  },
+  {
+    "id": "onitsha-south__ward-10",
+    "name": "FEGGE VII WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-10",
+    "puCount": 47
+  },
+  {
+    "id": "onitsha-south__ward-11",
+    "name": "ODOAKPU  I WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-11",
+    "puCount": 20
+  },
+  {
+    "id": "onitsha-south__ward-12",
+    "name": "ODOAKPU  II WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-12",
+    "puCount": 28
+  },
+  {
+    "id": "onitsha-south__ward-13",
+    "name": "ODOAKPU  III WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-13",
+    "puCount": 10
+  },
+  {
+    "id": "onitsha-south__ward-14",
+    "name": "ODOAKPU  IV WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-14",
+    "puCount": 19
+  },
+  {
+    "id": "onitsha-south__ward-15",
+    "name": "ODOAKPU V WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-15",
+    "puCount": 11
+  },
+  {
+    "id": "onitsha-south__ward-16",
+    "name": "ODOAKPU VI WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-16",
+    "puCount": 18
+  },
+  {
+    "id": "onitsha-south__ward-17",
+    "name": "ODOAKPU VII WARD",
+    "lgaId": "anambra__onitsha-south",
+    "code": "4-18-17",
+    "puCount": 16
+  }
+]

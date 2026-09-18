@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kaiama__ward-01",
+    "name": "ADENA",
+    "lgaId": "kwara__kaiama",
+    "code": "23-11-01",
+    "puCount": 13
+  },
+  {
+    "id": "kaiama__ward-02",
+    "name": "BANI",
+    "lgaId": "kwara__kaiama",
+    "code": "23-11-02",
+    "puCount": 20
+  },
+  {
+    "id": "kaiama__ward-03",
+    "name": "GWANABE 1",
+    "lgaId": "kwara__kaiama",
+    "code": "23-11-03",
+    "puCount": 16
+  },
+  {
+    "id": "kaiama__ward-04",
+    "name": "GWANABE 11",
+    "lgaId": "kwara__kaiama",
+    "code": "23-11-04",
+    "puCount": 12
+  },
+  {
+    "id": "kaiama__ward-05",
+    "name": "GWARI A (GWARIA)",
+    "lgaId": "kwara__kaiama",
+    "code": "23-11-05",
+    "puCount": 15
+  },
+  {
+    "id": "kaiama__ward-06",
+    "name": "KAIAMA 1",
+    "lgaId": "kwara__kaiama",
+    "code": "23-11-06",
+    "puCount": 7
+  },
+  {
+    "id": "kaiama__ward-07",
+    "name": "KAIAMA 11",
+    "lgaId": "kwara__kaiama",
+    "code": "23-11-07",
+    "puCount": 13
+  },
+  {
+    "id": "kaiama__ward-08",
+    "name": "KAIAMA 111",
+    "lgaId": "kwara__kaiama",
+    "code": "23-11-08",
+    "puCount": 8
+  },
+  {
+    "id": "kaiama__ward-09",
+    "name": "KEMANJI",
+    "lgaId": "kwara__kaiama",
+    "code": "23-11-09",
+    "puCount": 6
+  },
+  {
+    "id": "kaiama__ward-10",
+    "name": "WAJIBE",
+    "lgaId": "kwara__kaiama",
+    "code": "23-11-10",
+    "puCount": 14
+  }
+]

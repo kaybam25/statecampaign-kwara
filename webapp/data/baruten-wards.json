@@ -1,0 +1,79 @@
+[
+  {
+    "id": "baruten__ward-01",
+    "name": "BORIYA/SHIYA",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-01",
+    "puCount": 25
+  },
+  {
+    "id": "baruten__ward-02",
+    "name": "GURE/GWASORO",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-02",
+    "puCount": 37
+  },
+  {
+    "id": "baruten__ward-03",
+    "name": "GWEDEBERERU/BABANE",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-03",
+    "puCount": 9
+  },
+  {
+    "id": "baruten__ward-04",
+    "name": "GWANARA",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-04",
+    "puCount": 20
+  },
+  {
+    "id": "baruten__ward-05",
+    "name": "ILESHA",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-05",
+    "puCount": 19
+  },
+  {
+    "id": "baruten__ward-06",
+    "name": "KENU/TABERU",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-06",
+    "puCount": 20
+  },
+  {
+    "id": "baruten__ward-07",
+    "name": "KPAURA/YAKIRU",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-07",
+    "puCount": 14
+  },
+  {
+    "id": "baruten__ward-08",
+    "name": "KIYORU/BWEN",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-08",
+    "puCount": 23
+  },
+  {
+    "id": "baruten__ward-09",
+    "name": "OKUTA",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-09",
+    "puCount": 29
+  },
+  {
+    "id": "baruten__ward-10",
+    "name": "SHINAWU/TUNBUYAN",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-10",
+    "puCount": 12
+  },
+  {
+    "id": "baruten__ward-11",
+    "name": "YASHIKIRA",
+    "lgaId": "kwara__baruten",
+    "code": "23-02-11",
+    "puCount": 22
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "yola-north__ward-01",
+    "name": "ALKALAWA WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-01",
+    "puCount": 31
+  },
+  {
+    "id": "yola-north__ward-02",
+    "name": "AJIYA WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-02",
+    "puCount": 15
+  },
+  {
+    "id": "yola-north__ward-03",
+    "name": "DOUBELI WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-03",
+    "puCount": 59
+  },
+  {
+    "id": "yola-north__ward-04",
+    "name": "GWADABAWA WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-04",
+    "puCount": 32
+  },
+  {
+    "id": "yola-north__ward-05",
+    "name": "JAMBUTU WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-05",
+    "puCount": 48
+  },
+  {
+    "id": "yola-north__ward-06",
+    "name": "KAREWA WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-06",
+    "puCount": 60
+  },
+  {
+    "id": "yola-north__ward-07",
+    "name": "LIMAWA WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-07",
+    "puCount": 26
+  },
+  {
+    "id": "yola-north__ward-08",
+    "name": "LUGGERE WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-08",
+    "puCount": 28
+  },
+  {
+    "id": "yola-north__ward-09",
+    "name": "NASSARAWO WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-09",
+    "puCount": 41
+  },
+  {
+    "id": "yola-north__ward-10",
+    "name": "RUMDE WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-10",
+    "puCount": 15
+  },
+  {
+    "id": "yola-north__ward-11",
+    "name": "YELWA WARD",
+    "lgaId": "adamawa__yola-north",
+    "code": "2-20-11",
+    "puCount": 22
+  }
+]

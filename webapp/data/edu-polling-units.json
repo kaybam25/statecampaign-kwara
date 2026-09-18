@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "23-03-01-001",
+    "code": "23-03-01-001",
+    "name": "L.G.E.A SCH SOMASUN I",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-002",
+    "code": "23-03-01-002",
+    "name": "L.G.E.A SCH SOMASUN II",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-003",
+    "code": "23-03-01-003",
+    "name": "L.G.E.A SCH SOMASUN III",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-004",
+    "code": "23-03-01-004",
+    "name": "L.G.E.A SCH TAKO-GABI I",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-005",
+    "code": "23-03-01-005",
+    "name": "L.G.E.A SCH TAKO-GABI II",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-006",
+    "code": "23-03-01-006",
+    "name": "OPEN SPACE EGBAN MAKUN AREA",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-007",
+    "code": "23-03-01-007",
+    "name": "OPEN SPACE EGBAN NAFENE  AREA",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-008",
+    "code": "23-03-01-008",
+    "name": "OPEN SPACE EGBAN BARAKA  AREA",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-009",
+    "code": "23-03-01-009",
+    "name": "OPEN SPACE LAFIGYAMI  AREA",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-010",
+    "code": "23-03-01-010",
+    "name": "OPEN SPACE EGBAN LIORAN SWASUN",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-011",
+    "code": "23-03-01-011",
+    "name": "MAGISTRATE COURT LAFIAGI",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-012",
+    "code": "23-03-01-012",
+    "name": "OPEN SPACE EGBAN KPANGU",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-013",
+    "code": "23-03-01-013",
+    "name": "OPEN SPACE EGBAN CHECHE",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-014",
+    "code": "23-03-01-014",
+    "name": "OPEN SPACE EGBAN BAWA",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-015",
+    "code": "23-03-01-015",
+    "name": "OPEN SPACE EGBAN NAGUN",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-016",
+    "code": "23-03-01-016",
+    "name": "OPEN SPACE EGBAN NDA DARI",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-017",
+    "code": "23-03-01-017",
+    "name": "OPEN SPACE BOKUN BAZUMA",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-018",
+    "code": "23-03-01-018",
+    "name": "OPEN SPACE EGBAN NDABA TAKO",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-019",
+    "code": "23-03-01-019",
+    "name": "OPEN SPACE EGBAN LADAN KAFINTA",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-01-020",
+    "code": "23-03-01-020",
+    "name": "OPEN SPACE EMI LIMAN MOSQUE",
+    "wardId": "edu__ward-01"
+  },
+  {
+    "id": "23-03-02-001",
+    "code": "23-03-02-001",
+    "name": "L.G.E.A SCH ABAGYAMA I",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-002",
+    "code": "23-03-02-002",
+    "name": "L.G.E.A SCH ABAGYAMA II",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-003",
+    "code": "23-03-02-003",
+    "name": "LOCAL GOVT DISPENSARY",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-004",
+    "code": "23-03-02-004",
+    "name": "AREA COURT LAFIAGI",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-005",
+    "code": "23-03-02-005",
+    "name": "L.G.E.A SCH CENTRAL I",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-006",
+    "code": "23-03-02-006",
+    "name": "L.G.E.A SCH CENTRAL II",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-007",
+    "code": "23-03-02-007",
+    "name": "OPEN SPACE MANKITABU",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-008",
+    "code": "23-03-02-008",
+    "name": "OPEN SPACE EGBAN NDAMARAKI",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-009",
+    "code": "23-03-02-009",
+    "name": "L.G.E.A SCH KOKODO",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-010",
+    "code": "23-03-02-010",
+    "name": "CO-OPERATIVE STORE",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-011",
+    "code": "23-03-02-011",
+    "name": "OPEN SPACE EGBAN NDEJI AREA",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-012",
+    "code": "23-03-02-012",
+    "name": "OPEN SPACE EMI- ABAGYAMA",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-013",
+    "code": "23-03-02-013",
+    "name": "OPEN SPACE EGBAN MAYAKI",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-014",
+    "code": "23-03-02-014",
+    "name": "OPEN SPACE EMI -WOROGI",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-015",
+    "code": "23-03-02-015",
+    "name": "OPEN SPACE EGBAN RAFI",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-016",
+    "code": "23-03-02-016",
+    "name": "OPEN SPACE DZUKOGI",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-017",
+    "code": "23-03-02-017",
+    "name": "OPEN SPACE EGBAN GBAZHI",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-018",
+    "code": "23-03-02-018",
+    "name": "OPEN SPACE EGBAN GANAZA BAZUMA",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-019",
+    "code": "23-03-02-019",
+    "name": "OPEN SPACE EGBAN LADAN KAFINTA",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-020",
+    "code": "23-03-02-020",
+    "name": "L.G.E.A NOMADIC SCH.",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-021",
+    "code": "23-03-02-021",
+    "name": "OPEN SPACE KUSONINGUBA",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-02-022",
+    "code": "23-03-02-022",
+    "name": "OPEN SPACE SAKIWA",
+    "wardId": "edu__ward-02"
+  },
+  {
+    "id": "23-03-03-001",
+    "code": "23-03-03-001",
+    "name": "L.G.E.A SCH ZAMBUFU",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-002",
+    "code": "23-03-03-002",
+    "name": "L.G.E.A SCH GUYEDADI",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-003",
+    "code": "23-03-03-003",
+    "name": "L.G.E.A SCH GUYE DOKO",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-004",
+    "code": "23-03-03-004",
+    "name": "L.G.E.A SCH GBALE",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-005",
+    "code": "23-03-03-005",
+    "name": "L.G.E.A SCH GANAGAGI",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-006",
+    "code": "23-03-03-006",
+    "name": "L.G.E.A SCH KPOTUNKO",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-007",
+    "code": "23-03-03-007",
+    "name": "L.G.E.A SCH YAWU",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-008",
+    "code": "23-03-03-008",
+    "name": "L.G.E.A SCH GBUGBU",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-009",
+    "code": "23-03-03-009",
+    "name": "VET OFFICE GAGARA",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-010",
+    "code": "23-03-03-010",
+    "name": "L.G.E.A SCH SABAGINA",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-011",
+    "code": "23-03-03-011",
+    "name": "L.G.E.A SCH CHEKO SHAABAN",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-012",
+    "code": "23-03-03-012",
+    "name": "L.G.E.A SCH NDEJI",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-013",
+    "code": "23-03-03-013",
+    "name": "GADA ZAMBUFU",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-014",
+    "code": "23-03-03-014",
+    "name": "L.G.E.A SCH. GAMALEGI",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-015",
+    "code": "23-03-03-015",
+    "name": "L.G.E.A SCH. MANCHA",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-016",
+    "code": "23-03-03-016",
+    "name": "OPEN SPACE EMI-WORO GBUGBU",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-017",
+    "code": "23-03-03-017",
+    "name": "L.G.E.A .PRY SCH FADA",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-018",
+    "code": "23-03-03-018",
+    "name": "L.G.E.A BUSSA",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-03-019",
+    "code": "23-03-03-019",
+    "name": "L.G.E.A SCH LEMA",
+    "wardId": "edu__ward-03"
+  },
+  {
+    "id": "23-03-04-001",
+    "code": "23-03-04-001",
+    "name": "OPEN SPACE LUMABA VILLAGE",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-002",
+    "code": "23-03-04-002",
+    "name": "L.G.E.A SCH KPASHA",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-003",
+    "code": "23-03-04-003",
+    "name": "L.G.E.A SCH LIPATA",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-004",
+    "code": "23-03-04-004",
+    "name": "L.G.E.A SCH PUTA",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-005",
+    "code": "23-03-04-005",
+    "name": "L.G.E.A SCH  GONDANGI",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-006",
+    "code": "23-03-04-006",
+    "name": "L.G.E.A SCH EDOGI-DOKUN I",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-007",
+    "code": "23-03-04-007",
+    "name": "L.G.E.A SCH EDOGI-DOKUN II",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-008",
+    "code": "23-03-04-008",
+    "name": "L.G.E.A SCH DZARA",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-009",
+    "code": "23-03-04-009",
+    "name": "OPEN SPACE FUNTI VILLAGE",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-010",
+    "code": "23-03-04-010",
+    "name": "L.G.E.A SCH EKKO",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-011",
+    "code": "23-03-04-011",
+    "name": "L.G.E.A SCH ESUN",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-012",
+    "code": "23-03-04-012",
+    "name": "L.G.E.A SCH TSWAKO",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-013",
+    "code": "23-03-04-013",
+    "name": "L.G.E.A SCH KPANKPARAGI",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-014",
+    "code": "23-03-04-014",
+    "name": "OPEN SPACE LIKPATA BESIDE CENTRAL MOSQUE",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-015",
+    "code": "23-03-04-015",
+    "name": "L.G.E.A SCH. EFFAGI",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-016",
+    "code": "23-03-04-016",
+    "name": "OPEN SPACE  OLD CENTRAL MOSQUE",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-04-017",
+    "code": "23-03-04-017",
+    "name": "L.G.E.A SCH. CHEWURU",
+    "wardId": "edu__ward-04"
+  },
+  {
+    "id": "23-03-05-001",
+    "code": "23-03-05-001",
+    "name": "L.G.E.A SCH KANGE",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-002",
+    "code": "23-03-05-002",
+    "name": "L.G.E.A SCH PATIKO",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-003",
+    "code": "23-03-05-003",
+    "name": "L.G.E.A SCH DADA",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-004",
+    "code": "23-03-05-004",
+    "name": "L.G.E.A SCH ESANZHI",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-005",
+    "code": "23-03-05-005",
+    "name": "L.G.E.A SCH  KPANDARAGI",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-006",
+    "code": "23-03-05-006",
+    "name": "L.G.E.A SCH BATAKPAN",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-007",
+    "code": "23-03-05-007",
+    "name": "L.G.E.A SCH JIYADE",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-008",
+    "code": "23-03-05-008",
+    "name": "L.G.E.A SCH GBAGUTA",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-009",
+    "code": "23-03-05-009",
+    "name": "L.G.E.A SCH NINGUBA",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-010",
+    "code": "23-03-05-010",
+    "name": "OPEN SPACE MAWOKPAN VILLAGE",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-011",
+    "code": "23-03-05-011",
+    "name": "L.G.E.A PRY SCH.ANKORO",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-012",
+    "code": "23-03-05-012",
+    "name": "OPEN SPACE KARATI",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-013",
+    "code": "23-03-05-013",
+    "name": "L.G.E.A PRY.SCH GBADAGUN",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-014",
+    "code": "23-03-05-014",
+    "name": "OPEN SPACE KPANDARAGI",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-015",
+    "code": "23-03-05-015",
+    "name": "L.G.E.A PRY SCH. NDAFATAKO",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-05-016",
+    "code": "23-03-05-016",
+    "name": "L.G.E.A PRY SCH. PATIDATI",
+    "wardId": "edu__ward-05"
+  },
+  {
+    "id": "23-03-06-001",
+    "code": "23-03-06-001",
+    "name": "LOCAL GOVT DISPENSARY BACITA I",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-002",
+    "code": "23-03-06-002",
+    "name": "LOCAL GOVT DISPENSARY BACITA II",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-003",
+    "code": "23-03-06-003",
+    "name": "OPEN SPACE PATI-TUNKU AREA",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-004",
+    "code": "23-03-06-004",
+    "name": "UMCA PRIMARY SCH BACITA",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-005",
+    "code": "23-03-06-005",
+    "name": "LOCAL GOVT SUB OFFICE BACITA",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-006",
+    "code": "23-03-06-006",
+    "name": "LOCAL GOVT DISPENSARY  BACITA VILLAGE",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-007",
+    "code": "23-03-06-007",
+    "name": "L.G.E.A SCH MANFU",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-008",
+    "code": "23-03-06-008",
+    "name": "L.G.E.A SCH BELLE",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-009",
+    "code": "23-03-06-009",
+    "name": "L.G.E.A SCH FANAGUN",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-010",
+    "code": "23-03-06-010",
+    "name": "L.G.E.A SCH SHISHITA",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-011",
+    "code": "23-03-06-011",
+    "name": "L.G.E.A SCH EGBANGI",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-012",
+    "code": "23-03-06-012",
+    "name": "L.G.E.A SCH LEALEA WORO",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-013",
+    "code": "23-03-06-013",
+    "name": "L.G.E.A PRY SCH. GULUFU",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-014",
+    "code": "23-03-06-014",
+    "name": "OPEN SPACE MOKWAGI KEREMI",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-015",
+    "code": "23-03-06-015",
+    "name": "L.G.E.A SCH. CENTRAL SCHOOL BACITA",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-016",
+    "code": "23-03-06-016",
+    "name": "L.G.E.A SCH. GONDAN",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-017",
+    "code": "23-03-06-017",
+    "name": "L.G.E.A SCH. GBERE",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-018",
+    "code": "23-03-06-018",
+    "name": "OPEN SPACE FANAGUN",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-019",
+    "code": "23-03-06-019",
+    "name": "OPEN SPACE SHISHITA",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-06-020",
+    "code": "23-03-06-020",
+    "name": "L.G.E.A PRY SCH. ANGLICAN",
+    "wardId": "edu__ward-06"
+  },
+  {
+    "id": "23-03-07-001",
+    "code": "23-03-07-001",
+    "name": "DISTRICT OFFICE TSARAGI I",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-002",
+    "code": "23-03-07-002",
+    "name": "DISTRICT OFFICE TSARAGI II",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-003",
+    "code": "23-03-07-003",
+    "name": "L.G.E.A SCH  TSARAGI",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-004",
+    "code": "23-03-07-004",
+    "name": "LOCAL GOVT DISPENSARY TSARAGI",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-005",
+    "code": "23-03-07-005",
+    "name": "L.G.E.A SCH BOKUNGI",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-006",
+    "code": "23-03-07-006",
+    "name": "L.G.E.A SCH PATIDZURU",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-007",
+    "code": "23-03-07-007",
+    "name": "L.G.E.A SCH KOSUMUNU",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-008",
+    "code": "23-03-07-008",
+    "name": "OPEN SPACE OLD GARAGE TSARAGI",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-009",
+    "code": "23-03-07-009",
+    "name": "L.G.E.A SCH DUGBANGI",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-010",
+    "code": "23-03-07-010",
+    "name": "L.G.E.A SCH TSAKPATA",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-011",
+    "code": "23-03-07-011",
+    "name": "OPEN SPACE MAYARA AREA TSARAGI",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-012",
+    "code": "23-03-07-012",
+    "name": "OPEN SPACE KPATAYARU AREA",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-013",
+    "code": "23-03-07-013",
+    "name": "OPEN SPACE TSWATAFU  AREA",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-014",
+    "code": "23-03-07-014",
+    "name": "OPEN SPACE EMI MANSIDI ABDULLAHI",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-015",
+    "code": "23-03-07-015",
+    "name": "L.G.E.A SCH. FEDUNDANGI",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-016",
+    "code": "23-03-07-016",
+    "name": "L.G.E.A SCH GBADUWA",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-017",
+    "code": "23-03-07-017",
+    "name": "L.G.E.A.PRY SCH GINDA",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-018",
+    "code": "23-03-07-018",
+    "name": "L.G.E.A.SCH SOKUNKPAN",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-019",
+    "code": "23-03-07-019",
+    "name": "OPEN SPACE ETSU SULEIMAN",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-07-020",
+    "code": "23-03-07-020",
+    "name": "NDADZOKO OPEN SPACE",
+    "wardId": "edu__ward-07"
+  },
+  {
+    "id": "23-03-08-001",
+    "code": "23-03-08-001",
+    "name": "DISTRICT OFFICE TSONGA",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-002",
+    "code": "23-03-08-002",
+    "name": "LOCAL GOVT DISPENSARY TSONGA",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-003",
+    "code": "23-03-08-003",
+    "name": "L.G.E.A SCH KUCHITA",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-004",
+    "code": "23-03-08-004",
+    "name": "L.G.E.A SCH EMI-NDEJI I",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-005",
+    "code": "23-03-08-005",
+    "name": "L.G.E.A SCH EMI-NDEJI II",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-006",
+    "code": "23-03-08-006",
+    "name": "L.G.E.A SCH BONZO I",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-007",
+    "code": "23-03-08-007",
+    "name": "L.G.E.A SCH BONZO II",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-008",
+    "code": "23-03-08-008",
+    "name": "OPEN SPACE YIMAGI VILLAGE",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-009",
+    "code": "23-03-08-009",
+    "name": "OPEN SPACE KUSOGI VILLAGE",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-010",
+    "code": "23-03-08-010",
+    "name": "OPEN SPACE KPATAKO VILLAGE",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-011",
+    "code": "23-03-08-011",
+    "name": "OPEN SPACE EMI- ABUBAKAR",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-012",
+    "code": "23-03-08-012",
+    "name": "L.G.E.A CENTRAL SCH.TSONGA",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-013",
+    "code": "23-03-08-013",
+    "name": "OPEN SPACE MASALACHI BOLOGI",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-014",
+    "code": "23-03-08-014",
+    "name": "OPEN SPACE ALH.MAMMAN EFU NDAYAGI",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-015",
+    "code": "23-03-08-015",
+    "name": "OPEN SPACE NDA CHEFU",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-08-016",
+    "code": "23-03-08-016",
+    "name": "OPEN SPACE LIMAN KHA KHA",
+    "wardId": "edu__ward-08"
+  },
+  {
+    "id": "23-03-09-001",
+    "code": "23-03-09-001",
+    "name": "L.G.E.A SCH DUMAGI I",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-002",
+    "code": "23-03-09-002",
+    "name": "L.G.E.A SCH DUMAGI II",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-003",
+    "code": "23-03-09-003",
+    "name": "L.G.E.A SCH GBORO",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-004",
+    "code": "23-03-09-004",
+    "name": "L.G.E.A SCH TSPATA",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-005",
+    "code": "23-03-09-005",
+    "name": "L.G.E.A SCH PATI OKUN",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-006",
+    "code": "23-03-09-006",
+    "name": "L.G.E.A SCH KANKO",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-007",
+    "code": "23-03-09-007",
+    "name": "L.G.E.A SCH SINASUN",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-008",
+    "code": "23-03-09-008",
+    "name": "L.G.E.A SCH MANUGA",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-009",
+    "code": "23-03-09-009",
+    "name": "L.G.E.A SCH TSUFENE",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-010",
+    "code": "23-03-09-010",
+    "name": "OPEN SPACE DUMANGI",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-011",
+    "code": "23-03-09-011",
+    "name": "COMMUNITY HEALTH CENTER GBORO",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-09-012",
+    "code": "23-03-09-012",
+    "name": "COMMNITY SCH.KANKOFU",
+    "wardId": "edu__ward-09"
+  },
+  {
+    "id": "23-03-10-001",
+    "code": "23-03-10-001",
+    "name": "L.G.E.A SCH MAYAKI",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-002",
+    "code": "23-03-10-002",
+    "name": "L.G.E.A SCH FAIGI",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-003",
+    "code": "23-03-10-003",
+    "name": "MARKET SQ FAIGI",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-004",
+    "code": "23-03-10-004",
+    "name": "L.G.E.A SCH BIDUGI",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-005",
+    "code": "23-03-10-005",
+    "name": "L.G.E.A SCH SANCHITAGI I",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-006",
+    "code": "23-03-10-006",
+    "name": "L.G.E.A SCH SANCHITAGI II",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-007",
+    "code": "23-03-10-007",
+    "name": "L.G.E.A SCH OGUDU I",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-008",
+    "code": "23-03-10-008",
+    "name": "L.G.E.A SCH OGUDU II",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-009",
+    "code": "23-03-10-009",
+    "name": "L.G.E.A SCH TADA",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-010",
+    "code": "23-03-10-010",
+    "name": "L.G.E.A SCH NDAKANSA",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-011",
+    "code": "23-03-10-011",
+    "name": "L.G.E.A.SCH. CHIKANGI-WORO",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-012",
+    "code": "23-03-10-012",
+    "name": "L.G.E.A.SCH. TSADUKO",
+    "wardId": "edu__ward-10"
+  },
+  {
+    "id": "23-03-10-013",
+    "code": "23-03-10-013",
+    "name": "L.G.E.A.SCH.CHIJI",
+    "wardId": "edu__ward-10"
+  }
+]

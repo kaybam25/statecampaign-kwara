@@ -1,0 +1,335 @@
+[
+  {
+    "id": "abia",
+    "name": "Abia",
+    "zoneId": "se",
+    "lgaCount": 13,
+    "wardCount": 136,
+    "puCount": 2727,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "adamawa",
+    "name": "Adamawa",
+    "zoneId": "ne",
+    "lgaCount": 20,
+    "wardCount": 209,
+    "puCount": 4196,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "akwa-ibom",
+    "name": "Akwa Ibom",
+    "zoneId": "ss",
+    "lgaCount": 31,
+    "wardCount": 324,
+    "puCount": 6503,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "anambra",
+    "name": "Anambra",
+    "zoneId": "se",
+    "lgaCount": 28,
+    "wardCount": 293,
+    "puCount": 5874,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "bauchi",
+    "name": "Bauchi",
+    "zoneId": "ne",
+    "lgaCount": 20,
+    "wardCount": 209,
+    "puCount": 4196,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "benue",
+    "name": "Benue",
+    "zoneId": "nc",
+    "lgaCount": 22,
+    "wardCount": 230,
+    "puCount": 4615,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "borno",
+    "name": "Borno",
+    "zoneId": "ne",
+    "lgaCount": 27,
+    "wardCount": 282,
+    "puCount": 5664,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "bayelsa",
+    "name": "Bayelsa",
+    "zoneId": "ss",
+    "lgaCount": 12,
+    "wardCount": 125,
+    "puCount": 2517,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "cross-river",
+    "name": "Cross River",
+    "zoneId": "ss",
+    "lgaCount": 20,
+    "wardCount": 209,
+    "puCount": 4196,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "delta",
+    "name": "Delta",
+    "zoneId": "ss",
+    "lgaCount": 45,
+    "wardCount": 470,
+    "puCount": 9440,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "ebonyi",
+    "name": "Ebonyi",
+    "zoneId": "se",
+    "lgaCount": 15,
+    "wardCount": 157,
+    "puCount": 3147,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "edo",
+    "name": "Edo",
+    "zoneId": "ss",
+    "lgaCount": 27,
+    "wardCount": 282,
+    "puCount": 5664,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "ekiti",
+    "name": "Ekiti",
+    "zoneId": "sw",
+    "lgaCount": 18,
+    "wardCount": 188,
+    "puCount": 3776,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "enugu",
+    "name": "Enugu",
+    "zoneId": "se",
+    "lgaCount": 18,
+    "wardCount": 188,
+    "puCount": 3776,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "federal-capital-territory",
+    "name": "Federal Capital Territory",
+    "zoneId": "nc",
+    "lgaCount": 6,
+    "wardCount": 63,
+    "puCount": 1259,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "gombe",
+    "name": "Gombe",
+    "zoneId": "ne",
+    "lgaCount": 11,
+    "wardCount": 115,
+    "puCount": 2308,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "imo",
+    "name": "Imo",
+    "zoneId": "se",
+    "lgaCount": 36,
+    "wardCount": 376,
+    "puCount": 7552,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "jigawa",
+    "name": "Jigawa",
+    "zoneId": "nw",
+    "lgaCount": 27,
+    "wardCount": 282,
+    "puCount": 5664,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "kebbi",
+    "name": "Kebbi",
+    "zoneId": "nw",
+    "lgaCount": 22,
+    "wardCount": 230,
+    "puCount": 4615,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "kaduna",
+    "name": "Kaduna",
+    "zoneId": "nw",
+    "lgaCount": 25,
+    "wardCount": 261,
+    "puCount": 5245,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "kano",
+    "name": "Kano",
+    "zoneId": "nw",
+    "lgaCount": 43,
+    "wardCount": 449,
+    "puCount": 9019,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "kogi",
+    "name": "Kogi",
+    "zoneId": "nc",
+    "lgaCount": 24,
+    "wardCount": 251,
+    "puCount": 5035,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "katsina",
+    "name": "Katsina",
+    "zoneId": "nw",
+    "lgaCount": 34,
+    "wardCount": 355,
+    "puCount": 7133,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "kwara",
+    "name": "Kwara",
+    "zoneId": "nc",
+    "lgaCount": 16,
+    "wardCount": 193,
+    "puCount": 2886,
+    "wardCountEstimated": false
+  },
+  {
+    "id": "lagos",
+    "name": "Lagos",
+    "zoneId": "sw",
+    "lgaCount": 20,
+    "wardCount": 245,
+    "puCount": 13322,
+    "wardCountEstimated": false
+  },
+  {
+    "id": "nassarawa",
+    "name": "Nassarawa",
+    "zoneId": null,
+    "lgaCount": 12,
+    "wardCount": 125,
+    "puCount": 2517,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "niger",
+    "name": "Niger",
+    "zoneId": "nc",
+    "lgaCount": 25,
+    "wardCount": 261,
+    "puCount": 5245,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "ogun",
+    "name": "Ogun",
+    "zoneId": "sw",
+    "lgaCount": 20,
+    "wardCount": 209,
+    "puCount": 4196,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "ondo",
+    "name": "Ondo",
+    "zoneId": "sw",
+    "lgaCount": 26,
+    "wardCount": 272,
+    "puCount": 5454,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "osun",
+    "name": "Osun",
+    "zoneId": "sw",
+    "lgaCount": 32,
+    "wardCount": 334,
+    "puCount": 6713,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "oyo",
+    "name": "Oyo",
+    "zoneId": "sw",
+    "lgaCount": 33,
+    "wardCount": 345,
+    "puCount": 6923,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "plateau",
+    "name": "Plateau",
+    "zoneId": "nc",
+    "lgaCount": 17,
+    "wardCount": 178,
+    "puCount": 3566,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "rivers",
+    "name": "Rivers",
+    "zoneId": "ss",
+    "lgaCount": 26,
+    "wardCount": 272,
+    "puCount": 5454,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "sokoto",
+    "name": "Sokoto",
+    "zoneId": "nw",
+    "lgaCount": 22,
+    "wardCount": 230,
+    "puCount": 4615,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "taraba",
+    "name": "Taraba",
+    "zoneId": "ne",
+    "lgaCount": 17,
+    "wardCount": 178,
+    "puCount": 3566,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "yobe",
+    "name": "Yobe",
+    "zoneId": "ne",
+    "lgaCount": 18,
+    "wardCount": 188,
+    "puCount": 3776,
+    "wardCountEstimated": true
+  },
+  {
+    "id": "zamfara",
+    "name": "Zamfara",
+    "zoneId": "nw",
+    "lgaCount": 15,
+    "wardCount": 157,
+    "puCount": 3147,
+    "wardCountEstimated": true
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": "isin__ward-01",
+    "name": "ALLA",
+    "lgaId": "kwara__isin",
+    "code": "23-10-01",
+    "puCount": 5
+  },
+  {
+    "id": "isin__ward-02",
+    "name": "EDIDI",
+    "lgaId": "kwara__isin",
+    "code": "23-10-02",
+    "puCount": 5
+  },
+  {
+    "id": "isin__ward-03",
+    "name": "ISANLU 1",
+    "lgaId": "kwara__isin",
+    "code": "23-10-03",
+    "puCount": 8
+  },
+  {
+    "id": "isin__ward-04",
+    "name": "ISANLU 11",
+    "lgaId": "kwara__isin",
+    "code": "23-10-04",
+    "puCount": 9
+  },
+  {
+    "id": "isin__ward-05",
+    "name": "IJARA",
+    "lgaId": "kwara__isin",
+    "code": "23-10-05",
+    "puCount": 9
+  },
+  {
+    "id": "isin__ward-06",
+    "name": "IWO",
+    "lgaId": "kwara__isin",
+    "code": "23-10-06",
+    "puCount": 6
+  },
+  {
+    "id": "isin__ward-07",
+    "name": "OWU ISIN",
+    "lgaId": "kwara__isin",
+    "code": "23-10-07",
+    "puCount": 9
+  },
+  {
+    "id": "isin__ward-08",
+    "name": "OKE ONIGBIN",
+    "lgaId": "kwara__isin",
+    "code": "23-10-08",
+    "puCount": 8
+  },
+  {
+    "id": "isin__ward-09",
+    "name": "SABAJA/PAMO",
+    "lgaId": "kwara__isin",
+    "code": "23-10-09",
+    "puCount": 6
+  },
+  {
+    "id": "isin__ward-10",
+    "name": "OKE ABA",
+    "lgaId": "kwara__isin",
+    "code": "23-10-10",
+    "puCount": 8
+  },
+  {
+    "id": "isin__ward-11",
+    "name": "OLLA",
+    "lgaId": "kwara__isin",
+    "code": "23-10-11",
+    "puCount": 7
+  }
+]

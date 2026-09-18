@@ -1,0 +1,5768 @@
+[
+  {
+    "id": "33-22-01-001",
+    "code": "33-22-01-001",
+    "name": "CHINWENYI HALL, PORT HACOURT I",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-002",
+    "code": "33-22-01-002",
+    "name": "CHINWENYI HALL, PORT HACOURT II",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-003",
+    "code": "33-22-01-003",
+    "name": "CHINWENYI HALL, PORT HACOURT III",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-004",
+    "code": "33-22-01-004",
+    "name": "STATE SCHOOL OROMENIKE I",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-005",
+    "code": "33-22-01-005",
+    "name": "STATE SCHOOL OROMENIKE II",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-006",
+    "code": "33-22-01-006",
+    "name": "STATE SCHOOL OROMENIKE III",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-007",
+    "code": "33-22-01-007",
+    "name": "STATE SCHOOL OROMENIKE IV",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-008",
+    "code": "33-22-01-008",
+    "name": "OBIRI IKWUNGA I",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-009",
+    "code": "33-22-01-009",
+    "name": "OBIRI IKWUNGA II",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-010",
+    "code": "33-22-01-010",
+    "name": "OBIRI IKWUNGA III",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-011",
+    "code": "33-22-01-011",
+    "name": "OPEN SPACE BY WOBIA GATE I (WOBIA GATE I)",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-012",
+    "code": "33-22-01-012",
+    "name": "OPEN SPACE BY WOBIA GATE I (WOBIA GATE II)",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-013",
+    "code": "33-22-01-013",
+    "name": "OPEN SPACE BY WOBIA GATE I(WOBIA GATE III)",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-014",
+    "code": "33-22-01-014",
+    "name": "EZIMGBU (CHINDA HALL) I",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-015",
+    "code": "33-22-01-015",
+    "name": "EZIMGBU (CHINDA HALL) II",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-016",
+    "code": "33-22-01-016",
+    "name": "EZIMGBU HALL SPACE I",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-017",
+    "code": "33-22-01-017",
+    "name": "EZIMGBU HALL SPACE II",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-018",
+    "code": "33-22-01-018",
+    "name": "EZIMGBU AJIKERU",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-019",
+    "code": "33-22-01-019",
+    "name": "EZIMGBU RUHU-ELI OPEN SPACE",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-020",
+    "code": "33-22-01-020",
+    "name": "EZIMGBU REWHA HALL",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-021",
+    "code": "33-22-01-021",
+    "name": "EZIMGBU OGUNKA OPEN SPACE I",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-022",
+    "code": "33-22-01-022",
+    "name": "EZIMGBU CHIIKE HALL",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-023",
+    "code": "33-22-01-023",
+    "name": "EZIMGBU TOMBIA STREET, G.R.A",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-024",
+    "code": "33-22-01-024",
+    "name": "OPEN SPACE BY PREFAB JUNCTION",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-025",
+    "code": "33-22-01-025",
+    "name": "OPEN SPACE BENJAMIN OPARA STREET BY RCCG GATE",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-026",
+    "code": "33-22-01-026",
+    "name": "STATE SCHOOL OROMENIKE V",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-027",
+    "code": "33-22-01-027",
+    "name": "STATE SCHOOL OROMENIKE VI",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-028",
+    "code": "33-22-01-028",
+    "name": "STATE SCHOOL OROMENIKE VII",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-029",
+    "code": "33-22-01-029",
+    "name": "STATE SCHOOL OROMENIKE VIII",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-030",
+    "code": "33-22-01-030",
+    "name": "OPEN SPACE BY PEREMABIRI STREET JUNCTION",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-031",
+    "code": "33-22-01-031",
+    "name": "OPEN SPACE BY EMEKUKU LANE",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-032",
+    "code": "33-22-01-032",
+    "name": "OPEN SPACE BY ABUJA LANE",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-033",
+    "code": "33-22-01-033",
+    "name": "OPEN SPACE BY ABACHA LINK ROAD",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-034",
+    "code": "33-22-01-034",
+    "name": "OPEN SPACE BY OHIAMINI JUNCTION",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-035",
+    "code": "33-22-01-035",
+    "name": "OPEN SPACE BY OBINUCHI CLOSE JUNCTION",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-036",
+    "code": "33-22-01-036",
+    "name": "EZIMGBU HALL SPACE III",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-037",
+    "code": "33-22-01-037",
+    "name": "EZIMGBU HALL SPACE IV",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-038",
+    "code": "33-22-01-038",
+    "name": "EZIMGBU HALL SPACE V",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-039",
+    "code": "33-22-01-039",
+    "name": "OPEN SPACE BY WOLUCHEM ESTATE EVELYN CLOSE",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-040",
+    "code": "33-22-01-040",
+    "name": "OPEN SPACE WOLUCHEM LINK ROAD BY TRANSFORMER",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-041",
+    "code": "33-22-01-041",
+    "name": "OPEN SPACE BY OZUNMA STREET MOPOL 19",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-042",
+    "code": "33-22-01-042",
+    "name": "OPEN SPACE OPP MOPOL 19 I",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-043",
+    "code": "33-22-01-043",
+    "name": "OPEN SPACE OPP MOPOL 19 II",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-044",
+    "code": "33-22-01-044",
+    "name": "OPEN SPACE BY KILIMAJARO I",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-045",
+    "code": "33-22-01-045",
+    "name": "OPEN SPACE BY KILIMANJARO II",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-046",
+    "code": "33-22-01-046",
+    "name": "IKEGWERE STREET JUNCTION EZIMGBU",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-047",
+    "code": "33-22-01-047",
+    "name": "EZIMGBU OGUNKA OPEN SPACE II",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-048",
+    "code": "33-22-01-048",
+    "name": "OPEN SPACE OPPOSITE DEEPER LIFE BIBLE CHURCH OROMERUEZIMGBU",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-049",
+    "code": "33-22-01-049",
+    "name": "EVO ROAD BY APARA JUNCTION",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-01-050",
+    "code": "33-22-01-050",
+    "name": "ONNE RD BY KING PEREKULE JUNCTION",
+    "wardId": "port-harcourt__ward-01"
+  },
+  {
+    "id": "33-22-02-001",
+    "code": "33-22-02-001",
+    "name": "OROGBUM CIVIC CENTER I",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-002",
+    "code": "33-22-02-002",
+    "name": "OROGBUM CIVIC CENTER II",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-003",
+    "code": "33-22-02-003",
+    "name": "OROGBUM CIVIC CENTER III",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-004",
+    "code": "33-22-02-004",
+    "name": "OROGBUM CIVIC CENTER IV",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-005",
+    "code": "33-22-02-005",
+    "name": "OROGBUM CIVIC CENTER V",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-006",
+    "code": "33-22-02-006",
+    "name": "OROGBUM CIVIC CENTER VI",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-007",
+    "code": "33-22-02-007",
+    "name": "WOKEKORO HALL I",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-008",
+    "code": "33-22-02-008",
+    "name": "WOKEKORO HALL II",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-009",
+    "code": "33-22-02-009",
+    "name": "WOKEKORO HALL III",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-010",
+    "code": "33-22-02-010",
+    "name": "WOKEKORO HALL IV",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-011",
+    "code": "33-22-02-011",
+    "name": "WOKEKORO HALL V",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-012",
+    "code": "33-22-02-012",
+    "name": "WOKEKORO HALL VI",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-013",
+    "code": "33-22-02-013",
+    "name": "OROGBUM PLAY GROUND I",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-014",
+    "code": "33-22-02-014",
+    "name": "OROGBUM PLAY GROUND II",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-015",
+    "code": "33-22-02-015",
+    "name": "OROGBUM PLAY GROUND III",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-016",
+    "code": "33-22-02-016",
+    "name": "OROGBUM PLAY GROUND IV",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-017",
+    "code": "33-22-02-017",
+    "name": "ORIEKU HALL (OROGBUMPLAYGROUNDV )",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-018",
+    "code": "33-22-02-018",
+    "name": "ORIEKU HALL I",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-019",
+    "code": "33-22-02-019",
+    "name": "ORIEKU HALL II",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-020",
+    "code": "33-22-02-020",
+    "name": "ORIEKU HALL III",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-021",
+    "code": "33-22-02-021",
+    "name": "OGBONDA HALL",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-022",
+    "code": "33-22-02-022",
+    "name": "AHIAMAKARA HALL I",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-023",
+    "code": "33-22-02-023",
+    "name": "AHIAMAKARA HALL II",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-024",
+    "code": "33-22-02-024",
+    "name": "AHIAMAKARA HALL III",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-025",
+    "code": "33-22-02-025",
+    "name": "AHIAMAKARA HALL IV",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-026",
+    "code": "33-22-02-026",
+    "name": "OBIRI EDE HALL",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-027",
+    "code": "33-22-02-027",
+    "name": "ODUM HALL",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-028",
+    "code": "33-22-02-028",
+    "name": "OKWORI HALL",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-029",
+    "code": "33-22-02-029",
+    "name": "OROGBUM CIVIC CENTER BY POWER HOUSE",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-030",
+    "code": "33-22-02-030",
+    "name": "OPEN SPACE OROGBUM CIVIC CENTER BY OKEH STREET JUNCTION",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-031",
+    "code": "33-22-02-031",
+    "name": "OPEN SPACE OROGBUM CIVIC CENTER BY ORIANKU STREET JUNCTION",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-032",
+    "code": "33-22-02-032",
+    "name": "OROGBUM CIVIC CENTER SECOND ENTRANCE",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-033",
+    "code": "33-22-02-033",
+    "name": "OBIRI EDE JUNCTION BY ANYAWATA OPEN SPACE",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-034",
+    "code": "33-22-02-034",
+    "name": "ODUM HALL OPEN SPACE I",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-035",
+    "code": "33-22-02-035",
+    "name": "ODUM HALL OPEN SPACE( BY SEDEE HOTEL)",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-036",
+    "code": "33-22-02-036",
+    "name": "ORIEKU HALL STREET BY T-JUNCTION (OPEN SPACE BY ORIEKU TRANSFORMER)",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-037",
+    "code": "33-22-02-037",
+    "name": "OPEN SPACE IN FRONT OF OGBONDA HALL",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-038",
+    "code": "33-22-02-038",
+    "name": "OBIRI EDE OPEN SPACE BY ASO ROCK JUNCTION",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-039",
+    "code": "33-22-02-039",
+    "name": "ODUM HALL (OPEN SPACE) BY YAM ZONE",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-02-040",
+    "code": "33-22-02-040",
+    "name": "OPEN SPACE BY OKWORI STREET JUNCTION (UP UP JESUS MINISTRY)",
+    "wardId": "port-harcourt__ward-02"
+  },
+  {
+    "id": "33-22-03-001",
+    "code": "33-22-03-001",
+    "name": "OGBUM-NU-ABALI HALL I",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-002",
+    "code": "33-22-03-002",
+    "name": "OGBUM-NU-ABALI HALL II",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-003",
+    "code": "33-22-03-003",
+    "name": "OGBUM-NU-ABALI HALL III",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-004",
+    "code": "33-22-03-004",
+    "name": "OGBUM-NU-ABALI HALL IV",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-005",
+    "code": "33-22-03-005",
+    "name": "ATAKO HALL I",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-006",
+    "code": "33-22-03-006",
+    "name": "ATAKO HALL II",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-007",
+    "code": "33-22-03-007",
+    "name": "ATAKO HALL III",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-008",
+    "code": "33-22-03-008",
+    "name": "ATAKO HALL IV",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-009",
+    "code": "33-22-03-009",
+    "name": "ATAKO HALL V",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-010",
+    "code": "33-22-03-010",
+    "name": "CHINWO HALL I (OBIRI AMADI I)",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-011",
+    "code": "33-22-03-011",
+    "name": "CHINWO HALL II (OBIRI AMADI II)",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-012",
+    "code": "33-22-03-012",
+    "name": "CHINWO HALL III (OBIRI AMADI III)",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-013",
+    "code": "33-22-03-013",
+    "name": "CHINWO HALL IV (OBIRI WORGU I)",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-014",
+    "code": "33-22-03-014",
+    "name": "CHINWO HALL V (OBIRI WORGU II)",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-015",
+    "code": "33-22-03-015",
+    "name": "CHINWO HALL VI (OBIRI NYECHE I)",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-016",
+    "code": "33-22-03-016",
+    "name": "CHINWO HALL VII (OBIRI NYECHE II)",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-017",
+    "code": "33-22-03-017",
+    "name": "CHIO KWA HALL I",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-018",
+    "code": "33-22-03-018",
+    "name": "OGBUM-NU-ABALI HALL (CHIOKWA HALL II)",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-019",
+    "code": "33-22-03-019",
+    "name": "CHIO KWA HALL III",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-020",
+    "code": "33-22-03-020",
+    "name": "CHIO KWA HALL IV",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-021",
+    "code": "33-22-03-021",
+    "name": "CHIO KWA HALL V",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-022",
+    "code": "33-22-03-022",
+    "name": "CHIO KWA HALL VI",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-023",
+    "code": "33-22-03-023",
+    "name": "CHIO KWA HALL VII",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-024",
+    "code": "33-22-03-024",
+    "name": "OGBUM-NU-ABALI HALL (CHIOKWA HALL VIII)",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-025",
+    "code": "33-22-03-025",
+    "name": "AMADI FLAT POLICE POST I",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-026",
+    "code": "33-22-03-026",
+    "name": "AMADI FLAT POLICE POST II",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-027",
+    "code": "33-22-03-027",
+    "name": "AMADI FLAT POLICE POST III",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-028",
+    "code": "33-22-03-028",
+    "name": "AMADI FLAT POLICE POST IV",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-029",
+    "code": "33-22-03-029",
+    "name": "AMADI FLAT POLICE POST V",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-030",
+    "code": "33-22-03-030",
+    "name": "AMADI FLAT POLICE POST VI",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-031",
+    "code": "33-22-03-031",
+    "name": "AMADI FLAT POLICE POST VII",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-032",
+    "code": "33-22-03-032",
+    "name": "ORIANWO HALL",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-033",
+    "code": "33-22-03-033",
+    "name": "OBIRI NYECHE III",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-034",
+    "code": "33-22-03-034",
+    "name": "OGBUM-NU-ABALI HALL V",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-035",
+    "code": "33-22-03-035",
+    "name": "OGBUM-NU-ABALI HALL VI",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-036",
+    "code": "33-22-03-036",
+    "name": "OGBUM-NU-ABALI HALL VII",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-037",
+    "code": "33-22-03-037",
+    "name": "OGBUM-NU-ABALI HALL VIII",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-038",
+    "code": "33-22-03-038",
+    "name": "OGBUM-NU-ABALI HALL IX",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-039",
+    "code": "33-22-03-039",
+    "name": "AMADI FLAT POLICE POST VIII MONIPOLO",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-040",
+    "code": "33-22-03-040",
+    "name": "AMADI FLAT POLICE POST IX BY AMASOMA JUNCTION",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-041",
+    "code": "33-22-03-041",
+    "name": "AMADI FLAT POLICE POST X BY OGBUNUABALI JUNCTION",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-03-042",
+    "code": "33-22-03-042",
+    "name": "AMADI FLAT POLICE POST XI BY HERBERT MACAULEY",
+    "wardId": "port-harcourt__ward-03"
+  },
+  {
+    "id": "33-22-04-001",
+    "code": "33-22-04-001",
+    "name": "P.H PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-002",
+    "code": "33-22-04-002",
+    "name": "P.H PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-003",
+    "code": "33-22-04-003",
+    "name": "P.H PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-004",
+    "code": "33-22-04-004",
+    "name": "P.H PRIMARY SCHOOL IV",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-005",
+    "code": "33-22-04-005",
+    "name": "PABOD PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-006",
+    "code": "33-22-04-006",
+    "name": "PABOD PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-007",
+    "code": "33-22-04-007",
+    "name": "PABOD PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-008",
+    "code": "33-22-04-008",
+    "name": "PABOD PRIMARY SCHOOL IV",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-009",
+    "code": "33-22-04-009",
+    "name": "PABOD PRIMARY SCHOOL V",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-010",
+    "code": "33-22-04-010",
+    "name": "PABOD PRIMARY SCHOOL VI",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-011",
+    "code": "33-22-04-011",
+    "name": "HOLY ROSARY SECONDARY SCHOOL I",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-012",
+    "code": "33-22-04-012",
+    "name": "HOLY ROSARY SECONDARY SCHOOL II",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-013",
+    "code": "33-22-04-013",
+    "name": "HOLY ROSARY SECONDARY SCHOOL III",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-014",
+    "code": "33-22-04-014",
+    "name": "HOLY ROSARY SECONDARY SCHOOL IV",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-015",
+    "code": "33-22-04-015",
+    "name": "HOLY ROSARY SECONDARY SCHOOL V",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-016",
+    "code": "33-22-04-016",
+    "name": "HOLY ROSARY SECONDARY SCHOOL VI",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-017",
+    "code": "33-22-04-017",
+    "name": "HOLY ROSARY SECONDARY SCHOOL VII",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-018",
+    "code": "33-22-04-018",
+    "name": "U.P.E SANGANA I",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-019",
+    "code": "33-22-04-019",
+    "name": "U.P.E SANGANA II",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-020",
+    "code": "33-22-04-020",
+    "name": "U.P.E SANGANA III",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-021",
+    "code": "33-22-04-021",
+    "name": "U.P.E SANGANA IV",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-022",
+    "code": "33-22-04-022",
+    "name": "U.P.E SANGANA V",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-023",
+    "code": "33-22-04-023",
+    "name": "U.P.E SANGANA VI",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-024",
+    "code": "33-22-04-024",
+    "name": "U.P.E SANGANA VII",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-025",
+    "code": "33-22-04-025",
+    "name": "U.P.E SANGANA VIII",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-026",
+    "code": "33-22-04-026",
+    "name": "U.P.E SANGANA IX",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-027",
+    "code": "33-22-04-027",
+    "name": "U.P.E SANGANA X",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-028",
+    "code": "33-22-04-028",
+    "name": "U.P.E SANGANA XI",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-029",
+    "code": "33-22-04-029",
+    "name": "U.P.E. SANGANA XII",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-030",
+    "code": "33-22-04-030",
+    "name": "U.P.E. SANGANA XIII",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-031",
+    "code": "33-22-04-031",
+    "name": "U.P.E OROGBUM SCHOOL I",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-032",
+    "code": "33-22-04-032",
+    "name": "U.P.E OROGBUM SCHOOL II",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-033",
+    "code": "33-22-04-033",
+    "name": "U.P.E OROGBUM SCHOOL III",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-034",
+    "code": "33-22-04-034",
+    "name": "U.P.E OROGBUM SCHOOL IV",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-035",
+    "code": "33-22-04-035",
+    "name": "U.P.E OROGBUM SCHOOL V",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-036",
+    "code": "33-22-04-036",
+    "name": "U.P.E OROGBUM SCHOOL VI",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-037",
+    "code": "33-22-04-037",
+    "name": "U.P.E. OROGBUM SCHOOL VII",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-038",
+    "code": "33-22-04-038",
+    "name": "P.H PRIMARY SCHOOL V",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-039",
+    "code": "33-22-04-039",
+    "name": "P.H PRIMARY SCHOOL VI",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-040",
+    "code": "33-22-04-040",
+    "name": "FAITH BAPTIST COLLEGE",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-041",
+    "code": "33-22-04-041",
+    "name": "FAITH BAPTIST COLLEGE I",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-042",
+    "code": "33-22-04-042",
+    "name": "FAITH BAPTIST COLLEGE II",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-043",
+    "code": "33-22-04-043",
+    "name": "UPE SANGANA BY BENIN STREET JUNCTION",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-044",
+    "code": "33-22-04-044",
+    "name": "UPE SANGANA BY UYO STREET JUNCTION",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-045",
+    "code": "33-22-04-045",
+    "name": "UPE SANGANA BY OPOROMA STREET JUNCTION",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-046",
+    "code": "33-22-04-046",
+    "name": "UPE SANGANA BY ABAK STREET JUNCTION",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-047",
+    "code": "33-22-04-047",
+    "name": "UPE SANGANA BY AFAM STREET JUNCTION",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-048",
+    "code": "33-22-04-048",
+    "name": "UPE OROGBUM SCHOOL VIII PRY IA",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-049",
+    "code": "33-22-04-049",
+    "name": "UPE OROGBUM SCHOOL IX PRY 1B",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-050",
+    "code": "33-22-04-050",
+    "name": "UPE OROGBUM SCHOOL X PRY 2A",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-04-051",
+    "code": "33-22-04-051",
+    "name": "UPE OROGBUM SCHOOL XI PRY 2B",
+    "wardId": "port-harcourt__ward-04"
+  },
+  {
+    "id": "33-22-05-001",
+    "code": "33-22-05-001",
+    "name": "ST. MARY'S PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-002",
+    "code": "33-22-05-002",
+    "name": "ST. MARY'S PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-003",
+    "code": "33-22-05-003",
+    "name": "ST. MARY'S PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-004",
+    "code": "33-22-05-004",
+    "name": "ST. MARY'S PRIMARY SCHOOL IV",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-005",
+    "code": "33-22-05-005",
+    "name": "ST. MARY'S PRIMARY SCHOOL V",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-006",
+    "code": "33-22-05-006",
+    "name": "ST. MARY'S PRIMARY SCHOOL VI",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-007",
+    "code": "33-22-05-007",
+    "name": "ST. MARY'S PRIMARY SCHOOL VII",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-008",
+    "code": "33-22-05-008",
+    "name": "ST. MARY'S PRIMARY SCHOOL VIII",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-009",
+    "code": "33-22-05-009",
+    "name": "SEA SHELL PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-010",
+    "code": "33-22-05-010",
+    "name": "SEA SHELL PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-011",
+    "code": "33-22-05-011",
+    "name": "SEA SHELL PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-012",
+    "code": "33-22-05-012",
+    "name": "BERNARD CARR PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-013",
+    "code": "33-22-05-013",
+    "name": "BERNARD CARR PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-014",
+    "code": "33-22-05-014",
+    "name": "BERNARD CARR PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-015",
+    "code": "33-22-05-015",
+    "name": "BERNARD CARR PRIMARY SCHOOL IIV",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-016",
+    "code": "33-22-05-016",
+    "name": "BERNARD CARR PRIMARY SCHOOL V",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-017",
+    "code": "33-22-05-017",
+    "name": "BERNARD CARR PRIMARY SCHOOL VI",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-018",
+    "code": "33-22-05-018",
+    "name": "BERNARD CARR PRIMARY SCHOOL VII",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-019",
+    "code": "33-22-05-019",
+    "name": "STELLA MARRIS COLLEGE I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-020",
+    "code": "33-22-05-020",
+    "name": "STELLA MARRIS COLLEGE II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-021",
+    "code": "33-22-05-021",
+    "name": "STELLA MARRIS COLLEGE III",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-022",
+    "code": "33-22-05-022",
+    "name": "STELLA MARRIS COLLEGE IV",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-023",
+    "code": "33-22-05-023",
+    "name": "STELLA MARRIS COLLEGE V",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-024",
+    "code": "33-22-05-024",
+    "name": "STELLA MARRIS COLLEGE VI",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-025",
+    "code": "33-22-05-025",
+    "name": "STATE SCHOOL BUNDU I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-026",
+    "code": "33-22-05-026",
+    "name": "STATE SCHOOL BUNDU II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-027",
+    "code": "33-22-05-027",
+    "name": "STATE SCHOOL BUNDU III",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-028",
+    "code": "33-22-05-028",
+    "name": "STATE SCHOOL BUNDU IV",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-029",
+    "code": "33-22-05-029",
+    "name": "STATE SCHOOL BUNDU V",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-030",
+    "code": "33-22-05-030",
+    "name": "2, FIELD ROAD I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-031",
+    "code": "33-22-05-031",
+    "name": "2, FIELD ROAD II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-032",
+    "code": "33-22-05-032",
+    "name": "BENDE STREET BASKETBALL PITCH",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-033",
+    "code": "33-22-05-033",
+    "name": "ST. CYPRIAN'S SCHOOL HOSPITAL ROAD I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-034",
+    "code": "33-22-05-034",
+    "name": "ST. CYPRIAN'S SCHOOL HOSPITAL ROAD II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-035",
+    "code": "33-22-05-035",
+    "name": "ST. CYPRIAN'S SCHOOL HOSPITAL ROAD III",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-036",
+    "code": "33-22-05-036",
+    "name": "ST. CYPRIAN'S SCHOOL HOSPITAL ROAD IV",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-037",
+    "code": "33-22-05-037",
+    "name": "ST. CYPRIAN'S SCHOOL HOSPITAL ROAD V",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-038",
+    "code": "33-22-05-038",
+    "name": "OPEN SPACE ALONG CREEK ROAD",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-039",
+    "code": "33-22-05-039",
+    "name": "NEMBE WATER FRONT I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-040",
+    "code": "33-22-05-040",
+    "name": "NEMBE WATER FRONT II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-041",
+    "code": "33-22-05-041",
+    "name": "JOHNSON POLO I BY 2ND STREET EASTERN BY-PASS (N.U.J MOSCOW ROAD I)",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-042",
+    "code": "33-22-05-042",
+    "name": "JOHNSON POLO II BY 4TH STREET EASTERN BY-PASS (N.U.J MOSCOW ROAD II)",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-043",
+    "code": "33-22-05-043",
+    "name": "JOHNSON POLO III BY 2ND AVENUE EASTERN BY-PASS (N.U.J MOSCOW ROAD III)",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-044",
+    "code": "33-22-05-044",
+    "name": "N.U.J MOSCOW ROAD IV",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-045",
+    "code": "33-22-05-045",
+    "name": "N.U.J MOSCOW ROAD V",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-046",
+    "code": "33-22-05-046",
+    "name": "C.P.S. PORT- HARCOURT I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-047",
+    "code": "33-22-05-047",
+    "name": "C.P.S. PORT- HARCOURT II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-048",
+    "code": "33-22-05-048",
+    "name": "C.P.S. PORT- HARCOURT III",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-049",
+    "code": "33-22-05-049",
+    "name": "C.P.S. PORT- HARCOURT IV",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-050",
+    "code": "33-22-05-050",
+    "name": "C.P.S. PORT- HARCOURT V",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-051",
+    "code": "33-22-05-051",
+    "name": "C.P.S. PORT- HARCOURT VI",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-052",
+    "code": "33-22-05-052",
+    "name": "C.P.S. PORT HARCOURT VII",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-053",
+    "code": "33-22-05-053",
+    "name": "C.P.S. PORT HARCOURT VIII",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-054",
+    "code": "33-22-05-054",
+    "name": "C.P.S. PORT HARCOURT IX",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-055",
+    "code": "33-22-05-055",
+    "name": "G.G.S.S HAROUR ROAD I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-056",
+    "code": "33-22-05-056",
+    "name": "G.G.S.S HAROUR ROAD II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-057",
+    "code": "33-22-05-057",
+    "name": "G.G.S.S HAROUR ROAD III",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-058",
+    "code": "33-22-05-058",
+    "name": "G.G.S.S HAROUR ROAD IV",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-059",
+    "code": "33-22-05-059",
+    "name": "G.G.S.S HAROUR ROAD V",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-060",
+    "code": "33-22-05-060",
+    "name": "G.G.S.S HAROUR ROAD VI",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-061",
+    "code": "33-22-05-061",
+    "name": "NPA DOCKYARD GATE",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-062",
+    "code": "33-22-05-062",
+    "name": "POLICE QUARTERS CREEK ROAD",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-063",
+    "code": "33-22-05-063",
+    "name": "OPPOSITE ADOK'S FILLING STATION",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-064",
+    "code": "33-22-05-064",
+    "name": "OPEN SPACE BY PRISON FENCE",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-065",
+    "code": "33-22-05-065",
+    "name": "OPEN SPACE BY PRISON WATER SLOPE",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-066",
+    "code": "33-22-05-066",
+    "name": "OPEN SPACE BY PRISON POLICE CHECK POINT",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-067",
+    "code": "33-22-05-067",
+    "name": "OPEN SPACE DOCKYARD GATE I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-068",
+    "code": "33-22-05-068",
+    "name": "OPEN SPACE DOCKYARD GATE II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-069",
+    "code": "33-22-05-069",
+    "name": "OPEN SPACE ODUAL RD BY FBN I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-070",
+    "code": "33-22-05-070",
+    "name": "OPEN SPACE ODUAL RD BY FBN II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-071",
+    "code": "33-22-05-071",
+    "name": "OPEN SPACE BY DEGEMA STREET FM STUDIO",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-072",
+    "code": "33-22-05-072",
+    "name": "OPEN SPACE DEGEMA STREET BY PHOTO FINESE",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-073",
+    "code": "33-22-05-073",
+    "name": "OPEN SPACE DEGEMA STREET BY PHOTO STUDIO",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-074",
+    "code": "33-22-05-074",
+    "name": "OPEN SPACE BY SEA SHELL MECHANIC WORKSHOP GATE I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-075",
+    "code": "33-22-05-075",
+    "name": "OPEN SPACE SEA SHELL BY NPA ROUNDABOUT",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-076",
+    "code": "33-22-05-076",
+    "name": "OPEN SPACE SEA SHELL BY MECHANIC WORKSHOP II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-077",
+    "code": "33-22-05-077",
+    "name": "OPEN SPACE BERNARD CARR BY LIBRARY",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-078",
+    "code": "33-22-05-078",
+    "name": "OPEN SPACE BERNARD CARR BY LIBRARY I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-079",
+    "code": "33-22-05-079",
+    "name": "OPEN SPACE TAMKO STREET",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-080",
+    "code": "33-22-05-080",
+    "name": "OPEN SPACE BY CHF. CJ ABIBO STREET JUNCTION",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-081",
+    "code": "33-22-05-081",
+    "name": "OPEN SPACE MACCOBA BY CARAVAN",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-082",
+    "code": "33-22-05-082",
+    "name": "BUNDU COMMUNITY PLAYGROUND I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-083",
+    "code": "33-22-05-083",
+    "name": "BUNDU COMMUNITY PLAYGROUND II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-084",
+    "code": "33-22-05-084",
+    "name": "BUNDU COMMUNITY PLAYGROUND III",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-085",
+    "code": "33-22-05-085",
+    "name": "BUNDU MARKET I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-086",
+    "code": "33-22-05-086",
+    "name": "BUNDU MARKET II",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-087",
+    "code": "33-22-05-087",
+    "name": "BASKETBALL PITCH II BY SUYA LINE",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-088",
+    "code": "33-22-05-088",
+    "name": "ST CYPRIAN'S SCHOOL BY HOSPITAL ROAD VI",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-089",
+    "code": "33-22-05-089",
+    "name": "CREEK ROAD OPEN SPACE",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-090",
+    "code": "33-22-05-090",
+    "name": "NEMBE WATERFRONT OPEN SPACE",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-091",
+    "code": "33-22-05-091",
+    "name": "JOHNSON POLO IV CAR STAND BY EASTERN BY-PASS",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-092",
+    "code": "33-22-05-092",
+    "name": "JOHNSON POLO V BY NDDC EASTERN BY-PASS",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-093",
+    "code": "33-22-05-093",
+    "name": "G.G.S.S HABOUR ROAD VII",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-094",
+    "code": "33-22-05-094",
+    "name": "G.G.S.S HABOUR ROAD VIII",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-095",
+    "code": "33-22-05-095",
+    "name": "G.G.S.S HABOUR ROAD IX",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-096",
+    "code": "33-22-05-096",
+    "name": "G.G.S.S HABOUR ROAD X",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-097",
+    "code": "33-22-05-097",
+    "name": "NPA DOCKYARD BY PRISON GATE",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-05-098",
+    "code": "33-22-05-098",
+    "name": "OPPOSITE ADOKS FILLING STATION I",
+    "wardId": "port-harcourt__ward-05"
+  },
+  {
+    "id": "33-22-06-001",
+    "code": "33-22-06-001",
+    "name": "ST. JUDE'S PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-002",
+    "code": "33-22-06-002",
+    "name": "ST. JUDE'S PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-003",
+    "code": "33-22-06-003",
+    "name": "NEAR FORMER PAN BANK I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-004",
+    "code": "33-22-06-004",
+    "name": "NEAR FORMER PAN BANK II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-005",
+    "code": "33-22-06-005",
+    "name": "NEAR FORMER PAN BANK III",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-006",
+    "code": "33-22-06-006",
+    "name": "6 FIELD (BENDE STREET) I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-007",
+    "code": "33-22-06-007",
+    "name": "6 FIELD (BENDE STREET) II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-008",
+    "code": "33-22-06-008",
+    "name": "6 FIELD (BENDE STREET) III",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-009",
+    "code": "33-22-06-009",
+    "name": "6 FIELD (BENDE STREET) IV",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-010",
+    "code": "33-22-06-010",
+    "name": "6 FIELD (BENDE STREET) V",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-011",
+    "code": "33-22-06-011",
+    "name": "6 FIELD (BENDE STREET)VI",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-012",
+    "code": "33-22-06-012",
+    "name": "CULTURAL CENTRE I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-013",
+    "code": "33-22-06-013",
+    "name": "CULTURAL CENTRE II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-014",
+    "code": "33-22-06-014",
+    "name": "CULTURAL CENTRE III",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-015",
+    "code": "33-22-06-015",
+    "name": "CULTURAL CENTRE IV",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-016",
+    "code": "33-22-06-016",
+    "name": "ST. PETER'S PRIMARY SCHOOL, OPP. C.S.S. BOOKSHOP I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-017",
+    "code": "33-22-06-017",
+    "name": "ST. PETER'S PRIMARY SCHOOL, OPP. C.S.S. BOOKSHOP II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-018",
+    "code": "33-22-06-018",
+    "name": "WATER GLASS BOAT YARD I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-019",
+    "code": "33-22-06-019",
+    "name": "WATER GLASS BOAT YARD II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-020",
+    "code": "33-22-06-020",
+    "name": "MARINE BASE I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-021",
+    "code": "33-22-06-021",
+    "name": "MARINE BASE II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-022",
+    "code": "33-22-06-022",
+    "name": "MARINE BASE III",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-023",
+    "code": "33-22-06-023",
+    "name": "U.N.A PRIMARY SCHOOL",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-024",
+    "code": "33-22-06-024",
+    "name": "AGGREY ROAD (AFTER BANHAM) I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-025",
+    "code": "33-22-06-025",
+    "name": "AGGREY ROAD (AFTER BANHAM) II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-026",
+    "code": "33-22-06-026",
+    "name": "AGGREY ROAD (AFTER BANHAM) III",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-027",
+    "code": "33-22-06-027",
+    "name": "BANHAM PRIMARY SCHOOL",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-028",
+    "code": "33-22-06-028",
+    "name": "BANHAM PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-029",
+    "code": "33-22-06-029",
+    "name": "BANHAM PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-030",
+    "code": "33-22-06-030",
+    "name": "BANHAM PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-031",
+    "code": "33-22-06-031",
+    "name": "HANDICAP CENTRE,ALONG CREEKROAD I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-032",
+    "code": "33-22-06-032",
+    "name": "HANDICAP CENTRE,ALONG CREEKROAD II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-033",
+    "code": "33-22-06-033",
+    "name": "HANDICAP CENTRE,ALONG CREEK ROAD III",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-034",
+    "code": "33-22-06-034",
+    "name": "HANDICAP CENTRE,ALONG CREEK ROAD IV",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-035",
+    "code": "33-22-06-035",
+    "name": "HANDICAP CENTRE,ALONG CREEK ROAD V",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-036",
+    "code": "33-22-06-036",
+    "name": "HANDICAP CENTRE,ALONG CREEK ROAD VI",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-037",
+    "code": "33-22-06-037",
+    "name": "HANDICAP CENTRE, ALONG CREEK ROAD III",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-038",
+    "code": "33-22-06-038",
+    "name": "HANDICAP CENTRE, ALONG CREEK ROAD IV",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-039",
+    "code": "33-22-06-039",
+    "name": "HANDICAP CENTRE, ALONG CREEK ROAD V",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-040",
+    "code": "33-22-06-040",
+    "name": "HANDICAP CENTRE, ALONG CREEK ROAD VI",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-041",
+    "code": "33-22-06-041",
+    "name": "TOWNSHIP SCHOOL, MOSCOW ROAD I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-042",
+    "code": "33-22-06-042",
+    "name": "TOWNSHIP SCHOOL, MOSCOW ROAD II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-043",
+    "code": "33-22-06-043",
+    "name": "TOWNSHIP SCHOOL, MOSCOW ROAD III",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-044",
+    "code": "33-22-06-044",
+    "name": "AGGREY ESTATE OPEN SPACE BY NEPA",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-045",
+    "code": "33-22-06-045",
+    "name": "OPEN SPACE BLACK MAN ESTATE I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-046",
+    "code": "33-22-06-046",
+    "name": "OPEN SPACE BLACK MAN ESTATE II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-047",
+    "code": "33-22-06-047",
+    "name": "OPEN FIELD BLACK MAN ESTATE",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-048",
+    "code": "33-22-06-048",
+    "name": "BANHAM SCHOOL BY WESLEY CHURCH",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-049",
+    "code": "33-22-06-049",
+    "name": "BANHAM SCHOOL BY WESLEY CHURCH II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-050",
+    "code": "33-22-06-050",
+    "name": "BANHAM BY CEMETERY JUNCTION",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-051",
+    "code": "33-22-06-051",
+    "name": "OKRIKA WATERSIDE OPEN FIELD I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-052",
+    "code": "33-22-06-052",
+    "name": "OKRIKA WATERSIDE OPEN FIELD II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-053",
+    "code": "33-22-06-053",
+    "name": "WATER GLASS BOAT YARD III",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-054",
+    "code": "33-22-06-054",
+    "name": "INFORMATION CENTER",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-055",
+    "code": "33-22-06-055",
+    "name": "INFORMATION CENTER I",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-056",
+    "code": "33-22-06-056",
+    "name": "OKRIKA WATERSIDE OPEN SPACE BY CSS BOOKSHOP",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-06-057",
+    "code": "33-22-06-057",
+    "name": "INFORMATION CENTER II",
+    "wardId": "port-harcourt__ward-06"
+  },
+  {
+    "id": "33-22-07-001",
+    "code": "33-22-07-001",
+    "name": "GOVT. COMP. SECONDARY SCHOOL BOROKIRI I",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-002",
+    "code": "33-22-07-002",
+    "name": "GOVT. COMP. SECONDARY SCHOOL BOROKIRI II",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-003",
+    "code": "33-22-07-003",
+    "name": "GOVT. COMP. SECONDARY SCHOOL BOROKIRI III",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-004",
+    "code": "33-22-07-004",
+    "name": "GOVT. COMP. SECONDARY SCHOOL BOROKIRI IV",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-005",
+    "code": "33-22-07-005",
+    "name": "GOVT SECONDARY SCHOOL BOROKIRI V",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-006",
+    "code": "33-22-07-006",
+    "name": "GOVT. SECONDARY SCHOOL BOROKIRI VI",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-007",
+    "code": "33-22-07-007",
+    "name": "GOVT. SECONDARY SCHOOL BOROKIRI VII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-008",
+    "code": "33-22-07-008",
+    "name": "GOVT. SECONDARY SCHOOL BOROKIRI VIII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-009",
+    "code": "33-22-07-009",
+    "name": "GOVT. SECONDARY SCHOOL BOROKIRI IX",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-010",
+    "code": "33-22-07-010",
+    "name": "GOVT. SECONDARY SCHOOL BOROKIRI X",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-011",
+    "code": "33-22-07-011",
+    "name": "GOVT. SECONDARY SCHOOL BOROKIRI XI",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-012",
+    "code": "33-22-07-012",
+    "name": "GOVT. SECONDARY SCHOOL BOROKIRI XII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-013",
+    "code": "33-22-07-013",
+    "name": "GOVT. SECONDARY SCHOOL BOROKIRI XIII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-014",
+    "code": "33-22-07-014",
+    "name": "GOVT. SECONDARY SCHOOL BOROKIRI XIV",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-015",
+    "code": "33-22-07-015",
+    "name": "ENITONA HIGH SCHOOL BOROKIRI I",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-016",
+    "code": "33-22-07-016",
+    "name": "BOKOKIRI SCHOOL I",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-017",
+    "code": "33-22-07-017",
+    "name": "BOKOKIRI SCHOOL II",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-018",
+    "code": "33-22-07-018",
+    "name": "BOKOKIRI SCHOOL III",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-019",
+    "code": "33-22-07-019",
+    "name": "BOKOKIRI SCHOOL IV",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-020",
+    "code": "33-22-07-020",
+    "name": "BOKOKIRI SCHOOL V",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-021",
+    "code": "33-22-07-021",
+    "name": "UPE MODEL PRIMARY SCHOOL BOROKIRI I",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-022",
+    "code": "33-22-07-022",
+    "name": "UPE MODEL PRIMARY SCHOOL BOROKIRI II",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-023",
+    "code": "33-22-07-023",
+    "name": "UPE MODEL PRIMARY SCHOOL BOROKIRI III",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-024",
+    "code": "33-22-07-024",
+    "name": "UPE MODEL PRIMARY SCHOOL BOROKIRI IV",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-025",
+    "code": "33-22-07-025",
+    "name": "UPE MODEL PRIMARY SCHOOL BOROKIRI V",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-026",
+    "code": "33-22-07-026",
+    "name": "UPE MODEL PRIMARY SCHOOL BOROKIRI VI",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-027",
+    "code": "33-22-07-027",
+    "name": "UPE MODEL PRIMARY SCHOOL BOROKIRI VII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-028",
+    "code": "33-22-07-028",
+    "name": "UPE MODEL PRIMARY SCHOOL BOROKIRI VIII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-029",
+    "code": "33-22-07-029",
+    "name": "BAPTIST HIGH SCHOOL I",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-030",
+    "code": "33-22-07-030",
+    "name": "BAPTIST HIGH SCHOOL II",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-031",
+    "code": "33-22-07-031",
+    "name": "BAPTIST HIGH SCHOOL III",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-032",
+    "code": "33-22-07-032",
+    "name": "BAPTIST HIGH SCHOOL IV",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-033",
+    "code": "33-22-07-033",
+    "name": "BAPTIST HIGH SCHOOL V",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-034",
+    "code": "33-22-07-034",
+    "name": "BAPTIST HIGH SCHOOL VI",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-035",
+    "code": "33-22-07-035",
+    "name": "BAPTIST HIGH SCHOOL VII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-036",
+    "code": "33-22-07-036",
+    "name": "BAPTIST HIGH SCHOOL VIII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-037",
+    "code": "33-22-07-037",
+    "name": "BAPTIST HIGH SCHOOL IX",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-038",
+    "code": "33-22-07-038",
+    "name": "BAPTIST HIGH SCHOOL X",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-039",
+    "code": "33-22-07-039",
+    "name": "ST. JOHN PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-040",
+    "code": "33-22-07-040",
+    "name": "ST. JOHN PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-041",
+    "code": "33-22-07-041",
+    "name": "ST. JOHN PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-042",
+    "code": "33-22-07-042",
+    "name": "ST. JOHN PRIMARY SCHOOL IV",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-043",
+    "code": "33-22-07-043",
+    "name": "ST. JOHN PRIMARY SCHOOL V",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-044",
+    "code": "33-22-07-044",
+    "name": "ST. JOHN PRIMARY SCHOOL VI",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-045",
+    "code": "33-22-07-045",
+    "name": "ST. JOHN PRIMARY SCHOOL VII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-046",
+    "code": "33-22-07-046",
+    "name": "ST. JOHN PRIMARY SCHOOL VIII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-047",
+    "code": "33-22-07-047",
+    "name": "ST. JOHN PRIMARY SCHOOL VIII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-048",
+    "code": "33-22-07-048",
+    "name": "IBADAN STREET PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-049",
+    "code": "33-22-07-049",
+    "name": "IBADAN STREET PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-050",
+    "code": "33-22-07-050",
+    "name": "IBADAN STREET PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-051",
+    "code": "33-22-07-051",
+    "name": "IBADAN STREET PRIMARY SCHOOL IV",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-052",
+    "code": "33-22-07-052",
+    "name": "IBADAN STREET PRIMARY SCHOOL V",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-053",
+    "code": "33-22-07-053",
+    "name": "IBADAN STREET PRIMARY SCHOOL VI",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-054",
+    "code": "33-22-07-054",
+    "name": "IBADAN STREET PRIMARY SCHOOL VII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-055",
+    "code": "33-22-07-055",
+    "name": "IBADAN STREET PRIMARY SCHOOL VIII",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-056",
+    "code": "33-22-07-056",
+    "name": "IBADAN STREET PRIMARY SCHOOL IX",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-057",
+    "code": "33-22-07-057",
+    "name": "IBADAN STREET PRIMARY SCHOOL X",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-058",
+    "code": "33-22-07-058",
+    "name": "ABORIGINE HALL BY OKAKI STREET",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-059",
+    "code": "33-22-07-059",
+    "name": "ABORIGINE HALL II BY OKAKI STREET",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-060",
+    "code": "33-22-07-060",
+    "name": "OPEN SPACE BY ABORIGINE HALL OKAKI STREET",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-061",
+    "code": "33-22-07-061",
+    "name": "GOVT. APPROVED SCHOOL",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-062",
+    "code": "33-22-07-062",
+    "name": "GOVT. APPROVED SCHOOL I",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-063",
+    "code": "33-22-07-063",
+    "name": "OPEN SPACE FIRE SERVICE",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-064",
+    "code": "33-22-07-064",
+    "name": "OPEN SPACE BY FIRE SERVICE PREMISES",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-065",
+    "code": "33-22-07-065",
+    "name": "OPEN SPACE BY FIRE SERVICE PREMISES I",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-066",
+    "code": "33-22-07-066",
+    "name": "OPEN SPACE BY FIRE SERVICE PREMISES II",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-067",
+    "code": "33-22-07-067",
+    "name": "OPEN SPACE BY FIRE SERVICE PREMISES III",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-068",
+    "code": "33-22-07-068",
+    "name": "OPEN SPACE BY FIRE SERVICE/ ETERNA STATION",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-069",
+    "code": "33-22-07-069",
+    "name": "OPEN SPACE BY FIRE SERVICE SANDFIELD",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-070",
+    "code": "33-22-07-070",
+    "name": "GOVT. APPROVED SCHOOL II",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-071",
+    "code": "33-22-07-071",
+    "name": "OPEN SPACE PLAZA BY BAPTIST HIGH SCHOOL",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-072",
+    "code": "33-22-07-072",
+    "name": "OPEN SPACE PLAZA BY BAPTIST HIGH SCHOOL I",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-073",
+    "code": "33-22-07-073",
+    "name": "OPEN SPACE PLAZA BY BAPTIST HIGH SCHOOL II",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-074",
+    "code": "33-22-07-074",
+    "name": "OPEN SPACE PLAZA BY BAPTIST HIGH SCHOOL III",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-07-075",
+    "code": "33-22-07-075",
+    "name": "OPEN SPACE PLAZA BY BAPTIST HIGH SCHOOL IV",
+    "wardId": "port-harcourt__ward-07"
+  },
+  {
+    "id": "33-22-08-001",
+    "code": "33-22-08-001",
+    "name": "ST. JOHN'S COLLEGE I",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-002",
+    "code": "33-22-08-002",
+    "name": "ST. JOHN'S COLLEGE II",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-003",
+    "code": "33-22-08-003",
+    "name": "ST. JOHN'S COLLEGE III",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-004",
+    "code": "33-22-08-004",
+    "name": "OCHIRI HALL OPEN SPACE I",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-005",
+    "code": "33-22-08-005",
+    "name": "OCHIRI HALL OPEN SPACE II",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-006",
+    "code": "33-22-08-006",
+    "name": "OCHIRI HALL OPEN SPACE III",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-007",
+    "code": "33-22-08-007",
+    "name": "OCHIRI HALL OPEN SPACE IV",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-008",
+    "code": "33-22-08-008",
+    "name": "OCHIRI HALL OPEN SPACE V",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-009",
+    "code": "33-22-08-009",
+    "name": "REBISI HALL OPEN SPACE I",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-010",
+    "code": "33-22-08-010",
+    "name": "REBISI HALL OPEN SPACE II",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-011",
+    "code": "33-22-08-011",
+    "name": "REBISI HALL OPEN SPACE III",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-012",
+    "code": "33-22-08-012",
+    "name": "AMADI KALAGBOR HALL",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-013",
+    "code": "33-22-08-013",
+    "name": "CHUKU-OLUNDA HALL",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-014",
+    "code": "33-22-08-014",
+    "name": "ENYO HALL",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-015",
+    "code": "33-22-08-015",
+    "name": "OPEN SPACE GBEKE HALL",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-016",
+    "code": "33-22-08-016",
+    "name": "HILLTOP DRIVE JUNCTION BY RCCG, RUMUKALAGBOR",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-017",
+    "code": "33-22-08-017",
+    "name": "MARKET SQUARE RUMUKALAGBOR",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-018",
+    "code": "33-22-08-018",
+    "name": "NENE HALL",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-019",
+    "code": "33-22-08-019",
+    "name": "NENE HALL I",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-020",
+    "code": "33-22-08-020",
+    "name": "KPADELLI STREET JUNCTION BY WOLUCHOR",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-021",
+    "code": "33-22-08-021",
+    "name": "OROCHIRI COMMUNITY TOWN HALL",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-022",
+    "code": "33-22-08-022",
+    "name": "REBISI HALL OPEN SPACE IV",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-023",
+    "code": "33-22-08-023",
+    "name": "OBIRI REBISI EKANINWO",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-024",
+    "code": "33-22-08-024",
+    "name": "OBIRI REBISI EKANINWO I",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-025",
+    "code": "33-22-08-025",
+    "name": "OPEN SPACE AMADI KALAGBOR HALL I",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-08-026",
+    "code": "33-22-08-026",
+    "name": "OPEN SPACE BY KINIKANWO",
+    "wardId": "port-harcourt__ward-08"
+  },
+  {
+    "id": "33-22-09-001",
+    "code": "33-22-09-001",
+    "name": "OGBONDA MATI HALL I",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-002",
+    "code": "33-22-09-002",
+    "name": "OPEN SPACE BY BADUME HALL (OGBONDA MATI HALL II)",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-003",
+    "code": "33-22-09-003",
+    "name": "OGBONDA MATI HALL III",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-004",
+    "code": "33-22-09-004",
+    "name": "OGBONDA MATI HALL IV",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-005",
+    "code": "33-22-09-005",
+    "name": "OROWORUKWO TOWN HALL SPACE I",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-006",
+    "code": "33-22-09-006",
+    "name": "OROWORUKWO TOWN HALL SPACE II",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-007",
+    "code": "33-22-09-007",
+    "name": "OROWORUKWO TOWN HALL SPACE III",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-008",
+    "code": "33-22-09-008",
+    "name": "OROWORUKWO TOWN HALL SPACE IV",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-009",
+    "code": "33-22-09-009",
+    "name": "OROWORUKWO TOWN HALL SPACE V",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-010",
+    "code": "33-22-09-010",
+    "name": "ST. PAUL'S SCHOOL I",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-011",
+    "code": "33-22-09-011",
+    "name": "ST. PAUL'S SCHOOL II",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-012",
+    "code": "33-22-09-012",
+    "name": "ST. PAUL'S SCHOOL III",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-013",
+    "code": "33-22-09-013",
+    "name": "OPEN SPACE BY ICHENWO HALL I(ICHENWO HALL I)",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-014",
+    "code": "33-22-09-014",
+    "name": "OPEN SPACE BY ICHENWO HALL II(ICHENWO HALL II)",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-015",
+    "code": "33-22-09-015",
+    "name": "OPEN SPACE OGBU HALL BY EJEGE JUNCTION (OGBU HALL)",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-016",
+    "code": "33-22-09-016",
+    "name": "OPEN SPACE OGOLOMA HALL BY OGOLOMA STREET (OGOLOMA HALL)",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-017",
+    "code": "33-22-09-017",
+    "name": "OPEN SPACE OWIRIWA HALL BY AMADI STREET (OWIRIWA HALL)",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-018",
+    "code": "33-22-09-018",
+    "name": "OPEN SPACE BY IGIRI HALL",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-019",
+    "code": "33-22-09-019",
+    "name": "WAMI STREET JUNCTION",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-020",
+    "code": "33-22-09-020",
+    "name": "WAMI STREET JUNCTION I",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-021",
+    "code": "33-22-09-021",
+    "name": "OPEN SPACE BY EJEGE LANE",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-022",
+    "code": "33-22-09-022",
+    "name": "OPEN SPACE BY KPALUKU",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-023",
+    "code": "33-22-09-023",
+    "name": "OPEN SPACE KPALUKU I",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-024",
+    "code": "33-22-09-024",
+    "name": "ST PAUL'S SCHOOL IV",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-025",
+    "code": "33-22-09-025",
+    "name": "ST PAUL'S SCHOOL V",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-026",
+    "code": "33-22-09-026",
+    "name": "OPEN SPACE BY REBISI STREET",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-027",
+    "code": "33-22-09-027",
+    "name": "OPEN SPACE EJEGE JUNCTION I",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-028",
+    "code": "33-22-09-028",
+    "name": "OPEN SPACE BY OGOLOMA STREET I",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-09-029",
+    "code": "33-22-09-029",
+    "name": "OPEN SPACE BY AMADI STREET I",
+    "wardId": "port-harcourt__ward-09"
+  },
+  {
+    "id": "33-22-10-001",
+    "code": "33-22-10-001",
+    "name": "STATE SCHOOL REBISI AMAIKIBO ROAD I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-002",
+    "code": "33-22-10-002",
+    "name": "STATE SCHOOL REBISI AMAIKIBO ROAD II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-003",
+    "code": "33-22-10-003",
+    "name": "STATE SCHOOL REBISI AMAIKIBO ROAD III",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-004",
+    "code": "33-22-10-004",
+    "name": "STATE SCHOOL REBISI AMAIKIBO ROAD IV",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-005",
+    "code": "33-22-10-005",
+    "name": "STATE SCHOOL REBISI AMAIKIBO ROAD V",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-006",
+    "code": "33-22-10-006",
+    "name": "STATE SCHOOL REBISI AMAIKIBO ROAD VI",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-007",
+    "code": "33-22-10-007",
+    "name": "STATE SCHOOL REBISI AMAIKIBO ROAD VII",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-008",
+    "code": "33-22-10-008",
+    "name": "OBIRI WOKORA",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-009",
+    "code": "33-22-10-009",
+    "name": "OBIRI ELECHI I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-010",
+    "code": "33-22-10-010",
+    "name": "OBIRI ELECHI II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-011",
+    "code": "33-22-10-011",
+    "name": "OBIRI ELECHI III",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-012",
+    "code": "33-22-10-012",
+    "name": "ST. THOMAS SCHOOL I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-013",
+    "code": "33-22-10-013",
+    "name": "ST. THOMAS SCHOOL II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-014",
+    "code": "33-22-10-014",
+    "name": "ST. THOMAS SCHOOL III",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-015",
+    "code": "33-22-10-015",
+    "name": "ST. THOMAS SCHOOL VI",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-016",
+    "code": "33-22-10-016",
+    "name": "ST. THOMAS SCHOOL",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-017",
+    "code": "33-22-10-017",
+    "name": "OKOKU HALL I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-018",
+    "code": "33-22-10-018",
+    "name": "OKOKU HALL II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-019",
+    "code": "33-22-10-019",
+    "name": "ENWUME AVENUE I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-020",
+    "code": "33-22-10-020",
+    "name": "ENWUME AVENUE II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-021",
+    "code": "33-22-10-021",
+    "name": "MLLE 3 MARKET I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-022",
+    "code": "33-22-10-022",
+    "name": "MLLE 3 MARKET II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-023",
+    "code": "33-22-10-023",
+    "name": "OBIRI OKAH OPEN SPACE I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-024",
+    "code": "33-22-10-024",
+    "name": "OBIRI OKAH OPEN SPACE II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-025",
+    "code": "33-22-10-025",
+    "name": "OBIRI WOKOMA (OPEN SPACE) I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-026",
+    "code": "33-22-10-026",
+    "name": "OBIRI WOKOMA (OPEN SPACE) II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-027",
+    "code": "33-22-10-027",
+    "name": "TOWN HALL SPACE (NKPOLU OROWORUKWO)",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-028",
+    "code": "33-22-10-028",
+    "name": "TOWN HALL SPACE (NKPOLU OROWORUKWO) II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-029",
+    "code": "33-22-10-029",
+    "name": "TOWN HALL SPACE (NKPOLU OROWORUKWO) III",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-030",
+    "code": "33-22-10-030",
+    "name": "TOWN HALL SPACE (NKPOLU OROWORUKWO) VI",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-031",
+    "code": "33-22-10-031",
+    "name": "COUNCIL PREMISES SPACE I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-032",
+    "code": "33-22-10-032",
+    "name": "COUNCIL PREMISES SPACE II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-033",
+    "code": "33-22-10-033",
+    "name": "COUNCIL PREMISES SPACE III",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-034",
+    "code": "33-22-10-034",
+    "name": "COUNCIL PREMISES SPACE VI",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-035",
+    "code": "33-22-10-035",
+    "name": "NATIONAL STREET I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-036",
+    "code": "33-22-10-036",
+    "name": "NATIONAL STREET II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-037",
+    "code": "33-22-10-037",
+    "name": "MECHANIC VILLAGE I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-038",
+    "code": "33-22-10-038",
+    "name": "MECHANIC VILLAGE II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-039",
+    "code": "33-22-10-039",
+    "name": "MECHANIC VILLAGE III",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-040",
+    "code": "33-22-10-040",
+    "name": "MECHANIC VILLAGE VI",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-041",
+    "code": "33-22-10-041",
+    "name": "OBIRI OGBUJI SPACE I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-042",
+    "code": "33-22-10-042",
+    "name": "OBIRI OGBUJI SPACE II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-043",
+    "code": "33-22-10-043",
+    "name": "EJIEGBU STREET I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-044",
+    "code": "33-22-10-044",
+    "name": "EJIEGBU STREET II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-045",
+    "code": "33-22-10-045",
+    "name": "CHINDAH ESTATE (BY UST) I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-046",
+    "code": "33-22-10-046",
+    "name": "CHINDAH ESTATE (BY UST) II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-047",
+    "code": "33-22-10-047",
+    "name": "OBIRI AHOLU (WOBO STREET) I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-048",
+    "code": "33-22-10-048",
+    "name": "OBIRI AHOLU (WOBO STREET) II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-049",
+    "code": "33-22-10-049",
+    "name": "OBIRI MARTINS",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-050",
+    "code": "33-22-10-050",
+    "name": "C.S.S NKPOLU",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-051",
+    "code": "33-22-10-051",
+    "name": "OBIRI WORLUMEJURU",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-052",
+    "code": "33-22-10-052",
+    "name": "OBIRI WOKORA HALL II",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-053",
+    "code": "33-22-10-053",
+    "name": "OBIRI ELECHI IV",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-054",
+    "code": "33-22-10-054",
+    "name": "OBIRI ELECHI V",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-055",
+    "code": "33-22-10-055",
+    "name": "OBIRI ELECHI VI",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-056",
+    "code": "33-22-10-056",
+    "name": "ST THOMAS SCHOOL V",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-057",
+    "code": "33-22-10-057",
+    "name": "ST THOMAS SCHOOL VI",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-058",
+    "code": "33-22-10-058",
+    "name": "ST THOMAS SCHOOL VII",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-059",
+    "code": "33-22-10-059",
+    "name": "OBIRI OBINGELE OPP MILE 3 PARK BY IKWERRE ROAD",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-060",
+    "code": "33-22-10-060",
+    "name": "ENWUME AVENUE NEW HALL",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-061",
+    "code": "33-22-10-061",
+    "name": "MILE 3 MARKET NKPOLU OROWOROKWU",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-062",
+    "code": "33-22-10-062",
+    "name": "MILE 3 MARKET III",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-063",
+    "code": "33-22-10-063",
+    "name": "WORLUMEJURU OPEN SPACE",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-064",
+    "code": "33-22-10-064",
+    "name": "TOWN HALL SPACE NKPOLU OROWOROKWU NEW HALL",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-065",
+    "code": "33-22-10-065",
+    "name": "TOWN HALL SPACE NKPOLU OROWOROKWU NEW HALL I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-066",
+    "code": "33-22-10-066",
+    "name": "COUNCIL PREMISES SPACE I NEW HALL",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-067",
+    "code": "33-22-10-067",
+    "name": "ECHEONWU HALL",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-068",
+    "code": "33-22-10-068",
+    "name": "NATIONAL STREET NEW HALL",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-069",
+    "code": "33-22-10-069",
+    "name": "NATIONAL STREET NEW HALL I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-070",
+    "code": "33-22-10-070",
+    "name": "OBIRI APPOLLUS EJEKWU ELECHI STREET",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-071",
+    "code": "33-22-10-071",
+    "name": "OBIRI OGBUJI NEW TOWN HALL",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-072",
+    "code": "33-22-10-072",
+    "name": "EJIEGBU STREET NKPOLU OROWOROKWU",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-073",
+    "code": "33-22-10-073",
+    "name": "EJIEGBU STREET NKPOLU OROWOROKWU I",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-074",
+    "code": "33-22-10-074",
+    "name": "CHINDA ESTATE NKPOLU OROWOROKWU",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-075",
+    "code": "33-22-10-075",
+    "name": "OBIRI IHUNWO-OROGBO OPP STATE PRY SCHOOL NKPOLU OROWOROKWU",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-10-076",
+    "code": "33-22-10-076",
+    "name": "NKPOLU OROWOROKWU MGBUIKE",
+    "wardId": "port-harcourt__ward-10"
+  },
+  {
+    "id": "33-22-11-001",
+    "code": "33-22-11-001",
+    "name": "RUMUWOJI HALL SPACE I",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-002",
+    "code": "33-22-11-002",
+    "name": "RUMUWOJI HALL SPACE II",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-003",
+    "code": "33-22-11-003",
+    "name": "RUMUWOJI HALL SPACE III",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-004",
+    "code": "33-22-11-004",
+    "name": "RUMUWOJI HALL SPACE VI",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-005",
+    "code": "33-22-11-005",
+    "name": "RUMUWOJI HALL SPACE V",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-006",
+    "code": "33-22-11-006",
+    "name": "RUMUWOJI HALL SPACE VI",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-007",
+    "code": "33-22-11-007",
+    "name": "RUMUWOJI HALL SPACE VII",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-008",
+    "code": "33-22-11-008",
+    "name": "RUMUWOJI HALL SPACE VIII",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-009",
+    "code": "33-22-11-009",
+    "name": "RUMUWOJI HALL SPACE IX",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-010",
+    "code": "33-22-11-010",
+    "name": "RUMUWOJI HALL SPACE X",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-011",
+    "code": "33-22-11-011",
+    "name": "PORT HARCOURT CITY CENTENARY MODEL PRY SCH (ABONNEMAWHARTROAD )",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-012",
+    "code": "33-22-11-012",
+    "name": "PORT HARCOURT CITY CENTENARY MODEL PRY SCH (ABONNEMAWHARTROAD I )",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-013",
+    "code": "33-22-11-013",
+    "name": "ABONNEMA WHARF COMMUNITY PLAY GROUND (ABONNEMAWHARTROAD II)",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-014",
+    "code": "33-22-11-014",
+    "name": "ABONNEMA WHARF COMMUNITY PLAY GROUND (ABONNEMAWHARTROAD III)",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-015",
+    "code": "33-22-11-015",
+    "name": "ABONNEMA WHARF COMMUNITY PLAY GROUND (ABONNEMAWHARTROAD VI)",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-016",
+    "code": "33-22-11-016",
+    "name": "ABONNEMA WHARF COMMUNITY PLAY GROUND (ABONNEMAWHARTROAD VII)",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-017",
+    "code": "33-22-11-017",
+    "name": "ILLOABUCHI/ ORUALA JUNCTION I",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-018",
+    "code": "33-22-11-018",
+    "name": "ILLOABUCHI/ ORUALA JUNCTION II",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-019",
+    "code": "33-22-11-019",
+    "name": "ILLOABUCHI/ ORUALA JUNCTION III",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-020",
+    "code": "33-22-11-020",
+    "name": "ILLOABUCHI/ ORUALA JUNCTION IV",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-021",
+    "code": "33-22-11-021",
+    "name": "ILLOABUCHI/ ORUALA JUNCTION V",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-022",
+    "code": "33-22-11-022",
+    "name": "ILLOABUCHI/ ORUALA JUNCTION VI",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-023",
+    "code": "33-22-11-023",
+    "name": "ILLOABUCHI/ ORUALA JUNCTION VII",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-024",
+    "code": "33-22-11-024",
+    "name": "ST. AND REW'S PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-025",
+    "code": "33-22-11-025",
+    "name": "ST. AND REW'S PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-026",
+    "code": "33-22-11-026",
+    "name": "ST. AND REW'S PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-027",
+    "code": "33-22-11-027",
+    "name": "ST. AND REW'S PRIMARY SCHOOL VI",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-028",
+    "code": "33-22-11-028",
+    "name": "ST. AND REW'S PRIMARY SCHOOL VII",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-029",
+    "code": "33-22-11-029",
+    "name": "RUMUWOJI OPEN SPACE",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-030",
+    "code": "33-22-11-030",
+    "name": "ABONNEMA WHARF COMMUNITY PLAYGROUND",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-031",
+    "code": "33-22-11-031",
+    "name": "ILLOABUCHI/ORUALA OPEN SPACE BY T JUNCTION",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-032",
+    "code": "33-22-11-032",
+    "name": "ST ANDREWS PRIMARY SCHOOL VIII",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-11-033",
+    "code": "33-22-11-033",
+    "name": "ST ANDREWS PRIMARY SCHOOL IX",
+    "wardId": "port-harcourt__ward-11"
+  },
+  {
+    "id": "33-22-12-001",
+    "code": "33-22-12-001",
+    "name": "RUMUWOJI HALL (OPEN SPCAE ) I",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-002",
+    "code": "33-22-12-002",
+    "name": "RUMUWOJI HALL (OPEN SPACE ) II",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-003",
+    "code": "33-22-12-003",
+    "name": "RUMUWOJI HALL (OPEN SPACE ) III",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-004",
+    "code": "33-22-12-004",
+    "name": "RUMUWOJI HALL (OPEN SPACE ) IV",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-005",
+    "code": "33-22-12-005",
+    "name": "RUMUWOJI HALL (OPEN SPACE ) V",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-006",
+    "code": "33-22-12-006",
+    "name": "RUMUWOJI HALL (OPEN SPACE ) VI",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-007",
+    "code": "33-22-12-007",
+    "name": "RUMUWOJI HALL (OPEN SPACE ) VII",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-008",
+    "code": "33-22-12-008",
+    "name": "RUMUWOJI HALL (OPEN SPACE ) VIII",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-009",
+    "code": "33-22-12-009",
+    "name": "ORLUOGBO HALL",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-010",
+    "code": "33-22-12-010",
+    "name": "ABAKALIKI/AFIKPO OPEN SPACE",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-011",
+    "code": "33-22-12-011",
+    "name": "RUMUWOJI HALL OPEN SPACE BY GATE XI",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-12-012",
+    "code": "33-22-12-012",
+    "name": "RUMUWOJI HALL OPEN SPACE BY POST OFFICE XII",
+    "wardId": "port-harcourt__ward-12"
+  },
+  {
+    "id": "33-22-13-001",
+    "code": "33-22-13-001",
+    "name": "ST. ANDREW'S PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-002",
+    "code": "33-22-13-002",
+    "name": "ST. ANDREW'S PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-003",
+    "code": "33-22-13-003",
+    "name": "WOBO HALL",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-004",
+    "code": "33-22-13-004",
+    "name": "55 OJIKE I",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-005",
+    "code": "33-22-13-005",
+    "name": "55 OJIKE II",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-006",
+    "code": "33-22-13-006",
+    "name": "RUMUOWOJI TOWN HALL",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-007",
+    "code": "33-22-13-007",
+    "name": "WOBO HALL NNANKA ILLOABUCHI I",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-008",
+    "code": "33-22-13-008",
+    "name": "WOBO HALL NNANKA ILLOABUCHI II",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-009",
+    "code": "33-22-13-009",
+    "name": "WOBO HALL NNANKA ILLOABUCHI III",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-010",
+    "code": "33-22-13-010",
+    "name": "ABBA STREET I",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-011",
+    "code": "33-22-13-011",
+    "name": "ABBA STREET III",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-012",
+    "code": "33-22-13-012",
+    "name": "ABBA STREET III",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-013",
+    "code": "33-22-13-013",
+    "name": "ABBA STREET III",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-014",
+    "code": "33-22-13-014",
+    "name": "ST. ANDREW'S PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-015",
+    "code": "33-22-13-015",
+    "name": "ST. ANDREW'S PRIMARY SCHOOL IV",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-016",
+    "code": "33-22-13-016",
+    "name": "ST ANDREW'S PRIMARY SCHOOL V",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-017",
+    "code": "33-22-13-017",
+    "name": "ST ANDREW'S PRIMARY SCHOOL VI",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-018",
+    "code": "33-22-13-018",
+    "name": "WOBO HALL I",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-019",
+    "code": "33-22-13-019",
+    "name": "OPEN SPACE BY AFIKPO/ILLOABUCHI JUNCTION",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-020",
+    "code": "33-22-13-020",
+    "name": "RUMUWOJI TOWN HALL I",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-021",
+    "code": "33-22-13-021",
+    "name": "WOBO HALL NANKA ILLOABUCHI IV",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-022",
+    "code": "33-22-13-022",
+    "name": "WOBO HALL NANKA ILLOABUCHI V",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-023",
+    "code": "33-22-13-023",
+    "name": "ABBA STREET IV",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-13-024",
+    "code": "33-22-13-024",
+    "name": "ST ANDREW'S PRIMARY SCHOOL VII",
+    "wardId": "port-harcourt__ward-13"
+  },
+  {
+    "id": "33-22-14-001",
+    "code": "33-22-14-001",
+    "name": "MGBUNDUKWU HALL I",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-002",
+    "code": "33-22-14-002",
+    "name": "EGEDE STREET I",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-003",
+    "code": "33-22-14-003",
+    "name": "EGEDE STREET II",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-004",
+    "code": "33-22-14-004",
+    "name": "EGEDE STREET III",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-005",
+    "code": "33-22-14-005",
+    "name": "EGEDE STREET IV",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-006",
+    "code": "33-22-14-006",
+    "name": "EGEDE STREET V",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-007",
+    "code": "33-22-14-007",
+    "name": "RUMKPAILU KWUOZO HALL I",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-008",
+    "code": "33-22-14-008",
+    "name": "RUMKPAILU KWUOZO HALL II",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-009",
+    "code": "33-22-14-009",
+    "name": "MGBUNDUKWU HALL II",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-010",
+    "code": "33-22-14-010",
+    "name": "MGBUNDUKWU HALL III",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-011",
+    "code": "33-22-14-011",
+    "name": "MGBUNDUKWU HALL IV",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-012",
+    "code": "33-22-14-012",
+    "name": "MGBUNDUKWU HALL V",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-013",
+    "code": "33-22-14-013",
+    "name": "EGEDE STREET VI",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-014",
+    "code": "33-22-14-014",
+    "name": "EGEDE STREET VII",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-015",
+    "code": "33-22-14-015",
+    "name": "EGEDE STREET VIII BY ARUNDU JUNCTION",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-016",
+    "code": "33-22-14-016",
+    "name": "EGEDE STREET IX OPEN SPACE BY OBI",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-017",
+    "code": "33-22-14-017",
+    "name": "IGWE HALL I",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-14-018",
+    "code": "33-22-14-018",
+    "name": "IGWE HALL II",
+    "wardId": "port-harcourt__ward-14"
+  },
+  {
+    "id": "33-22-15-001",
+    "code": "33-22-15-001",
+    "name": "TOBIN HALL (BY EMENIKE JUNCTION) I",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-002",
+    "code": "33-22-15-002",
+    "name": "TOBIN HALL (BY EMENIKE JUNCTION) II",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-003",
+    "code": "33-22-15-003",
+    "name": "TOBIN HALL (BY EMENIKE JUNCTION) III",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-004",
+    "code": "33-22-15-004",
+    "name": "TOBIN HALL (BY EMENIKE JUNCTION) IV",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-005",
+    "code": "33-22-15-005",
+    "name": "TOBIN HALL (BY EMENIKE JUNCTION) V",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-006",
+    "code": "33-22-15-006",
+    "name": "TOBIN HALL (BY EMENIKE JUNCTION) VI",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-007",
+    "code": "33-22-15-007",
+    "name": "TOBIN HALL (BY EMENIKE JUNCTION) VII",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-008",
+    "code": "33-22-15-008",
+    "name": "TOBIN HALL (BY EMENIKE JUNCTION) VIII",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-009",
+    "code": "33-22-15-009",
+    "name": "TIMBER/LUMUMBA JUNCTION I",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-010",
+    "code": "33-22-15-010",
+    "name": "TIMBER/LUMUMBA JUNCTION II",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-011",
+    "code": "33-22-15-011",
+    "name": "LUMUMBA/ECHUE",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-012",
+    "code": "33-22-15-012",
+    "name": "OPEN SPACE BY REDEEMERS BAPTIST CHURCH",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-013",
+    "code": "33-22-15-013",
+    "name": "AMADICHUKWU HALL I",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-014",
+    "code": "33-22-15-014",
+    "name": "AMADICHUKWU HALL II",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-015",
+    "code": "33-22-15-015",
+    "name": "WOSU HALL I",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-016",
+    "code": "33-22-15-016",
+    "name": "WOSU HALL II",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-017",
+    "code": "33-22-15-017",
+    "name": "WOSU HALL III",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-018",
+    "code": "33-22-15-018",
+    "name": "TOBIN HALL (BY EMENIKE JUNCTION) IX",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-019",
+    "code": "33-22-15-019",
+    "name": "TOBIN HALL (BY EMENIKE JUNCTION) X",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-020",
+    "code": "33-22-15-020",
+    "name": "TIMBER/LUMUMBA JUNCTION III",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-021",
+    "code": "33-22-15-021",
+    "name": "TIMBER/LUMUMBA JUNCTION IV",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-15-022",
+    "code": "33-22-15-022",
+    "name": "LUMUMBA/ECHUE II",
+    "wardId": "port-harcourt__ward-15"
+  },
+  {
+    "id": "33-22-16-001",
+    "code": "33-22-16-001",
+    "name": "ST. THOMAS SCHOOL I",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-002",
+    "code": "33-22-16-002",
+    "name": "ST. THOMAS SCHOOL II",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-003",
+    "code": "33-22-16-003",
+    "name": "ST. THOMAS SCHOOL III",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-004",
+    "code": "33-22-16-004",
+    "name": "ST. THOMAS SCHOOL IV",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-005",
+    "code": "33-22-16-005",
+    "name": "ST. THOMAS SCHOOL V",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-006",
+    "code": "33-22-16-006",
+    "name": "ST. THOMAS SCHOOL VI",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-007",
+    "code": "33-22-16-007",
+    "name": "EMOLE STREET/ANEKE LANE I",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-008",
+    "code": "33-22-16-008",
+    "name": "EMOLE STREET/ANEKE LANE II",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-009",
+    "code": "33-22-16-009",
+    "name": "RUMUEBEKWE HALL",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-010",
+    "code": "33-22-16-010",
+    "name": "PROGRESSIVE HALL",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-011",
+    "code": "33-22-16-011",
+    "name": "AMADI EKEN HALL",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-012",
+    "code": "33-22-16-012",
+    "name": "RUMUOBIEKWE HALL",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-013",
+    "code": "33-22-16-013",
+    "name": "ST THOMAS SCHOOL VII",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-014",
+    "code": "33-22-16-014",
+    "name": "ST THOMAS SCHOOL VIII",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-015",
+    "code": "33-22-16-015",
+    "name": "ST THOMAS SCHOOL IX",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-016",
+    "code": "33-22-16-016",
+    "name": "ST THOMAS SCHOOL X",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-017",
+    "code": "33-22-16-017",
+    "name": "ST THOMAS SCHOOL XI",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-018",
+    "code": "33-22-16-018",
+    "name": "EMOLE STREET/ ANEKE LANE III",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-019",
+    "code": "33-22-16-019",
+    "name": "CHINWAZU HALL I",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-020",
+    "code": "33-22-16-020",
+    "name": "CHINWAZU HALLLL II",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-021",
+    "code": "33-22-16-021",
+    "name": "PROGRESSIVE HALL I",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-022",
+    "code": "33-22-16-022",
+    "name": "AMADI EKEN HALL I",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-16-023",
+    "code": "33-22-16-023",
+    "name": "RUMUOBIEKWE HALL I",
+    "wardId": "port-harcourt__ward-16"
+  },
+  {
+    "id": "33-22-17-001",
+    "code": "33-22-17-001",
+    "name": "SACRED HEART PRIMARY SCHOOL I",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-002",
+    "code": "33-22-17-002",
+    "name": "SACRED HEART PRIMARY SCHOOL II",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-003",
+    "code": "33-22-17-003",
+    "name": "SACRED HEART PRIMARY SCHOOL III",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-004",
+    "code": "33-22-17-004",
+    "name": "AZIKIWE /OJOTO JUNCTION I",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-005",
+    "code": "33-22-17-005",
+    "name": "AZIKIWE /OJOTO JUNCTION II",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-006",
+    "code": "33-22-17-006",
+    "name": "AZIKIWE /OJOTO JUNCTION III",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-007",
+    "code": "33-22-17-007",
+    "name": "HOBOBO LANE",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-008",
+    "code": "33-22-17-008",
+    "name": "KENNETH COMMERCIAL SCHOOL I",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-009",
+    "code": "33-22-17-009",
+    "name": "KENNETH COMMERCIAL SCHOOL II",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-010",
+    "code": "33-22-17-010",
+    "name": "KENNETH COMMERCIAL SCHOOL III",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-011",
+    "code": "33-22-17-011",
+    "name": "KENNETH COMMERCIAL SCHOOL IV",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-012",
+    "code": "33-22-17-012",
+    "name": "KENNETH COMMERCIAL SCHOOL V",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-013",
+    "code": "33-22-17-013",
+    "name": "SACRED HEART PRIMARY SCHOOL IV",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-014",
+    "code": "33-22-17-014",
+    "name": "SACRED HEART PRIMARY SCHOOL V",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-015",
+    "code": "33-22-17-015",
+    "name": "SACRED HEART PRIMARY SCHOOL VI",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-016",
+    "code": "33-22-17-016",
+    "name": "SACRED HEART PRIMARY SCHOOL VII",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-017",
+    "code": "33-22-17-017",
+    "name": "SACRED HEART PRIMARY SCHOOL VIII",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-018",
+    "code": "33-22-17-018",
+    "name": "SACRED HEART PRIMARY SCHOOL IX",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-019",
+    "code": "33-22-17-019",
+    "name": "ODUNGWERU HALL I",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-020",
+    "code": "33-22-17-020",
+    "name": "ODUNGWERU HALL II",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-021",
+    "code": "33-22-17-021",
+    "name": "ODUNGWERU HALL III",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-022",
+    "code": "33-22-17-022",
+    "name": "OPEN SPACE B BY AZIKIWE/OJOTO JUNCTION I",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-023",
+    "code": "33-22-17-023",
+    "name": "OPEN SPACE BY AZIKIWE/ OJOTO JUNCTION II",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-024",
+    "code": "33-22-17-024",
+    "name": "HOBOBO LANE I",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-025",
+    "code": "33-22-17-025",
+    "name": "KENNETH COMMERCIAL SCHOOL VI",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-026",
+    "code": "33-22-17-026",
+    "name": "KENNETH COMMERCIAL SCHOOL VII",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-17-027",
+    "code": "33-22-17-027",
+    "name": "KENNETH COMMERCIAL SCHOOL VIII",
+    "wardId": "port-harcourt__ward-17"
+  },
+  {
+    "id": "33-22-18-001",
+    "code": "33-22-18-001",
+    "name": "NEAR UST POST OFFICE OPEN SPACE I",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-002",
+    "code": "33-22-18-002",
+    "name": "NEAR UST POST OFFICE OPEN SPACE II",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-003",
+    "code": "33-22-18-003",
+    "name": "NEAR UST POST OFFICE OPEN SPACE III",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-004",
+    "code": "33-22-18-004",
+    "name": "NEAR UST POST OFFICE OPEN SPACE IV",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-005",
+    "code": "33-22-18-005",
+    "name": "NEAR UST POST OFFICE OPEN SPACE V",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-006",
+    "code": "33-22-18-006",
+    "name": "OBIRI ORUSA OPEN SPACE I",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-007",
+    "code": "33-22-18-007",
+    "name": "OBIRI ORUSA OPEN SPACE II",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-008",
+    "code": "33-22-18-008",
+    "name": "OBASIOLU ST. ML3 I",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-009",
+    "code": "33-22-18-009",
+    "name": "OBASIOLU ST. ML3 II",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-010",
+    "code": "33-22-18-010",
+    "name": "SACRED HEART SCHOOL DIOBU I",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-011",
+    "code": "33-22-18-011",
+    "name": "SACRED HEART SCHOOL DIOBU II",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-012",
+    "code": "33-22-18-012",
+    "name": "EJIGINI STREET OPEN SPACE I",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-013",
+    "code": "33-22-18-013",
+    "name": "EJIGINI STREET OPEN SPACE II",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-014",
+    "code": "33-22-18-014",
+    "name": "OBIRI EMIKA I",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-015",
+    "code": "33-22-18-015",
+    "name": "OBIRI EMIKA II",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-016",
+    "code": "33-22-18-016",
+    "name": "OBASIOLU/OJOTO JUNCTION FRONT I",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-017",
+    "code": "33-22-18-017",
+    "name": "OBASIOLU/OJOTO JUNCTION FRONT II",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-018",
+    "code": "33-22-18-018",
+    "name": "WADUGBA WATER FRONT",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-019",
+    "code": "33-22-18-019",
+    "name": "AHOLU WATER FRONT",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-020",
+    "code": "33-22-18-020",
+    "name": "EAGLE ISLAND",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-021",
+    "code": "33-22-18-021",
+    "name": "OSINA OPEN SPACE",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-022",
+    "code": "33-22-18-022",
+    "name": "AZIKIWE STREET/ OSINA OPEN SPACE",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-023",
+    "code": "33-22-18-023",
+    "name": "AZIKIWE STREET OPEN SPACE",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-024",
+    "code": "33-22-18-024",
+    "name": "OJOTO LANE OPEN SPACE",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-025",
+    "code": "33-22-18-025",
+    "name": "OBAGWU OPEN SPACE",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-026",
+    "code": "33-22-18-026",
+    "name": "OPEN SPACE BY CHRIST APOSTOLIC STREET",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-027",
+    "code": "33-22-18-027",
+    "name": "OBAZIOLU HALL I",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-028",
+    "code": "33-22-18-028",
+    "name": "OBAZIOLU HALL II",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-029",
+    "code": "33-22-18-029",
+    "name": "OBAZIOLU HALL III",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-030",
+    "code": "33-22-18-030",
+    "name": "AZIKIWE UST BACK GATE I",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-031",
+    "code": "33-22-18-031",
+    "name": "AZIKIWE UST BACK GATE II",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-032",
+    "code": "33-22-18-032",
+    "name": "EJIGINI OPEN SPACE III",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-033",
+    "code": "33-22-18-033",
+    "name": "CHIGBU STREET OPEN SPACE I",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-034",
+    "code": "33-22-18-034",
+    "name": "OPEN SPACE BY SCHOOL ROAD",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-035",
+    "code": "33-22-18-035",
+    "name": "CHIGBU STREET OPEN SPACE II",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-036",
+    "code": "33-22-18-036",
+    "name": "WOKOMA OPEN SPACE",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-037",
+    "code": "33-22-18-037",
+    "name": "OWO STREET OPEN SPACE",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-038",
+    "code": "33-22-18-038",
+    "name": "OPEN SPACE BY T-JUNCTION ELUWA HOUSE",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-039",
+    "code": "33-22-18-039",
+    "name": "AMADI IGWE STREET, EAGLE ISLAND",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-040",
+    "code": "33-22-18-040",
+    "name": "RCCG AUSTIN OPARA STREET EAGLE ISLAND",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-041",
+    "code": "33-22-18-041",
+    "name": "7 OBAZIOLU STREET",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-042",
+    "code": "33-22-18-042",
+    "name": "OBIRI NMERUKINI",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-043",
+    "code": "33-22-18-043",
+    "name": "OROBAZIOLU COMMUNITY HALL",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-18-044",
+    "code": "33-22-18-044",
+    "name": "SALVATION MINISTRY OPEN SPACE",
+    "wardId": "port-harcourt__ward-18"
+  },
+  {
+    "id": "33-22-19-001",
+    "code": "33-22-19-001",
+    "name": "OPEN SPACE IGWE HALL NPKOGU I (IGWE HALL OPEN SPACE I)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-002",
+    "code": "33-22-19-002",
+    "name": "OPEN SPACE IGWE HALL NPKOGU II (IGWE HALL OPEN SPACE II)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-003",
+    "code": "33-22-19-003",
+    "name": "OPEN SPACE IGWE HALL NPKOGU III (IGWE HALL OPEN SPACE III)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-004",
+    "code": "33-22-19-004",
+    "name": "NDAH HALL I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-005",
+    "code": "33-22-19-005",
+    "name": "NDAH HALL II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-006",
+    "code": "33-22-19-006",
+    "name": "SOUTHERN GROCERY FRONTAGE I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-007",
+    "code": "33-22-19-007",
+    "name": "SOU THERN GROCERY FRONTAGE II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-008",
+    "code": "33-22-19-008",
+    "name": "OPEN SPACE BY IWEZOR HALL NKPOGU I (IWEZOR HALL I)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-009",
+    "code": "33-22-19-009",
+    "name": "OPEN SPACE BY IWEZOR HALL NKPOGU II (IWEZOR HALL II)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-010",
+    "code": "33-22-19-010",
+    "name": "NCHELEM",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-011",
+    "code": "33-22-19-011",
+    "name": "DEDE HALL",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-012",
+    "code": "33-22-19-012",
+    "name": "OPEN SPACE BY SCHOOL ROAD URBAN COUNCIL GATE I(TRANSAMADI URBAN COUNCIL I)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-013",
+    "code": "33-22-19-013",
+    "name": "OPEN SPACE BY SCHOOL ROAD URBAN COUNCIL GATE II (TRANSAMADI URBAN COUNCIL II)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-014",
+    "code": "33-22-19-014",
+    "name": "OPEN SPACE BY SCHOOL ROAD URBAN COUNCIL GATE III (TRANSAMADI URBAN COUNCIL III)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-015",
+    "code": "33-22-19-015",
+    "name": "OPEN SPACE BY SCHOOL ROAD URBAN COUNCIL GATE IV (TRANSAMADI URBAN COUNCIL IV)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-016",
+    "code": "33-22-19-016",
+    "name": "STATE SCHOOL ELEKAHIA I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-017",
+    "code": "33-22-19-017",
+    "name": "STATE SCHOOL ELEKAHIA II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-018",
+    "code": "33-22-19-018",
+    "name": "STATE SCHOOL ELEKAHIA III",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-019",
+    "code": "33-22-19-019",
+    "name": "STATE SCHOOL ELEKAHIA IV",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-020",
+    "code": "33-22-19-020",
+    "name": "STATE SCHOOL ELEKAHIA V",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-021",
+    "code": "33-22-19-021",
+    "name": "STATE SCHOOL ELEKAHIA VI",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-022",
+    "code": "33-22-19-022",
+    "name": "BOMS HALL I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-023",
+    "code": "33-22-19-023",
+    "name": "BOMS HALL II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-024",
+    "code": "33-22-19-024",
+    "name": "BOMS HALL III",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-025",
+    "code": "33-22-19-025",
+    "name": "ODUM HALL I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-026",
+    "code": "33-22-19-026",
+    "name": "ODUM HALL II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-027",
+    "code": "33-22-19-027",
+    "name": "ILO HALL I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-028",
+    "code": "33-22-19-028",
+    "name": "ILO HALL II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-029",
+    "code": "33-22-19-029",
+    "name": "ILO HALL III",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-030",
+    "code": "33-22-19-030",
+    "name": "OPPOSITE THE EVENING MARKET I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-031",
+    "code": "33-22-19-031",
+    "name": "OPPOSITE THE EVENING MARKET II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-032",
+    "code": "33-22-19-032",
+    "name": "MECHANIC COMPLEX I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-033",
+    "code": "33-22-19-033",
+    "name": "DAME ALICE MODEL PRIMARY SCHOOL (MECHANIC COMPLEX II)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-034",
+    "code": "33-22-19-034",
+    "name": "NYECHE HALL (ELEKAHIA)",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-035",
+    "code": "33-22-19-035",
+    "name": "ARMY CHILDREN SCHOOL RAINBOW TOWN I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-036",
+    "code": "33-22-19-036",
+    "name": "ARMY CHILDREN SCHOOL RAINBOW TOWN II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-037",
+    "code": "33-22-19-037",
+    "name": "ARMY CHILDREN SCHOOL RAINBOW TOWN III",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-038",
+    "code": "33-22-19-038",
+    "name": "NYECHE HALL (ELEKAHIM) I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-039",
+    "code": "33-22-19-039",
+    "name": "NYECHE HALL (ELEKAHIM) II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-040",
+    "code": "33-22-19-040",
+    "name": "GOVT. SEC. SCHOOL ELEKAHIA I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-041",
+    "code": "33-22-19-041",
+    "name": "GOVT. SEC. SCHOOL ELEKAHIA II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-042",
+    "code": "33-22-19-042",
+    "name": "NDAH HALL, ELEKAHIA",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-043",
+    "code": "33-22-19-043",
+    "name": "OCHIRI HALL, ELEKAHIA",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-044",
+    "code": "33-22-19-044",
+    "name": "OPEN SPACE IGWE HALL ALONG NKPOGU ROAD III",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-045",
+    "code": "33-22-19-045",
+    "name": "OPEN SPACE BY NDAHBROS STREET OPP ST MATTHEW'S ANGLICAN CHURCH",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-046",
+    "code": "33-22-19-046",
+    "name": "OPEN SPACE FRONT OF ST MATTHEW'S ANGLICAN CHURCH TRANSAMADI",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-047",
+    "code": "33-22-19-047",
+    "name": "OPEN SPACE BY IWEZHOR HALL NKPOGU III",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-048",
+    "code": "33-22-19-048",
+    "name": "OPEN SPACE BY IWEZHOR HALL NKPOGU IV",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-049",
+    "code": "33-22-19-049",
+    "name": "OPEN SPACE BY SCHOOL ROAD RAINBOW GATE",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-050",
+    "code": "33-22-19-050",
+    "name": "OPEN SPACE BY SCHOOL ROAD RAINBOW GATE I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-051",
+    "code": "33-22-19-051",
+    "name": "OPEN SPACE BY IBRO STREET JUNCTION OMAH ACADEMY RAINBOW",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-052",
+    "code": "33-22-19-052",
+    "name": "OPEN SPACE BY IBRO STREET JUNCTION OMAH ACADEMY RAINBOW I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-053",
+    "code": "33-22-19-053",
+    "name": "STATE SCHOOL ELEKAHIA VII",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-054",
+    "code": "33-22-19-054",
+    "name": "STATE SCHOOL ELEKAHIA VIII",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-055",
+    "code": "33-22-19-055",
+    "name": "STATE SCHOOL ELEKAHIA IX",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-056",
+    "code": "33-22-19-056",
+    "name": "STATE SCHOOL ELEKAHIA X",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-057",
+    "code": "33-22-19-057",
+    "name": "STATE SCHOOL ELEKAHIA XI",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-058",
+    "code": "33-22-19-058",
+    "name": "STATE SCHOOL ELEKAHIA XII",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-059",
+    "code": "33-22-19-059",
+    "name": "STATE SCHOOL ELEKAHIA XIII",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-060",
+    "code": "33-22-19-060",
+    "name": "STATE SCHOOL ELEKAHIA XIV",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-061",
+    "code": "33-22-19-061",
+    "name": "BOMS HALL I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-062",
+    "code": "33-22-19-062",
+    "name": "BOMS HALL II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-063",
+    "code": "33-22-19-063",
+    "name": "BOMS HALL III",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-064",
+    "code": "33-22-19-064",
+    "name": "BOMS STREET JUNCTION BY IBEH STREET",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-065",
+    "code": "33-22-19-065",
+    "name": "ODUM BY EWHA STREET",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-066",
+    "code": "33-22-19-066",
+    "name": "WELLE STREET BY ARETA FARM ESTATE",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-067",
+    "code": "33-22-19-067",
+    "name": "OPEN SPACE BY OGBONDA STREET JUNCTION",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-068",
+    "code": "33-22-19-068",
+    "name": "OPEN SPACE BY ETITINWO JUNCTION ELEKAHIA",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-069",
+    "code": "33-22-19-069",
+    "name": "OPEN SPACE ELEKAHIA ROAD OPP ILO HALL",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-070",
+    "code": "33-22-19-070",
+    "name": "4TH STREET BY BASKET BALL COURT",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-071",
+    "code": "33-22-19-071",
+    "name": "CLOSE 4 BY 2ND AVENUE",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-072",
+    "code": "33-22-19-072",
+    "name": "DAME ALICE MODEL PRIMARY SCHOOL STADIUM RD II",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-073",
+    "code": "33-22-19-073",
+    "name": "DAME ALICE MODEL PRIMARY SCHOOL STADIUM RD III",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-074",
+    "code": "33-22-19-074",
+    "name": "DAME ALICE MODEL PRIMARY SCHOOL STADIUM RD",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-075",
+    "code": "33-22-19-075",
+    "name": "COMMUNITY PRIMARY SCHOOL RAINBOW TOWN",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-076",
+    "code": "33-22-19-076",
+    "name": "COMMUNITY PRIMARY SCHOOL RAINBOW TOWN I",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-077",
+    "code": "33-22-19-077",
+    "name": "GOVT SEC SCHOOL ELEKAHIA III",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-078",
+    "code": "33-22-19-078",
+    "name": "GOVT SEC SCHOOL ELEKAHIA IV",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-079",
+    "code": "33-22-19-079",
+    "name": "GOVT SEC SCHOOL ELEKAHIA V",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-080",
+    "code": "33-22-19-080",
+    "name": "TASIE CLOSE JUNCTION BY IBE STREET",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-19-081",
+    "code": "33-22-19-081",
+    "name": "OPEN SPACE OCHIRI HALL BY ELEKAHIA RD",
+    "wardId": "port-harcourt__ward-19"
+  },
+  {
+    "id": "33-22-20-001",
+    "code": "33-22-20-001",
+    "name": "ABULOMA UPE I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-002",
+    "code": "33-22-20-002",
+    "name": "ABULOMA UPE II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-003",
+    "code": "33-22-20-003",
+    "name": "ABULOMA UPE III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-004",
+    "code": "33-22-20-004",
+    "name": "ABULOMA UPE IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-005",
+    "code": "33-22-20-005",
+    "name": "ABULOMA UPE V",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-006",
+    "code": "33-22-20-006",
+    "name": "ABULOMA UPE VI",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-007",
+    "code": "33-22-20-007",
+    "name": "ABULOMA UPE VII",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-008",
+    "code": "33-22-20-008",
+    "name": "ABULOMA TOWN SQUARE I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-009",
+    "code": "33-22-20-009",
+    "name": "ABULOMA TOWN SQUARE II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-010",
+    "code": "33-22-20-010",
+    "name": "ABULOMA TOWN SQUARE III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-011",
+    "code": "33-22-20-011",
+    "name": "ABULOMA TOWN SQUARE IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-012",
+    "code": "33-22-20-012",
+    "name": "ABULOMA TOWN SQUARE V",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-013",
+    "code": "33-22-20-013",
+    "name": "ABULOMA TOWN SQUARE VI",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-014",
+    "code": "33-22-20-014",
+    "name": "ABULOMA TOWN SQUARE VII",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-015",
+    "code": "33-22-20-015",
+    "name": "ABULOMA TOWN HALL I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-016",
+    "code": "33-22-20-016",
+    "name": "ABULOMA TOWN HALL II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-017",
+    "code": "33-22-20-017",
+    "name": "ABULOMA TOWN HALL III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-018",
+    "code": "33-22-20-018",
+    "name": "ABULOMA TOWN HALL IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-019",
+    "code": "33-22-20-019",
+    "name": "ABULOMA TOWN HALL V",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-020",
+    "code": "33-22-20-020",
+    "name": "ABULOMA TOWN HALL VI",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-021",
+    "code": "33-22-20-021",
+    "name": "ABULOMA TOWN HALL VII",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-022",
+    "code": "33-22-20-022",
+    "name": "F.G.G.C ABULOMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-023",
+    "code": "33-22-20-023",
+    "name": "C.S.S ABULOMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-024",
+    "code": "33-22-20-024",
+    "name": "CENTRAL SQUARE AMADI-AMA I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-025",
+    "code": "33-22-20-025",
+    "name": "CENTRAL SQUARE AMADI-AMA II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-026",
+    "code": "33-22-20-026",
+    "name": "CENTRAL SQUARE AMADI-AMA III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-027",
+    "code": "33-22-20-027",
+    "name": "CENTRAL SQUARE AMADI-AMA IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-028",
+    "code": "33-22-20-028",
+    "name": "CENTRAL SQUARE AMADI-AMA V",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-029",
+    "code": "33-22-20-029",
+    "name": "CENTRAL SQUARE AMADI-AMA VI",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-030",
+    "code": "33-22-20-030",
+    "name": "OKURA-AMA TOWN SQUARE I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-031",
+    "code": "33-22-20-031",
+    "name": "OKURA-AMA TOWN SQUARE II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-032",
+    "code": "33-22-20-032",
+    "name": "STATE SCHOOL AMADI-AMA I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-033",
+    "code": "33-22-20-033",
+    "name": "STATE SCHOOL AMADI-AMA II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-034",
+    "code": "33-22-20-034",
+    "name": "STATE SCHOOL AMADI-AMA III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-035",
+    "code": "33-22-20-035",
+    "name": "STATE SCHOOL AMADI-AMA IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-036",
+    "code": "33-22-20-036",
+    "name": "OWALOU PLAY GROUND IGBON I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-037",
+    "code": "33-22-20-037",
+    "name": "STATE SCHOOL OZUGBOKO-AMA I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-038",
+    "code": "33-22-20-038",
+    "name": "STATE SCHOOL OZUGBOKO-AMA II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-039",
+    "code": "33-22-20-039",
+    "name": "STATE SCHOOL OZUGBOKO-AMA III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-040",
+    "code": "33-22-20-040",
+    "name": "STATE SCHOOL OZUGBOKO-AMA IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-041",
+    "code": "33-22-20-041",
+    "name": "PLAY GROUND OZUGBOKO",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-042",
+    "code": "33-22-20-042",
+    "name": "FIME-AMA PLAY GROUND",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-043",
+    "code": "33-22-20-043",
+    "name": "UKUKALAMA TOWN HALL",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-044",
+    "code": "33-22-20-044",
+    "name": "UKPAKU PLAY GROUND, AMADI AMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-045",
+    "code": "33-22-20-045",
+    "name": "SOMARI-AMA PLAY GROUND I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-046",
+    "code": "33-22-20-046",
+    "name": "SOMARI-AMA PLAY GROUND II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-047",
+    "code": "33-22-20-047",
+    "name": "AZUABIE",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-048",
+    "code": "33-22-20-048",
+    "name": "AZUABIE TOWN SQUARE",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-049",
+    "code": "33-22-20-049",
+    "name": "OKUKU-AMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-050",
+    "code": "33-22-20-050",
+    "name": "AZUABIE (AMONI STREET)",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-051",
+    "code": "33-22-20-051",
+    "name": "OKURU-AMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-052",
+    "code": "33-22-20-052",
+    "name": "OKURU MARKET SQUARE",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-053",
+    "code": "33-22-20-053",
+    "name": "KOKOAMA I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-054",
+    "code": "33-22-20-054",
+    "name": "KOKOAMA II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-055",
+    "code": "33-22-20-055",
+    "name": "IWOKIRI AMADI-AMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-056",
+    "code": "33-22-20-056",
+    "name": "OKILO ROAD, ABULOMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-057",
+    "code": "33-22-20-057",
+    "name": "C.S.S ABULOMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-058",
+    "code": "33-22-20-058",
+    "name": "C.P.S. AZUABIE",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-059",
+    "code": "33-22-20-059",
+    "name": "SENATE VILLAGE AMADI AMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-060",
+    "code": "33-22-20-060",
+    "name": "MARKET SQUARE",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-061",
+    "code": "33-22-20-061",
+    "name": "OBU HALL",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-062",
+    "code": "33-22-20-062",
+    "name": "OGBOLOGBO PLAY GROUND",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-063",
+    "code": "33-22-20-063",
+    "name": "WRESTLING PLAY GROUND",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-064",
+    "code": "33-22-20-064",
+    "name": "OBU HALL I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-065",
+    "code": "33-22-20-065",
+    "name": "ABULOMA JETTY",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-066",
+    "code": "33-22-20-066",
+    "name": "ABULOMA JETTY I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-067",
+    "code": "33-22-20-067",
+    "name": "ABULOMA G R A ANNEX OKEIN-ODO",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-068",
+    "code": "33-22-20-068",
+    "name": "OJUGBE TOWN HALL",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-069",
+    "code": "33-22-20-069",
+    "name": "OPEN SPACE BITTER LEAF",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-070",
+    "code": "33-22-20-070",
+    "name": "OPEN SPACE BITTER LEAF I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-071",
+    "code": "33-22-20-071",
+    "name": "ABULOMA NEW MARKET",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-072",
+    "code": "33-22-20-072",
+    "name": "ABULOMA NEW MARKET I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-073",
+    "code": "33-22-20-073",
+    "name": "EJUAN PLAY GROUND",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-074",
+    "code": "33-22-20-074",
+    "name": "ETE-EDO",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-075",
+    "code": "33-22-20-075",
+    "name": "ABULOMA NEW TOWN HALL III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-076",
+    "code": "33-22-20-076",
+    "name": "EDE- OKIA PLAY GROU GROUND",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-077",
+    "code": "33-22-20-077",
+    "name": "EWOKA PLAYGROUND",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-078",
+    "code": "33-22-20-078",
+    "name": "TRANS-AMADI GARDENS",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-079",
+    "code": "33-22-20-079",
+    "name": "OSOU- OGU",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-080",
+    "code": "33-22-20-080",
+    "name": "CENTRAL SQUARE AMADI-AMA VII",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-081",
+    "code": "33-22-20-081",
+    "name": "CIRCULAR ROAD AMADI AMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-082",
+    "code": "33-22-20-082",
+    "name": "NTC SCHOOL ROAD AMADI-AMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-083",
+    "code": "33-22-20-083",
+    "name": "OPEN SPACE BY MTN MAST AMADI-AMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-084",
+    "code": "33-22-20-084",
+    "name": "AMADI-AMA HEALTH CENTER",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-085",
+    "code": "33-22-20-085",
+    "name": "OKURU-AMA HEALTH CENTER I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-086",
+    "code": "33-22-20-086",
+    "name": "OKURU HEALTH CENTER II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-087",
+    "code": "33-22-20-087",
+    "name": "OKURU HEALTH CENTER III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-088",
+    "code": "33-22-20-088",
+    "name": "OKURU-AMA OPEN SPACE BY JDP",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-089",
+    "code": "33-22-20-089",
+    "name": "OPEN SPACE BY VET JUNCTION AMADI-AMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-090",
+    "code": "33-22-20-090",
+    "name": "STATE SCHOOL AMADI-AMA VI",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-091",
+    "code": "33-22-20-091",
+    "name": "STATE SCHOOL AMADI-AMA VII",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-092",
+    "code": "33-22-20-092",
+    "name": "STATE SCHOOL AMADI-AMA VII I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-093",
+    "code": "33-22-20-093",
+    "name": "AMADI-AMA TOWN HALL",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-094",
+    "code": "33-22-20-094",
+    "name": "IGBONI",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-095",
+    "code": "33-22-20-095",
+    "name": "OZUBOKO VI IGBANIBO",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-096",
+    "code": "33-22-20-096",
+    "name": "OZUBOKO IGBISKALAMA",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-097",
+    "code": "33-22-20-097",
+    "name": "OZUBOKO ORUTA TEMEKE",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-098",
+    "code": "33-22-20-098",
+    "name": "OZUBOKO DANGO",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-099",
+    "code": "33-22-20-099",
+    "name": "OZUBOKO ENGR INNOCENT KOKO AVENUE",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-100",
+    "code": "33-22-20-100",
+    "name": "OZUBOKO IYOYO",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-101",
+    "code": "33-22-20-101",
+    "name": "FIMIE - AMA PLAYGROUND II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-102",
+    "code": "33-22-20-102",
+    "name": "FIMIE-AMA PLAYGROUND III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-103",
+    "code": "33-22-20-103",
+    "name": "UKUKALAMA PLAYGROUND II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-104",
+    "code": "33-22-20-104",
+    "name": "UKPAKU PLAYGROUND II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-105",
+    "code": "33-22-20-105",
+    "name": "SOMIARI-AMA PLAYGROUND III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-106",
+    "code": "33-22-20-106",
+    "name": "SOMIARI-AMA PLAYGROUND IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-107",
+    "code": "33-22-20-107",
+    "name": "SOMIARI-AMA PLAYGROUND V",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-108",
+    "code": "33-22-20-108",
+    "name": "AZUABIE MARKET I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-109",
+    "code": "33-22-20-109",
+    "name": "AZUABIE MARKET I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-110",
+    "code": "33-22-20-110",
+    "name": "AZUABIE TOWN SQUARE NEW I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-111",
+    "code": "33-22-20-111",
+    "name": "AZUABIE TOWN SQUARE IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-112",
+    "code": "33-22-20-112",
+    "name": "AZUABIE TOWN SQUARE II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-113",
+    "code": "33-22-20-113",
+    "name": "AZUABIE TOWN SQUARE III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-114",
+    "code": "33-22-20-114",
+    "name": "AZUABIE TOWN SQUARE IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-115",
+    "code": "33-22-20-115",
+    "name": "OKURU-AMA TOWN HALL",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-116",
+    "code": "33-22-20-116",
+    "name": "AZUABIE (AMONI STREET) II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-117",
+    "code": "33-22-20-117",
+    "name": "OKURU-AMA PHASE III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-118",
+    "code": "33-22-20-118",
+    "name": "OKURU-AMA MARKET",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-119",
+    "code": "33-22-20-119",
+    "name": "OKURU-AMA NDDC ROAD",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-120",
+    "code": "33-22-20-120",
+    "name": "OKURU-AMA GOLF ESTATE",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-121",
+    "code": "33-22-20-121",
+    "name": "KOKOAMA III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-122",
+    "code": "33-22-20-122",
+    "name": "KOKOAMA IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-123",
+    "code": "33-22-20-123",
+    "name": "IWOKIRI AMADI-AMA I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-124",
+    "code": "33-22-20-124",
+    "name": "IWOKIRI AMADI-AMA II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-125",
+    "code": "33-22-20-125",
+    "name": "PINA HALL",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-126",
+    "code": "33-22-20-126",
+    "name": "ABUJA KIRIKIRIDEIN",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-127",
+    "code": "33-22-20-127",
+    "name": "MDG HALL TURNJAH",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-128",
+    "code": "33-22-20-128",
+    "name": "ODU-INU COMMUNITY HALL",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-129",
+    "code": "33-22-20-129",
+    "name": "CPS AZUABIE I",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-130",
+    "code": "33-22-20-130",
+    "name": "CPS AZUABIE II",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-131",
+    "code": "33-22-20-131",
+    "name": "CPS AZUABIE III",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-132",
+    "code": "33-22-20-132",
+    "name": "CPS AZUABIE IV",
+    "wardId": "port-harcourt__ward-20"
+  },
+  {
+    "id": "33-22-20-133",
+    "code": "33-22-20-133",
+    "name": "SENATE VILLAGE AMADI-AMA",
+    "wardId": "port-harcourt__ward-20"
+  }
+]

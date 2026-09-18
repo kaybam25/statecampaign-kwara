@@ -1,0 +1,72 @@
+[
+  {
+    "id": "oke-ero__ward-01",
+    "name": "AIYEDUN",
+    "lgaId": "kwara__oke-ero",
+    "code": "23-14-01",
+    "puCount": 8
+  },
+  {
+    "id": "oke-ero__ward-02",
+    "name": "EKAN",
+    "lgaId": "kwara__oke-ero",
+    "code": "23-14-02",
+    "puCount": 9
+  },
+  {
+    "id": "oke-ero__ward-03",
+    "name": "IMOJI/ILALE/ERINMOPE",
+    "lgaId": "kwara__oke-ero",
+    "code": "23-14-03",
+    "puCount": 5
+  },
+  {
+    "id": "oke-ero__ward-04",
+    "name": "ILOFFA",
+    "lgaId": "kwara__oke-ero",
+    "code": "23-14-04",
+    "puCount": 10
+  },
+  {
+    "id": "oke-ero__ward-05",
+    "name": "IMODE/EGOSI",
+    "lgaId": "kwara__oke-ero",
+    "code": "23-14-05",
+    "puCount": 9
+  },
+  {
+    "id": "oke-ero__ward-06",
+    "name": "IDOFIN IGBANA 1",
+    "lgaId": "kwara__oke-ero",
+    "code": "23-14-06",
+    "puCount": 6
+  },
+  {
+    "id": "oke-ero__ward-07",
+    "name": "IDOFIN IGBANA 11",
+    "lgaId": "kwara__oke-ero",
+    "code": "23-14-07",
+    "puCount": 5
+  },
+  {
+    "id": "oke-ero__ward-08",
+    "name": "IDOFIN /ODO-ASHE",
+    "lgaId": "kwara__oke-ero",
+    "code": "23-14-08",
+    "puCount": 9
+  },
+  {
+    "id": "oke-ero__ward-09",
+    "name": "ODO-OWA 1",
+    "lgaId": "kwara__oke-ero",
+    "code": "23-14-09",
+    "puCount": 9
+  },
+  {
+    "id": "oke-ero__ward-10",
+    "name": "ODO-OWA 11",
+    "lgaId": "kwara__oke-ero",
+    "code": "23-14-10",
+    "puCount": 7
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "id": "moro__ward-01",
+    "name": "JEBBA",
+    "lgaId": "kwara__moro",
+    "code": "23-12-01",
+    "puCount": 20
+  },
+  {
+    "id": "moro__ward-02",
+    "name": "BODE-SAADU",
+    "lgaId": "kwara__moro",
+    "code": "23-12-02",
+    "puCount": 13
+  },
+  {
+    "id": "moro__ward-03",
+    "name": "OKEMI",
+    "lgaId": "kwara__moro",
+    "code": "23-12-03",
+    "puCount": 4
+  },
+  {
+    "id": "moro__ward-04",
+    "name": "LANWA",
+    "lgaId": "kwara__moro",
+    "code": "23-12-04",
+    "puCount": 8
+  },
+  {
+    "id": "moro__ward-05",
+    "name": "EJIDONGARI",
+    "lgaId": "kwara__moro",
+    "code": "23-12-05",
+    "puCount": 5
+  },
+  {
+    "id": "moro__ward-06",
+    "name": "OKUTALA",
+    "lgaId": "kwara__moro",
+    "code": "23-12-06",
+    "puCount": 9
+  },
+  {
+    "id": "moro__ward-07",
+    "name": "BABADUDU",
+    "lgaId": "kwara__moro",
+    "code": "23-12-07",
+    "puCount": 7
+  },
+  {
+    "id": "moro__ward-08",
+    "name": "OLORU",
+    "lgaId": "kwara__moro",
+    "code": "23-12-08",
+    "puCount": 7
+  },
+  {
+    "id": "moro__ward-09",
+    "name": "PAKUNMO",
+    "lgaId": "kwara__moro",
+    "code": "23-12-09",
+    "puCount": 6
+  },
+  {
+    "id": "moro__ward-10",
+    "name": "WOMI/AYAKI",
+    "lgaId": "kwara__moro",
+    "code": "23-12-10",
+    "puCount": 9
+  },
+  {
+    "id": "moro__ward-11",
+    "name": "ABATI/ALARA",
+    "lgaId": "kwara__moro",
+    "code": "23-12-11",
+    "puCount": 9
+  },
+  {
+    "id": "moro__ward-12",
+    "name": "SHAO",
+    "lgaId": "kwara__moro",
+    "code": "23-12-12",
+    "puCount": 16
+  },
+  {
+    "id": "moro__ward-13",
+    "name": "LOGUN/JEHUNKUNNU",
+    "lgaId": "kwara__moro",
+    "code": "23-12-13",
+    "puCount": 4
+  },
+  {
+    "id": "moro__ward-14",
+    "name": "MALETE/GBUGUDU",
+    "lgaId": "kwara__moro",
+    "code": "23-12-14",
+    "puCount": 5
+  },
+  {
+    "id": "moro__ward-15",
+    "name": "AJANAKU",
+    "lgaId": "kwara__moro",
+    "code": "23-12-15",
+    "puCount": 4
+  },
+  {
+    "id": "moro__ward-16",
+    "name": "MEGIDA",
+    "lgaId": "kwara__moro",
+    "code": "23-12-16",
+    "puCount": 10
+  },
+  {
+    "id": "moro__ward-17",
+    "name": "AROBADI",
+    "lgaId": "kwara__moro",
+    "code": "23-12-17",
+    "puCount": 6
+  }
+]

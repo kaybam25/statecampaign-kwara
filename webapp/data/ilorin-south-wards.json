@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ilorin-south__ward-01",
+    "name": "AKANBI -1",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-01",
+    "puCount": 10
+  },
+  {
+    "id": "ilorin-south__ward-02",
+    "name": "AKANBI -11",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-02",
+    "puCount": 8
+  },
+  {
+    "id": "ilorin-south__ward-03",
+    "name": "AKANBI -111",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-03",
+    "puCount": 51
+  },
+  {
+    "id": "ilorin-south__ward-04",
+    "name": "AKANBI -1V",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-04",
+    "puCount": 54
+  },
+  {
+    "id": "ilorin-south__ward-05",
+    "name": "AKANBI -V",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-05",
+    "puCount": 40
+  },
+  {
+    "id": "ilorin-south__ward-06",
+    "name": "BALOGUN-FULANI I",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-06",
+    "puCount": 20
+  },
+  {
+    "id": "ilorin-south__ward-07",
+    "name": "BALOGUN-FULANI 11",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-07",
+    "puCount": 15
+  },
+  {
+    "id": "ilorin-south__ward-08",
+    "name": "BALOGUN-FULANI 111",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-08",
+    "puCount": 17
+  },
+  {
+    "id": "ilorin-south__ward-09",
+    "name": "OKAKA 1",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-09",
+    "puCount": 21
+  },
+  {
+    "id": "ilorin-south__ward-10",
+    "name": "OKAKA 11",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-10",
+    "puCount": 20
+  },
+  {
+    "id": "ilorin-south__ward-11",
+    "name": "OKE-OGUN",
+    "lgaId": "kwara__ilorin-south",
+    "code": "23-07-11",
+    "puCount": 19
+  }
+]

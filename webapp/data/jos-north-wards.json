@@ -1,0 +1,100 @@
+[
+  {
+    "id": "jos-north__ward-01",
+    "name": "ABBA NA SHEHU WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-01",
+    "puCount": 53
+  },
+  {
+    "id": "jos-north__ward-02",
+    "name": "ALI KAZAURE WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-02",
+    "puCount": 60
+  },
+  {
+    "id": "jos-north__ward-03",
+    "name": "GARBA DAHO WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-03",
+    "puCount": 40
+  },
+  {
+    "id": "jos-north__ward-04",
+    "name": "GANGARE WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-04",
+    "puCount": 41
+  },
+  {
+    "id": "jos-north__ward-05",
+    "name": "IBRAHIM KATSINA WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-05",
+    "puCount": 37
+  },
+  {
+    "id": "jos-north__ward-06",
+    "name": "JENTA ADAMU WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-06",
+    "puCount": 46
+  },
+  {
+    "id": "jos-north__ward-07",
+    "name": "JENTA APATA WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-07",
+    "puCount": 60
+  },
+  {
+    "id": "jos-north__ward-08",
+    "name": "JOS JARAWA WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-08",
+    "puCount": 76
+  },
+  {
+    "id": "jos-north__ward-09",
+    "name": "NARAGUTA 'A' WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-09",
+    "puCount": 48
+  },
+  {
+    "id": "jos-north__ward-10",
+    "name": "NARAGUTA 'B' WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-10",
+    "puCount": 216
+  },
+  {
+    "id": "jos-north__ward-11",
+    "name": "SARKIN ARAB WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-11",
+    "puCount": 20
+  },
+  {
+    "id": "jos-north__ward-12",
+    "name": "TAFAWA BALEWA WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-12",
+    "puCount": 16
+  },
+  {
+    "id": "jos-north__ward-13",
+    "name": "TUDUN WADA - KABONG WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-13",
+    "puCount": 187
+  },
+  {
+    "id": "jos-north__ward-14",
+    "name": "VANDERPUYE WARD",
+    "lgaId": "plateau__jos-north",
+    "code": "32-05-14",
+    "puCount": 13
+  }
+]

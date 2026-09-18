@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ilorin-west__ward-01",
+    "name": "ADEWOLE",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-01",
+    "puCount": 38
+  },
+  {
+    "id": "ilorin-west__ward-02",
+    "name": "AJIKOBI",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-02",
+    "puCount": 69
+  },
+  {
+    "id": "ilorin-west__ward-03",
+    "name": "BABOKO",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-03",
+    "puCount": 26
+  },
+  {
+    "id": "ilorin-west__ward-04",
+    "name": "BADARI",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-04",
+    "puCount": 32
+  },
+  {
+    "id": "ilorin-west__ward-05",
+    "name": "BALOGUN ALANAMU CENTRAL",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-05",
+    "puCount": 67
+  },
+  {
+    "id": "ilorin-west__ward-06",
+    "name": "MAGAJI NGERI",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-06",
+    "puCount": 27
+  },
+  {
+    "id": "ilorin-west__ward-07",
+    "name": "OLOJE",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-07",
+    "puCount": 29
+  },
+  {
+    "id": "ilorin-west__ward-08",
+    "name": "OGIDI",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-08",
+    "puCount": 19
+  },
+  {
+    "id": "ilorin-west__ward-09",
+    "name": "OJUEKUN/ZARUMI",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-09",
+    "puCount": 47
+  },
+  {
+    "id": "ilorin-west__ward-10",
+    "name": "OKO-ERIN",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-10",
+    "puCount": 49
+  },
+  {
+    "id": "ilorin-west__ward-11",
+    "name": "UBANDAWAKI",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-11",
+    "puCount": 22
+  },
+  {
+    "id": "ilorin-west__ward-12",
+    "name": "WARRAH/EGBE JILA/OSHIN",
+    "lgaId": "kwara__ilorin-west",
+    "code": "23-08-12",
+    "puCount": 39
+  }
+]

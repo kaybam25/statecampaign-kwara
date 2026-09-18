@@ -1,0 +1,2264 @@
+[
+  {
+    "id": "2-20-01-001",
+    "code": "2-20-01-001",
+    "name": "ALKALI MOKOLO / 81 KURMI ROAD",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-002",
+    "code": "2-20-01-002",
+    "name": "ALHAJI MUSA / 100 MAJALISA ROAD",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-003",
+    "code": "2-20-01-003",
+    "name": "BABA SALMA / NO 6 MOKOLO CLOSE",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-004",
+    "code": "2-20-01-004",
+    "name": "BOBBOI WANZAM  / NO 7 NEPA ROAD",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-005",
+    "code": "2-20-01-005",
+    "name": "GRA PRI. SCH.  INFRONT OF H/M'S OFFICE",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-006",
+    "code": "2-20-01-006",
+    "name": "GRA PRI. SCH.  INFRONT OF CLASS II",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-007",
+    "code": "2-20-01-007",
+    "name": "GRA PRI. SCH.  INFRONT OF CLASS VI",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-008",
+    "code": "2-20-01-008",
+    "name": "GRA PRI. SCH.  INFRONT OF CLASS IVB",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-009",
+    "code": "2-20-01-009",
+    "name": "ISA RUMINGO / 22 GANYE ST",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-010",
+    "code": "2-20-01-010",
+    "name": "KOFAR MA'AJI / 16 MAALISA RD",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-011",
+    "code": "2-20-01-011",
+    "name": "KOFAR MOH'D KIRI / 48 KURMI RD.",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-012",
+    "code": "2-20-01-012",
+    "name": "KOFAR MOH'D ZUBAIRU / 79 NEPA RD.",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-013",
+    "code": "2-20-01-013",
+    "name": "KOFAR JAMA'A / 25 IBADAN ST.",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-014",
+    "code": "2-20-01-014",
+    "name": "KOFAR SARKIN TASHA / 7 TARABA ST.",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-015",
+    "code": "2-20-01-015",
+    "name": "KOFAR SULEIMAN S/KASUWA - 46 TAFIDA RD",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-016",
+    "code": "2-20-01-016",
+    "name": "KOFAR  SIDDIKI / 35 GANYE STREET",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-017",
+    "code": "2-20-01-017",
+    "name": "NEAR NIGER INSURANCE OFFICE",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-018",
+    "code": "2-20-01-018",
+    "name": "INSIDE CBDA OFFICE",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-019",
+    "code": "2-20-01-019",
+    "name": "53 KURMI ROAD",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-020",
+    "code": "2-20-01-020",
+    "name": "G.R.A PRI. SCH. IN FRONT CLASS I",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-021",
+    "code": "2-20-01-021",
+    "name": "G.R.A PRI. SCHOOL",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-022",
+    "code": "2-20-01-022",
+    "name": "G.R.A PRI. SCHOOL",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-023",
+    "code": "2-20-01-023",
+    "name": "G.R.A PRI. SCHOOL INF. CLASS II",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-024",
+    "code": "2-20-01-024",
+    "name": "KOFAR MOHD ZUBAIRU II",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-025",
+    "code": "2-20-01-025",
+    "name": "NEAR ADDA MAYINE GANYE STREET",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-026",
+    "code": "2-20-01-026",
+    "name": "NEAR CHUSAL BORE HOLE",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-027",
+    "code": "2-20-01-027",
+    "name": "NEAR GIDAN GONA PLAZA",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-028",
+    "code": "2-20-01-028",
+    "name": "BEHIND DOWN TOWN RESTAURANT",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-029",
+    "code": "2-20-01-029",
+    "name": "BEHIND YEDC",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-030",
+    "code": "2-20-01-030",
+    "name": "TAFIDA ROAD JUNCTION",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-01-031",
+    "code": "2-20-01-031",
+    "name": "34 MAJALISA RD NEAR BORE HOLE",
+    "wardId": "yola-north__ward-01"
+  },
+  {
+    "id": "2-20-02-001",
+    "code": "2-20-02-001",
+    "name": "ALH. BUBA JALO / 5 ABEOKUTA ST",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-002",
+    "code": "2-20-02-002",
+    "name": "ALH. JALO / NO 2  JEN CLOSE",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-003",
+    "code": "2-20-02-003",
+    "name": "AJIYA CLINIC OPP. AJIYA  CLINIC",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-004",
+    "code": "2-20-02-004",
+    "name": "BUBAKARI MAIGARI / 1,KADUNA ST.",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-005",
+    "code": "2-20-02-005",
+    "name": "CENTRAL PRI. SCH. /CENTRAL PRI. SCH. I",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-006",
+    "code": "2-20-02-006",
+    "name": "CENTRAL PRI. SCH. /CENTRAL PRI. SCH. II",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-007",
+    "code": "2-20-02-007",
+    "name": "CENTRAL PRI. SCH. /CENTRAL PRI. SCH. III",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-008",
+    "code": "2-20-02-008",
+    "name": "CENTRAL PRI. SCH. /CENTRAL PRI. SCH. IV",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-009",
+    "code": "2-20-02-009",
+    "name": "CENTRAL PRI. SCH. /CENTRAL PRI. SCH. V",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-010",
+    "code": "2-20-02-010",
+    "name": "KOFAR GANA / NO 9 NDAFORO ST.",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-011",
+    "code": "2-20-02-011",
+    "name": "KOFAR NABARA / 120 NEPA RD.",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-012",
+    "code": "2-20-02-012",
+    "name": "OPP. CP'S HOUSE / 14 IBRAHIM ATTAH RD.",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-013",
+    "code": "2-20-02-013",
+    "name": "NEAR OLD PRISON",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-014",
+    "code": "2-20-02-014",
+    "name": "CENTRAL PRI. SCHOOL VI",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-02-015",
+    "code": "2-20-02-015",
+    "name": "14 IBRAHIM ATTA RD CPS HOUSE II",
+    "wardId": "yola-north__ward-02"
+  },
+  {
+    "id": "2-20-03-001",
+    "code": "2-20-03-001",
+    "name": "BENIN ST. / NO 16 BENIN ST",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-002",
+    "code": "2-20-03-002",
+    "name": "CAPITAL SCH. / CAPITAL SCH. I",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-003",
+    "code": "2-20-03-003",
+    "name": "CAPITAL SCH. / CAPITAL SCH. II",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-004",
+    "code": "2-20-03-004",
+    "name": "CAPITAL SCH. / CAPITAL SCH. III",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-005",
+    "code": "2-20-03-005",
+    "name": "CAPITAL SCH. / CAPITAL SCH. IV",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-006",
+    "code": "2-20-03-006",
+    "name": "CAPITAL SCH. / CAPITAL SCH. V",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-007",
+    "code": "2-20-03-007",
+    "name": "DEMSAWO PRI. SCH. / DEMSAWO PRI. SCH. I",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-008",
+    "code": "2-20-03-008",
+    "name": "DEMSAWO PRI. SCH. / DEMSAWO PRI. SCH. II",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-009",
+    "code": "2-20-03-009",
+    "name": "DEMSAWO PRI. SCH. / DEMSAWO PRI. SCH. III",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-010",
+    "code": "2-20-03-010",
+    "name": "DEMSAWO PRI. SCH. / DEMSAWO PRI. SCH. IV",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-011",
+    "code": "2-20-03-011",
+    "name": "DOUBELI GDSS / DOUBELI GDSS I",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-012",
+    "code": "2-20-03-012",
+    "name": "DOUBELI GDSS / DOUBELI GDSS II",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-013",
+    "code": "2-20-03-013",
+    "name": "DOUBELI GDSS / DOUBELI GDSS III",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-014",
+    "code": "2-20-03-014",
+    "name": "GANIYU ALH. / 14 DEMSAWO ST.",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-015",
+    "code": "2-20-03-015",
+    "name": "GINDIN GORUBA / 127 BYE - PASS",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-016",
+    "code": "2-20-03-016",
+    "name": "JALO ALH. / NO 50, GERIYO ST.",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-017",
+    "code": "2-20-03-017",
+    "name": "MAIUNGUWA MOH'D / 5 WARWAR ST.",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-018",
+    "code": "2-20-03-018",
+    "name": "MOHAMMED SHUWA / OPP GERIYO ST.",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-019",
+    "code": "2-20-03-019",
+    "name": "MUSA GOBE / 3 BENIN STREET",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-020",
+    "code": "2-20-03-020",
+    "name": "MUSA KARIM LAMIDO / 5 KARIM ST.",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-021",
+    "code": "2-20-03-021",
+    "name": "MIJINYAWA  YUGUDA / OPP CATTLE MKT",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-022",
+    "code": "2-20-03-022",
+    "name": "SANSANI / OFF MAMBILA  ST.",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-023",
+    "code": "2-20-03-023",
+    "name": "CAPITAL SCHOOL VI",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-024",
+    "code": "2-20-03-024",
+    "name": "CAPITAL SCHOOL VII",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-025",
+    "code": "2-20-03-025",
+    "name": "CAPITAL SCHOOL VIII",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-026",
+    "code": "2-20-03-026",
+    "name": "CAPITAL SCHOOL IX",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-027",
+    "code": "2-20-03-027",
+    "name": "CAPITAL SCHOOL X",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-028",
+    "code": "2-20-03-028",
+    "name": "CAPITAL SCHOOL XI",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-029",
+    "code": "2-20-03-029",
+    "name": "CAPITAL SCHOOL XVII",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-030",
+    "code": "2-20-03-030",
+    "name": "CAPITAL SCHOOL XIII",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-031",
+    "code": "2-20-03-031",
+    "name": "CAPITAL SCHOOL XIV",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-032",
+    "code": "2-20-03-032",
+    "name": "CAPITAL SCHOOL XV",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-033",
+    "code": "2-20-03-033",
+    "name": "CAPITAL SCHOOL XVI",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-034",
+    "code": "2-20-03-034",
+    "name": "CAPITAL SCHOOL XVII",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-035",
+    "code": "2-20-03-035",
+    "name": "CAPITAL SCHOOL XVII",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-036",
+    "code": "2-20-03-036",
+    "name": "CATTLE MARKET I",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-037",
+    "code": "2-20-03-037",
+    "name": "CATTLE MARKET II",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-038",
+    "code": "2-20-03-038",
+    "name": "G.B.B.S.S DEMSAWO III",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-039",
+    "code": "2-20-03-039",
+    "name": "GBSS DEMSAWO I",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-040",
+    "code": "2-20-03-040",
+    "name": "GBSS DEMSAWO II",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-041",
+    "code": "2-20-03-041",
+    "name": "HANNATU NGILARI HEALTH CENTRE",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-042",
+    "code": "2-20-03-042",
+    "name": "DEMSAWO PRIMARY SCH. V",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-043",
+    "code": "2-20-03-043",
+    "name": "DEMSAWO PRIMARY SCH. VI",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-044",
+    "code": "2-20-03-044",
+    "name": "DEMSAWO PRI. SCH. VII",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-045",
+    "code": "2-20-03-045",
+    "name": "DEMSAWO PRI. SCH. VIII",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-046",
+    "code": "2-20-03-046",
+    "name": "DEMSAWO PRIMARY SCHOOL",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-047",
+    "code": "2-20-03-047",
+    "name": "DEMSAWO PRIMARY SCHOOL",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-048",
+    "code": "2-20-03-048",
+    "name": "GDSS DOUBELI IV",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-049",
+    "code": "2-20-03-049",
+    "name": "GDSS DOUBELI V",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-050",
+    "code": "2-20-03-050",
+    "name": "GDSS DOUBELI VI",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-051",
+    "code": "2-20-03-051",
+    "name": "GDSS DOUBELI VII",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-052",
+    "code": "2-20-03-052",
+    "name": "GDSS DOUBELI VIII",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-053",
+    "code": "2-20-03-053",
+    "name": "GDSS DOUBELI IX",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-054",
+    "code": "2-20-03-054",
+    "name": "MULMULA PRIMARY SCHOOL I",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-055",
+    "code": "2-20-03-055",
+    "name": "MULMULA PRIMARY SCHOOL II",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-056",
+    "code": "2-20-03-056",
+    "name": "JALO ALH I",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-057",
+    "code": "2-20-03-057",
+    "name": "SANSANI I",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-058",
+    "code": "2-20-03-058",
+    "name": "BORE HOLE, KARIM LAMIDO STR.",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-03-059",
+    "code": "2-20-03-059",
+    "name": "RICE PROCESSING MILL",
+    "wardId": "yola-north__ward-03"
+  },
+  {
+    "id": "2-20-04-001",
+    "code": "2-20-04-001",
+    "name": "COMMAND PRI. SCH. / COMMAND PRI. SCH.",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-002",
+    "code": "2-20-04-002",
+    "name": "GHALI MU'AZU/ 95 TAFIDA RD",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-003",
+    "code": "2-20-04-003",
+    "name": "GWADABAWA PRI. SCH. / GWADABAWA PRI. SCH. I",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-004",
+    "code": "2-20-04-004",
+    "name": "GWADABAWA PRI. SCH. / GWADABAWA PRI. SCH. II",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-005",
+    "code": "2-20-04-005",
+    "name": "GWADABAWA PRI. SCH. / GWADABAWA PRI. SCH. III",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-006",
+    "code": "2-20-04-006",
+    "name": "GWADABAWA PRI. SCH. / GWADABAWA PRI. SCH. IV",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-007",
+    "code": "2-20-04-007",
+    "name": "MAJALISA PRI SCH. / MAJALISA PRI. SCH. I",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-008",
+    "code": "2-20-04-008",
+    "name": "MAJALISA PRI SCH. / MAJALISA PRI. SCH. II",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-009",
+    "code": "2-20-04-009",
+    "name": "NEW GOVT. HOUSE  / OPP MAIN GATE",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-010",
+    "code": "2-20-04-010",
+    "name": "NEW GOVT. HOUSE  / G.G.S.S. MAIN GATE",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-011",
+    "code": "2-20-04-011",
+    "name": "NEW GOVT. HOUSE / NEAR POLICE POST I",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-012",
+    "code": "2-20-04-012",
+    "name": "NEW GOVT. HOUSE / NEAR POLICE POST II",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-013",
+    "code": "2-20-04-013",
+    "name": "NEW FCE STAFF SCH. / STAFF SCHOOL",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-014",
+    "code": "2-20-04-014",
+    "name": "OLD GOVT. HOUSE / OPP MAIN GATE",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-015",
+    "code": "2-20-04-015",
+    "name": "OLD GOVT. HOUSE / BEHIND RIBADU SQUARE",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-016",
+    "code": "2-20-04-016",
+    "name": "UNITS OF 80 HOUSES / OPP NDLEA",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-017",
+    "code": "2-20-04-017",
+    "name": "YOLA CLUB / NO 1 ADAMAWA RD.",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-018",
+    "code": "2-20-04-018",
+    "name": "WEEIN RESOURCE CENTER",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-019",
+    "code": "2-20-04-019",
+    "name": "F.C.E MAIN GATE",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-020",
+    "code": "2-20-04-020",
+    "name": "DOUGIREI MODEL ACADEMY",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-021",
+    "code": "2-20-04-021",
+    "name": "DOUGIREI PRIMARY HEALTH CENTRE",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-022",
+    "code": "2-20-04-022",
+    "name": "TARABA STATE LIASON OFFICE GATE",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-023",
+    "code": "2-20-04-023",
+    "name": "DOUGIREI PRIMARY SCHOOL",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-024",
+    "code": "2-20-04-024",
+    "name": "GGSS COMPOUND",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-025",
+    "code": "2-20-04-025",
+    "name": "DOUGIREI PRIMARY SCHOOL II",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-026",
+    "code": "2-20-04-026",
+    "name": "NEAR COMMAND CHILDREN PRI SCH",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-027",
+    "code": "2-20-04-027",
+    "name": "RIBADU SQUARE",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-028",
+    "code": "2-20-04-028",
+    "name": "NUJ PRESS CENTRE",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-029",
+    "code": "2-20-04-029",
+    "name": "ADAMAWA STATE LOCAL GOV'T SERVICE COMMISSION GATE",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-030",
+    "code": "2-20-04-030",
+    "name": "GWADABAWA PRI. SCHOOL V",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-031",
+    "code": "2-20-04-031",
+    "name": "GWADABAWA PRIMARY SCHOOL",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-04-032",
+    "code": "2-20-04-032",
+    "name": "MAJALISA PRI. SCHOOL III",
+    "wardId": "yola-north__ward-04"
+  },
+  {
+    "id": "2-20-05-001",
+    "code": "2-20-05-001",
+    "name": "DAMILU PRI. SCH.  / DAMILU PRI. SCH. I",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-002",
+    "code": "2-20-05-002",
+    "name": "DAMILU PRI. SCH.  / DAMILU PRI. SCH. II",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-003",
+    "code": "2-20-05-003",
+    "name": "JAMBUTU PRI. SCH. / JAMBUTU PRI. SCH I.",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-004",
+    "code": "2-20-05-004",
+    "name": "JAMBUTU PRI. SCH. / JAMBUTU PRI. SCH II.",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-005",
+    "code": "2-20-05-005",
+    "name": "KOFAR AUDU DAMILU/ KOFAR JAURO",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-006",
+    "code": "2-20-05-006",
+    "name": "KOFAR JAURO AUDU MAIWADA",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-007",
+    "code": "2-20-05-007",
+    "name": "KOFAR HAMZA/ NO 166 JAMBUTU",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-008",
+    "code": "2-20-05-008",
+    "name": "KOFAR JAURO JAMBUTU/ KOFAR JAURO",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-009",
+    "code": "2-20-05-009",
+    "name": "KOFAR J/NYOKERE/KOFAR/ NYOKERE",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-010",
+    "code": "2-20-05-010",
+    "name": "KOFAR YERIMA/OPP JAMBUTU ESTATE",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-011",
+    "code": "2-20-05-011",
+    "name": "DAMILU PRIMARY SCHOOL III",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-012",
+    "code": "2-20-05-012",
+    "name": "DAMILU PRIMARY SCHOOL IV",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-013",
+    "code": "2-20-05-013",
+    "name": "DAMILU PRIMARY SCHOOL V",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-014",
+    "code": "2-20-05-014",
+    "name": "DAMILU PRIMARY SCHOOL VI",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-015",
+    "code": "2-20-05-015",
+    "name": "DAMILU PRIMARY SCHOOL VII",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-016",
+    "code": "2-20-05-016",
+    "name": "DAMILU PRIMARY SCHOOL VIII",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-017",
+    "code": "2-20-05-017",
+    "name": "DAMILU PRIMARY SCHOOL IX",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-018",
+    "code": "2-20-05-018",
+    "name": "DAMILU PRIMARY SCHOOL X",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-019",
+    "code": "2-20-05-019",
+    "name": "DAMILU PRIMARY SCHOOL XI",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-020",
+    "code": "2-20-05-020",
+    "name": "DAMILU PRIMARY SCHOOL XII",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-021",
+    "code": "2-20-05-021",
+    "name": "DAMILU PRIMARY SCHOOL XIII",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-022",
+    "code": "2-20-05-022",
+    "name": "DAMILU PRIMARY SCHOOL XIV",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-023",
+    "code": "2-20-05-023",
+    "name": "DAMILU PRIMARY SCHOOL XV",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-024",
+    "code": "2-20-05-024",
+    "name": "DAMILU HEALTH CENTER",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-025",
+    "code": "2-20-05-025",
+    "name": "JAMBUTU PRIMARY SCHOOL III",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-026",
+    "code": "2-20-05-026",
+    "name": "JAMBUTU PRIMARY SCHOOL IV",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-027",
+    "code": "2-20-05-027",
+    "name": "JAMBUTU PRIMARY SCHOOL V",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-028",
+    "code": "2-20-05-028",
+    "name": "JAMBUTU PRIMARY SCHOOL VI",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-029",
+    "code": "2-20-05-029",
+    "name": "JAMBUTU PRIMARY SCHOOL VII",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-030",
+    "code": "2-20-05-030",
+    "name": "JAMBUTU PRIMARY SCHOOL VIII",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-031",
+    "code": "2-20-05-031",
+    "name": "JAMBUTU PRIMARY SCHOOL IX",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-032",
+    "code": "2-20-05-032",
+    "name": "JAMBUTU PRIMARY SCHOOL X",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-033",
+    "code": "2-20-05-033",
+    "name": "JAMBUTU PRIMARY SCHOOL XI",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-034",
+    "code": "2-20-05-034",
+    "name": "NYAKORE MARKET I",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-035",
+    "code": "2-20-05-035",
+    "name": "NYAKORE MARKET II",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-036",
+    "code": "2-20-05-036",
+    "name": "NYAKORE MARKET III",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-037",
+    "code": "2-20-05-037",
+    "name": "NYAKORE MARKET IV",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-038",
+    "code": "2-20-05-038",
+    "name": "NYAKORE MARKET V",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-039",
+    "code": "2-20-05-039",
+    "name": "JAMBUTU STATE POLYTECHNIC I",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-040",
+    "code": "2-20-05-040",
+    "name": "JAMBUTU STATE POLYTECHNIC II",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-041",
+    "code": "2-20-05-041",
+    "name": "BESIDE JAMBUTU POLICE STATION",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-042",
+    "code": "2-20-05-042",
+    "name": "JAMBUTU BORE HOLE",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-043",
+    "code": "2-20-05-043",
+    "name": "VETERINARY CLINIC JAMBUTU I",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-044",
+    "code": "2-20-05-044",
+    "name": "VETERINARY CLINIC JAMBUTU II",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-045",
+    "code": "2-20-05-045",
+    "name": "BORE HOLE BESIDE NURUL ISLAM I",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-046",
+    "code": "2-20-05-046",
+    "name": "BORE HOLE BESIDE NURUL ISLAM II",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-047",
+    "code": "2-20-05-047",
+    "name": "BINANI PUBLIC BORE HOLE I",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-05-048",
+    "code": "2-20-05-048",
+    "name": "BINANI PUBLIC BORE HOLE II",
+    "wardId": "yola-north__ward-05"
+  },
+  {
+    "id": "2-20-06-001",
+    "code": "2-20-06-001",
+    "name": "BACHURE/ KOFAR JAURO BACHURE I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-002",
+    "code": "2-20-06-002",
+    "name": "BACHURE/ KOFAR JAURO BACHURE II",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-003",
+    "code": "2-20-06-003",
+    "name": "BEKAJI PRI. SCH I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-004",
+    "code": "2-20-06-004",
+    "name": "BEKAJI PRI. SCH. II",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-005",
+    "code": "2-20-06-005",
+    "name": "GDSS (ARMY) STAFF QTRS. I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-006",
+    "code": "2-20-06-006",
+    "name": "GDSS (ARMY) STAFF QTRS. II",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-007",
+    "code": "2-20-06-007",
+    "name": "GDSS (ARMY) STAFF QTRS. III",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-008",
+    "code": "2-20-06-008",
+    "name": "GDSS (ARMY) STAFF QTRS. IV",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-009",
+    "code": "2-20-06-009",
+    "name": "KAREWA GDSS I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-010",
+    "code": "2-20-06-010",
+    "name": "KAREWA GDSS II",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-011",
+    "code": "2-20-06-011",
+    "name": "KAREWA PRI. SCH. I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-012",
+    "code": "2-20-06-012",
+    "name": "KAREWA PRI. SCH. II",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-013",
+    "code": "2-20-06-013",
+    "name": "KOFARE/ KOFAR JAURO KOFARE",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-014",
+    "code": "2-20-06-014",
+    "name": "MALAMRE MARKET",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-015",
+    "code": "2-20-06-015",
+    "name": "MALAMRE QTRS/ KOFAR SULEIMAN WAPANDA",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-016",
+    "code": "2-20-06-016",
+    "name": "NYIBANGO/ KOFAR JAURO NYIBANGO",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-017",
+    "code": "2-20-06-017",
+    "name": "STATE POLY I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-018",
+    "code": "2-20-06-018",
+    "name": "STATE POLY II",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-019",
+    "code": "2-20-06-019",
+    "name": "STATE POLY III",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-020",
+    "code": "2-20-06-020",
+    "name": "BACHURE PRIMARY SCHOOL I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-021",
+    "code": "2-20-06-021",
+    "name": "BACHURE PRIMARY SCHOOL II",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-022",
+    "code": "2-20-06-022",
+    "name": "BACHURE PRIMARY SCHOOL III",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-023",
+    "code": "2-20-06-023",
+    "name": "BACHURE PRIMARY SCHOOL IV",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-024",
+    "code": "2-20-06-024",
+    "name": "BACHURE PRIMARY SCHOOL V",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-025",
+    "code": "2-20-06-025",
+    "name": "BACHURE PRIMARY SCHOOL VI",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-026",
+    "code": "2-20-06-026",
+    "name": "BACHURE SKILLS ACQUISITION CENTRE",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-027",
+    "code": "2-20-06-027",
+    "name": "NVRI KOFARE I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-028",
+    "code": "2-20-06-028",
+    "name": "NVRI KOFARE II",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-029",
+    "code": "2-20-06-029",
+    "name": "AGRIC STORE",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-030",
+    "code": "2-20-06-030",
+    "name": "ICPC GATE BACHURE",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-031",
+    "code": "2-20-06-031",
+    "name": "KOFARE PRIMARY SCHOOL I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-032",
+    "code": "2-20-06-032",
+    "name": "KOFARE PRIMARY SCHOOL II",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-033",
+    "code": "2-20-06-033",
+    "name": "NEAR ROYAL HOSPITAL",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-034",
+    "code": "2-20-06-034",
+    "name": "FAAN PRIMARY SCHOOL",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-035",
+    "code": "2-20-06-035",
+    "name": "BEKAJI PRIMARY SCHOOL III",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-036",
+    "code": "2-20-06-036",
+    "name": "BEKAJI PRIMARY SCHOOL IV",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-037",
+    "code": "2-20-06-037",
+    "name": "BEKAJI PRIMARY SCHOOL V",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-038",
+    "code": "2-20-06-038",
+    "name": "STATE POLY IV",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-039",
+    "code": "2-20-06-039",
+    "name": "STATE POLY V",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-040",
+    "code": "2-20-06-040",
+    "name": "STATE POLY VI",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-041",
+    "code": "2-20-06-041",
+    "name": "STATE POLY VII",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-042",
+    "code": "2-20-06-042",
+    "name": "KAREWA GDSS III",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-043",
+    "code": "2-20-06-043",
+    "name": "KAREWA GDSS IV",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-044",
+    "code": "2-20-06-044",
+    "name": "AIRFORCE OFFICER'S QUARTERS KAREWA (FAAN)",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-045",
+    "code": "2-20-06-045",
+    "name": "BEHIND GMMC (RAMAT)",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-046",
+    "code": "2-20-06-046",
+    "name": "CHILDREN'S HOME PRIMARY SCH.",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-047",
+    "code": "2-20-06-047",
+    "name": "NALDA OFFICE MASAKARE",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-048",
+    "code": "2-20-06-048",
+    "name": "NOUN STUDY CENTER",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-049",
+    "code": "2-20-06-049",
+    "name": "NYIBANGO PRIMARY SCHOOL I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-050",
+    "code": "2-20-06-050",
+    "name": "NYIBANGO PRIMARY SCHOOL II",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-051",
+    "code": "2-20-06-051",
+    "name": "GDSS ARMY STAFF QUARTERS IV",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-052",
+    "code": "2-20-06-052",
+    "name": "GDSS ARMY STAFF QUARTERS V",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-053",
+    "code": "2-20-06-053",
+    "name": "GDSS ARMY STAFF QUARTERS VI",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-054",
+    "code": "2-20-06-054",
+    "name": "GDSS ARMY STAFF QUARTERS VII",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-055",
+    "code": "2-20-06-055",
+    "name": "GDSS ARMY STAFF QUARTERS VIII",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-056",
+    "code": "2-20-06-056",
+    "name": "DURAGI HOTEL JUNCTION (OPEN SPACE)",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-057",
+    "code": "2-20-06-057",
+    "name": "ADAMAWA STATE AGENCY FOR MASS EDU. CENTRE FOR ADULT & HOME ECONOMICS MULTI PURPOSE CENTRE MALAMRE",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-058",
+    "code": "2-20-06-058",
+    "name": "MALAMRE MARKET I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-059",
+    "code": "2-20-06-059",
+    "name": "MALAMRE HEALTH CLINIC",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-06-060",
+    "code": "2-20-06-060",
+    "name": "KAREWA PRIMARY SCHOOL I",
+    "wardId": "yola-north__ward-06"
+  },
+  {
+    "id": "2-20-07-001",
+    "code": "2-20-07-001",
+    "name": "ALH GARBA/ 50 ZANGO ST.",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-002",
+    "code": "2-20-07-002",
+    "name": "BUBA MANDA/ 46 ZANGO ST.",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-003",
+    "code": "2-20-07-003",
+    "name": "DASIN MAI RIGA",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-004",
+    "code": "2-20-07-004",
+    "name": "ISA ISAWA/ 31 S/WUTA ST.",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-005",
+    "code": "2-20-07-005",
+    "name": "JAURO HAIRU/ OFF M/BELWA ST.",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-006",
+    "code": "2-20-07-006",
+    "name": "KOFAR ALH. ABDULRAHMAN/ OFF MAYANKA ST.",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-007",
+    "code": "2-20-07-007",
+    "name": "KOFAR AUDU MAIYADI/ OFF M/BELWA ST.",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-008",
+    "code": "2-20-07-008",
+    "name": "PARIS HAMMANJODA/ 217 M/MUSTAPHA",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-009",
+    "code": "2-20-07-009",
+    "name": "SABO B. DAKO/ 22 YELWA ST.",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-010",
+    "code": "2-20-07-010",
+    "name": "SANI RABO/ 25 YELWA ST.",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-011",
+    "code": "2-20-07-011",
+    "name": "SUNUNNU/ 1 MAYANKA ST.",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-012",
+    "code": "2-20-07-012",
+    "name": "ZANGO RD/ 90 ZANGO RD",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-013",
+    "code": "2-20-07-013",
+    "name": "ZANGO RD/ 50 ZANGO RD I",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-014",
+    "code": "2-20-07-014",
+    "name": "ZANGO RD/ 50 ZANGO RD II",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-015",
+    "code": "2-20-07-015",
+    "name": "LIMAWA PRIMARY SCHOOL I",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-016",
+    "code": "2-20-07-016",
+    "name": "LIMAWA PRIMARY SCHOOL II",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-017",
+    "code": "2-20-07-017",
+    "name": "LIMAWA PRIMARY SCHOOL III",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-018",
+    "code": "2-20-07-018",
+    "name": "LIMAWA PRIMARY SCHOOL IV",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-019",
+    "code": "2-20-07-019",
+    "name": "ZANGO STREET III NEAR KOFAN MALAM BABA",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-020",
+    "code": "2-20-07-020",
+    "name": "ZANGO STREET IV",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-021",
+    "code": "2-20-07-021",
+    "name": "KOFAR MAMMAN INDIA JUNCTION",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-022",
+    "code": "2-20-07-022",
+    "name": "OFF. ZANGO ROAD NEW MAST",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-023",
+    "code": "2-20-07-023",
+    "name": "1, OLD MAYANKA STREET",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-024",
+    "code": "2-20-07-024",
+    "name": "MAYANKA STREET",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-025",
+    "code": "2-20-07-025",
+    "name": "OPPOSITE ZAITUNE CLINIC",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-07-026",
+    "code": "2-20-07-026",
+    "name": "NEAR 227, MUH'D MUSTAPHA WAY",
+    "wardId": "yola-north__ward-07"
+  },
+  {
+    "id": "2-20-08-001",
+    "code": "2-20-08-001",
+    "name": "DIWAKI/ NO.6 GIMBA RD",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-002",
+    "code": "2-20-08-002",
+    "name": "KADIRI TELA/ 37 CATHOLIC ST.",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-003",
+    "code": "2-20-08-003",
+    "name": "LUGGERE PRI. SCH. I",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-004",
+    "code": "2-20-08-004",
+    "name": "LUGGERE PRI. SCH. II",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-005",
+    "code": "2-20-08-005",
+    "name": "LUGGERE PRI. SCH III",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-006",
+    "code": "2-20-08-006",
+    "name": "LUGGERE PRI. SCH. IV",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-007",
+    "code": "2-20-08-007",
+    "name": "LUGGERE PRI. SCH. V",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-008",
+    "code": "2-20-08-008",
+    "name": "M. MADU/ 21 OWERRI ST.",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-009",
+    "code": "2-20-08-009",
+    "name": "MAIUNGUWA MUSA/ 60 B. HUNGUSHI RD",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-010",
+    "code": "2-20-08-010",
+    "name": "MANU GAMJI/ 54 BISHOP ST.",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-011",
+    "code": "2-20-08-011",
+    "name": "MALLAM H. DAMPAH/ OFF BISHOP ST.",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-012",
+    "code": "2-20-08-012",
+    "name": "MADALLA CHEMIST/ 14 BISHOP ST.",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-013",
+    "code": "2-20-08-013",
+    "name": "YAHYA MODA/ 23 MURI ST.",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-014",
+    "code": "2-20-08-014",
+    "name": "YAHYA TELA/ 28 BISHOP ST.",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-015",
+    "code": "2-20-08-015",
+    "name": "LUGGERE BAKI PUBLIC BORE HOLE",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-016",
+    "code": "2-20-08-016",
+    "name": "PUBLIC BORE HOLE MURI STREET I",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-017",
+    "code": "2-20-08-017",
+    "name": "PUBLIC BORE HOLE II MURI STREET",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-018",
+    "code": "2-20-08-018",
+    "name": "ADAMAWA STATE URBAN PLANNING",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-019",
+    "code": "2-20-08-019",
+    "name": "PHC YOLA NORTH DEV. CENTRAL AREA I",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-020",
+    "code": "2-20-08-020",
+    "name": "PHC YOLA NORTH DEV. CENTRAL AREA II",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-021",
+    "code": "2-20-08-021",
+    "name": "PHC YOLA NORTH DEV. CENTRAL AREA III",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-022",
+    "code": "2-20-08-022",
+    "name": "LUGGERE PRIMARY SCHOOL VI",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-023",
+    "code": "2-20-08-023",
+    "name": "LUGGERE PRIMARY SCHOOL VII",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-024",
+    "code": "2-20-08-024",
+    "name": "LUGGERE PRIMARY SCHOOL VIII",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-025",
+    "code": "2-20-08-025",
+    "name": "LUGGERE PRIMARY SCHOOL IX",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-026",
+    "code": "2-20-08-026",
+    "name": "TAMINUS PUBLIC BORE HOLE I",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-027",
+    "code": "2-20-08-027",
+    "name": "TAMINUS PUBLIC BORE HOLE II",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-08-028",
+    "code": "2-20-08-028",
+    "name": "HOSPITAL SERVICE MANAGEMENT BOARD",
+    "wardId": "yola-north__ward-08"
+  },
+  {
+    "id": "2-20-09-001",
+    "code": "2-20-09-001",
+    "name": "BALI ST/ 34 BALI ST",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-002",
+    "code": "2-20-09-002",
+    "name": "BALI ST/ 67 BALI ST",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-003",
+    "code": "2-20-09-003",
+    "name": "BAUCHI ST./ 24 BAUCHI ST.",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-004",
+    "code": "2-20-09-004",
+    "name": "BOLE ST./ 49 BOLE ST.",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-005",
+    "code": "2-20-09-005",
+    "name": "BOLE ST./ KOFAR AUDU MAIGORO",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-006",
+    "code": "2-20-09-006",
+    "name": "BOLE ST./ KOFAR IDI SAIDU",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-007",
+    "code": "2-20-09-007",
+    "name": "KALA'A STREET/ KOFAR IDI STATION",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-008",
+    "code": "2-20-09-008",
+    "name": "KALA'A ST./ KOFAR BOBBO",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-009",
+    "code": "2-20-09-009",
+    "name": "KOPPI KASUWA/ KASUWAN KOPPI",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-010",
+    "code": "2-20-09-010",
+    "name": "KOFAR BAKARI/ BEHIND COCA - COLA DEPOT",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-011",
+    "code": "2-20-09-011",
+    "name": "KOFAR ALH. MALAMI/ 110 BAUCHI ST.",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-012",
+    "code": "2-20-09-012",
+    "name": "KOFAR MADI/ BEHIND HOSPITAL",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-013",
+    "code": "2-20-09-013",
+    "name": "KOFAR MUAZU A/ OFF KALA'A ST.",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-014",
+    "code": "2-20-09-014",
+    "name": "KOMAI ILORIN/ 23 ILORIN ST.",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-015",
+    "code": "2-20-09-015",
+    "name": "KOFAR HAMMA KANU/ 108 HOSPITAL RD",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-016",
+    "code": "2-20-09-016",
+    "name": "KOFAR SALE MAI MOLO/ OFF BOLE ST.",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-017",
+    "code": "2-20-09-017",
+    "name": "KOFAR MAINA/ 14 KARIM ST.",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-018",
+    "code": "2-20-09-018",
+    "name": "NASSARAWO PRI. SCH.",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-019",
+    "code": "2-20-09-019",
+    "name": "NASSARAWO PRI. SCH",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-020",
+    "code": "2-20-09-020",
+    "name": "NASSARAWO PRI. SCH.",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-021",
+    "code": "2-20-09-021",
+    "name": "YAHAYA ALH./ NO. 104 HOSPITAL RD",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-022",
+    "code": "2-20-09-022",
+    "name": "YOLA NORTH STADIUM I",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-023",
+    "code": "2-20-09-023",
+    "name": "YOLA NORTH STADIUM II",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-024",
+    "code": "2-20-09-024",
+    "name": "PHC NASSARAWO",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-025",
+    "code": "2-20-09-025",
+    "name": "OPEN SPACE BEHIND SHUIBU MECHANIC",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-026",
+    "code": "2-20-09-026",
+    "name": "NASSARAWO PRIMARY SCHOOL I",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-027",
+    "code": "2-20-09-027",
+    "name": "NASSARAWO PRIMARY SCHOOL II",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-028",
+    "code": "2-20-09-028",
+    "name": "NASSARAWO PRIMARY SCHOOL III",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-029",
+    "code": "2-20-09-029",
+    "name": "NASSARAWO PRIMARY SCHOOL IV",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-030",
+    "code": "2-20-09-030",
+    "name": "NASSARAWO PRIMARY SCHOOL V",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-031",
+    "code": "2-20-09-031",
+    "name": "NASSARAWO PRIMARY SCHOOL VI",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-032",
+    "code": "2-20-09-032",
+    "name": "BLIND WORK SHOP NASSARAWO",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-033",
+    "code": "2-20-09-033",
+    "name": "PUBLIC BORE HOLE BABA AKWABE",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-034",
+    "code": "2-20-09-034",
+    "name": "PUBLIC BORE HOLE LUMO KOPPI",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-035",
+    "code": "2-20-09-035",
+    "name": "PUBLIC BORE HOLE TRANSFORMER OKENE",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-036",
+    "code": "2-20-09-036",
+    "name": "PUBLIC BORE HOLE BALI STREET",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-037",
+    "code": "2-20-09-037",
+    "name": "POLICE OUTPOST NASSARAWO BORE HOLE",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-038",
+    "code": "2-20-09-038",
+    "name": "KASHERE PUBLIC BORE HOLE NASSARAWO",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-039",
+    "code": "2-20-09-039",
+    "name": "UNGUWAN WURKUM BORE HOLE",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-040",
+    "code": "2-20-09-040",
+    "name": "NASSARAWO HOSPITAL ROAD",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-09-041",
+    "code": "2-20-09-041",
+    "name": "ZING HOUSE BORE HOLE NASSARAWO",
+    "wardId": "yola-north__ward-09"
+  },
+  {
+    "id": "2-20-10-001",
+    "code": "2-20-10-001",
+    "name": "KOFAR ALH. GODA/ 68 TARABA ST.",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-002",
+    "code": "2-20-10-002",
+    "name": "KOFAR LIMAN RUMDE/ 33 CHURCH ST.",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-003",
+    "code": "2-20-10-003",
+    "name": "KOFAR M. HAMMAWA/ 15 CHURCH ST.",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-004",
+    "code": "2-20-10-004",
+    "name": "KOFAR MAI ITACHE/ 67 CHURCH ST.",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-005",
+    "code": "2-20-10-005",
+    "name": "KOFAR MAI LAWUJE/ 63 FOMBINA ST.",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-006",
+    "code": "2-20-10-006",
+    "name": "KOFAR WAKILI DAHIRU/ 61 FOMBINA ST.",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-007",
+    "code": "2-20-10-007",
+    "name": "KOFAR MOH'D DAHIRU (WURO KUTURU)",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-008",
+    "code": "2-20-10-008",
+    "name": "RUMDE PRI. SCH. I",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-009",
+    "code": "2-20-10-009",
+    "name": "RUMDE PRI. SCH. II",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-010",
+    "code": "2-20-10-010",
+    "name": "RUMDE PRI. SCH. III",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-011",
+    "code": "2-20-10-011",
+    "name": "PHC RUMDE",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-012",
+    "code": "2-20-10-012",
+    "name": "KOFAR MAI LAWUJE/63 FOMBINA STR I",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-013",
+    "code": "2-20-10-013",
+    "name": "KOFAR WAKILI DAHIRU FOMBINA STR I",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-014",
+    "code": "2-20-10-014",
+    "name": "RUMDE PRIMARY SCHOOL III",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-10-015",
+    "code": "2-20-10-015",
+    "name": "RUMDE PRIMARY SCHOOL IV",
+    "wardId": "yola-north__ward-10"
+  },
+  {
+    "id": "2-20-11-001",
+    "code": "2-20-11-001",
+    "name": "EMBASSY HOTEL/ MUBI ROAD",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-002",
+    "code": "2-20-11-002",
+    "name": "KOFAR M. ABUBAKAR/ 9 JIMETA ST.",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-003",
+    "code": "2-20-11-003",
+    "name": "KOFAR M. BABA/ 17 JIMETA ST.",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-004",
+    "code": "2-20-11-004",
+    "name": "KOFAR M. FARI/ 18 JIMETA ST.",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-005",
+    "code": "2-20-11-005",
+    "name": "KOFAR MOH'D GARBA/ BEHIND YELWA PRI. SCH.",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-006",
+    "code": "2-20-11-006",
+    "name": "KOFAR MUAZU/ 30 JIMETA ST.",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-007",
+    "code": "2-20-11-007",
+    "name": "YELWA PRI. SCH. I",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-008",
+    "code": "2-20-11-008",
+    "name": "YELWA PRI. SCH. II",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-009",
+    "code": "2-20-11-009",
+    "name": "YELWA PRI. SCH. III",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-010",
+    "code": "2-20-11-010",
+    "name": "YELWA PRI. SCH IV",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-011",
+    "code": "2-20-11-011",
+    "name": "YELWA PRI. SCH. V",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-012",
+    "code": "2-20-11-012",
+    "name": "YELWA PRI. SCH. VI",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-013",
+    "code": "2-20-11-013",
+    "name": "KOFAR M. ABUBAKAR JIMETA STREET II",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-014",
+    "code": "2-20-11-014",
+    "name": "22, JIMETA STREET",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-015",
+    "code": "2-20-11-015",
+    "name": "NO. 43 AJIYA STREET NEAR PUBLIC BORE HOLE",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-016",
+    "code": "2-20-11-016",
+    "name": "TARABA RD JIMETA",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-017",
+    "code": "2-20-11-017",
+    "name": "YOLA NORTH LOCAL GOVT SECRE.",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-018",
+    "code": "2-20-11-018",
+    "name": "YELWA PRI. SCHOOL VII",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-019",
+    "code": "2-20-11-019",
+    "name": "YELWA PRIMARY SCHOOL VIII",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-020",
+    "code": "2-20-11-020",
+    "name": "YELWA PRIMARY SCHOOL IX",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-021",
+    "code": "2-20-11-021",
+    "name": "YELWA PRIMARY SCH. X",
+    "wardId": "yola-north__ward-11"
+  },
+  {
+    "id": "2-20-11-022",
+    "code": "2-20-11-022",
+    "name": "YELWA PRIMARY SCHOOL XI",
+    "wardId": "yola-north__ward-11"
+  }
+]

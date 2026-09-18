@@ -1,0 +1,142 @@
+[
+  {
+    "id": "port-harcourt__ward-01",
+    "name": "OROMINEKE/EZIMGBU WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-01",
+    "puCount": 50
+  },
+  {
+    "id": "port-harcourt__ward-02",
+    "name": "OROGBUM WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-02",
+    "puCount": 40
+  },
+  {
+    "id": "port-harcourt__ward-03",
+    "name": "OROABALI WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-03",
+    "puCount": 42
+  },
+  {
+    "id": "port-harcourt__ward-04",
+    "name": "OGBUNABALI WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-04",
+    "puCount": 51
+  },
+  {
+    "id": "port-harcourt__ward-05",
+    "name": "PORT HARCOURT TOWNSHIP WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-05",
+    "puCount": 98
+  },
+  {
+    "id": "port-harcourt__ward-06",
+    "name": "PORT HARCOURT TOWNSHIP VI WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-06",
+    "puCount": 57
+  },
+  {
+    "id": "port-harcourt__ward-07",
+    "name": "PORT HARCOURT VII WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-07",
+    "puCount": 75
+  },
+  {
+    "id": "port-harcourt__ward-08",
+    "name": "OCHIRI/RUMUKALAGBOR WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-08",
+    "puCount": 26
+  },
+  {
+    "id": "port-harcourt__ward-09",
+    "name": "OROWORUKWO WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-09",
+    "puCount": 29
+  },
+  {
+    "id": "port-harcourt__ward-10",
+    "name": "NKPOLU OROWORUKWO WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-10",
+    "puCount": 76
+  },
+  {
+    "id": "port-harcourt__ward-11",
+    "name": "RUMUWOJI (ONE) WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-11",
+    "puCount": 33
+  },
+  {
+    "id": "port-harcourt__ward-12",
+    "name": "RUMUWOJI (TWO) WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-12",
+    "puCount": 12
+  },
+  {
+    "id": "port-harcourt__ward-13",
+    "name": "RUMUWOJI (THREE) WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-13",
+    "puCount": 24
+  },
+  {
+    "id": "port-harcourt__ward-14",
+    "name": "MGBUNDUKWU (ONE) WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-14",
+    "puCount": 18
+  },
+  {
+    "id": "port-harcourt__ward-15",
+    "name": "MGBUNDUKWU (TWO) WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-15",
+    "puCount": 22
+  },
+  {
+    "id": "port-harcourt__ward-16",
+    "name": "RUMUOBIEKWE WARD WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-16",
+    "puCount": 23
+  },
+  {
+    "id": "port-harcourt__ward-17",
+    "name": "DIOBU WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-17",
+    "puCount": 27
+  },
+  {
+    "id": "port-harcourt__ward-18",
+    "name": "NKPOLU OROWORUKWO TWO WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-18",
+    "puCount": 44
+  },
+  {
+    "id": "port-harcourt__ward-19",
+    "name": "ELEKAHIA WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-19",
+    "puCount": 81
+  },
+  {
+    "id": "port-harcourt__ward-20",
+    "name": "ABULOMA/AMADI-AMA WARD",
+    "lgaId": "rivers__port-harcourt",
+    "code": "33-22-20",
+    "puCount": 133
+  }
+]
